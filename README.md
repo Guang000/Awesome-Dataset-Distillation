@@ -7,7 +7,7 @@ Awesome Dataset Distillation/Condensation Papers
 
 # Vision
 + [🔥Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [Project Page](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation)
-+ [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS2020 Workshop)
++ [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation)
 + [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN2021) [:octocat:](https://github.com/ilia10000/dataset-distillation)
 + [🔥Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (Bo Zhao et al., ICLR2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
 + [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) (Timothy Nguyen et al., ICLR2021) [:octocat:](https://github.com/google/neural-tangents)
