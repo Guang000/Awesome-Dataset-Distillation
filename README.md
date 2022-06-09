@@ -23,11 +23,13 @@ Awesome Dataset Distillation/Condensation Papers
 
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
++ [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI2021)
++ [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022) 
+
+# Federated Learning
 + [Federated Learning via Synthetic Data](https://arxiv.org/abs/2008.04489) (Jack Goetz et al., 2020)
 + [Distilled One-Shot Federated Learning](https://arxiv.org/abs/2009.07999) (Yanlin Zhou et al., 2020)
-+ [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI2021)
 + [FedSynth: Gradient Compression via Synthetic Data in Federated Learning](https://arxiv.org/abs/2204.01273) (Shengyuan Hu, 2022)
-+ [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022) 
 
 # Continual Learning
 + [Reducing catastrophic forgetting with learning on synthetic data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR2020 Workshop)
