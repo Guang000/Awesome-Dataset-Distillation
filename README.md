@@ -1,11 +1,11 @@
 # Awesome-Dataset-Distillation
 Awesome Dataset Distillation/Condensation Papers
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-24-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-25-FF6F00" alt="PaperNum"/>
 
 > *:octocat: code links.
 
-# CV
+# Main
 + [🔥Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [Project Page](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation)
 + [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation)
 + [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN2021) [:octocat:](https://github.com/ilia10000/dataset-distillation)
@@ -22,9 +22,6 @@ Awesome Dataset Distillation/Condensation Papers
 + [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022) 
 + [Dataset Distillation using Neural Feature Regression](https://arxiv.org/abs/2206.00719) (Yongchao Zhou et al., 2022)
 
-# NLP
-+ [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021)
-
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
 + [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI2021 Student Abstract)
@@ -38,3 +35,9 @@ Awesome Dataset Distillation/Condensation Papers
 # Continual Learning
 + [Reducing catastrophic forgetting with learning on synthetic data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR2020 Workshop)
 + [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN2021)
+
+# Neural Architecture Search
++ [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
+
+# NLP
++ [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021)
