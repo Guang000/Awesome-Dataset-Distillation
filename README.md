@@ -1,6 +1,8 @@
 # Awesome-Dataset-Distillation
 Awesome Dataset Distillation/Condensation Papers
 
+Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
+
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-25-FF6F00" alt="PaperNum"/>
 
 > *:octocat: code links.
