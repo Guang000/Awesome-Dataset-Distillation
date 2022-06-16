@@ -3,7 +3,7 @@ Awesome Dataset Distillation/Condensation Papers
 
 Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-26-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-27-FF6F00" alt="PaperNum"/>
 
 > *:octocat: code links.
 
@@ -41,6 +41,9 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 
 # Neural Architecture Search
 + [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
+
+# GNN
++ [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR2022) [:octocat:](https://github.com/chandlerbang/gcond)
 
 # NLP
 + [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021)
