@@ -3,7 +3,7 @@ Awesome Dataset Distillation/Condensation Papers
 
 Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-27-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-28-FF6F00" alt="PaperNum"/>
 
 > *:octocat: code links.
 
@@ -37,7 +37,9 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 
 # Continual Learning
 + [Reducing catastrophic forgetting with learning on synthetic data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR2020 Workshop)
-+ [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN2021)
++ [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN2021) [:octocat:](https://github.com/FelixWiewel/CCMCL)
++ [Distilled Replay: Overcoming Forgetting through Synthetic Samples](https://arxiv.org/abs/2103.15851) (Andrea Rosasco, 2021) [:octocat:](https://github.com/andrearosasco/DistilledReplay)
+ 
 
 # Neural Architecture Search
 + [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
