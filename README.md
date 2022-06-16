@@ -33,7 +33,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 # Federated Learning
 + [Federated Learning via Synthetic Data](https://arxiv.org/abs/2008.04489) (Jack Goetz et al., 2020)
 + [Distilled One-Shot Federated Learning](https://arxiv.org/abs/2009.07999) (Yanlin Zhou et al., 2020)
-+ [FedSynth: Gradient Compression via Synthetic Data in Federated Learning](https://arxiv.org/abs/2204.01273) (Shengyuan Hu, 2022)
++ [FedSynth: Gradient Compression via Synthetic Data in Federated Learning](https://arxiv.org/abs/2204.01273) (Shengyuan Hu et al., 2022)
 
 # Continual Learning
 + [Reducing catastrophic forgetting with learning on synthetic data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR2020 Workshop)
