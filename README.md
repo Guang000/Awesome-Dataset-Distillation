@@ -3,7 +3,7 @@ Awesome Dataset Distillation/Condensation Papers
 
 Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-28-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-30-FF6F00" alt="PaperNum"/>
 
 > *:octocat: code links.
 
@@ -39,6 +39,10 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [Reducing catastrophic forgetting with learning on synthetic data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR2020 Workshop)
 + [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN2021) [:octocat:](https://github.com/FelixWiewel/CCMCL)
 + [Distilled Replay: Overcoming Forgetting through Synthetic Samples](https://arxiv.org/abs/2103.15851) (Andrea Rosasco, 2021) [:octocat:](https://github.com/andrearosasco/DistilledReplay)
+
+# Model Compression
++ [Compressed gastric image generation based on soft-label dataset distillation for medical data sharing](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) (Guang Li et al., CMPB2022)
++ [Pseudo RAndom Networks for Compacting deep models](https://arxiv.org/abs/2206.08464) [:octocat:](https://github.com/UCDvision/PRANC)
 
 # Graph Neural Network
 + [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR2022) [:octocat:](https://github.com/chandlerbang/gcond)
