@@ -41,8 +41,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks](https://arxiv.org/abs/2206.02916) (Zhiwei Deng et al., 2022)
 
 # Model Compression
-+ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing]() (Guang Li et al., CMPB2022)
-+ [Pseudo RAndom Networks for Compacting Deep Models](https://arxiv.org/abs/2206.08464) [:octocat:](https://github.com/UCDvision/PRANC)
++ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022)
++ [PRANC: Pseudo RAndom Networks for Compacting deep models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., 2022) [:octocat:](https://github.com/UCDvision/PRANC)
 
 # Graph Neural Network
 + [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR2022) [:octocat:](https://github.com/chandlerbang/gcond)
