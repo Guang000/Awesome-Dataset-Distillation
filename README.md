@@ -5,7 +5,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-30-FF6F00" alt="PaperNum"/>
 
-> *:octocat: code links.
+> *:octocat: code links. 🔥: hot.
 
 # Main
 + [🔥Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [[Project Page]](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation)
