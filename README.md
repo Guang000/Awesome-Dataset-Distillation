@@ -51,5 +51,9 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 # Neural Architecture Search
 + [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
 
-# Fashion
+# Medical
++ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
++ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022)
+
+# Fashion, Art, and Design
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
