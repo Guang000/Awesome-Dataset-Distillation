@@ -27,7 +27,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
 + [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI2021 Student Abstract)
-+ [Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022, [Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail)) 
++ [🔥Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022, [Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail)) 
 
 # Federated Learning
 + [Federated Learning via Synthetic Data](https://arxiv.org/abs/2008.04489) (Jack Goetz et al., 2020)
