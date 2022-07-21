@@ -25,7 +25,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [Dataset Distillation using Neural Feature Regression](https://arxiv.org/abs/2206.00719) (Yongchao Zhou et al., 2022)
 
 # Privacy
-+ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
++ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
 + [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI2021 Student Abstract)
 + [🔥Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022, [Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail)) 
 
@@ -41,7 +41,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks](https://arxiv.org/abs/2206.02916) (Zhiwei Deng et al., 2022)
 
 # Model Compression
-+ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022)
++ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
 + [PRANC: Pseudo RAndom Networks for Compacting deep models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., 2022) [:octocat:](https://github.com/UCDvision/PRANC)
 
 # Graph Neural Network
@@ -52,8 +52,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
 
 # Medical
-+ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
-+ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022)
++ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
++ [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
 
 # Fashion, Art, and Design
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
