@@ -4,7 +4,7 @@ Awesome Dataset Distillation/Condensation Papers
 Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-30-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-31-FF6F00" alt="PaperNum"/>
 
 > :octocat: Code link. 🔥 Hot.
 
@@ -23,6 +23,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959) (Jang-Hyun Kim et al., ICML2022) [:octocat:](https://github.com/snu-mllab/efficient-dataset-condensation)
 + [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022) [:octocat:](https://github.com/vico-uoe/it-gan)
 + [Dataset Distillation using Neural Feature Regression](https://arxiv.org/abs/2206.00719) (Yongchao Zhou et al., 2022)
++ [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) (Justin Cui et al., 2022)
 
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
