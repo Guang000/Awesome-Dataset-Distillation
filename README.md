@@ -6,9 +6,23 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 *The project was completed by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-35-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-35-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow)  ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=blue&label=Fork)
 
 > :octocat: Code  🔥 Hot
+
+# Contents
+- [Main](#main)
+- [Privacy](#privacy)
+- [Federated Learning](#fed)
+- [Continual Learning](#continual)
+- [Model Compression](#model)
+- [Graph Neural Network](#gnn)
+- [Neural Architecture Search](#nas)
+- [Knowledge Distillation](#kd)
+- [Medical](#medical)
+- [Fashion, Art, and Design](#fashion)
+
+<a name="main" />
 
 # Main
 + [🔥Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [[Project Page]](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation)
@@ -154,6 +168,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 
+<a name="privacy" />
+
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
 ```
@@ -185,6 +201,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   year={2022}
 }
 ```
+
+<a name="fed" />
 
 # Federated Learning
 + [Federated Learning via Synthetic Data](https://arxiv.org/abs/2008.04489) (Jack Goetz et al., 2020)
@@ -223,6 +241,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   year={2022}
 }
 ```
+
+<a name="continual" />
 
 # Continual Learning
 + [Reducing Catastrophic Forgetting with Learning on Synthetic Data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR2020 Workshop)
@@ -273,6 +293,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 
+<a name="model" />
+
 # Model Compression
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB2022)
 ```
@@ -292,6 +314,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   year={2022}
 }
 ```
+
+<a name="gnn" />
 
 # Graph Neural Network
 + [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR2022) [:octocat:](https://github.com/chandlerbang/gcond)
@@ -322,6 +346,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 
+<a name="nas" />
+
 # Neural Architecture Search
 + [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
 ```
@@ -334,6 +360,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 
+<a name="kd" />
+
 # Knowledge Distillation
 + [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409) (Chenxin Li et al., ECCV2022) [:octocat:](https://github.com/dzy3/KCD)
 ```
@@ -344,6 +372,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   year={2022}
 }
 ```
+
+<a name="medical" />
 
 # Medical
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
@@ -365,6 +395,8 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   year={2022}
 }
 ```
+
+<a name="fashion" />
 
 # Fashion, Art, and Design
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
