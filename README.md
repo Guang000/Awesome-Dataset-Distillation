@@ -20,7 +20,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 - [Neural Architecture Search](#nas)
 - [Knowledge Distillation](#kd)
 - [Medical](#medical)
-- [Fashion, Art, and Design](#fashion)
+- [Fashion](#fashion)
 
 <a name="main" />
 
@@ -398,7 +398,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 
 <a name="fashion" />
 
-# Fashion, Art, and Design
+# Fashion
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
 ```
 @inproceedings{cazenavette2022dataset,
