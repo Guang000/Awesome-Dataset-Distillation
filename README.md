@@ -99,7 +99,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 + [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR2022)  [:octocat:](https://github.com/kaiwang960112/cafe)
 ```
 @inproceedings{wang2022cafe,
-  title={Cafe: Learning to condense dataset by aligning features},
+  title={CAFE: Learning to Condense Dataset by Aligning Features},
   author={Wang, Kai and Zhao, Bo and Peng, Xiangyu and Zhu, Zheng and Yang, Shuo and Wang, Shuo and Huang, Guan and Bilen, Hakan and Wang, Xinchao and You, Yang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages={12196--12205},
@@ -108,7 +108,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 ```
 + [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML2022) [:octocat:](https://github.com/saehyung-lee/dcc)
 ```
-@inproceedings{Lee2022dataset,
+@inproceedings{lee2022dataset,
   title={Dataset Condensation with Contrastive Signals},
   author={Lee, Saehyung and Chun, Sanghyuk and Jung, Sangwon and Yun, Sangdoo and Yoon, Sungroh},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
@@ -118,7 +118,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 ```
 + [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959) (Jang-Hyun Kim et al., ICML2022) [:octocat:](https://github.com/snu-mllab/efficient-dataset-condensation)
 ```
-@inproceedings{Kim2022dataset,
+@inproceedings{kim2022dataset,
   title={Dataset Condensation via Efficient Synthetic-Data Parameterization},
   author={Kim, Jang-Hyun and Kim, Jinuk and Oh, Seong Joon and Yun, Sangdoo and Song, Hwanjun and Jeong, Joonhyun and Ha, Jung-Woo and Song, Hyun Oh},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
