@@ -88,11 +88,11 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 ```
 + [🔥Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR2022) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
 ```
-@inproceedings{
-  cazenavette2022distillation,
-  title={Dataset Distillation by Matching Training Trajectories},
-  author={George Cazenavette and Tongzhou Wang and Antonio Torralba and Alexei A. Efros and Jun-Yan Zhu},
+@inproceedings{cazenavette2022dataset,
+  title={Dataset distillation by matching training trajectories},
+  author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A and Zhu, Jun-Yan},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={4750--4759},
   year={2022}
 }
 ```
@@ -369,10 +369,9 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 # Fashion, Art, and Design
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
 ```
-@inproceedings{
-  cazenavette2022wearable,
-  title={Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation},
-  author={George Cazenavette and Tongzhou Wang and Antonio Torralba and Alexei A. Efros and Jun-Yan Zhu},
+@inproceedings{cazenavette2022dataset,
+  title={Dataset distillation by matching training trajectories},
+  author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A and Zhu, Jun-Yan},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
   year={2022}
 }
