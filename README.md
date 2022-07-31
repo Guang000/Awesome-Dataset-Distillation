@@ -21,19 +21,130 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 + [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation)
+```
+@inproceedings{bohdal2020flexible,
+  title={Flexible Dataset Distillation: Learn Labels Instead of Images},
+  author={Bohdal, Ondrej and Yang, Yongxin and Hospedales, Timothy},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
+  year={2020}
+}
+```
 + [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN2021) [:octocat:](https://github.com/ilia10000/dataset-distillation)
+```
+@inproceedings{sucholutsky2021soft,
+  title={Soft-Label Dataset Distillation and Text Dataset Distillation},
+  author={Sucholutsky, Ilia and Schonlau, Matthias},
+  booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2021}
+}
+```
 + [🔥Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (Bo Zhao et al., ICLR2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
+```
+@inproceedings{zhao2021dataset,
+  title={Dataset Condensation with Gradient Matching},
+  author={Zhao, Bo and Mopuri, Konda Reddy and Bilen, Hakan},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2021}
+}
+```
 + [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) (Timothy Nguyen et al., ICLR2021) [:octocat:](https://github.com/google/neural-tangents)
+```
+@inproceedings{nguyen2021dataset,
+  title={Dataset Meta-Learning from Kernel Ridge-Regression},
+  author={Nguyen, Timothy and Chen, Zhourong and Lee, Jaehoon},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2021}
+}
+```
 + [Dataset Condensation with Differentiable Siamese Augmentation](https://arxiv.org/abs/2102.08259) (Bo Zhao et al., ICML2021)  [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
+```
+@inproceedings{zhao2021dataset,
+  title={Dataset condensation with Differentiable Siamese Augmentation},
+  author={Zhao, Bo and Bilen, Hakan},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={12674--12685},
+  year={2021}
+}
+```
 + [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) (Timothy Nguyen et al., NeurIPS2021) [:octocat:](https://github.com/google/neural-tangents)
+```
+@inproceedings{nguyen2021dataset,
+  title={Dataset Distillation with Infinitely Wide Convolutional Networks},
+  author={Nguyen, Timothy and Novak, Roman and Xiao, Lechao and Lee, Jaehoon},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  pages={5186--5198},
+  year={2021}
+}
+```
 + [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., 2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
+```
+@article{zhao2021dataset,
+  title={Dataset Condensation with Distribution Matching},
+  author={Zhao, Bo and Bilen, Hakan},
+  journal={arXiv preprint arXiv:2110.04181},
+  year={2021}
+}
+```
 + [🔥Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR2022) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
+```
+@inproceedings{
+  cazenavette2022distillation,
+  title={Dataset Distillation by Matching Training Trajectories},
+  author={George Cazenavette and Tongzhou Wang and Antonio Torralba and Alexei A. Efros and Jun-Yan Zhu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
+```
 + [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR2022)  [:octocat:](https://github.com/kaiwang960112/cafe)
+@inproceedings{wang2022cafe,
+  title={Cafe: Learning to condense dataset by aligning features},
+  author={Wang, Kai and Zhao, Bo and Peng, Xiangyu and Zhu, Zheng and Yang, Shuo and Wang, Shuo and Huang, Guan and Bilen, Hakan and Wang, Xinchao and You, Yang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={12196--12205},
+  year={2022}
+}
 + [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML2022) [:octocat:](https://github.com/saehyung-lee/dcc)
+```
+@inproceedings{Lee2022dataset,
+  title={Dataset Condensation with Contrastive Signals},
+  author={Lee, Saehyung and Chun, Sanghyuk and Jung, Sangwon and Yun, Sangdoo and Yoon, Sungroh},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={12352--12364},
+  year={2022}
+}
+```
 + [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959) (Jang-Hyun Kim et al., ICML2022) [:octocat:](https://github.com/snu-mllab/efficient-dataset-condensation)
+```
+@inproceedings{Kim2022dataset,
+  title={Dataset Condensation via Efficient Synthetic-Data Parameterization},
+  author={Kim, Jang-Hyun and Kim, Jinuk and Oh, Seong Joon and Yun, Sangdoo and Song, Hwanjun and Jeong, Joonhyun and Ha, Jung-Woo and Song, Hyun Oh},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={11102--11118},
+  year={2022}
+}
+```
 + [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022) [:octocat:](https://github.com/vico-uoe/it-gan)
+@article{zhao2022synthesizing,
+  title={Synthesizing Informative Training Samples with GAN},
+  author={Zhao, Bo and Bilen, Hakan},
+  journal={arXiv preprint arXiv:2204.07513},
+  year={2022}
+}
 + [Dataset Distillation using Neural Feature Regression](https://arxiv.org/abs/2206.00719) (Yongchao Zhou et al., 2022)
+@article{zhou2022dataset,
+  title={Dataset Distillation using Neural Feature Regression},
+  author={Zhou, Yongchao and Nezhadarya, Ehsan and Ba, Jimmy},
+  journal={arXiv preprint arXiv:2206.00719},
+  year={2022}
+}
 + [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) (Justin Cui et al., 2022) [:octocat:](https://github.com/justincui03/dc_benchmark)
+@article{cui2022dc,
+  title={DC-BENCH: Dataset Condensation Benchmark},
+  author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
+  journal={arXiv preprint arXiv:2207.09639},
+  year={2022}
+}
 
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
