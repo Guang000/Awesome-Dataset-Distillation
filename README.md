@@ -5,7 +5,7 @@
 
 Awesome Dataset Distillation/Condensation Papers
 
-Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
+Dataset distillation/condensation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
 **The project is managed by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
