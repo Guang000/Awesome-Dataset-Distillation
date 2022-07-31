@@ -3,6 +3,8 @@ Awesome Dataset Distillation/Condensation Papers
 
 Dataset distillation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
+*The project was completed by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-35-FF6F00" alt="PaperNum"/>
 
