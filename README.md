@@ -328,7 +328,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   year={2022}
 }
 ```
-+ [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746) (Wei Jin et al., KDD2022) [:octocat:](https://github.com/chandlerbang/gcond)
++ [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746) (Wei Jin et al., KDD2022) [:octocat:](https://github.com/ChandlerBang/GCond/tree/main/KDD22_DosCond)
 ```
 @inproceedings{jin2022condensing,
   title={Condensing Graphs via One-Step Gradient Matching},
