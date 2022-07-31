@@ -97,6 +97,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 + [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR2022)  [:octocat:](https://github.com/kaiwang960112/cafe)
+```
 @inproceedings{wang2022cafe,
   title={Cafe: Learning to condense dataset by aligning features},
   author={Wang, Kai and Zhao, Bo and Peng, Xiangyu and Zhu, Zheng and Yang, Shuo and Wang, Shuo and Huang, Guan and Bilen, Hakan and Wang, Xinchao and You, Yang},
@@ -104,6 +105,7 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
   pages={12196--12205},
   year={2022}
 }
+```
 + [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML2022) [:octocat:](https://github.com/saehyung-lee/dcc)
 ```
 @inproceedings{Lee2022dataset,
@@ -125,26 +127,32 @@ Dataset distillation is the task of synthesizing a small dataset such that a mod
 }
 ```
 + [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022) [:octocat:](https://github.com/vico-uoe/it-gan)
+```
 @article{zhao2022synthesizing,
   title={Synthesizing Informative Training Samples with GAN},
   author={Zhao, Bo and Bilen, Hakan},
   journal={arXiv preprint arXiv:2204.07513},
   year={2022}
 }
+```
 + [Dataset Distillation using Neural Feature Regression](https://arxiv.org/abs/2206.00719) (Yongchao Zhou et al., 2022)
+```
 @article{zhou2022dataset,
   title={Dataset Distillation using Neural Feature Regression},
   author={Zhou, Yongchao and Nezhadarya, Ehsan and Ba, Jimmy},
   journal={arXiv preprint arXiv:2206.00719},
   year={2022}
 }
+```
 + [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) (Justin Cui et al., 2022) [:octocat:](https://github.com/justincui03/dc_benchmark)
+```
 @article{cui2022dc,
   title={DC-BENCH: Dataset Condensation Benchmark},
   author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
   journal={arXiv preprint arXiv:2207.09639},
   year={2022}
 }
+```
 
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
