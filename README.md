@@ -7,9 +7,9 @@ Awesome Dataset Distillation/Condensation Papers
 
 Dataset distillation/condensation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
 
-**The project is managed by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).**
+<p align="center"> <img width = "500" height = "500" src="problem.png" /> <p align="center">Conceptual Diagram of Dataset Distillation</p>
 
-:octocat: Code  🔥 Hot
+**The project is contributed and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
 # Contents
 - [Main](#main)
@@ -23,6 +23,8 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 - [Medical](#medical)
 - [Fashion](#fashion)
 - [Reference](#ref)
+
+:octocat: Code  🔥 Hot
 
 <a name="main" />
 
