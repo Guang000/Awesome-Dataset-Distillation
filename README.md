@@ -9,7 +9,7 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 
 <p align="center"> <img width = "500" height = "500" src="problem.png" /> <p align="center">Conceptual Diagram of Dataset Distillation</p>
 
-**The project is contributed and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).**
+**This project is contributed and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
 # Contents
 - [Main](#main)
