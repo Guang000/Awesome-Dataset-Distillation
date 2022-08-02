@@ -105,4 +105,4 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 
 # Reference
 
-**If you find some papers useful for your research, please cite these papers. [[Reference]](https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/REFERENCE.md)**
+**If you find some papers useful for your research, please cite them. [[Reference]](https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/REFERENCE.md)**
