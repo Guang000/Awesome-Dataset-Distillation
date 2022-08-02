@@ -13,7 +13,7 @@
 <a name="main" />
 
 # Main
-+ [🔥Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [[Project Page]](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation)
++ [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018)
 ```
 @article{wang2018dataset,
   title={Dataset Distillation},
@@ -22,7 +22,7 @@
   year={2018}
 }
 ```
-+ [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation)
++ [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS2020 Workshop)
 ```
 @inproceedings{bohdal2020flexible,
   title={Flexible Dataset Distillation: Learn Labels Instead of Images},
@@ -31,7 +31,7 @@
   year={2020}
 }
 ```
-+ [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN2021) [:octocat:](https://github.com/ilia10000/dataset-distillation)
++ [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN2021)
 ```
 @inproceedings{sucholutsky2021soft,
   title={Soft-Label Dataset Distillation and Text Dataset Distillation},
@@ -41,7 +41,7 @@
   year={2021}
 }
 ```
-+ [🔥Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (Bo Zhao et al., ICLR2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
++ [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (Bo Zhao et al., ICLR2021)
 ```
 @inproceedings{zhao2021dataset,
   title={Dataset Condensation with Gradient Matching},
@@ -50,7 +50,7 @@
   year={2021}
 }
 ```
-+ [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) (Timothy Nguyen et al., ICLR2021) [:octocat:](https://github.com/google/neural-tangents)
++ [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) (Timothy Nguyen et al., ICLR2021)
 ```
 @inproceedings{nguyen2021dataset,
   title={Dataset Meta-Learning from Kernel Ridge-Regression},
@@ -59,7 +59,7 @@
   year={2021}
 }
 ```
-+ [Dataset Condensation with Differentiable Siamese Augmentation](https://arxiv.org/abs/2102.08259) (Bo Zhao et al., ICML2021)  [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
++ [Dataset Condensation with Differentiable Siamese Augmentation](https://arxiv.org/abs/2102.08259) (Bo Zhao et al., ICML2021)
 ```
 @inproceedings{zhao2021dataset,
   title={Dataset condensation with Differentiable Siamese Augmentation},
@@ -69,7 +69,7 @@
   year={2021}
 }
 ```
-+ [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) (Timothy Nguyen et al., NeurIPS2021) [:octocat:](https://github.com/google/neural-tangents)
++ [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) (Timothy Nguyen et al., NeurIPS2021)
 ```
 @inproceedings{nguyen2021dataset,
   title={Dataset Distillation with Infinitely Wide Convolutional Networks},
@@ -79,7 +79,7 @@
   year={2021}
 }
 ```
-+ [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., 2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
++ [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., 2021)
 ```
 @article{zhao2021dataset,
   title={Dataset Condensation with Distribution Matching},
@@ -88,7 +88,7 @@
   year={2021}
 }
 ```
-+ [🔥Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR2022) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
++ [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR2022)
 ```
 @inproceedings{cazenavette2022dataset,
   title={Dataset distillation by matching training trajectories},
@@ -98,7 +98,7 @@
   year={2022}
 }
 ```
-+ [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR2022)  [:octocat:](https://github.com/kaiwang960112/cafe)
++ [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR2022)
 ```
 @inproceedings{wang2022cafe,
   title={CAFE: Learning to Condense Dataset by Aligning Features},
@@ -108,7 +108,7 @@
   year={2022}
 }
 ```
-+ [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML2022) [:octocat:](https://github.com/saehyung-lee/dcc)
++ [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML2022)
 ```
 @inproceedings{lee2022dataset,
   title={Dataset Condensation with Contrastive Signals},
@@ -118,7 +118,7 @@
   year={2022}
 }
 ```
-+ [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959) (Jang-Hyun Kim et al., ICML2022) [:octocat:](https://github.com/snu-mllab/efficient-dataset-condensation)
++ [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959) (Jang-Hyun Kim et al., ICML2022)
 ```
 @inproceedings{kim2022dataset,
   title={Dataset Condensation via Efficient Synthetic-Data Parameterization},
@@ -128,7 +128,7 @@
   year={2022}
 }
 ```
-+ [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022) [:octocat:](https://github.com/vico-uoe/it-gan)
++ [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022)
 ```
 @article{zhao2022synthesizing,
   title={Synthesizing Informative Training Samples with GAN},
@@ -146,7 +146,7 @@
   year={2022}
 }
 ```
-+ [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) (Justin Cui et al., 2022) [:octocat:](https://github.com/justincui03/dc_benchmark)
++ [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) (Justin Cui et al., 2022)
 ```
 @article{cui2022dc,
   title={DC-BENCH: Dataset Condensation Benchmark},
@@ -159,7 +159,7 @@
 <a name="privacy" />
 
 # Privacy
-+ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
++ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
 ```
 @inproceedings{li2020soft,
   title={Soft-Label Anonymous Gastric X-Ray Image Distillation},
@@ -179,7 +179,7 @@
   year={2021}
 }
 ```
-+ [🔥Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022, [Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail)) 
++ [Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022)
 ```
 @inproceedings{dong2022privacy,
   title={Privacy for Free: How does Dataset Condensation Help Privacy?},
@@ -242,7 +242,7 @@
   year={2020}
 }
 ```
-+ [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN2021) [:octocat:](https://github.com/FelixWiewel/CCMCL)
++ [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN2021)
 ```
 @inproceedings{Wiewel2021soft,
   title={Condensed Composite Memory Continual Learning},
@@ -252,7 +252,7 @@
   year={2021}
 }
 ```
-+ [Distilled Replay: Overcoming Forgetting through Synthetic Samples](https://arxiv.org/abs/2103.15851) (Andrea Rosasco, 2021) [:octocat:](https://github.com/andrearosasco/DistilledReplay)
++ [Distilled Replay: Overcoming Forgetting through Synthetic Samples](https://arxiv.org/abs/2103.15851) (Andrea Rosasco, 2021) 
 ```
 @article{rosasco2021distilled,
   title={Distilled Replay: Overcoming Forgetting through Synthetic Samples},
@@ -293,7 +293,7 @@
   year={2022}
 }
 ```
-+ [PRANC: Pseudo RAndom Networks for Compacting deep models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., 2022) [:octocat:](https://github.com/UCDvision/PRANC)
++ [PRANC: Pseudo RAndom Networks for Compacting deep models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., 2022)
 ```
 @article{nooralinejad2022pranc,
   title={PRANC: Pseudo RAndom Networks for Compacting deep models},
@@ -306,7 +306,7 @@
 <a name="gnn" />
 
 # Graph Neural Network
-+ [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR2022) [:octocat:](https://github.com/chandlerbang/gcond)
++ [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR2022)
 ```
 @inproceedings{jin2022graph,
   title={Graph condensation for graph neural networks},
@@ -315,7 +315,7 @@
   year={2022}
 }
 ```
-+ [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746) (Wei Jin et al., KDD2022) [:octocat:](https://github.com/ChandlerBang/GCond/tree/main/KDD22_DosCond)
++ [Condensing Graphs via One-Step Gradient Matching](https://arxiv.org/abs/2206.07746) (Wei Jin et al., KDD2022)
 ```
 @inproceedings{jin2022condensing,
   title={Condensing Graphs via One-Step Gradient Matching},
@@ -337,7 +337,7 @@
 <a name="nas" />
 
 # Neural Architecture Search
-+ [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020) [:octocat:](https://github.com/uber-research/GTN)
++ [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://arxiv.org/abs/1912.07768) (Felipe Petroski Such et al., ICML2020)
 ```
 @inproceedings{such2020generative,
   title={Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data},
@@ -351,7 +351,7 @@
 <a name="kd" />
 
 # Knowledge Distillation
-+ [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409) (Chenxin Li et al., ECCV2022) [:octocat:](https://github.com/dzy3/KCD)
++ [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409) (Chenxin Li et al., ECCV2022)
 ```
 @inproceedings{Li2022knowledge,
   title={Knowledge Condensation Distillation},
@@ -364,7 +364,7 @@
 <a name="medical" />
 
 # Medical
-+ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
++ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020)
 ```
 @inproceedings{li2020soft,
   title={Soft-Label Anonymous Gastric X-Ray Image Distillation},
@@ -387,7 +387,7 @@
 <a name="fashion" />
 
 # Fashion
-+ [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) [[Project Page]](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
++ [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop)
 ```
 @inproceedings{cazenavette2022dataset,
   title={Dataset distillation by matching training trajectories},
