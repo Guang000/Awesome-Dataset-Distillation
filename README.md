@@ -22,6 +22,7 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 - [Knowledge Distillation](#kd)
 - [Medical](#medical)
 - [Fashion](#fashion)
+- [Reference](#ref)
 
 <a name="main" />
 
@@ -99,6 +100,8 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 
 # Fashion
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR2022 Workshop) **[[Project Page]](https://georgecazenavette.github.io/mtt-distillation/)** [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
+
+<a name="ref" />
 
 # Reference
 
