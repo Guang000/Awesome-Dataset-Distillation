@@ -1,16 +1,3 @@
-# Awesome-Dataset-Distillation
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-35-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Guang000/Awesome-Dataset-Distillation) 
-
-Awesome Dataset Distillation/Condensation Papers
-
-Dataset distillation/condensation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
-
-**The project is managed by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) and [Tongzhou Wang](https://www.tongzhouwang.info/).**
-
-:octocat: Code  🔥 Hot
-
 # Contents
 - [Main](#main)
 - [Privacy](#privacy)
