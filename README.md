@@ -5,7 +5,9 @@
 
 Awesome Dataset Distillation/Condensation Papers
 
-Dataset distillation/condensation is the task of synthesizing a small dataset such that a model trained on the synthetic set will match the test accuracy of the model trained on the full dataset.
+**Dataset distillation** is the task of synethesizing a small dataset such that models trained on it achieve high performance on the original large dataset. A dataset distillation algorithm takes as **input** a large real dataset to be distilled (training set), and **outputs** a small synthetic distilled dataset, which is evaluated by testing models trained on this distilled dataset on a separate real dataset (validation/test set). A good small distilled dataset is not only useful in dataset understanding, but has various applications (e.g., continual learning and neural architecture search). This task was first introduced in the paper **Dataset Distillation [[Tongzhou Wang et al., '18]](https://arxiv.org/abs/1811.10959)**, which is also presented in details on the project **[[Dataset Distillation]](https://www.tongzhouwang.info/dataset_distillation/)**.
+
+In recent years (2019-now), dataset distillation has gained increasing attention, and more researches are being published each year. Some works refer to the task as **Dataset Condensation**, likely named after a 2020 follow-up paper **[[Bo Zhao et al., '20]](https://arxiv.org/abs/2006.05929)** to Dataset Distillation, but generally share the same setting and goal as dataset distillation. Nonetheless, all these wonderful researches work towards improving dataset distillation and exploring its various applications.
 
 **This project is curated and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/), [Bo Zhao](https://bozhaonanjing.wixsite.com/mysite), and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
