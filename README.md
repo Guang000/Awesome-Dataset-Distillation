@@ -35,8 +35,8 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 + [Dataset Condensation with Differentiable Siamese Augmentation](https://arxiv.org/abs/2102.08259) (Bo Zhao et al., ICML2021)  [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
 + [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) (Timothy Nguyen et al., NeurIPS2021) [:octocat:](https://github.com/google/neural-tangents)
 + [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., 2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation)
-+ [🔥Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR2022) **[[Project Page]](https://georgecazenavette.github.io/mtt-distillation/)** [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
-+ [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR2022)  [:octocat:](https://github.com/kaiwang960112/cafe)
++ [🔥Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette, Tongzhou Wang et al., CVPR2022) **[[Project Page]](https://georgecazenavette.github.io/mtt-distillation/)** [:octocat:](https://github.com/georgecazenavette/mtt-distillation)
++ [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang, Bo Zhao et al., CVPR2022)  [:octocat:](https://github.com/kaiwang960112/cafe)
 + [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML2022) [:octocat:](https://github.com/saehyung-lee/dcc)
 + [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959) (Jang-Hyun Kim et al., ICML2022) [:octocat:](https://github.com/snu-mllab/efficient-dataset-condensation)
 + [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., 2022) [:octocat:](https://github.com/vico-uoe/it-gan)
@@ -48,7 +48,7 @@ Dataset distillation/condensation is the task of synthesizing a small dataset su
 # Privacy
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation)
 + [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI2021 Student Abstract)
-+ [🔥Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML2022, **[Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail))** 
++ [🔥Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong, Bo Zhao et al., ICML2022, **[Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail))** 
 
 <a name="fed" />
 
