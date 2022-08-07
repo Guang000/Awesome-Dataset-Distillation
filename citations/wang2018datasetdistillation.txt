@@ -1,6 +1,6 @@
 @article{wang2018datasetdistillation,
   title={Dataset Distillation},
-  author={Wang, Tongzhou and Zhu, Jun-Yan and Torralba, Antonio and Efros, Alexei A},
+  author={Wang, Tongzhou and Zhu, Jun-Yan and Torralba, Antonio and Efros, Alexei A.},
   journal={arXiv preprint arXiv:1811.10959},
   year={2018}
 }
