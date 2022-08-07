@@ -1,0 +1,7 @@
+@inproceedings{kim2022dataset,
+  title={Dataset Condensation via Efficient Synthetic-Data Parameterization},
+  author={Kim, Jang-Hyun and Kim, Jinuk and Oh, Seong Joon and Yun, Sangdoo and Song, Hwanjun and Jeong, Joonhyun and Ha, Jung-Woo and Song, Hyun Oh},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={11102--11118},
+  year={2022}
+}

@@ -1,0 +1,7 @@
+@inproceedings{sucholutsky2021secdd,
+  title={SecDD: Efficient and Secure Method for Remotely Training Neural Networks},
+  author={Sucholutsky, Ilia and Schonlau, Matthias},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  pages={15897--15898},
+  year={2021}
+}

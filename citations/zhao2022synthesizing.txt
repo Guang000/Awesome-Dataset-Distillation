@@ -1,0 +1,6 @@
+@article{zhao2022synthesizing,
+  title={Synthesizing Informative Training Samples with GAN},
+  author={Zhao, Bo and Bilen, Hakan},
+  journal={arXiv preprint arXiv:2204.07513},
+  year={2022}
+}

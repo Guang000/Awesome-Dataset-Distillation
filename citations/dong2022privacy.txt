@@ -1,0 +1,7 @@
+@inproceedings{dong2022privacy,
+  title={Privacy for Free: How does Dataset Condensation Help Privacy?},
+  author={Dong, Tian and Zhao, Bo and Liu, Lingjuan},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={5378--5396},
+  year={2022}
+}

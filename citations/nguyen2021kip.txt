@@ -1,0 +1,6 @@
+@inproceedings{nguyen2021kip,
+  title={Dataset Meta-Learning from Kernel Ridge-Regression},
+  author={Nguyen, Timothy and Chen, Zhourong and Lee, Jaehoon},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2021}
+}

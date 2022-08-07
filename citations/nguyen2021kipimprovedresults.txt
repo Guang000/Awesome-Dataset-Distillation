@@ -1,0 +1,7 @@
+@inproceedings{nguyen2021kipimprovedresults,
+  title={Dataset Distillation with Infinitely Wide Convolutional Networks},
+  author={Nguyen, Timothy and Novak, Roman and Xiao, Lechao and Lee, Jaehoon},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  pages={5186--5198},
+  year={2021}
+}

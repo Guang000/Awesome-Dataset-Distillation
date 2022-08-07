@@ -1,0 +1,7 @@
+@inproceedings{wang2022cafe,
+  title={{CAFE}: Learning to Condense Dataset by Aligning Features},
+  author={Wang, Kai and Zhao, Bo and Peng, Xiangyu and Zhu, Zheng and Yang, Shuo and Wang, Shuo and Huang, Guan and Bilen, Hakan and Wang, Xinchao and You, Yang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={12196--12205},
+  year={2022}
+}

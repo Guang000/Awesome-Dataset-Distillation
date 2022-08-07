@@ -1,0 +1,6 @@
+@inproceedings{bohdal2020flexible,
+  title={Flexible Dataset Distillation: Learn Labels Instead of Images},
+  author={Bohdal, Ondrej and Yang, Yongxin and Hospedales, Timothy},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
+  year={2020}
+}

@@ -1,0 +1,6 @@
+@inproceedings{masarczyk2020reducing,
+  title={Reducing Catastrophic Forgetting with Learning on Synthetic Data},
+  author={Masarczyk, Wojciech and Tautkute, Ivona},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
+  year={2020}
+}
