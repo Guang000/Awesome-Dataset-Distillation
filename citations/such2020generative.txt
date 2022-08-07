@@ -1,0 +1,7 @@
+@inproceedings{such2020generative,
+  title={Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data},
+  author={Such, Felipe Petroski and Rawal, Aditya and Lehman, Joel and Stanley, Kenneth and Clune, Jeffrey},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={9206--9216},
+  year={2020}
+}

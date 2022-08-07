@@ -1,0 +1,7 @@
+@inproceedings{zhao2021differentiatble,
+  title={Dataset condensation with Differentiable Siamese Augmentation},
+  author={Zhao, Bo and Bilen, Hakan},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={12674--12685},
+  year={2021}
+}

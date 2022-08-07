@@ -1,0 +1,6 @@
+@article{liu2022graph,
+  title={Graph Condensation via Receptive Field Distribution Matching},
+  author={Liu, Mengyang and Li, Shanchuan and Chen, Xinshi and Song, Le},
+  journal={arXiv preprint arXiv:2206.13697},
+  year={2022}
+}

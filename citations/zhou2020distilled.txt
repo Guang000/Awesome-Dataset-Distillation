@@ -1,0 +1,6 @@
+@article{zhou2020distilled,
+  title={Distilled One-Shot Federated Learning},
+  author={Zhou, Yanlin and Pu, George and Ma, Xiyao and Li, Xiaolin and Wu, Dapeng},
+  journal={arXiv preprint arXiv:2009.07999},
+  year={2020}
+}

@@ -1,0 +1,6 @@
+@inproceedings{jin2022condensing,
+  title={Condensing Graphs via One-Step Gradient Matching},
+  author={Jin, Wei and Tang, Xianfeng and Jiang, Haoming and Li, Zheng and Zhang, Danqing and Tang, Jiliang and Ying, Bin},
+  booktitle={Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+  year={2022}
+}

@@ -1,0 +1,7 @@
+@inproceedings{wiewel2021soft,
+  title={Condensed Composite Memory Continual Learning},
+  author={Wiewel, Felix and Yang, Bin},
+  booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2021}
+}

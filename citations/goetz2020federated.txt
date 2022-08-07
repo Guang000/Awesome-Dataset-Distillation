@@ -1,0 +1,6 @@
+@article{goetz2020federated,
+  title={Federated Learning via Synthetic Data},
+  author={Goetz, Jack and Tewari, Ambuj},
+  journal={arXiv preprint arXiv:2008.04489},
+  year={2020}
+}

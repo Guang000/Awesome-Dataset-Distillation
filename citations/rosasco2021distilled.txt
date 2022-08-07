@@ -1,0 +1,6 @@
+@article{rosasco2021distilled,
+  title={Distilled Replay: Overcoming Forgetting through Synthetic Samples},
+  author={Rosasco, Andrea and Carta, Antonio and Cossu, Andrea and Lomonaco, Vincenzo and Bacciu, Davide},
+  journal={arXiv preprint arXiv:2103.15851},
+  year={2021}
+}

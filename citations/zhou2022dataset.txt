@@ -1,0 +1,6 @@
+@article{zhou2022dataset,
+  title={Dataset Distillation using Neural Feature Regression},
+  author={Zhou, Yongchao and Nezhadarya, Ehsan and Ba, Jimmy},
+  journal={arXiv preprint arXiv:2206.00719},
+  year={2022}
+}

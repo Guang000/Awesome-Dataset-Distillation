@@ -1,0 +1,7 @@
+@inproceedings{sucholutsky2021soft,
+  title={Soft-Label Dataset Distillation and Text Dataset Distillation},
+  author={Sucholutsky, Ilia and Schonlau, Matthias},
+  booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2021}
+}
