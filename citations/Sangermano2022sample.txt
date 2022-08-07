@@ -1,4 +1,4 @@
-@inproceedings{Sangermano2022sample,
+@inproceedings{sangermano2022sample,
   title={Sample Condensation in Online Continual Learning},
   author={Sangermano, Mattia and Carta, Antonio and Cossu, Andrea and Bacciu, Davide},
   booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
