@@ -19,7 +19,7 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 + :octocat: Code
 + :book: `bibtex`
 
-# Contents
+## Contents
 - [Main](#main)
   - [Gradient/Trajectory Matching Surrogate Objective](#gradient-objective)
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
