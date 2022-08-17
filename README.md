@@ -21,6 +21,7 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 
 ## Contents
 - [Main](#main)
+  - [Early Work](#early-work)
   - [Gradient/Trajectory Matching Surrogate Objective](#gradient-objective)
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
   - [Optimization](#optimization)
@@ -43,6 +44,11 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 ## Main
 + [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [:globe_with_meridians:](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation) [:book:](./citations/wang2018datasetdistillation.txt)
 
+
+<a name="early-work" />
+
+### Early Work
++ [Gradient-Based Hyperparameter Optimization Through Reversible Learning](https://arxiv.org/abs/1502.03492) (Dougal Maclaurin et al., ICML 2015) [:octocat:](https://github.com/HIPS/hypergrad) [:book:](./citations/maclaurin2015gradient.txt)
 
 <a name="gradient-objective" />
 
