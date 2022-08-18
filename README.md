@@ -103,7 +103,7 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 
 ### Privacy
 + [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI 2021 Student Abstract) [:book:](./citations/sucholutsky2021secdd.txt)
-+ [Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Donget al., ICML 2022) [:book:](./citations/dong2022privacy.txt)
++ [Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML 2022) [:book:](./citations/dong2022privacy.txt)
 
 <a name="fed" />
 
