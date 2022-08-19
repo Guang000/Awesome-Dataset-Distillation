@@ -1,5 +1,5 @@
 @article{nooralinejad2022pranc,
-  title={PRANC: Pseudo RAndom Networks for Compacting deep models},
+  title={PRANC: Pseudo RAndom Networks for Compacting Deep Models},
   author={Nooralinejad, Parsa and Abbasi, Ali and Kolouri, Soheil and Pirsiavash, Hamed},
   journal={arXiv preprint arXiv:2206.08464},
   year={2022}
