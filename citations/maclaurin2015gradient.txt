@@ -1,7 +1,7 @@
 @inproceedings{maclaurin2015gradient,
   title={Gradient-Based Hyperparameter Optimization Through Reversible Learning},
   author={Maclaurin, Dougal and Duvenaud, David and Adams, Ryan},
-  booktitle={International Conference on Machine Learning},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
   pages={2113--2122},
   year={2015},
   organization={PMLR}
