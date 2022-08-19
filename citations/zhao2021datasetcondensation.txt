@@ -1,6 +1,6 @@
-@article{zhao2021datasetcondensation,
+@inproceedings{zhao2021datasetcondensation,
   title={Dataset Condensation with Distribution Matching},
   author={Zhao, Bo and Bilen, Hakan},
-  journal={arXiv preprint arXiv:2110.04181},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
   year={2021}
 }
