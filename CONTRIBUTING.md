@@ -6,11 +6,9 @@
    + Title should be a link to the paper. When the paper is hosted on arXiv, please use the abstract link (rather than pdf link).
  
    + Use the following icons to represent otherlinks:
-		+ :globe_with_meridians: Project Page
-		+ :octocat: Code
-		+ :book: `bibtex`
-	
-	+ 
+		+ :globe_with_meridians: (`:globe_with_meridians:`) Project Page
+		+ :octocat: (`:octocat:`) Code
+		+ :book: (`:book:`) `bibtex`
 
    For example:
 
