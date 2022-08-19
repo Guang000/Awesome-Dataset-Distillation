@@ -12,14 +12,14 @@
 
    For example:
 
-   + [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [:globe_with_meridians:](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation) [:book:](./citations/wang2018datasetdistillation.txt)
+   + [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [:globe_with_meridians:](https://www.tongzhouwang.info/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation) [:book:](./citations/wang2018datasetdistillation.txt)
 
    
    Above entry is generated using following Markdown:
    
    ```
    + [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) 
-     [:globe_with_meridians:](https://ssnl.github.io/dataset_distillation/) 
+     [:globe_with_meridians:](https://www.tongzhouwang.info/dataset_distillation/) 
      [:octocat:](https://github.com/SsnL/dataset-distillation) 
      [:book:](./citations/wang2018datasetdistillation.txt)
 
