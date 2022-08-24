@@ -149,7 +149,7 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 
 <a name="text" />
 
-### Text Distillation
+### Text
 + [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021) [:book:](./citations/li2021text.txt)
 
 <a name="medical" />
