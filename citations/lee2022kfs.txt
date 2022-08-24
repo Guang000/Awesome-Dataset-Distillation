@@ -1,0 +1,6 @@
+@article{lee2022kfs,
+  title={Dataset Condensation with Latent Space Knowledge Factorization and Sharing},
+  author={Lee, Hae Beom and Lee, Dong Bok and Hwang, Sung Ju},
+  journal={arXiv preprint arXiv:2208.00719},
+  year={2022}
+}
