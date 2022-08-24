@@ -1,0 +1,6 @@
+@article{li2021text,
+  title={Data Distillation for Text Classification},
+  author={Li, Yongqi and Li, Wenjie},
+  journal={arXiv preprint arXiv:2104.08448},
+  year={2021}
+}
