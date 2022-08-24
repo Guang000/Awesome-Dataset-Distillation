@@ -36,6 +36,7 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 	- [Graph Neural Network](#gnn)
 	- [Neural Architecture Search](#nas)
 	- [Knowledge Distillation](#kd)
+	- [Text](#text)
 	- [Medical](#medical)
 	- [Fashion, Art, and Design](#fashion)
 
@@ -144,6 +145,11 @@ In recent years (2020-now), dataset distillation has gained increasing attention
 
 ### Knowledge Distillation
 + [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409) (Chenxin Li et al., ECCV 2022) [:octocat:](https://github.com/dzy3/KCD) [:book:](./citations/li2022knowledge.txt)
+
+<a name="text" />
+
+### Text Distillation
++ [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021) [:book:](./citations/li2021text.txt)
 
 <a name="medical" />
 
