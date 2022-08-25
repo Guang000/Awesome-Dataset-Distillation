@@ -1,0 +1,6 @@
+@article{song2022federated,
+  title={Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments},
+  author={Song, Rui and Liu, Dai and Chen, Dave Zhenyu and Festag, Andreas and Trinitis, Carsten and Schulz, Martin and Knoll, Alois},
+  journal={arXiv preprint arXiv:2208.11311},
+  year={2022}
+}
