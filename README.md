@@ -156,7 +156,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 <a name="medical" />
 
 ### Medical
-+ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP 2020) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) [:book:](./citations/li2020soft.txt)
++ [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP 2020) [:book:](./citations/li2020soft.txt)
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine) (Guang Li et al., CMPB 2022) [:book:](./citations/li2022compressed.txt)
 
 <a name="fashion" />
