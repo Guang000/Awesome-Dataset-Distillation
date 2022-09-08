@@ -1,0 +1,7 @@
+@inproceedings{lorraine2020optimizing,
+  title={Optimizing millions of hyperparameters by implicit differentiation},
+  author={Lorraine, Jonathan and Vicol, Paul and Duvenaud, David},
+  booktitle={Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  pages={1540--1552},
+  year={2020}
+}
