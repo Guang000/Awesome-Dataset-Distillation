@@ -1,0 +1,7 @@
+@inproceedings{vicol2022implicit,
+  title={On Implicit Bias in Overparameterized Bilevel Optimization},
+  author={Vicol, Paul and Lorraine, Jonathan P and Pedregosa, Fabian and Duvenaud, David and Grosse, Roger B},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={22234--22259},
+  year={2022}
+}
