@@ -1,6 +1,6 @@
-@article{deng2022remember,
+@inproceedings{deng2022remember,
   title={Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks},
   author={Deng, Zhiwei and Russakovsky, Olga},
-  journal={arXiv preprint arXiv:2206.02916},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
 }
