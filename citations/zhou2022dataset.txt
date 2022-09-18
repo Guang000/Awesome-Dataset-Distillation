@@ -1,6 +1,6 @@
-@article{zhou2022dataset,
+@inproceedings{zhou2022dataset,
   title={Dataset Distillation using Neural Feature Regression},
-  author={Zhou, Yongchao and Nezhadarya, Ehsan and Ba, Jimmy},
-  journal={arXiv preprint arXiv:2206.00719},
+  author={Zhou, Yongchao and Ba, Jimmy and Nezhadarya, Ehsan},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
 }
