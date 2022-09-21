@@ -1,0 +1,6 @@
+@inproceedings{loo2022efficient,
+  title={Efficient Dataset Distillation using Random Feature Approximation},
+  author={Loo, Noel and Hasani, Ramin and Amini, Alexander and Rus, Daniela},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2022}
+}
