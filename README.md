@@ -180,4 +180,4 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 <a name="ack" />
 
 ## Acknowledgments
-We would like to thank Wei Jin and Yongchao Zhou for their valuable suggestions and contributions.
+We would like to thank [Wei Jin](https://github.com/ChandlerBang) and [Yongchao Zhou](https://github.com/yongchao97) for their valuable suggestions and contributions.
