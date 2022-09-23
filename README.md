@@ -39,6 +39,8 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 	- [Text](#text)
 	- [Medical](#medical)
 	- [Fashion, Art, and Design](#fashion)
+- [Media](#media)
+- [Acknowledgments](#ack)
 
 <a name="main" />
 
@@ -169,3 +171,13 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 ### Fashion, Art, and Design
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR 2022 Workshop) [:globe_with_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) [:book:](./citations/cazenavette2022textures.txt)
+
+<a name="media" />
+
+## Media
++ [Most Popular AI Research Aug 2022](https://www.libhunt.com/posts/874974-d-most-popular-ai-research-aug-2022-ranked-based-on-github-stars)
+
+<a name="ack" />
+
+## Acknowledgments
+We would like to thank Wei Jin and Yongchao Zhou for their valuable suggestions and contributions.
