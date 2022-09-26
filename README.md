@@ -67,7 +67,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 ### Distribution/Feature Matching Surrogate Objective
 + [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., 2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation) [:book:](./citations/zhao2021distribution.txt)
-+ [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang et al., CVPR 2022)  [:octocat:](https://github.com/kaiwang960112/cafe) [:book:](./citations/wang2022cafe.txt)
++ [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang & Bo Zhao et al., CVPR 2022)  [:octocat:](https://github.com/kaiwang960112/cafe) [:book:](./citations/wang2022cafe.txt)
 + [Dataset Factorization for Condensation](https://nips.cc/Conferences/2022/Schedule?showEvent=55231) (Songhua Liu et al., NeurIPS 2022) [:book:](./citations/liu2022dataset.txt)
 
 
