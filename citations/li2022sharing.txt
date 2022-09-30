@@ -1,0 +1,6 @@
+@article{li2022sharing,
+  title={Dataset Distillation for Medical Dataset Sharing},
+  author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2209.14603},
+  year={2022}
+}
