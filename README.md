@@ -177,6 +177,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 ## Media
 + [Beginning of Awesome-Dataset-Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
 + [Most Popular AI Research Aug 2022](https://www.libhunt.com/posts/874974-d-most-popular-ai-research-aug-2022-ranked-based-on-github-stars)
++ [一个项目帮你了解数据集蒸馏Dataset Distillation](https://mp.weixin.qq.com/s/tSKQoOLJhmdtAjxvH6z8cw)
 
 <a name="ack" />
 
