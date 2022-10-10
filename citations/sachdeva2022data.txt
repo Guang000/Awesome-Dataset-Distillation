@@ -1,0 +1,6 @@
+@inproceedings{sachdeva2022data,
+  title={Infinite Recommendation Networks: A Data-Centric Approach},
+  author={Sachdeva, Noveen and Preet Dhaliwal, Mehak and Wu, Carole-Jean and McAuley, Julian},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2022}
+}
