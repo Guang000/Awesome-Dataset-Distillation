@@ -158,7 +158,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 <a name="rec" />
 
 ### Recommender Systems
-+ [Data Distillation for Text Classification](https://arxiv.org/abs/2206.02626) (Noveen Sachdeva et al., NeurIPS 2022) [:octocat:](https://github.com/noveens/distill_cf) [:book:](./citations/sachdeva2022data.txt)
++ [Infinite Recommendation Networks: A Data-Centric Approach](https://arxiv.org/abs/2206.02626) (Noveen Sachdeva et al., NeurIPS 2022) [:octocat:](https://github.com/noveens/distill_cf) [:book:](./citations/sachdeva2022data.txt)
 
 <a name="text" />
 
