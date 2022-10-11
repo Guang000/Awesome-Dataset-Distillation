@@ -37,8 +37,9 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 	- [Knowledge Distillation](#kd)
 	- [Recommender Systems](#rec)
 	- [Text](#text)
-- [Media](#media)
-- [Acknowledgments](#ack)
+
+[Media Coverage](#media)<br/>
+[Acknowledgments](#ack)
 
 <a name="main" />
 
