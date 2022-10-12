@@ -122,7 +122,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 ### Medical
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP 2020) [:book:](./citations/li2020soft.txt)
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://arxiv.org/abs/2209.14635) (Guang Li et al., CMPB 2022) [:book:](./citations/li2022compressed.txt)
-+ [Bidirectional Learning for Offline Infinite-width Model-based Optimization](https://arxiv.org/abs/2209.07507) (Can Chen et al., NeurIPS 2022) [:octocat:] (https://github.com/ggchen1997/bdi) [:book:](./citations/chen2022bidirectional.txt) 
++ [Bidirectional Learning for Offline Infinite-width Model-based Optimization](https://arxiv.org/abs/2209.07507) (Can Chen et al., NeurIPS 2022) [:octocat:](https://github.com/ggchen1997/bdi) [:book:](./citations/chen2022bidirectional.txt) 
 + [Dataset Distillation for Medical Dataset Sharing](https://arxiv.org/abs/2209.14603) (Guang Li et al., 2022) [:book:](./citations/li2022sharing.txt)
 + [Dataset Distillation using Parameter Pruning](https://arxiv.org/abs/2209.14609) (Guang Li et al., 2022) [:book:](./citations/li2022ddpp.txt)
 
