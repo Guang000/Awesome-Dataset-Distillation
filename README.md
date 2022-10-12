@@ -1,7 +1,7 @@
 # Awesome-Dataset-Distillation
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-48-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Guang000/Awesome-Dataset-Distillation)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-49-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Guang000/Awesome-Dataset-Distillation)
 
 A curated list of awesome papers on dataset distillation and related applications, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -124,7 +124,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://arxiv.org/abs/2209.14635) (Guang Li et al., CMPB 2022) [:book:](./citations/li2022compressed.txt)
 + [Dataset Distillation for Medical Dataset Sharing](https://arxiv.org/abs/2209.14603) (Guang Li et al., 2022) [:book:](./citations/li2022sharing.txt)
 + [Dataset Distillation using Parameter Pruning](https://arxiv.org/abs/2209.14609) (Guang Li et al., 2022) [:book:](./citations/li2022ddpp.txt)
-+ [Bidirectional Learning for Offline Infinite-width Model-based Optimization](https://arxiv.org/abs/2209.07507) (Can Chen et al., 2022) [:book:](./citations/chen2022bidirectional.txt)
++ [Bidirectional Learning for Offline Infinite-width Model-based Optimization](https://arxiv.org/abs/2209.07507) (Can Chen et al., NeurIPS 2022) [:octocat:] (https://github.com/ggchen1997/bdi) [:book:](./citations/chen2022bidirectional.txt) 
 
 
 <a name="fed" />
@@ -170,7 +170,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 <a name="media" />
 
-## Media
+## Media Coverage
 + [Beginning of Awesome-Dataset-Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
 + [Most Popular AI Research Aug 2022](https://www.libhunt.com/posts/874974-d-most-popular-ai-research-aug-2022-ranked-based-on-github-stars)
 + [一个项目帮你了解数据集蒸馏Dataset Distillation](https://mp.weixin.qq.com/s/tSKQoOLJhmdtAjxvH6z8cw)
@@ -178,4 +178,4 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 <a name="ack" />
 
 ## Acknowledgments
-We would like to thank [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), and [Noveen Sachdeva](https://github.com/noveens) for their valuable suggestions and contributions.
+We would like to thank [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), and [Can Chen](https://github.com/GGchen1997) for their valuable suggestions and contributions.
