@@ -1,8 +1,0 @@
-@inproceedings{
-chen2022bidirectional,
-title={Bidirectional Learning for Offline Infinite-width Model-based Optimization},
-author={Can Chen and Yingxue Zhang and Jie Fu and Xue Liu and Mark Coates},
-booktitle={Thirty-Sixth Conference on Neural Information Processing Systems},
-year={2022},
-url={https://openreview.net/forum?id=_j8yVIyp27Q}
-}
