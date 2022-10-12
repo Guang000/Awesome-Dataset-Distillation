@@ -22,7 +22,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
   - [Early Work](#early-work)
   - [Gradient/Trajectory Matching Surrogate Objective](#gradient-objective)
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
-  - [Optimization](#optimization)
+  - [Better Optimization](#optimization)
   - [Distilled Dataset Parametrization](#parametrization)
   - [Label Distillation](#label)
   - [Benchmark](#benchmark)
