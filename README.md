@@ -182,4 +182,4 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 <a name="ack" />
 
 ## Acknowledgments
-We would like to thank [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), and [Can Chen](https://github.com/GGchen1997) for their valuable suggestions and contributions.
+We would like to thank [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), [Can Chen](https://github.com/GGchen1997) and [Guangxiang Zhao](https://github.com/zhaoguangxiang) for their valuable suggestions and contributions.
