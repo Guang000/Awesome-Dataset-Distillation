@@ -1,0 +1,6 @@
+@inproceedings{chen2022bidirectional,
+  title={On Divergence Measures for Bayesian Pseudocoresets},
+  author={Kim, Balhae and Choi, Jungwon and Lee, Seanie and Lee, Yoonho and Ha, Jung-Woo and Lee, Juho},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2022}
+}
