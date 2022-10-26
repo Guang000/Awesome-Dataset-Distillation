@@ -1,0 +1,7 @@
+@inproceedings{li2020soft,
+  title={Soft-Label Anonymous Gastric X-Ray Image Distillation},
+  author={Chen, Yulan and Wu, Zhiyong and Shen, Zheyan and Jia, Jia},
+  booktitle={Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+  pages={856--860},
+  year={2022}
+}
