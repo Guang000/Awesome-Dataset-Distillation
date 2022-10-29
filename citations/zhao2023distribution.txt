@@ -1,0 +1,6 @@
+@inproceedings{zhao2023distribution,
+  title={Dataset Condensation with Distribution Matching},
+  author={Zhao, Bo and Bilen, Hakan},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2023}
+}

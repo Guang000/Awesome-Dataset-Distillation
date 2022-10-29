@@ -1,6 +1,0 @@
-@article{zhao2021distribution,
-  title={Dataset Condensation with Distribution Matching},
-  author={Zhao, Bo and Bilen, Hakan},
-  journal={arXiv preprint arXiv:2110.04181},
-  year={2021}
-}
