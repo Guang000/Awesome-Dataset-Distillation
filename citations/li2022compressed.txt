@@ -2,5 +2,7 @@
   title={Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing},
   author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
   journal={Computer Methods and Programs in Biomedicine},
+  vol={207},
+  pages={107189},
   year={2022}
 }
