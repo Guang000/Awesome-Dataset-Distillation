@@ -1,0 +1,6 @@
+@article{du2022minimizing,
+  title={Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation},
+  author={Du, Jiawei and Jiang, Yidi and Tan, Vincent T. F. and Zhou, Joey Tianyi and Li, Haizhou},
+  journal={https://arxiv.org/abs/2211.11004},
+  year={2022}
+}
