@@ -1,5 +1,5 @@
 @inproceedings{liu2022dataset,
-  title={Dataset Factorization for Condensation},
+  title={Dataset Distillation via Factorization},
   author={Liu, Songhua and Wang, Kai and Yang, Xingyi and Ye, Jingwen and Wang, Xinchao},
   booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
