@@ -1,0 +1,6 @@
+@article{cui2022scaling,
+  title={Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory},
+  author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
+  journal={https://arxiv.org/abs/2211.10586},
+  year={2022}
+}
