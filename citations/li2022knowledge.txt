@@ -2,5 +2,6 @@
   title={Knowledge Condensation Distillation},
   author={Li, Chenxin and Lin, Mingbao and Ding, Zhiyuan and Lin, Nie and Zhuang, Yihong and Huang, Yue and Ding, Xinghao and Cao, Liujuan},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={19--35},
   year={2022}
 }
