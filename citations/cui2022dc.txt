@@ -1,5 +1,5 @@
 @inproceedings{cui2022dc,
-  title={DC-BENCH: Dataset Condensation Benchmark},
+  title={{DC-BENCH}: Dataset Condensation Benchmark},
   author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
   booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
