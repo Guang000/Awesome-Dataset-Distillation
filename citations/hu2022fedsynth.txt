@@ -1,5 +1,5 @@
 @article{hu2022fedsynth,
-  title={FedSynth: Gradient Compression via Synthetic Data in Federated Learning},
+  title={{FedSynth}: Gradient Compression via Synthetic Data in Federated Learning},
   author={Hu, Shengyuan and Goetz, Jack and Malik, Kshitiz and Zhan, Hongyuan and Liu, Zhe and Liu, Yue},
   journal={arXiv preprint arXiv:2204.01273},
   year={2022}
