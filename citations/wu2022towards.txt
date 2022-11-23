@@ -1,0 +1,6 @@
+@article{wu2022towards,
+  title={Towards Robust Dataset Learning},
+  author={Wu, Yihan and Li, Xinda and Kerschbaum, Florian and Huang, Heng and Zhang, Hongyang},
+  journal={https://arxiv.org/abs/2211.10752},
+  year={2022}
+}
