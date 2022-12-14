@@ -9,7 +9,7 @@ A curated list of awesome papers on dataset distillation and related application
 
 In recent years (2019-now), dataset distillation has gained increasing attention in the research community, across many institutes and labs. More papers are now being published each year. These wonderful researches have been constantly improving dataset distillation and exploring its various variants and applications.
 
-**This project is curated and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/), [Bo Zhao](https://bozhaonanjing.wixsite.com/mysite), and [Tongzhou Wang](https://www.tongzhouwang.info/).**
+**This project is curated and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/), [Bo Zhao](https://www.bozhao.me/), and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
 #### [How to submit a pull request?](./CONTRIBUTING.md)
 
