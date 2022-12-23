@@ -2,5 +2,6 @@
   title={{Wearable ImageNet}: Synthesizing Tileable Textures via Dataset Distillation},
   author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A. and Zhu, Jun-Yan},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
+  pages={2278--2282},
   year={2022},
 }
