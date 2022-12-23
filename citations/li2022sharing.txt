@@ -1,6 +1,7 @@
-@article{li2022sharing,
+@iniroceedings{li2022sharing,
   title={Dataset Distillation for Medical Dataset Sharing},
   author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
-  journal={arXiv preprint arXiv:2209.14603},
-  year={2022}
+  booktitle={AAAI Conference on Artificial Intelligence (AAAI), Workshop},
+  pages={1--5},
+  year={2023}
 }
