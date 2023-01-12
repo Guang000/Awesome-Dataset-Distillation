@@ -109,7 +109,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 ### Survey
 
-+ [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272) (Noveen Sachdeva et al., 2022) [:book:](./citations/sachdeva2022survey.txt)
++ [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272) (Noveen Sachdeva et al., 2023) [:book:](./citations/sachdeva2023survey.txt)
 
 ## Applications
 
