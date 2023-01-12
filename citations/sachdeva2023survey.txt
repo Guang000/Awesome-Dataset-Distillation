@@ -1,0 +1,6 @@
+@article{sachdeva2023survey,
+  title={Data Distillation: A Survey},
+  author={Sachdeva, Noveen and McAuley, Julian},
+  journal={arXiv preprint arXiv:2301.04272},
+  year={2023}
+}
