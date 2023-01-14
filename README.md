@@ -1,7 +1,7 @@
 # Awesome-Dataset-Distillation
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-59-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Guang000/Awesome-Dataset-Distillation)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-58-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Guang000/Awesome-Dataset-Distillation)
 
 A curated list of awesome papers on dataset distillation and related applications, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -136,7 +136,6 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP 2020) [:octocat:](https://github.com/Guang000/dataset-distillation) [:book:](./citations/li2020soft.txt) 
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://arxiv.org/abs/2209.14635) (Guang Li et al., CMPB 2022) [:octocat:](https://github.com/Guang000/dataset-distillation) [:book:](./citations/li2022compressed.txt)
 + [Dataset Distillation for Medical Dataset Sharing](https://arxiv.org/abs/2209.14603) (Guang Li et al., AAAI 2023 Workshop) [:octocat:](https://github.com/Guang000/mtt-distillation) [:book:](./citations/li2022sharing.txt)
-+ [Dataset Distillation using Parameter Pruning](https://arxiv.org/abs/2209.14609) (Guang Li et al., 2022) [:book:](./citations/li2022pp.txt)
 
 <a name="fed" />
 
