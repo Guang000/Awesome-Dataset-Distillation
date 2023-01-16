@@ -1,0 +1,6 @@
+@article{sachdeva2023survey,
+  title={A Comprehensive Survey to Dataset Distillation},
+  author={Lei, Shiye and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2301.05603},
+  year={2023}
+}
