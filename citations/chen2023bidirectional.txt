@@ -1,0 +1,6 @@
+@article{chen2023bidirectional,
+  title={Bidirectional Learning for Offline Model-based Biological Sequence Design},
+  author={Chen, Can and Zhang, Yingxue and Liu, Xue and Coates, Mark},
+  journal={arXiv preprint arXiv:2301.02931},
+  year={2023}
+}
