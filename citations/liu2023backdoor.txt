@@ -1,0 +1,6 @@
+@inproceedings{liu2023backdoor,
+  title={Backdoor Attacks Against Dataset Distillation},
+  author={Liu, Yugeng and Li, Zheng and Backes, Michael and Shen, Yun and Zhang, Yang},
+  booktitle={Proceedings of the Network and Distributed System Security Symposium (NDSS)},
+  year={2023}
+}
