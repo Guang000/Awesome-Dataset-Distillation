@@ -182,6 +182,8 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 ### Blackbox Optimization
 + [Bidirectional Learning for Offline Infinite-width Model-based Optimization](https://arxiv.org/abs/2209.07507) (Can Chen et al., NeurIPS 2022) [:octocat:](https://github.com/ggchen1997/bdi) [:book:](./citations/chen2022bidirectional.txt) 
++ [Bidirectional Learning for Offline Model-based Biological Sequence Design](https://arxiv.org/abs/2301.02931) (Can Chen et al., 2023) [:book:](./citations/chen2023bidirectional.txt)
+
 
 <a name="text" />
 
