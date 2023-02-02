@@ -1,6 +1,6 @@
-@article{xiong2022feddm,
+@inproceedings{xiong2022feddm,
   title={{FedDM}: Iterative Distribution Matching for Communication-Efficient Federated Learning},
   author={Xiong, Yuanhao and Wang, Ruochen and Cheng, Minhao and Yu, Felix and Hsieh, Cho-Jui},
-  journal={arXiv preprint arXiv:2207.09653},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
   year={2022}
 }
