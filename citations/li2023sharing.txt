@@ -1,4 +1,4 @@
-@iniroceedings{li2022sharing,
+@iniroceedings{li2023sharing,
   title={Dataset Distillation for Medical Dataset Sharing},
   author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Workshop},
