@@ -1,6 +1,6 @@
-@article{tsilivis2022robust,
+@iniroceedings{tsilivis2022robust,
   title={Can we achieve robustness from data alone?},
   author={Tsilivis, Nikolaos and Su, Jingtong and Kempe, Julia},
-  journal={arXiv preprint arXiv:2207.11727},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML), Workshop},
   year={2022}
 }
