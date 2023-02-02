@@ -1,6 +1,0 @@
-@article{liu2022meta,
-  title={Meta Knowledge Condensation for Federated Learning},
-  author={Liu, Ping and Yu, Xin and Zhou, Joey Tianyi},
-  journal={arXiv preprint arXiv:2209.14851},
-  year={2022}
-}

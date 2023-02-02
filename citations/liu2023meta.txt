@@ -1,0 +1,6 @@
+@inproceedings{liu2023meta,
+  title={Meta Knowledge Condensation for Federated Learning},
+  author={Liu, Ping and Yu, Xin and Zhou, Joey Tianyi},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2023}
+}
