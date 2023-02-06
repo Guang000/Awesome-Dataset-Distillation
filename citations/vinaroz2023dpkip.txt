@@ -1,0 +1,6 @@
+@article{vinaroz2023dpkip,
+  title={Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation},
+  author={Vinaroz, Margarita and Park, Mi Jung},
+  journal={arXiv preprint arXiv:2301.13389},
+  year={2023}
+}
