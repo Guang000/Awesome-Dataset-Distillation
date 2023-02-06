@@ -1,0 +1,6 @@
+@article{wang2023fed,
+  title={{Fed-GLOSS-DP}: Federated, Global Learning using Synthetic Sets with Record Level Differential Privacy},
+  author={Wang, Hui-Po and Chen, Dingfan and Kerkouche, Raouf and Fritz, Mario},
+  journal={arXiv preprint arXiv:2302.01068},
+  year={2023}
+}
