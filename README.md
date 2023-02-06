@@ -132,7 +132,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + [Private Set Generation with Discriminative Information](https://arxiv.org/abs/2211.04446) (Dingfan Chen et al., NeurIPS 2022) [:octocat:](https://github.com/DingfanChen/Private-Set) [:book:](./citations/chen2022privacy.txt)
 + [Towards Robust Dataset Learning](https://arxiv.org/abs/2211.10752) (Yihan Wu et al., 2022) [:book:](./citations/wu2022towards.txt)
 + [Backdoor Attacks Against Dataset Distillation](https://arxiv.org/abs/2301.01197) (Yugeng Liu et al., NDSS 2023) [:book:](./citations/liu2023backdoor.txt)
-+ [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation] (Margarita Vinaroz et al., 2023) [:book:](./citations/vinaroz2023dpkip.txt)
++ [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation](https://arxiv.org/abs/2301.13389) (Margarita Vinaroz et al., 2023) [:book:](./citations/vinaroz2023dpkip.txt)
 
 <a name="medical" />
 
