@@ -1,0 +1,7 @@
+@inproceedings{medvedev2021tabular,
+  title={Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation},
+  author={Medvedev, Dmitry and D'yakonov, Alexander},
+  booktitle={Proceedings of the International Conference on Analysis of Images, Social Networks and Texts (AIST)},
+  pages={138--150},
+  year={2021}
+}
