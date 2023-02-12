@@ -1,0 +1,6 @@
+@inproceedings{medvedev2020tabular,
+  title={New Properties of the Data Distillation Method When Working With Tabular Data},
+  author={Medvedev, Dmitry and D'yakonov, Alexander},
+  booktitle={Proceedings of the International Conference on Analysis of Images, Social Networks and Texts (AIST)},
+  year={2020}
+}
