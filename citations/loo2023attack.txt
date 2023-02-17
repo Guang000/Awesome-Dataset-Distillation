@@ -1,0 +1,6 @@
+@article{loo2023attack,
+  title={Dataset Distillation Fixes Dataset Reconstruction Attacks},
+  author={Loo, Noel and Hasani, Ramin and Lechner, Mathias and Rus, Daniela},
+  journal={arXiv preprint arXiv:2302.01428},
+  year={2023}
+}
