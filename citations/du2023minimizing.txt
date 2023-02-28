@@ -1,6 +1,6 @@
-@article{du2022minimizing,
+@inproceedings{du2023minimizing,
   title={Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation},
   author={Du, Jiawei and Jiang, Yidi and Tan, Vincent T. F. and Zhou, Joey Tianyi and Li, Haizhou},
-  journal={arXiv preprint arXiv:2211.11004},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
 }
