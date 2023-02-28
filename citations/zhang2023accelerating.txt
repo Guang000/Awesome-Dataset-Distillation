@@ -1,6 +1,6 @@
-@article{zhang2022accelerating,
+@inproceedings{zhang2023accelerating,
   title={Accelerating Dataset Distillation via Model Augmentation},
   author={Zhang, Lei and Zhang, Jie and Lei, Bowen and Mukherjee, Subhabrata and Pan, Xiang and Zhao, Bo and Ding, Caiwen and Li, Yao and Xu Dongkuan},
-  journal={arXiv preprint arXiv:2212.06152},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
 }
