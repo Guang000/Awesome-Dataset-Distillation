@@ -1,6 +1,6 @@
-@inproceedings{xiong2022feddm,
+@inproceedings{xiong2023feddm,
   title={{FedDM}: Iterative Distribution Matching for Communication-Efficient Federated Learning},
   author={Xiong, Yuanhao and Wang, Ruochen and Cheng, Minhao and Yu, Felix and Hsieh, Cho-Jui},
-  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
 }
