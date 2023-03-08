@@ -1,4 +1,4 @@
-@article{huang2023fedrated,
+@article{huang2023federated,
   title={Federated Virtual Learning on Heterogeneous Data with Local-global Distillation},
   author={Huang, Chun-Yin and Jin, Ruinan and Zhao, Can and Xu, Daguang and Li, Xiaoxiao},
   journal={arXiv preprint arXiv:2303.02278},
