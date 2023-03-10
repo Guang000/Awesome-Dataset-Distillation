@@ -1,0 +1,6 @@
+@article{wang2023dim,
+  title={{DiM}: Distilling Dataset into Generative Model},
+  author={Wang, Kai and Gu, Jianyang and Zhou, Daquan and Zhu, Zheng, and Jiang, Wei and You, Yang},
+  journal={arXiv preprint arXiv:2303.04707},
+  year={2023}
+}
