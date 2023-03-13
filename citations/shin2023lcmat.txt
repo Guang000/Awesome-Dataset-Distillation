@@ -1,0 +1,6 @@
+@article{shin2023loss,
+  title={Loss-Curvature Matching for Dataset Selection and Condensation},
+  author={Shin, Seungjae and Bae, Heesun and Shin, Donghyeok and Joo, Weonyoung and Moon, Il-Chul},
+  journal={arXiv preprint arXiv:2303.04449},
+  year={2023}
+}
