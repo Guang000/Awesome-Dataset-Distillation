@@ -1,4 +1,4 @@
-@inproceedings{shin2023loss,
+@inproceedings{shin2023lcmat,
   title={Loss-Curvature Matching for Dataset Selection and Condensation},
   author={Shin, Seungjae and Bae, Heesun and Shin, Donghyeok and Joo, Weonyoung and Moon, Il-Chul},
   booktitle={Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)},
