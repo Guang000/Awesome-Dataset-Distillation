@@ -1,0 +1,6 @@
+@inproceedings{cazenavette2023glad,
+  title={Generalizing Dataset Distillation via Deep Generative Prior},
+  author={Cazenavette, George and Wang, Tongzhou and Torralba, Antonio and Efros, Alexei A. and Zhu, Jun-Yan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
+}
