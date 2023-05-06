@@ -113,7 +113,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 ### Survey
 
-+ [A Survey on Dataset Distillation: Approaches, Applications and Future Directions] (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:book:](./citations/geng2023survey.txt)
++ [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:book:](./citations/geng2023survey.txt)
 + [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272) (Noveen Sachdeva et al., 2023) [:book:](./citations/sachdeva2023survey.txt)
 + [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., 2023) [:book:](./citations/lei2023survey.txt)
 + [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., 2023) [:book:](./citations/yu2023review.txt)
