@@ -1,0 +1,6 @@
+@inproceedings{geng2023survey,
+  title={A Survey on Dataset Distillation: Approaches, Applications and Future Directions},
+  author={Geng, Jiahui andg Chen, Zongxion and Wang, Yuandou and Woisetschlaeger, Herbert and Schimmler, Sonja and Mayer, Ruben and Zhao, Zhiming and Rong, Chunming},
+  booktitle={Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  year={2023}
+}
