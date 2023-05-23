@@ -1,0 +1,6 @@
+@article{chen2023study,
+  title={A Comprehensive Study on Dataset Distillation: Performance, Privacy, Robustness and Fairness},
+  author={Chen, Zongxiong and Geng, Jiahui and Zhu, Derui and Woisetschlaeger, Herbert and Li, Qing and Schimmler, Sonja and Mayer, Ruben and Rong Chunming},
+  journal={https://arxiv.org/abs/2305.03355},
+  year={2023}
+}
