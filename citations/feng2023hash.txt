@@ -1,0 +1,6 @@
+@article{feng2023hash,
+  title={Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching},
+  author={Feng, Tao, and Zhang, Jie and Wang, Peizheng and Wang, Zhijie},
+  journal={arXiv preprint arXiv:2305.18076},
+  year={2023}
+}
