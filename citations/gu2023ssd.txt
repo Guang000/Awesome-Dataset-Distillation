@@ -1,0 +1,6 @@
+@article{gu2023ssd,
+  title={Summarizing Stream Data for Memory-Restricted Online Continual Learning},
+  author={Gu, Jianyang and Wang, Kai and Jiang, Wei and You, Yang},
+  journal={https://arxiv.org/abs/2305.16645},
+  year={2023}
+}
