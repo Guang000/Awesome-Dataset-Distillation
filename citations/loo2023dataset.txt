@@ -1,6 +1,6 @@
-@article{loo2023dataset,
+@inproceedings{loo2023dataset,
   title={Dataset Distillation with Convexified Implicit Gradients},
   author={Loo, Noel and Hasani, Ramin and Lechner, Mathias and Rus, Daniela},
-  journal={arXiv preprint arXiv:2302.06755},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
   year={2023}
 }
