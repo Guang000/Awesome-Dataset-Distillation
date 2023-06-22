@@ -1,6 +1,6 @@
-@article{cui2022scaling,
+@inproceedings{cui2023scaling,
   title={Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory},
   author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
-  journal={arXiv preprint arXiv:2211.10586},
-  year={2022}
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2023}
 }
