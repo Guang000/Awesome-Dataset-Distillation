@@ -1,0 +1,7 @@
+@inproceedings{maekawa2023text,
+  title={Dataset Distillation with Attention Labels for Fine-tuning BERT},
+  author={Maekawa, Aru and Kobayashi, Naoki and Funakoshi, Kotaro and Okumura, Manabu},
+  booktitle={Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)},
+  pages={119--127}
+  year={2023}
+}
