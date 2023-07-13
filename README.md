@@ -214,6 +214,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 
 ### Text
 + [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021) [:book:](./citations/li2021text.txt)
++ [Dataset Distillation with Attention Labels for Fine-tuning BERT](https://aclanthology.org/2023.acl-short.12/) (Aru Maekawa et al., ACL 2023) [:book:](./citations/maekawa2023text.txt)
 
 <a name="media" />
 
