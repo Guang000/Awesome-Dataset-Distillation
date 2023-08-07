@@ -1,6 +1,7 @@
-@article{song2022federated,
+@inproceedings{song2023federated,
   title={Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments},
   author={Song, Rui and Liu, Dai and Chen, Dave Zhenyu and Festag, Andreas and Trinitis, Carsten and Schulz, Martin and Knoll, Alois},
-  journal={arXiv preprint arXiv:2208.11311},
-  year={2022}
+  booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--10},
+  year={2023}
 }
