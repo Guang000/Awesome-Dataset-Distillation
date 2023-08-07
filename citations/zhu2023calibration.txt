@@ -1,0 +1,6 @@
+@inproceedings{zhu2023calibration,
+  title={Rethinking Data Distillation: Do Not Overlook Calibration},
+  author={Zhu, Dongyao and Lei, Bowen and Zhang, Jie and Fang, Yanbo and Zhang, Ruqi and Xie, Yiqun and Xu, Dongkuan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2023}
+}
