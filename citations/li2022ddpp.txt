@@ -1,6 +1,0 @@
-@article{li2022ddpp,
-  title={Dataset Distillation using Parameter Pruning},
-  author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
-  journal={arXiv preprint arXiv:2209.14609},
-  year={2022}
-}
