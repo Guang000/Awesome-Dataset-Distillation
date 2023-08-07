@@ -24,6 +24,7 @@ In recent years (2019-now), dataset distillation has gained increasing attention
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
   - [Better Optimization](#optimization)
   - [Distilled Dataset Parametrization](#parametrization)
+  - [Calibration](#calibration)
   - [Label Distillation](#label)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
@@ -99,6 +100,11 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + [Generalizing Dataset Distillation via Deep Generative Prior](https://arxiv.org/abs/2305.01649) (George Cazenavette et al., CVPR 2023) [:globe_with_meridians:](https://georgecazenavette.github.io/glad/) [:octocat:](https://github.com/georgecazenavette/glad) [:book:](./citations/cazenavette2023glad.txt)
 + [DiM: Distilling Dataset into Generative Model](https://arxiv.org/abs/2303.04707) (Kai Wang & Jianyang Gu et al., 2023) [:octocat:](https://github.com/vimar-gu/DiM) [:book:](./citations/wang2023dim.txt)
 
+<a name="calibration" />
+
+### Calibration
++ [Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463) (Dongyao Zhu et al., ICCV 2023) [:book:](./citations/zhu2023calibration.txt)
+
 <a name="label" />
 
 ### Label Distillation
@@ -150,7 +156,6 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + [Soft-Label Anonymous Gastric X-ray Image Distillation](https://arxiv.org/abs/2104.02857) (Guang Li et al., ICIP 2020) [:octocat:](https://github.com/Guang000/dataset-distillation) [:book:](./citations/li2020soft.txt) 
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://arxiv.org/abs/2209.14635) (Guang Li et al., CMPB 2022) [:octocat:](https://github.com/Guang000/dataset-distillation) [:book:](./citations/li2022compressed.txt)
 + [Dataset Distillation for Medical Dataset Sharing](https://arxiv.org/abs/2209.14603) (Guang Li et al., AAAI 2023 Workshop) [:octocat:](https://github.com/Guang000/mtt-distillation) [:book:](./citations/li2023sharing.txt)
-+ [Dataset Distillation using Parameter Pruning](https://arxiv.org/abs/2209.14609) (Guang Li et al., 2023) [:book:](./citations/li2022ddpp.txt)
 
 <a name="fed" />
 
@@ -158,10 +163,10 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + [Federated Learning via Synthetic Data](https://arxiv.org/abs/2008.04489) (Jack Goetz et al., 2020) [:book:](./citations/goetz2020federated.txt)
 + [Distilled One-Shot Federated Learning](https://arxiv.org/abs/2009.07999) (Yanlin Zhou et al., 2020) [:book:](./citations/zhou2020distilled.txt)
 + [FedSynth: Gradient Compression via Synthetic Data in Federated Learning](https://arxiv.org/abs/2204.01273) (Shengyuan Hu et al., 2022) [:book:](./citations/hu2022fedsynth.txt)
-+ [Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments](https://arxiv.org/abs/2208.11311) (Rui Song et al., 2022) [:book:](./citations/song2022federated.txt)
 + [DYNAFED: Tackling Client Data Heterogeneity with Global Dynamics](https://arxiv.org/abs/2211.10878) (Renjie Pi et al., 2022) [:book:](./citations/pi2022dynafed.txt)
 + [Meta Knowledge Condensation for Federated Learning](https://arxiv.org/abs/2209.14851) (Ping Liu et al., ICLR 2023) [:book:](./citations/liu2023meta.txt)
 + [FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning](https://arxiv.org/abs/2207.09653) (Yuanhao Xiong & Ruochen Wang et al., CVPR 2023) [:book:](./citations/xiong2023feddm.txt)
++ [Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments](https://arxiv.org/abs/2208.11311) (Rui Song et al., IJCNN 2023) [:book:](./citations/song2023federated.txt)
 + [Fed-GLOSS-DP: Federated, Global Learning using Synthetic Sets with Record Level Differential Privacy](https://arxiv.org/abs/2302.01068) (Hui-Po Wang et al., 2023) [:book:](./citations/wang2023fed.txt)
 + [Federated Virtual Learning on Heterogeneous Data with Local-global Distillation](https://arxiv.org/abs/2303.02278) (Chun-Yin Huang et al., 2023) [:book:](./citations/huang2023federated.txt)
 
