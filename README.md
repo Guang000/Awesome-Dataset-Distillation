@@ -17,6 +17,19 @@ In recent years (2019-now), dataset distillation has gained increasing attention
 + :octocat: Code
 + :book: `bibtex`
 
+## Citing Awesome-Dataset-Distillation
+
+If you find this project useful for your research, please use the following BibTeX entry.
+
+```
+@misc{li2022awesome,
+  author =  {Li, Guang and Zhao, Bo and Wang, Tongzhou},
+  title = {Awesome-Dataset-Distillation},
+  howpublished = {\url{https://github.com/Guang000/Awesome-Dataset-Distillation}},
+  year = {2022}
+}
+```
+
 ## Contents
 - [Main](#main)
   - [Early Work](#early-work)
