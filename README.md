@@ -124,6 +124,11 @@ If you find this project useful for your research, please use the following BibT
 + [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS 2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation) [:book:](./citations/bohdal2020flexible.txt)
 + [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN 2021) [:octocat:](https://github.com/ilia10000/dataset-distillation) [:book:](./citations/sucholutsky2021soft.txt)
 
+<a name="label" />
+
+### Multimodal Distillation
++ [Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:octocat:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:book:](./citations/wu2023multi.txt)
+
 <a name="benchmark" />
 
 ### Benchmark
@@ -222,7 +227,6 @@ If you find this project useful for your research, please use the following BibT
 
 ### Retrieval
 + [Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching](https://arxiv.org/abs/2305.18076) (Tao Feng & Jie Zhang et al., 2023) [:book:](./citations/feng2023hash.txt)
-+ [Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:octocat:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:book:](./citations/wu2023multi.txt)
 
 <a name="text" />
 
