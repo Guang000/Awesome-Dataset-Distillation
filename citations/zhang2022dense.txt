@@ -1,8 +1,6 @@
-@article{zhang2022dense,
-  title={Dense: Data-free one-shot federated learning},
+@inproceedings{zhang2022dense,
+  title={{DENSE}: Data-Free One-Shot Federated Learning},
   author={Zhang, Jie and Chen, Chen and Li, Bo and Lyu, Lingjuan and Wu, Shuang and Ding, Shouhong and Shen, Chunhua and Wu, Chao},
-  journal={Advances in Neural Information Processing Systems},
-  volume={35},
-  pages={21414--21428},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
 }
