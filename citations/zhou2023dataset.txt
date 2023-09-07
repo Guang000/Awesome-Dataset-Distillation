@@ -1,0 +1,6 @@
+@article{zhou2023dataset,
+  title={Dataset Quantization},
+  author={Zhou, Daquan and Wang, Kai and Gu, Jianyang and Peng, Xiangyu and Lian, Dongze and Zhang, Yifan and You, Yang and Feng, Jiashi},
+  journal={arXiv preprint arXiv:2308.10524},
+  year={2023}
+}
