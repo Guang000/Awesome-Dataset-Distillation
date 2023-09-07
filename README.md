@@ -100,7 +100,7 @@ If you find this project useful for your research, please use the following BibT
 + [Efficient Dataset Distillation using Random Feature Approximation](https://arxiv.org/abs/2210.12067) (Noel Loo et al., NeurIPS 2022) [:octocat:](https://github.com/yolky/RFAD) [:book:](./citations/loo2022efficient.txt)
 + [Accelerating Dataset Distillation via Model Augmentation](https://arxiv.org/abs/2212.06152) (Lei Zhang & Jie Zhang et al., CVPR 2023) [:book:](./citations/zhang2023accelerating.txt)
 + [Dataset Distillation with Convexified Implicit Gradients](https://arxiv.org/abs/2302.06755) (Noel Loo et al., ICML 2023) [:octocat:](https://github.com/yolky/RCIG) [:book:](./citations/loo2023dataset.txt)
-+ [Dataset Quantization](https://arxiv.org/abs/2308.10524)(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023)[:octocat:](https://github.com/magic-research/Dataset_Quantization) [:book:](./citations/zhou2023dataset.txt)
++ [Dataset Quantization](https://arxiv.org/abs/2308.10524)(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023) [:octocat:](https://github.com/magic-research/Dataset_Quantization) [:book:](./citations/zhou2023dataset.txt)
 
 <a name="parametrization" />
 
@@ -182,7 +182,7 @@ If you find this project useful for your research, please use the following BibT
 ### Federated Learning
 + [Federated Learning via Synthetic Data](https://arxiv.org/abs/2008.04489) (Jack Goetz et al., 2020) [:book:](./citations/goetz2020federated.txt)
 + [Distilled One-Shot Federated Learning](https://arxiv.org/abs/2009.07999) (Yanlin Zhou et al., 2020) [:book:](./citations/zhou2020distilled.txt)
-+ [DENSE: Data-Free One-Shot Federated Learning](https://arxiv.org/abs/2112.12371)(Jie Zhang et al., NeurIPS 2022)[:book:](./citations/zhang2022dense.txt)
++ [DENSE: Data-Free One-Shot Federated Learning](https://arxiv.org/abs/2112.12371)(Jie Zhang & Chen Chen et al., NeurIPS 2022) [:book:](./citations/zhang2022dense.txt)
 + [FedSynth: Gradient Compression via Synthetic Data in Federated Learning](https://arxiv.org/abs/2204.01273) (Shengyuan Hu et al., 2022) [:book:](./citations/hu2022fedsynth.txt)
 + [DYNAFED: Tackling Client Data Heterogeneity with Global Dynamics](https://arxiv.org/abs/2211.10878) (Renjie Pi et al., 2022) [:book:](./citations/pi2022dynafed.txt)
 + [Meta Knowledge Condensation for Federated Learning](https://arxiv.org/abs/2209.14851) (Ping Liu et al., ICLR 2023) [:book:](./citations/liu2023meta.txt)
