@@ -39,8 +39,8 @@ If you find this project useful for your research, please use the following BibT
   - [Distilled Dataset Parametrization](#parametrization)
   - [Label Distillation](#label)
   - [Calibration](#calibration)
-  - [Multimodal Distillation](#multi)
   - [Dataset Quantization](#quant)
+  - [Multimodal Distillation](#multi)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
 - [Applications](#applications)
@@ -126,15 +126,16 @@ If you find this project useful for your research, please use the following BibT
 ### Calibration
 + [Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463) (Dongyao Zhu et al., ICCV 2023) [:book:](./citations/zhu2023calibration.txt)
 
+<a name="quant" />
+
+### Dataset Quantization
++ [Dataset Quantization](https://arxiv.org/abs/2308.10524)(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023) [:octocat:](https://github.com/magic-research/Dataset_Quantization) [:book:](./citations/zhou2023dataset.txt)
+
 <a name="multi" />
 
 ### Multimodal Distillation
 + [Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
 
-<a name="quant" />
-
-### Dataset Quantization
-+ [Dataset Quantization](https://arxiv.org/abs/2308.10524)(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023) [:octocat:](https://github.com/magic-research/Dataset_Quantization) [:book:](./citations/zhou2023dataset.txt)
 <a name="benchmark" />
 
 ### Benchmark
