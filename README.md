@@ -37,9 +37,10 @@ If you find this project useful for your research, please use the following BibT
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
   - [Better Optimization](#optimization)
   - [Distilled Dataset Parametrization](#parametrization)
-  - [Calibration](#calibration)
   - [Label Distillation](#label)
+  - [Calibration](#calibration)
   - [Multimodal Distillation](#multi)
+  - [Dataset Quantization](#quant)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
 - [Applications](#applications)
@@ -100,7 +101,6 @@ If you find this project useful for your research, please use the following BibT
 + [Efficient Dataset Distillation using Random Feature Approximation](https://arxiv.org/abs/2210.12067) (Noel Loo et al., NeurIPS 2022) [:octocat:](https://github.com/yolky/RFAD) [:book:](./citations/loo2022efficient.txt)
 + [Accelerating Dataset Distillation via Model Augmentation](https://arxiv.org/abs/2212.06152) (Lei Zhang & Jie Zhang et al., CVPR 2023) [:book:](./citations/zhang2023accelerating.txt)
 + [Dataset Distillation with Convexified Implicit Gradients](https://arxiv.org/abs/2302.06755) (Noel Loo et al., ICML 2023) [:octocat:](https://github.com/yolky/RCIG) [:book:](./citations/loo2023dataset.txt)
-+ [Dataset Quantization](https://arxiv.org/abs/2308.10524)(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023) [:octocat:](https://github.com/magic-research/Dataset_Quantization) [:book:](./citations/zhou2023dataset.txt)
 
 <a name="parametrization" />
 
@@ -115,22 +115,26 @@ If you find this project useful for your research, please use the following BibT
 + [Generalizing Dataset Distillation via Deep Generative Prior](https://arxiv.org/abs/2305.01649) (George Cazenavette et al., CVPR 2023) [:globe_with_meridians:](https://georgecazenavette.github.io/glad/) [:octocat:](https://github.com/georgecazenavette/glad) [:book:](./citations/cazenavette2023glad.txt)
 + [DiM: Distilling Dataset into Generative Model](https://arxiv.org/abs/2303.04707) (Kai Wang & Jianyang Gu et al., 2023) [:octocat:](https://github.com/vimar-gu/DiM) [:book:](./citations/wang2023dim.txt)
 
-<a name="calibration" />
-
-### Calibration
-+ [Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463) (Dongyao Zhu et al., ICCV 2023) [:book:](./citations/zhu2023calibration.txt)
-
 <a name="label" />
 
 ### Label Distillation
 + [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS 2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation) [:book:](./citations/bohdal2020flexible.txt)
 + [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN 2021) [:octocat:](https://github.com/ilia10000/dataset-distillation) [:book:](./citations/sucholutsky2021soft.txt)
 
+<a name="calibration" />
+
+### Calibration
++ [Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463) (Dongyao Zhu et al., ICCV 2023) [:book:](./citations/zhu2023calibration.txt)
+
+<a name="multi" />
+
+### Dataset Quantization
++ [Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
+
 <a name="multi" />
 
 ### Multimodal Distillation
-+ [Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
-
++ [Dataset Quantization](https://arxiv.org/abs/2308.10524)(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023) [:octocat:](https://github.com/magic-research/Dataset_Quantization) [:book:](./citations/zhou2023dataset.txt)
 <a name="benchmark" />
 
 ### Benchmark
