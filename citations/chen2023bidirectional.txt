@@ -2,5 +2,6 @@
   title={Bidirectional Learning for Offline Model-based Biological Sequence Design},
   author={Chen, Can and Zhang, Yingxue and Liu, Xue and Coates, Mark},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={5351--5366}
   year={2023}
 }
