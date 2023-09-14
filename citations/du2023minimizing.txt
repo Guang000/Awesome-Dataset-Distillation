@@ -2,5 +2,6 @@
   title={Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation},
   author={Du, Jiawei and Jiang, Yidi and Tan, Vincent T. F. and Zhou, Joey Tianyi and Li, Haizhou},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={3749--3758},
   year={2023}
 }
