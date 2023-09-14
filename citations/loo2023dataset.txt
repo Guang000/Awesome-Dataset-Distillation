@@ -2,5 +2,6 @@
   title={Dataset Distillation with Convexified Implicit Gradients},
   author={Loo, Noel and Hasani, Ramin and Lechner, Mathias and Rus, Daniela},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  pages={22649--22674}
   year={2023}
 }
