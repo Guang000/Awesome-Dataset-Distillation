@@ -1,0 +1,7 @@
+@inproceedings{zhao2023idm,
+  title={Improved Distribution Matching for Dataset Condensation},
+  author={Zhao, Ganlong and Li, Guanbin and Qin, Yipeng and Yu, Yizhou},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={7856--7865}
+  year={2023}
+}
