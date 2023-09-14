@@ -2,5 +2,6 @@
   title={Accelerating Dataset Distillation via Model Augmentation},
   author={Zhang, Lei and Zhang, Jie and Lei, Bowen and Mukherjee, Subhabrata and Pan, Xiang and Zhao, Bo and Ding, Caiwen and Li, Yao and Xu Dongkuan},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={11950--11959},
   year={2023}
 }
