@@ -2,6 +2,6 @@
   title={Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory},
   author={Cui, Justin and Wang, Ruochen and Si, Si and Hsieh, Cho-Jui},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
-  pages={6565--6590}
+  pages={6565--6590},
   year={2023}
 }
