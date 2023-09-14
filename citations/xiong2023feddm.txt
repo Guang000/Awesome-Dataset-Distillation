@@ -2,5 +2,6 @@
   title={{FedDM}: Iterative Distribution Matching for Communication-Efficient Federated Learning},
   author={Xiong, Yuanhao and Wang, Ruochen and Cheng, Minhao and Yu, Felix and Hsieh, Cho-Jui},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={16323--16332},
   year={2023}
 }
