@@ -1,0 +1,6 @@
+@inproceedings{wang2023cgm,
+  title={Private Set Generation with Discriminative Information},
+  author={Wang, Chen and Sun, Jiacheng and Dong, Zhenhua and Li, Ruixuan and Zhang, Rui},
+  booktitle={Proceedings of the ACM Conference on Recommender Systems (RecSys)},
+  year={2023}
+}
