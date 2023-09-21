@@ -1,0 +1,6 @@
+@article{liu2023cat,
+  title={CaT: Balanced Continual Graph Learning with Graph Condensation},
+  author={Liu, Yilun and Qiu, Ruihong and Huang, Zi},
+  journal={arXiv preprint arXiv:2309.09455},
+  year={2023}
+}
