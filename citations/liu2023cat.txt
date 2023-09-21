@@ -1,0 +1,6 @@
+@inproceedings{liu2023cat,
+  title={CaT: Balanced Continual Graph Learning with Graph Condensation},
+  author={Liu, Yilun and Qiu, Ruihong and Huang, Zi},
+  booktitle={Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+  year={2023}
+}
