@@ -2,5 +2,6 @@
   title={{DREAM}: Efficient Dataset Distillation by Representative Matching},
   author={Liu, Yanqing and Gu, Jianyang and Wang, Kai and Zhu, Zheng and Jiang, Wei and You, Yang},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={17314--17324}
   year={2023}
 }
