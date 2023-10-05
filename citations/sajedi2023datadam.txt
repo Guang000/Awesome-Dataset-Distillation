@@ -1,0 +1,6 @@
+@inproceedings{sajedi2023datadam,
+  title={{DataDAM}: Efficient Dataset Distillation with Attention Matching},
+  author={Sajedi, Ahmad and Khaki, Samir and Amjadian, Ehsan and Liu, Lucy Z. and Lawryshyn, Yuri A. and Plataniotis, Konstantinos N.},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={17097--17107}
+  year={2023}
