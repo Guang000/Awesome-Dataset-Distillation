@@ -131,7 +131,7 @@ If you find this project useful for your research, please use the following BibT
 <a name="multi" />
 
 ### Multimodal Distillation
-+ [Multimodal Dataset Distillation for Image-Text Retrieval](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
++ [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
 
 <a name="benchmark" />
 
