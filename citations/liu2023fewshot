@@ -1,0 +1,7 @@
+@inproceedings{liu2023fewshot,
+  title={Few-Shot Dataset Distillation via Translative Pre-Training},
+  author={Liu, Songhua and Wang, Xinchao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={18654--18664}
+  year={2023}
+}
