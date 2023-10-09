@@ -1,6 +1,6 @@
 @article{lei2023survey,
   title={A Comprehensive Survey to Dataset Distillation},
   author={Lei, Shiye and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2301.05603},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2023}
 }
