@@ -1,6 +1,6 @@
 @article{yu2023review,
   title={A Comprehensive Survey to Dataset Distillation},
   author={Yu, Ruonan and Liu, Songhua and Wang, Xinchao},
-  journal={arXiv preprint arXiv:2301.07014},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2023}
 }
