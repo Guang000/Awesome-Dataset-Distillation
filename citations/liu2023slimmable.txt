@@ -1,0 +1,7 @@
+@inproceedings{liu2023slimmable,
+  title={Slimmable Dataset Condensation},
+  author={Liu,Songhua and Ye, Jingwen and Yu, Runpeng and Wang, Xinchao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={3759--3768},
+  year={2023}
+}
