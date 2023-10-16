@@ -1,0 +1,6 @@
+@inproceedings{yang2023sgdd,
+title={Does Graph Distillation See Like Vision Dataset Counterpart?},
+author={Yang, Beining and Wang, Kai and Sun, Qingyun and Ji, Cheng and Fu, Xingcheng and Tang, Hao and You, Yang and Li, Jianxin},
+booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+year={2023}
+}
