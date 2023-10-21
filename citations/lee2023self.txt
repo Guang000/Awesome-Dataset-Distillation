@@ -1,0 +1,6 @@
+@article{lee2023self,
+  title={Self-Supervised Dataset Distillation for Transfer Learning},
+  author={Lee, Dong Bok and Lee, Seanie and Ko, Joonho and Kawaguchi, Kenji and Lee, Juho and Hwang, Sung Ju},
+  journal={https://arxiv.org/abs/2310.06511},
+  year={2023}
+}
