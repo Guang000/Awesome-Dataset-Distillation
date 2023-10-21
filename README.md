@@ -41,7 +41,7 @@ If you find this project useful for your research, please use the following BibT
   - [Label Distillation](#label)
   - [Dataset Quantization](#quant)
   - [Multimodal Distillation](#multi)
-  - [Self-supervied Distillation](#self)
+  - [Self-Supervied Distillation](#self)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
 - [Applications](#applications)
@@ -144,9 +144,9 @@ If you find this project useful for your research, please use the following BibT
 ### Multimodal Distillation
 + [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
 
-<a name="slef" />
+<a name="self" />
 
-### Self-supervised Distillation
+### Self-Supervised Distillation
 + [Self-Supervised Dataset Distillation for Transfer Learning](https://arxiv.org/abs/2310.06511) (Dong Bok Lee & Seanie Lee et al., 2023) [:book:](./citations/lee2023self.txt)
 
 <a name="benchmark" />
