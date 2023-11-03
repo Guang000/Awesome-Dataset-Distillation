@@ -1,0 +1,6 @@
+@article{xu2023distill,
+  title={Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection},
+  author={Xu, Yue and Li, Yong-Lu and Cui, Kaitong and Wang, Ziyu and Lu, Cewu and Tai, Yu-Wing and Tang, Chi-Keung},
+  journal={arXiv preprint arXiv:2305.18381},
+  year={2023}
+}
