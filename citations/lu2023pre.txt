@@ -1,0 +1,6 @@
+@article{lu2023pre,
+  title={Can pre-trained models assist in dataset distillation?},
+  author={Lu, Yao and Chen, Xuguang and Zhang, Yuchen and Gu, Jianyang and Zhang, Tianle and Zhang, Yifan and Yang, Xiaoniu and Xuan, Qi and Wang, Kai and You, Yang},
+  journal={arXiv preprint arXiv:2310.03295},
+  year={2023}
+}
