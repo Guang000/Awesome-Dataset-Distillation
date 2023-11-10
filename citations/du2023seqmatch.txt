@@ -1,0 +1,6 @@
+@inproceedings{du2023seqmatch,
+  title={Sequential Subset Matching for Dataset Distillation},
+  author={Du, Jiawei and Shi, Qin and Zhou, Joey Tianyi},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023}
+}
