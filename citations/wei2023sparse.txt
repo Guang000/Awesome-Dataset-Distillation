@@ -1,0 +1,6 @@
+@inproceedings{wei2023sparse,
+    title={Sparse Parameterization for Epitomic Dataset Distillation},
+    author={Xing Wei and Anjia Cao and Funing Yang and Zhiheng Ma},
+    booktitle={NeurIPS},
+    year={2023}
+}
