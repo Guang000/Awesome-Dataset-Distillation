@@ -1,0 +1,6 @@
+@inproceedings{shin2023frequency,
+  title={Frequency Domain-Based Dataset Distillation},
+  author={Shin, DongHyeok and Shin, Seungjae and Moon, Il-chul},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
