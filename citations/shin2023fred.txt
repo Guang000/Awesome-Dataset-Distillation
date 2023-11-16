@@ -1,4 +1,4 @@
-@inproceedings{shin2023fredd,
+@inproceedings{shin2023fred,
   title={Frequency Domain-Based Dataset Distillation},
   author={Shin, DongHyeok and Shin, Seungjae and Moon, Il-chul},
   booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
