@@ -1,0 +1,6 @@
+@article{gu2023efficient,
+  title={Efficient Dataset Distillation via Minimax Diffusion},
+  author={Gu, Jianyang and Vahidian, Saeed and Kungurtsev, Vyacheslav and Wang, Haonan and Jiang, Wei and You, Yang and Chen, Yiran},
+  journal={arXiv preprint arXiv:2311.15529},
+  year={2023}
+}
