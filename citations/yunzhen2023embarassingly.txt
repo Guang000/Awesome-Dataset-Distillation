@@ -1,0 +1,6 @@
+@article{yunzhen2023embarassingly,
+  title={Embarassingly Simple Dataset Distillation},
+  author={Yunzhen, Feng and Ramakrishna, Vedantam and Julia, Kempe},
+  journal={arXiv preprint arXiv:2311.07025},
+  year={2023}
+}
