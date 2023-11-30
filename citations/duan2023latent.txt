@@ -1,0 +1,6 @@
+@article{duan2023latent,
+  title={Dataset Distillation in Latent Space},
+  author={Duan, Yuxuan and Zhang, Jianfu and Zhang, Liqing},
+  journal={arXiv preprint arXiv:2311.15547},
+  year={2023}
+}
