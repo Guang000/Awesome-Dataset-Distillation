@@ -184,6 +184,7 @@ If you find this project useful for your research, please use the following BibT
 + [Distilled Replay: Overcoming Forgetting through Synthetic Samples](https://arxiv.org/abs/2103.15851) (Andrea Rosasco et al., IJCAI 2021 Workshop) [:octocat:](https://github.com/andrearosasco/DistilledReplay) [:book:](./citations/rosasco2021distilled.txt)
 + [Sample Condensation in Online Continual Learning](https://arxiv.org/abs/2206.11849) (Mattia Sangermano et al., IJCNN 2022) [:book:](./citations/sangermano2022sample.txt)
 + [Summarizing Stream Data for Memory-Restricted Online Continual Learning](https://arxiv.org/abs/2305.16645) (Jianyang Gu et al., 2023) [:octocat:](https://github.com/vimar-gu/SSD) [:book:](./citations/gu2023ssd.txt)
++ [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/pdf?id=Murj6wcjRw) (Enneng Yang et al., NeurIPS 2023) [:book:](./citations/yang2023efficient.txt)
 
 <a name="privacy" />
 
