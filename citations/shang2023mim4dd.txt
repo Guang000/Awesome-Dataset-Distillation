@@ -1,0 +1,6 @@
+@inproceedings{shang2023mim4dd,
+title={{MIM4DD}: Mutual Information Maximization for Dataset Distillation},
+author={Shang, Yuzhang and Yuan, Zhihang and Yan, Yan},
+booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+year={2023}
+}
