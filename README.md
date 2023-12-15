@@ -180,7 +180,7 @@ If you find this project useful for your research, please use the following BibT
 <a name="thesis" />
 
 ### PhD Thesis
-+ [Data-efficient Neural Network Training with Dataset Condensation](https://era.ed.ac.uk/bitstream/handle/1842/39756/ZhaoB_2022.pdf?sequence=1) (Bo Zhao. The University of Edinburgh 2023) [:book:](./citations/zhao2023thesis.txt)
++ [Data-efficient Neural Network Training with Dataset Condensation](https://era.ed.ac.uk/bitstream/handle/1842/39756) (Bo Zhao, The University of Edinburgh 2023) [:book:](./citations/zhao2023thesis.txt)
 
 
 ## Applications
