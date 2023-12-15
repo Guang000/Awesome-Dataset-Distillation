@@ -1,0 +1,6 @@
+@article{zhao2023data,
+  title={Data-efficient neural network training with dataset condensation},
+  author={Zhao, Bo},
+  year={2023},
+  publisher={The University of Edinburgh}
+}
