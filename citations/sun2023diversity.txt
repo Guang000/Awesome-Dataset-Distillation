@@ -1,0 +1,6 @@
+@article{sun2023diversity,
+  title={On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm},
+  author={Sun, Peng and Shi, Bei and Yu, Daiwei and Lin, Tao},
+  journal={arXiv preprint arXiv:2312.03526},
+  year={2023}
+}
