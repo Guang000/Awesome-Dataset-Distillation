@@ -11,7 +11,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 **This project is curated and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/), [Bo Zhao](https://www.bozhao.me/), and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
-<img src="./logo.jpg" width="30%"/>
+<img src="./images/logo.jpg" width="30%"/>
 
 #### [How to submit a pull request?](./CONTRIBUTING.md)
 
