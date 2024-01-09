@@ -1,6 +1,6 @@
 @inproceedings{zheng2023sfgc,
-title={Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data},
-author={Zheng, Xin and Zhang, Miao and Chen, Chunyang and Nguyen, Quoc Viet Hung and Zhu, Xingquan and Pan, Shirui},
-booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
-year={2023}
+  title={Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data},
+  author={Zheng, Xin and Zhang, Miao and Chen, Chunyang and Nguyen, Quoc Viet Hung and Zhu, Xingquan and Pan, Shirui},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023}
 }
