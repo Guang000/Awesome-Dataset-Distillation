@@ -1,6 +1,6 @@
 @inproceedings{guan2023galaxy,
-title={Discovering Galaxy Features via Dataset Distillation},
-author={Guan, Haowen and Zhao, Xuan and Wang, Zishi and Li, Zhiyang and Kempe, Julia},
-booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
-year={2023}
+  title={Discovering Galaxy Features via Dataset Distillation},
+  author={Guan, Haowen and Zhao, Xuan and Wang, Zishi and Li, Zhiyang and Kempe, Julia},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
+  year={2023}
 }
