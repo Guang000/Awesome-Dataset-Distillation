@@ -1,6 +1,6 @@
 @inproceedings{yang2023efficient,
-title={An Efficient Dataset Condensation Plugin and Its Application to Continual Learning},
-author={Yang, Enneng and Shen, Li and Wang, Zhenyi and Liu, Tongliang and Guo, Guibing},
-booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
-year={2023}
+  title={An Efficient Dataset Condensation Plugin and Its Application to Continual Learning},
+  author={Yang, Enneng and Shen, Li and Wang, Zhenyi and Liu, Tongliang and Guo, Guibing},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023}
 }
