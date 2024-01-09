@@ -1,6 +1,6 @@
 @inproceedings{liu2023mgdd,
-title={{MGDD}: A Meta Generator for Fast Dataset Distillation},
-author={Liu, Songhua and Wang, Xinchao},
-booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
-year={2023}
+  title={{MGDD}: A Meta Generator for Fast Dataset Distillation},
+  author={Liu, Songhua and Wang, Xinchao},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023}
 }
