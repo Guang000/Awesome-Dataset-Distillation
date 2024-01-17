@@ -1,6 +1,6 @@
-@article{guo2023datm,
+@inproceedings{guo2024datm,
   title={Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching},
   author={Guo, Ziyao and Wang, Kai and Cazenavette, George and Li, Hui and Zhang, Kaipeng and You, Yang},
-  journal={https://arxiv.org/abs/2310.05773},
-  year={2023}
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
 }
