@@ -208,7 +208,7 @@ If you find this project useful for your research, please use the following BibT
 + [Towards Robust Dataset Learning](https://arxiv.org/abs/2211.10752) (Yihan Wu et al., 2022) [:book:](./citations/wu2022towards.txt)
 + [Backdoor Attacks Against Dataset Distillation](https://arxiv.org/abs/2301.01197) (Yugeng Liu et al., NDSS 2023) [:octocat:](https://github.com/liuyugeng/baadd) [:book:](./citations/liu2023backdoor.txt)
 + [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation](https://arxiv.org/abs/2301.13389) (Margarita Vinaroz et al., 2023) [:book:](./citations/vinaroz2023dpkip.txt)
-+ [Dataset Distillation Fixes Dataset Reconstruction Attacks](https://arxiv.org/abs/2302.01428) (Noel Loo et al., 2023) [:octocat:](https://github.com/yolky/distillation_fixes_reconstruction) [:book:](./citations/loo2023attack.txt)
++ [Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation](https://arxiv.org/abs/2302.01428) (Noel Loo et al., ICLR 2024) [:octocat:](https://github.com/yolky/distillation_fixes_reconstruction) [:book:](./citations/loo2024attack.txt)
 + [Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective](https://arxiv.org/abs/2311.16646) (Ming-Yu Chung et al., ICLR 2024) [:book:](./citations/chung2024backdoor.txt)
 
 <a name="medical" />
