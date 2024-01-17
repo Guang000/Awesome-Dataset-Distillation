@@ -46,7 +46,7 @@ If you find this project useful for your research, please use the following BibT
   - [Self-Supervied Distillation](#self)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
-  - [PhD Thesis](#thesis)
+  - [Ph.D. Thesis](#thesis)
 - [Applications](#applications)
   - [Continual Learning](#continual)
   - [Privacy](#privacy)
@@ -182,7 +182,7 @@ If you find this project useful for your research, please use the following BibT
 
 <a name="thesis" />
 
-### PhD Thesis
+### Ph.D. Thesis
 + [Data-efficient Neural Network Training with Dataset Condensation](https://era.ed.ac.uk/handle/1842/39756) (Bo Zhao, The University of Edinburgh 2023) [:book:](./citations/zhao2023thesis.txt)
 
 
@@ -209,7 +209,7 @@ If you find this project useful for your research, please use the following BibT
 + [Backdoor Attacks Against Dataset Distillation](https://arxiv.org/abs/2301.01197) (Yugeng Liu et al., NDSS 2023) [:octocat:](https://github.com/liuyugeng/baadd) [:book:](./citations/liu2023backdoor.txt)
 + [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation](https://arxiv.org/abs/2301.13389) (Margarita Vinaroz et al., 2023) [:book:](./citations/vinaroz2023dpkip.txt)
 + [Dataset Distillation Fixes Dataset Reconstruction Attacks](https://arxiv.org/abs/2302.01428) (Noel Loo et al., 2023) [:octocat:](https://github.com/yolky/distillation_fixes_reconstruction) [:book:](./citations/loo2023attack.txt)
-+ [Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective](https://arxiv.org/abs/2311.16646) (Ming-Yu Chung et al., ICLR 2024) [:book:](./citations/chun2024backdoor.txt)
++ [Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective](https://arxiv.org/abs/2311.16646) (Ming-Yu Chung et al., ICLR 2024) [:book:](./citations/chung2024backdoor.txt)
 
 <a name="medical" />
 
