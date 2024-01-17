@@ -1,6 +1,6 @@
 @inproceedings{loo2024attack,
   title={Dataset Distillation Fixes Dataset Reconstruction Attacks},
-  author={Loo, Noel and Hasani, Ramin and Lechner, Mathias and Rus, Daniela},
+  author={Loo, Noel and Hasani, Ramin and Lechner, Mathias and Amini, Alexander and Rus, Daniela},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
   year={2024}
 }
