@@ -1,0 +1,6 @@
+@inproceedings{chung2024backdoor,
+  title={Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective},
+  author={Chung, Ming-Yu and Chou, Sheng-Yen and Yu, Chia-Mu and Chen, Pin-Yu and Kuo, Sy-Yen and Ho, Tsung-Yi},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
