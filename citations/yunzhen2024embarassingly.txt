@@ -1,0 +1,6 @@
+@inproceedings{yunzhen2024embarassingly,
+  title={Embarassingly Simple Dataset Distillation},
+  author={Yunzhen, Feng and Ramakrishna, Vedantam and Julia, Kempe},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
