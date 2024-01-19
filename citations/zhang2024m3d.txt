@@ -1,0 +1,6 @@
+@inproceedings{zhang2024m3d,
+  title={{M3D}: Dataset Condensation by Minimizing Maximum Mean Discrepancy},
+  author={Zhang, Hansong and Li, Shikun and Wang, Pengju and Zeng, Dan Ge, Shiming},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2024}
+}
