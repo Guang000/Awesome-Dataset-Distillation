@@ -26,7 +26,7 @@ If you find this project useful for your research, please use the following BibT
 ```
 @misc{li2022awesome,
   author={Li, Guang and Zhao, Bo and Wang, Tongzhou},
-  title={Awesome-Dataset-Distillation},
+  title={Awesome Dataset Distillation},
   howpublished={\url{https://github.com/Guang000/Awesome-Dataset-Distillation}},
   year={2022}
 }
