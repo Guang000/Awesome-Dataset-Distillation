@@ -19,7 +19,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :octocat: Code
 + :book: `bibtex`
 
-## Citing Awesome-Dataset-Distillation
+## Citing Awesome Dataset Distillation
 
 If you find this project useful for your research, please use the following BibTeX entry.
 
