@@ -47,6 +47,7 @@ If you find this project useful for your research, please use the following BibT
   - [Benchmark](#benchmark)
   - [Survey](#survey)
   - [Ph.D. Thesis](#thesis)
+  - [Workshop](#workshop)
 - [Applications](#applications)
   - [Continual Learning](#continual)
   - [Privacy](#privacy)
@@ -187,6 +188,10 @@ If you find this project useful for your research, please use the following BibT
 ### Ph.D. Thesis
 + [Data-efficient Neural Network Training with Dataset Condensation](https://era.ed.ac.uk/handle/1842/39756) (Bo Zhao, The University of Edinburgh 2023) [:book:](./citations/zhao2023thesis.txt)
 
+<a name="workshop" />
+
+### Workshop
++ [1st Workshop on Dataset Distillation for Computer Vision](https://sites.google.com/view/dd-cvpr2024/home) (Saeed Vahidian et al., CVPR 2024)
 
 ## Applications
 
