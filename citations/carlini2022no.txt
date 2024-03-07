@@ -1,5 +1,5 @@
 @article{carlini2022no,
-  title={Dataset Distillation},
+  title={No Free Lunch in "Privacy for Free: How does Dataset Condensation Help Privacy"},
   author={Carlini, Nicholas and Feldman, Vitaly and Nasr, Milad},
   journal={arXiv preprint arXiv:2209.14987},
   year={2022}
