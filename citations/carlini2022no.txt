@@ -1,0 +1,6 @@
+@article{carlini2022no,
+  title={Dataset Distillation},
+  author={Carlini, Nicholas and Feldman, Vitaly and Nasr, Milad},
+  journal={arXiv preprint arXiv:2209.14987},
+  year={2022}
+}
