@@ -1,5 +1,5 @@
 @inproceedings{shao2024gvbsm,
-  title={Efficient Dataset Distillation via Minimax Diffusion},
+  title={Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching},
   author={Shao, Shitong and Yin, Zeyuan and Zhou, Muxin and Zhang, Xindong and Shen, Zhiqiang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2024}
