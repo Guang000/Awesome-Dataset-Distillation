@@ -11,7 +11,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 **This project is curated and maintained by [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/), [Bo Zhao](https://www.bozhao.me/), and [Tongzhou Wang](https://www.tongzhouwang.info/).**
 
-**The Awesome Dataset Distillation project now has its [Official Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) designed by [Longzhen Li](https://github.com/LOVELESSG).**
+**The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awesome Dataset Distillation was designed by [Longzhen Li](https://github.com/LOVELESSG).**
 
 <img src="./images/logo.jpg" width="30%"/>
 
