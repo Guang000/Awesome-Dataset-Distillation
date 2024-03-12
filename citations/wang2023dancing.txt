@@ -1,0 +1,6 @@
+@inproceedings{wang2023dancing,
+  title={Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement},
+  author={Wang, Ziyu and Xu, Yue and Lu, Cewu and Li, Yong-Lu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
