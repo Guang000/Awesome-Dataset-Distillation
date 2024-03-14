@@ -1,0 +1,6 @@
+@article{zhang2024ctrl,
+  title={Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching}, 
+  author={Zhang, Tianle and Zhang, Yuchen and Wang, Kun and Wang, Kai and Yang, Beining and Zhang, Kaipeng and Shao, Wenqi and Liu, Ping and Zhou, Joey Tianyi and You, Yang},
+  journal={arXiv preprint arXiv:2402.04924},
+  year={2024}
+}
