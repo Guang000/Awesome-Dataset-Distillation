@@ -1,0 +1,6 @@
+@article{zhang2024geom,
+  title={Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching}, 
+  author={Zhang, Yuchen and Zhang, Tianle and Wang, Kai and Guo, Ziyao and Liang, Yuxuan and Bresson, Xavier and Jin, Wei and You, Yang},
+  journal={arXiv preprint arXiv:2402.05011},
+  year={2024}
+}
