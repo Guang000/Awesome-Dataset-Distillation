@@ -2703,7 +2703,13 @@
 
 		<script>
 			function open_sidebar() {
-							document.getElementById("quickContent").style.width = "100%";
+                            let isMobile = navigator.userAgent.toLowerCase().match(/mobile/i)
+                            if (isMobile) {
+                                document.getElementById("quickContent").style.width = "100%";
+                            } else {
+                                document.getElementById("quickContent").style.width = "466px";
+                            }
+							
                             document.getElementById("sidebarTitle").style.position = "fixed";
 						}
 
