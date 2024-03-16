@@ -1,0 +1,6 @@
+@article{liu2024gcsr,
+  title={Graph Data Condensation via Self-expressive Graph Structure Reconstruction},
+  author={Liu, Zhanyu and Zeng, Chaolv and Zheng, Guanjie},
+  journal={arXiv preprint arXiv:2403.07294},
+  year={2024}
+}
