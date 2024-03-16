@@ -1,0 +1,6 @@
+@inproceedings{he2024mdc,
+  title={Multisize Dataset Condensation},
+  author={He, Yang and Xiao, Lingao and Tianyi Zhou, Joey and Tsang, Ivor},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
