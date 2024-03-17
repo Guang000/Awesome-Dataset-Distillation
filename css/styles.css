@@ -1,5 +1,9 @@
 @import url(theme.css);
 
+html {
+    scroll-padding-top: 72px;
+}
+
 a {
     text-decoration: none;
 }
