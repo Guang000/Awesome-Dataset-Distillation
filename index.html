@@ -36,6 +36,8 @@
 				</div>
 			</div>
 		</header>
+        
+        <div onclick="close_sidebar()" class="overlay" id="sidebarOverlay"></div>
 
 		<div class="background" style="height: 72px;"></div>
 		<div class="top-title">
@@ -2828,6 +2830,9 @@
                             } else {
                                 document.getElementById("quickContent").style.width = "466px";
 								document.getElementById("sidebarTitle").style.width = "466px";
+                                document.getElementById("sidebarOverlay").style.width = "100%";
+                                document.getElementById("sidebarOverlay").style.height = "100%";
+                                document.getElementById("awesome-dataset-distillation").style.overflow = "hidden";
                             }
 							
                             document.getElementById("sidebarTitle").style.position = "fixed";
@@ -2836,6 +2841,9 @@
 			function close_sidebar() {
 							document.getElementById("quickContent").style.width = "0";
                             document.getElementById("sidebarTitle").style.position = "static";
+                            document.getElementById("sidebarOverlay").style.width = "0";
+                            document.getElementById("sidebarOverlay").style.height = "0";
+                            document.getElementById("awesome-dataset-distillation").style.overflow = "visible";
 						}
 		</script>
 	</body>

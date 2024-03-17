@@ -82,7 +82,11 @@ header {
     transition: 0.3s;
 }
 
-
+.overlay {
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.8);
+}
 
 .navigation-list {
     display: block;
