@@ -28,6 +28,12 @@ header {
     position: fixed;
 }
 
+hr {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .top-bar {
     display: block;
     margin: 0;
@@ -178,6 +184,38 @@ header {
 .background-vision {
     line-height: 24px;
     margin: 0;
+}
+
+.lastupdate-container {
+    border-radius: 24px;
+    overflow: auto;
+    padding: 8px 0 0 0;
+    height: 360px;
+    scrollbar-width: none;
+}
+
+.last-essay-container {
+    border-radius: 24px;
+    padding: 24px;
+    margin: 0;
+    display: grid;
+    justify-content: space-between;
+    grid-column-gap: 20px;
+    column-gap: 20px;
+    grid-template-columns: 3fr 1fr;
+}
+
+.last-essay-container:hover {
+    color: var(--md-sys-color-on-primary-container);
+    background-color: var(--md-sys-color-primary-container);
+}
+
+/*.lastupdate-container::-webkit-scrollbar {
+    display: none;
+}*/
+
+.edit-date {
+    padding: 8px 24px;
 }
 
 .essay-container {
