@@ -13,7 +13,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 **The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awesome Dataset Distillation was designed and maintained by [Longzhen Li](https://github.com/LOVELESSG).**
 
-<img src="./images/logo.jpg" width="30%"/>
+<img src="./images/logo.jpg" width="20%"/>
 
 #### [How to submit a pull request?](./CONTRIBUTING.md)
 
