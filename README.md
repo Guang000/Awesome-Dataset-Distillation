@@ -21,18 +21,15 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :octocat: Code
 + :book: `bibtex`
 
-## Citing Awesome Dataset Distillation
+## Update
++ [2023/03/17] Added [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294)
++ [2023/03/17] Added [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245)
++ [2023/03/16] Added [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881)
++ [2023/03/16] Added [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075)
++ [2023/03/15] Added [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362)
++ [2023/03/15] Added [Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)
++ [2023/03/15] Added [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924)
 
-If you find this project useful for your research, please use the following BibTeX entry.
-
-```
-@misc{li2022awesome,
-  author={Li, Guang and Zhao, Bo and Wang, Tongzhou},
-  title={Awesome Dataset Distillation},
-  howpublished={\url{https://github.com/Guang000/Awesome-Dataset-Distillation}},
-  year={2022}
-}
-```
 
 ## Contents
 - [Main](#main)
@@ -338,3 +335,16 @@ If you find this project useful for your research, please use the following BibT
 ## Acknowledgments
 We would like to express our heartfelt thanks to [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), [Can Chen](https://github.com/GGchen1997), [Guangxiang Zhao](https://github.com/zhaoguangxiang), [Shiye Lei](https://github.com/LeavesLei), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/), [Dmitry Medvedev](https://github.com/dm-medvedev), [Seungjae Shin](https://github.com/SJShin-AI), [Jiawei Du](https://github.com/AngusDujw), [Yidi Jiang](https://github.com/Jiang-Yidi), [Xindi Wu](https://github.com/XindiWu), [Guangyi Liu](https://github.com/lgy0404), [Yilun Liu](https://github.com/superallen13), [Kai Wang](https://github.com/kaiwang960112), [Yue Xu](https://github.com/silicx), [Anjia Cao](https://github.com/CAOANJIA), [Jianyang Gu](https://github.com/vimar-gu), [Yuanzhen Feng](https://github.com/fengyzpku), [Peng Sun](https://github.com/sp12138), [Ahmad Sajedifor](https://github.com/AhmadSajedii), 
 [Zhihao Sui](https://github.com/suizhihao), and [Ziyu Wang](https://github.com/yuz1wan) for their valuable suggestions and contributions.
+
+## Citing Awesome Dataset Distillation
+
+If you find this project useful for your research, please use the following BibTeX entry.
+
+```
+@misc{li2022awesome,
+  author={Li, Guang and Zhao, Bo and Wang, Tongzhou},
+  title={Awesome Dataset Distillation},
+  howpublished={\url{https://github.com/Guang000/Awesome-Dataset-Distillation}},
+  year={2022}
+}
+```
