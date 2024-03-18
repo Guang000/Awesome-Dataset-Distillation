@@ -21,7 +21,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :octocat: Code
 + :book: `bibtex`
 
-## Update
+## Latest Updates
 + [2023/03/17] [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294)
 + [2023/03/17] [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245)
 + [2023/03/16] [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881)
