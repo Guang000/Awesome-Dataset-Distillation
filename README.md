@@ -22,13 +22,13 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Update
-+ [2023/03/17] Added [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294)
-+ [2023/03/17] Added [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245)
-+ [2023/03/16] Added [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881)
-+ [2023/03/16] Added [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075)
-+ [2023/03/15] Added [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362)
-+ [2023/03/15] Added [Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)
-+ [2023/03/15] Added [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924)
++ [2023/03/17] [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294)
++ [2023/03/17] [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245)
++ [2023/03/16] [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881)
++ [2023/03/16] [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075)
++ [2023/03/15] [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362)
++ [2023/03/15] [Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011)
++ [2023/03/15] [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924)
 
 ## Contents
 - [Main](#main)
