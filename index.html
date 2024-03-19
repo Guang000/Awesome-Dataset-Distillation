@@ -57,8 +57,9 @@
 				</div>
 			</div>
 		</div>
-
-
+        
+        
+        
 		<div class="sidebar surface-variant" id="quickContent">
 			<div class="top-bar" id="sidebarTitle">
                 <div class="surface-variant" style="height: 8px"></div>
@@ -113,6 +114,20 @@
 		</div>
 
 		<div class="overall-container">
+            
+            <div class="count-container">
+                <div class="item-number-container" onclick="location.href='https://github.com/Guang000/Awesome-Dataset-Distillation'">
+                    <p class="count-title on-background-text display-small">Github Stars:</p>
+                    <p class="count-number on-background-text display-large" id="starCount">1236</p>
+                </div>
+                <hr class="count-divider on-background-text">
+                <div class="item-number-container" onclick="location.href='https://github.com/Guang000/Awesome-Dataset-Distillation'">
+                    <p class="count-title on-background-text display-small">Paper Statistics:</p>
+                    <p class="count-number on-background-text display-large" id="starCount">125</p>
+                </div>
+            </div>
+            
+            
 			<h2 class="section-title display-medium on-background-text">Background & Vision</h2>
 			<div class="background-vision-container surface-variant">
 				<!--Put the Background information here-->
@@ -2956,6 +2971,14 @@
                             document.getElementById("sidebarOverlay").style.height = "0";
                             document.getElementById("awesome-dataset-distillation").style.overflow = "visible";
 						}
+            
+            window.onload = function(){
+                fetch('https://api.github.com/repos/guang000/awesome-dataset-distillation')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("starCount").innerHTML = data.stargazers_count;
+                })
+            }
 		</script>
 	</body>
 </html>

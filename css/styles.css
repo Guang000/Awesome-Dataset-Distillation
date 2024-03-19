@@ -119,6 +119,45 @@ hr {
     max-width: 1760px;
 }
 
+.count-container {
+    border-radius: 24px;
+    padding: 80px 24px 0 24px;
+    margin: 0;
+    display: grid;
+    justify-content: space-between;
+    grid-column-gap: 20px;
+    column-gap: 20px;
+    grid-template-columns: 6fr 1fr 6fr;
+    user-select: none;
+}
+
+.item-number-container {
+    border-radius: 24px;
+    cursor: pointer;
+}
+
+.item-number-container:hover {
+    color: var(--md-sys-color-on-primary-container);
+    background-color: var(--md-sys-color-primary-container);
+}
+
+.count-title {
+    margin: 0;
+    padding: 0 auto;
+    text-align: center;
+}
+
+.count-number {
+    margin: 16px 0 0 0;
+    text-align: center;
+}
+
+.count-divider {
+    width: 0;
+    height: 100%;
+    margin: 0 auto;
+}
+
 .title-brief {
     background-image: url(../images/titleBackground.png);
     background-position: 95% 5%;
@@ -258,10 +297,6 @@ hr {
     border-radius: 50%;
     place-items: center;
 }
-
-/*.essay-github {
-    max-width: 100%;
-}*/
 
 .essay-button:hover {
     fill: var(--md-sys-color-on-primary);
