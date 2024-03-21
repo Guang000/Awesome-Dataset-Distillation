@@ -22,11 +22,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2024/03/21] [Progressive Trajectory Matching for Medical Dataset Distillation](https://arxiv.org/abs/2403.13469) (Zhen Yu et al., 2024) [:book:](./citations/zhu2024progressive.txt)
 + [2024/03/17] [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294) (Zhanyu Liu & Chaolv Zeng et al., 2024) [:octocat:](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0) [:book:](./citations/liu2024gcsr.txt)
 + [2024/03/17] [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245) (Zhanyu Liu et al., 2024) [:book:](./citations/liu2024time.txt)
 + [2024/03/15] [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
 + [2024/03/15] [Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011) (Yuchen Zhang & Tianle Zhang & Kai Wang et al., 2024) [:octocat:](https://github.com/nus-hpc-ai-lab/geom) [:book:](./citations/zhang2024geom.txt)
-+ [2024/03/15] [Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching](https://arxiv.org/abs/2402.04924) (Tianle Zhang & Yuchen Zhang & Kai Wang et al., 2024) [:octocat:](https://github.com/nus-hpc-ai-lab/ctrl) [:book:](./citations/zhang2024ctrl.txt)
 
 ## Contents
 - [Main](#main)
@@ -228,6 +228,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing](https://arxiv.org/abs/2209.14635) (Guang Li et al., CMPB 2022) [:octocat:](https://github.com/Guang000/dataset-distillation) [:book:](./citations/li2022compressed.txt)
 + [Dataset Distillation for Medical Dataset Sharing](https://r2hcai.github.io/AAAI-23/pages/accepted-papers.html) (Guang Li et al., AAAI 2023 Workshop) [:octocat:](https://github.com/Guang000/mtt-distillation) [:book:](./citations/li2023sharing.txt)
 + [Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation](https://workshop2023.isic-archive.com) (Yuchen Tian & Jiacheng Wang, MICCAI 2023 Workshop) [:book:](./citations/tian2023gdd.txt)
++ [Progressive Trajectory Matching for Medical Dataset Distillation](https://arxiv.org/abs/2403.13469) (Zhen Yu et al., 2024) [:book:](./citations/zhu2024progressive.txt)
 
 <a name="fed" />
 
