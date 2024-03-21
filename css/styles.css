@@ -409,14 +409,8 @@ hr {
     .title-brief {
         filter: invert(100%);
     }
-    .visitor-map {
-        display: none;
-    }
-    
-}
 
-@media (prefers-color-scheme: light) {
-    .visitor-map-dark {
-        display: none;
+    .visitor-map {
+        filter: invert(89%);
     }
 }
