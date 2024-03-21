@@ -1,0 +1,6 @@
+@article{yu2024progressive,
+  title={Progressive Trajectory Matching for Medical Dataset Distillation},
+  author={Yu, Zhen and Liu, Yang and Chen, Qingchao},
+  journal={arXiv preprint arXiv:2403.13469},
+  year={2024}
+}
