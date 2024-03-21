@@ -167,11 +167,7 @@ hr {
     text-align: center;
 }
 
-@media (prefers-color-scheme: dark) {
-    .title-brief {
-        filter: invert(100%);
-    }
-}
+
 
 .title {
     margin: 0 0 8px 0;
@@ -396,5 +392,14 @@ hr {
     }
     .show-on-small-screens {
         display: none;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .title-brief {
+        filter: invert(100%);
+    }
+    .visitor-map {
+        filter: invert(100%);
     }
 }
