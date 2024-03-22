@@ -1,0 +1,6 @@
+@inproceedings{xu2023kidd,
+  title={Kernel Ridge Regression-Based Graph Dataset Distillation},
+  author={Xu, Zhe and Chen, Yuzhong and Pan, Menghai and Chen, Huiyuan and Das, Mahashweta and Yang, Hao, and Tong Hanghang},
+  booktitle={Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+  year={2023}
+}
