@@ -347,3 +347,7 @@ If you find this project useful for your research, please use the following BibT
   year={2022}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Guang000/Awesome-Dataset-Distillation&type=Date)](https://star-history.com/#Guang000/Awesome-Dataset-Distillation&Date)
