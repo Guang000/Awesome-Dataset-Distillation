@@ -1,0 +1,6 @@
+@article{xue2024robust,
+  title={Towards Adversarially Robust Dataset Distillation by Curvature Regularization}, 
+  author={Xue, Eric and Li, Yijiang and Liu, Haoyang and Shen, Yifan and Wang, Haohan},
+  journal={arXiv preprint arXiv:2403.10045},
+  year={2024}
+}
