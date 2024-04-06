@@ -1,0 +1,6 @@
+@inproceedings{maekawa2024dilm,
+  title={{DiLM}: Distilling Dataset into Language Model for Text-level Dataset Distillation},
+  author={Maekawa, Aru and Kosugi, Satoshi and Funakoshi, Kotaro and Okumura, Manabu},
+  booktitle={Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+  year={2024}
+}
