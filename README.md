@@ -322,14 +322,14 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Tabular
 + [New Properties of the Data Distillation Method When Working With Tabular Data](https://arxiv.org/abs/2010.09839) (Dmitry Medvedev et al., AIST 2020) [:octocat:](https://github.com/dm-medvedev/dataset-distillation) [:book:](./citations/medvedev2020tabular.txt)
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Guang000/Awesome-Dataset-Distillation&type=Date)](https://star-history.com/#Guang000/Awesome-Dataset-Distillation&Date)
+
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
 + [Most Popular AI Research Aug 2022](https://www.libhunt.com/posts/874974-d-most-popular-ai-research-aug-2022-ranked-based-on-github-stars)
 + [一个项目帮你了解数据集蒸馏Dataset Distillation](https://www.jiqizhixin.com/articles/2022-10-11-22)
 + [浓缩就是精华：用大一统视角看待数据集蒸馏](https://mp.weixin.qq.com/s/__IjS0_FMpu35X9cNhNhPg)
-
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Guang000/Awesome-Dataset-Distillation&type=Date)](https://star-history.com/#Guang000/Awesome-Dataset-Distillation&Date)
 
 ## Citing Awesome Dataset Distillation
 If you find this project useful for your research, please use the following BibTeX entry.
