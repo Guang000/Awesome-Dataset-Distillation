@@ -1,7 +1,7 @@
 @inproceedings{pi2023dynafed,
   title={{DYNAFED}: Tackling Client Data Heterogeneity with Global Dynamics},
   author={Pi, Renjie and Zhang, Weizhong and Xie, Yueqi and Gao, Jiahui and Wang, Xiaoyu and Kim, Sunghun and Chen, Qifeng},
-  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages={12177--12186},
   year={2023}
 }
