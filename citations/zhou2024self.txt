@@ -1,0 +1,6 @@
+@article{zhou2024self,
+  title={https://arxiv.org/abs/2404.07976},
+  author={Zhou, Muxin and Yin, Zeyuan and Shao, Shitong and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2404.07976},
+  year={2024}
+}
