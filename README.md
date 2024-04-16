@@ -211,8 +211,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Privacy
 + [SecDD: Efficient and Secure Method for Remotely Training Neural Networks](https://arxiv.org/abs/2009.09155) (Ilia Sucholutsky et al., AAAI 2021) [:book:](./citations/sucholutsky2021secdd.txt)
 + [Privacy for Free: How does Dataset Condensation Help Privacy?](https://arxiv.org/abs/2206.00240) (Tian Dong et al., ICML 2022) [:book:](./citations/dong2022privacy.txt)
-+ [No Free Lunch in "Privacy for Free: How does Dataset Condensation Help Privacy"](https://arxiv.org/abs/2209.14987) (Nicholas Carlini et al., 2022) [:book:](./citations/carlini2022no.txt)
 + [Private Set Generation with Discriminative Information](https://arxiv.org/abs/2211.04446) (Dingfan Chen et al., NeurIPS 2022) [:octocat:](https://github.com/DingfanChen/Private-Set) [:book:](./citations/chen2022privacy.txt)
++ [No Free Lunch in "Privacy for Free: How does Dataset Condensation Help Privacy"](https://arxiv.org/abs/2209.14987) (Nicholas Carlini et al., 2022) [:book:](./citations/carlini2022no.txt)
 + [Backdoor Attacks Against Dataset Distillation](https://arxiv.org/abs/2301.01197) (Yugeng Liu et al., NDSS 2023) [:octocat:](https://github.com/liuyugeng/baadd) [:book:](./citations/liu2023backdoor.txt)
 + [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation](https://arxiv.org/abs/2301.13389) (Margarita Vinaroz et al., 2023) [:octocat:](https://github.com/dpclip/dpclip) [:book:](./citations/vinaroz2023dpkip.txt)
 + [Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation](https://arxiv.org/abs/2302.01428) (Noel Loo et al., ICLR 2024) [:book:](./citations/loo2024attack.txt)
