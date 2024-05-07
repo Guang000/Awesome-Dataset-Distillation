@@ -44,6 +44,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Survey](#survey)
   - [Ph.D. Thesis](#thesis)
   - [Workshop](#workshop)
+  - [Challenge](#challenge)
 - [Applications](#applications)
   - [Continual Learning](#continual)
   - [Privacy](#privacy)
@@ -193,6 +194,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Workshop
 + [1st Workshop on Dataset Distillation](https://sites.google.com/view/dd-cvpr2024/home) (Saeed Vahidian et al., CVPR 2024)
+
+<a name="challenge" />
 
 ### Challenge
 + [1st Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024)
