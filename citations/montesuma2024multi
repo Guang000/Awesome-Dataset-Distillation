@@ -1,0 +1,8 @@
+@inproceedings{montesuma2024multi,
+  title={Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning},
+  author={Montesuma, Eduardo Fernandes and Mboula, Fred Ngol{\`e} and Souloumiac, Antoine},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5620--5624},
+  year={2024},
+  organization={IEEE}
+}
