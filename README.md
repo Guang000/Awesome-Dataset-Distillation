@@ -55,6 +55,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Fashion, Art, and Design](#fashion)
   - [Knowledge Distillation](#kd)
   - [Recommender Systems](#rec)
+  - [Domain Adaptation](#da)
   - [Blackbox Optimization](#blackbox)
   - [Trustworthy](#trustworthy)
   - [Retrieval](#retrieval)
@@ -284,6 +285,13 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Recommender Systems
 + [Infinite Recommendation Networks: A Data-Centric Approach](https://arxiv.org/abs/2206.02626) (Noveen Sachdeva et al., NeurIPS 2022) [:octocat:](https://github.com/noveens/distill_cf) [:book:](./citations/sachdeva2022data.txt)
 + [Gradient Matching for Categorical Data Distillation in CTR Prediction](https://dl.acm.org/doi/10.1145/3604915.3608769) (Chen Wang et al., RecSys 2023) [:book:](./citations/wang2023cgm.txt)
+
+<a name="da" />
+
+### Domain Adaptation
++ [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
+](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
+
 
 <a name="blackbox" />
 
