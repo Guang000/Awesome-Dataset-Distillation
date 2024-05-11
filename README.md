@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-132-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-133-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 A curated list of awesome papers on dataset distillation and related applications.
 
@@ -22,7 +22,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2024/05/08] [1st Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024) 🔥🔥🔥
++ [Call for papers] [1st Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024) 🔥🔥🔥
++ [2024/05/11] [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
+](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
 + [2024/04/12] [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
 + [2024/04/06] [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
 + [2024/04/06] [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](https://arxiv.org/abs/2404.00264) (Aru Maekawa et al., NAACL 2024) [:octocat:](https://github.com/arumaekawa/DiLM) [:book:](./citations/maekawa2024dilm.txt)
@@ -55,12 +57,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Fashion, Art, and Design](#fashion)
   - [Knowledge Distillation](#kd)
   - [Recommender Systems](#rec)
-  - [Domain Adaptation](#da)
   - [Blackbox Optimization](#blackbox)
   - [Trustworthy](#trustworthy)
   - [Retrieval](#retrieval)
   - [Text](#text)
   - [Video](#video)
+  - [Domain Adaptation](#domain)
   - [Time Series](#time)
   - [Tabular](#tabular)
 <a name="main" />
@@ -286,13 +288,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Infinite Recommendation Networks: A Data-Centric Approach](https://arxiv.org/abs/2206.02626) (Noveen Sachdeva et al., NeurIPS 2022) [:octocat:](https://github.com/noveens/distill_cf) [:book:](./citations/sachdeva2022data.txt)
 + [Gradient Matching for Categorical Data Distillation in CTR Prediction](https://dl.acm.org/doi/10.1145/3604915.3608769) (Chen Wang et al., RecSys 2023) [:book:](./citations/wang2023cgm.txt)
 
-<a name="da" />
-
-### Domain Adaptation
-+ [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
-](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
-
-
 <a name="blackbox" />
 
 ### Blackbox Optimization
@@ -326,6 +321,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Video
 + [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
 
+<a name="domain" />
+
+### Domain Adaptation
++ [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
+](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
+
 <a name="time" />
 
 ### Time Series
@@ -358,4 +359,4 @@ If you find this project useful for your research, please use the following BibT
 
 ## Acknowledgments
 We would like to express our heartfelt thanks to [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), [Can Chen](https://github.com/GGchen1997), [Guangxiang Zhao](https://github.com/zhaoguangxiang), [Shiye Lei](https://github.com/LeavesLei), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/), [Dmitry Medvedev](https://github.com/dm-medvedev), [Seungjae Shin](https://github.com/SJShin-AI), [Jiawei Du](https://github.com/AngusDujw), [Yidi Jiang](https://github.com/Jiang-Yidi), [Xindi Wu](https://github.com/XindiWu), [Guangyi Liu](https://github.com/lgy0404), [Yilun Liu](https://github.com/superallen13), [Kai Wang](https://github.com/kaiwang960112), [Yue Xu](https://github.com/silicx), [Anjia Cao](https://github.com/CAOANJIA), [Jianyang Gu](https://github.com/vimar-gu), [Yuanzhen Feng](https://github.com/fengyzpku), [Peng Sun](https://github.com/sp12138), [Ahmad Sajedi](https://github.com/AhmadSajedii), 
-[Zhihao Sui](https://github.com/suizhihao), [Ziyu Wang](https://github.com/yuz1wan), and [Haoyang Liu](https://github.com/Liu-Hy) for their valuable suggestions and contributions.
+[Zhihao Sui](https://github.com/suizhihao), [Ziyu Wang](https://github.com/yuz1wan), [Haoyang Liu](https://github.com/Liu-Hy) and [Eduardo Fernandes Montesuma](https://github.com/eddardd) for their valuable suggestions and contributions.
