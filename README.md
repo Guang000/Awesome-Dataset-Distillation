@@ -196,7 +196,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="workshop" />
 
 ### Workshop
-+ [1st Workshop on Dataset Distillation](https://sites.google.com/view/dd-cvpr2024/home) (Saeed Vahidian et al., CVPR 2024)
++ [1st CVPR Workshop on Dataset Distillation](https://sites.google.com/view/dd-cvpr2024/home) (Saeed Vahidian et al., CVPR 2024)
 
 <a name="challenge" />
 
