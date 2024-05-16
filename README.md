@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-133-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-134-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 A curated list of awesome papers on dataset distillation and related applications.
 
@@ -23,12 +23,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + **[Call for papers]** [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024)
++ [2024/05/16] [GSDD: Generative Space Dataset Distillation for Image Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28534) (Haiyu Zhang et al., AAAI 2024) [:book:](./citations/zhang2024super.txt)
 + [2024/05/11] [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
 ](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
 + [2024/04/12] [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
 + [2024/04/06] [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
 + [2024/04/06] [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](https://arxiv.org/abs/2404.00264) (Aru Maekawa et al., NAACL 2024) [:octocat:](https://github.com/arumaekawa/DiLM) [:book:](./citations/maekawa2024dilm.txt)
-+ [2024/03/30] [DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation](https://arxiv.org/abs/2403.13322) (Yifan Wu et al., 2024) [:book:](./citations/wu2024robust.txt)
 
 ## Contents
 - [Main](#main)
@@ -59,12 +59,13 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Recommender Systems](#rec)
   - [Blackbox Optimization](#blackbox)
   - [Trustworthy](#trustworthy)
-  - [Retrieval](#retrieval)
   - [Text](#text)
+  - [Tabular](#tabular)
+  - [Retrieval](#retrieval)
   - [Video](#video)
   - [Domain Adaptation](#domain)
+  - [Super Resolution](#super)
   - [Time Series](#time)
-  - [Tabular](#tabular)
 <a name="main" />
 
 ## Main
@@ -304,17 +305,22 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Group Distributionally Robust Dataset Distillation with Risk Minimization](https://arxiv.org/abs/2402.04676) (Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., 2024) [:octocat:](https://github.com/Mming11/RobustDatasetDistillation) [:book:](./citations/vahidian2024group.txt)
 + [Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., 2024) [:book:](./citations/xue2024robust.txt)
 
-<a name="retrieval" />
-
-### Retrieval
-+ [Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching](https://arxiv.org/abs/2305.18076) (Tao Feng & Jie Zhang et al., 2023) [:book:](./citations/feng2023hash.txt)
-
 <a name="text" />
 
 ### Text
 + [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021) [:book:](./citations/li2021text.txt)
 + [Dataset Distillation with Attention Labels for Fine-tuning BERT](https://aclanthology.org/2023.acl-short.12/) (Aru Maekawa et al., ACL 2023) [:octocat:](https://github.com/arumaekawa/dataset-distillation-with-attention-labels) [:book:](./citations/maekawa2023text.txt)
 + [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](https://arxiv.org/abs/2404.00264) (Aru Maekawa et al., NAACL 2024) [:octocat:](https://github.com/arumaekawa/DiLM) [:book:](./citations/maekawa2024dilm.txt)
+
+<a name="tabular" />
+
+### Tabular
++ [New Properties of the Data Distillation Method When Working With Tabular Data](https://arxiv.org/abs/2010.09839) (Dmitry Medvedev et al., AIST 2020) [:octocat:](https://github.com/dm-medvedev/dataset-distillation) [:book:](./citations/medvedev2020tabular.txt)
+
+<a name="retrieval" />
+
+### Retrieval
++ [Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching](https://arxiv.org/abs/2305.18076) (Tao Feng & Jie Zhang et al., 2023) [:book:](./citations/feng2023hash.txt)
 
 <a name="video" />
 
@@ -324,18 +330,17 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="domain" />
 
 ### Domain Adaptation
-+ [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
-](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
++ [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning](https://arxiv.org/abs/2309.07666) (Eduardo Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
+
+<a name="super" />
+
+### Super Resolution
++ [GSDD: Generative Space Dataset Distillation for Image Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28534) (Haiyu Zhang et al., AAAI 2024) [:book:](./citations/zhang2024super.txt)
 
 <a name="time" />
 
 ### Time Series
 + [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245) (Zhanyu Liu et al., 2024) [:book:](./citations/liu2024time.txt)
-
-<a name="tabular" />
-
-### Tabular
-+ [New Properties of the Data Distillation Method When Working With Tabular Data](https://arxiv.org/abs/2010.09839) (Dmitry Medvedev et al., AIST 2020) [:octocat:](https://github.com/dm-medvedev/dataset-distillation) [:book:](./citations/medvedev2020tabular.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
