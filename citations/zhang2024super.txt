@@ -1,0 +1,6 @@
+@inproceedings{zhang2024super,
+  title={{GSDD}: Generative Space Dataset Distillation for Image Super-resolution},
+  author={Zhang, Haiyu and Su, Shaolin and Zhu, Yu and Sun, Jinqiu and Zhang, Yanning},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2024}
+}
