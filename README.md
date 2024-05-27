@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-134-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-135-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 A curated list of awesome papers on dataset distillation and related applications.
 
@@ -23,6 +23,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + **[Call for papers]** [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024)
++ [2024/05/27] [Efficiency for Free: Ideal Data Are Transportable Representations](https://arxiv.org/abs/2405.14669) (Peng Sun et al., 2024) [:octocat:](https://github.com/LINs-lab/ReLA) [:book:](./citations/sun2024efficiency.txt)
 + [2024/05/16] [GSDD: Generative Space Dataset Distillation for Image Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28534) (Haiyu Zhang et al., AAAI 2024) [:book:](./citations/zhang2024super.txt)
 + [2024/05/11] [Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning
 ](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
@@ -75,6 +76,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Early Work
 + [Gradient-Based Hyperparameter Optimization Through Reversible Learning](https://arxiv.org/abs/1502.03492) (Dougal Maclaurin et al., ICML 2015) [:octocat:](https://github.com/HIPS/hypergrad) [:book:](./citations/maclaurin2015gradient.txt)
+
+<a name="accelerate-learning" />
+
+### Accelerating Representation Learning
++ [Efficiency for Free: Ideal Data Are Transportable Representations](https://arxiv.org/abs/2405.14669) (Peng Sun et al., 2024) [:octocat:](https://github.com/LINs-lab/ReLA) [:book:](./citations/sun2024efficiency.txt)
 
 <a name="gradient-objective" />
 
