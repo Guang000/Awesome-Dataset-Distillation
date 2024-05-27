@@ -1,0 +1,6 @@
+@article{sun2024efficiency,
+  title={Efficiency for Free: Ideal Data Are Transportable Representations},
+  author={Sun, Peng and Jiang, Yi and Lin, Tao},
+  journal={arXiv preprint arXiv:2405.14669},
+  year={2024}
+}
