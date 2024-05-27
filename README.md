@@ -29,7 +29,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ](https://arxiv.org/abs/2309.07666) (Montesuma et al., ICASSP 2024) [:book:](./citations/montesuma2024multi.txt)
 + [2024/04/12] [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
 + [2024/04/06] [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
-+ [2024/04/06] [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](https://arxiv.org/abs/2404.00264) (Aru Maekawa et al., NAACL 2024) [:octocat:](https://github.com/arumaekawa/DiLM) [:book:](./citations/maekawa2024dilm.txt)
 
 ## Contents
 - [Main](#main)
