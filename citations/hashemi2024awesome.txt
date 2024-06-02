@@ -1,4 +1,4 @@
-@inproceedings{hasemi2024awesome,
+@inproceedings{hashemi2024awesome,
   title={A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation},
   author={Hashemi, Mohammad and Gong, Shengbo and Ni, Juntong and Fan, Wenqia and Prakash, B. Aditya and Jin, Wei},
   booktitle={Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
