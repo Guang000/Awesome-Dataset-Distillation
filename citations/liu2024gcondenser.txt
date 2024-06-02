@@ -1,0 +1,6 @@
+@article{liu2024gcondenser,
+  title={GCondenser: Benchmarking Graph Condensation},
+  author={Liu, Yilun and Qiu, Ruihong and Huang, Zi},
+  journal={arXiv preprint arXiv:2405.14246},
+  year={2024}
+}
