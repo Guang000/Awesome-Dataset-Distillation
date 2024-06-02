@@ -1,0 +1,6 @@
+@article{gao2024graph,
+  title={Graph Condensation: A Survey},
+  author={Gao, Xinyi and Yu, Junliang and Jiang, Wei and Chen, Tong and Zhang, Wentao and Yin, Hongzhi},
+  journal={arXiv preprint arXiv:2401.11720},
+  year={2024}
+}
