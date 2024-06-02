@@ -23,9 +23,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + **[Call for papers]** [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024)
-+ [2024/06/02] [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/pdf/2402.03358) (Mohammad Hashemi et al., IJCAI 2024) [:octocat:](https://github.com/Emory-Melody/awesome-graph-reduction) [:book:](./citations/hashemi2024awesome.txt)
-+ [2024/06/02] [Graph Condensation: A Survey](https://arxiv.org/pdf/2401.11720) (Xinyi Gao et al., 2024) [:book:](./citations/gao2024graph.txt)
-+ [2024/06/02] [A Survey on Graph Condensation](https://arxiv.org/pdf/2402.02000v1) (Hongjia Xu., 2024) [:book:](./citations/xu2024survey.txt)
++ [2024/06/02] [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358) (Mohammad Hashemi et al., IJCAI 2024) [:octocat:](https://github.com/Emory-Melody/awesome-graph-reduction) [:book:](./citations/hashemi2024awesome.txt)
++ [2024/06/02] [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) (Xinyi Gao et al., 2024) [:book:](./citations/gao2024graph.txt)
++ [2024/06/02] [A Survey on Graph Condensation](https://arxiv.org/abs/2402.02000) (Hongjia Xu., 2024) [:book:](./citations/xu2024survey.txt)
 + [2024/06/02] [GCondenser: Benchmarking Graph Condensation](https://arxiv.org/abs/2405.14246) (Yilun Liu et al., 2024) [:octocat:](https://github.com/superallen13/GCondenser) [:book:](./citations/liu2024gcondenser.txt)
 + [2024/05/30] [Curriculum Dataset Distillation](https://arxiv.org/abs/2405.09150) (Zhiheng Ma & Anjia Cao et al., 2024) [:book:](./citations/ma2024cudd.txt)
 
@@ -267,9 +267,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Graph Data Condensation via Self-expressive Graph Structure Reconstruction](https://arxiv.org/abs/2403.07294) (Zhanyu Liu & Chaolv Zeng et al., 2024) [:octocat:](https://www.dropbox.com/scl/fi/2aonyp5ln5gisdqtjimu8/GCSR.zip?rlkey=11cuwfpsf54wxiiktu0klud0x&dl=0) [:book:](./citations/liu2024gcsr.txt)
 
 #### Survey
-+ [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/pdf/2402.03358) (Mohammad Hashemi et al., IJCAI 2024) [:octocat:](https://github.com/Emory-Melody/awesome-graph-reduction) [:book:](./citations/hashemi2024awesome.txt)
-+ [Graph Condensation: A Survey](https://arxiv.org/pdf/2401.11720) (Xinyi Gao et al., 2024) [:book:](./citations/gao2024graph.txt)
-+ [A Survey on Graph Condensation](https://arxiv.org/pdf/2402.02000v1) (Hongjia Xu., 2024) [:book:](./citations/xu2024survey.txt)
++ [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358) (Mohammad Hashemi et al., IJCAI 2024) [:octocat:](https://github.com/Emory-Melody/awesome-graph-reduction) [:book:](./citations/hashemi2024awesome.txt)
++ [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) (Xinyi Gao et al., 2024) [:book:](./citations/gao2024graph.txt)
++ [A Survey on Graph Condensation](https://arxiv.org/abs/2402.02000) (Hongjia Xu., 2024) [:book:](./citations/xu2024survey.txt)
 
 #### Benchmark
 + [GCondenser: Benchmarking Graph Condensation](https://arxiv.org/abs/2405.14246) (Yilun Liu et al., 2024) [:octocat:](https://github.com/superallen13/GCondenser) [:book:](./citations/liu2024gcondenser.txt)
