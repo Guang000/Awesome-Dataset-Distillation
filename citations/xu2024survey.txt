@@ -1,0 +1,6 @@
+@article{xu2024survey,
+  title={A Survey on Graph Condensation },
+  author={Xu, Hongjia and Zhang, Liangliang and Ma, Yao and Zhou, Sheng and Zheng, Zhuonan and Bu, Jiajun},
+  journal={arXiv preprint arXiv:2402.02000},
+  year={2024}
+}
