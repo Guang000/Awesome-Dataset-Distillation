@@ -1,6 +1,6 @@
-@article{liu2024time,
+@inproceedings{liu2024time,
   title={Dataset Condensation for Time Series Classification via Dual Domain Matching},
   author={Liu, Zhanyu and Hao, Ke and Zheng, Guanjie and Yu, Yanwei},
-  journal={arXiv preprint arXiv:2403.07245},
+  booktitle={Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
   year={2024}
 }
