@@ -1,0 +1,6 @@
+@inproceedings{gupta2024mirage,
+  title={Mirage: Model-Agnostic Graph Distillation for Graph Classification},
+  author={Gupta, Mridul and Manchanda, Sahil and Kodamana, Hariprasad and Ranu, Sayan},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
