@@ -1,0 +1,6 @@
+@inproceedings{fabian2024speech,
+  title={Dataset-Distillation Generative Model for Speech Emotion Recognition},
+  author={Ritter-Gutierrez, Fabian and Huang, Kuan-Po and H.M Wong, Jeremy and Ng, Dianwen and Lee, Hung-yi and Chen,  Nancy F. and Chng, Eng Siong},
+  booktitle={Proceedings of the Conference of the International Speech Communication Association (Interspeech)},
+  year={2024}
+}
