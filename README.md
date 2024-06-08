@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-143-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-147-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 A curated list of awesome papers on dataset distillation and related applications.
 
@@ -23,11 +23,13 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + **[Call for papers]** [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024)
++ [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) [:book:](./citations/xu2024lors.txt)
++ 
++ [2024/06/08] [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063) (Hansong Zhang et al., IJCAI 2024) [:octocat:](https://github.com/Hansong-Zhang/DANCE) [:book:](./citations/zhang2024dance.txt)
++ [2024/06/08] [Dataset-Distillation Generative Model for Speech Emotion Recognition](https://arxiv.org/abs/2406.02963) (Fabian Ritter-Gutierrez et al., Interspeech 2024) [:book:](./citations/fabian2024speech.txt)
 + [2024/06/05] [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) (Jianrong Ding & Zhanyu Liu et al., 2024) [:book:](./citations/ding2024time.txt)
 + [2024/06/05] [Graph Condensation via Eigenbasis Matching](https://arxiv.org/abs/2310.09202) (Yang Liu & Deyu Bo et al., ICML 2024) [:octocat:](https://github.com/liuyang-tian/GDEM) [:book:](./citations/liu2024gdem.txt)
 + [2024/06/05] [Mirage: Model-Agnostic Graph Distillation for Graph Classification](https://arxiv.org/abs/2310.09486) (Mridul Gupta & Sahil Manchanda et al., ICLR 2024) [:octocat:](https://github.com/frigategnn/Mirage) [:book:](./citations/gupta2024mirage.txt)
-+ [2024/06/02] [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358) (Mohammad Hashemi et al., IJCAI 2024) [:octocat:](https://github.com/Emory-Melody/awesome-graph-reduction) [:book:](./citations/hashemi2024awesome.txt)
-+ [2024/06/02] [GCondenser: Benchmarking Graph Condensation](https://arxiv.org/abs/2405.14246) (Yilun Liu et al., 2024) [:octocat:](https://github.com/superallen13/GCondenser) [:book:](./citations/liu2024gcondenser.txt)
 
 ## Contents
 - [Main](#main)
@@ -35,6 +37,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Gradient/Trajectory Matching Surrogate Objective](#gradient-objective)
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
   - [Better Optimization](#optimization)
+  - [Better Understanding](#understanding)
   - [Distilled Dataset Parametrization](#parametrization)
   - [Generative Prior](#generative)
   - [Label Distillation](#label)
@@ -65,6 +68,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Domain Adaptation](#domain)
   - [Super Resolution](#super)
   - [Time Series](#time)
+  - [Speech](#speech)
 <a name="main" />
 
 ## Main
@@ -99,6 +103,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy](https://arxiv.org/abs/2312.15927) (Hansong Zhang & Shikun Li et al., AAAI 2024)  [:octocat:](https://github.com/Hansong-Zhang/M3D) [:book:](./citations/zhang2024m3d.txt)
 + [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (Peng Sun et al., CVPR 2024) [:octocat:](https://github.com/LINs-lab/RDED) [:book:](./citations/sun2024diversity.txt)
 + [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
++ [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063) (Hansong Zhang et al., IJCAI 2024) [:octocat:](https://github.com/Hansong-Zhang/DANCE) [:book:](./citations/zhang2024dance.txt)
 
 <a name="optimization" />
 
@@ -112,11 +117,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Accelerating Dataset Distillation via Model Augmentation](https://arxiv.org/abs/2212.06152) (Lei Zhang & Jie Zhang et al., CVPR 2023) [:octocat:](https://github.com/ncsu-dk-lab/Acc-DD) [:book:](./citations/zhang2023accelerating.txt)
 + [Dataset Distillation with Convexified Implicit Gradients](https://arxiv.org/abs/2302.06755) (Noel Loo et al., ICML 2023) [:octocat:](https://github.com/yolky/RCIG) [:book:](./citations/loo2023dataset.txt)
 + [DREAM: Efficient Dataset Distillation by Representative Matching](https://arxiv.org/abs/2302.14416) (Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023) [:octocat:](https://github.com/lyq312318224/DREAM) [:book:](./citations/liu2023dream.txt)
-+ [On the Size and Approximation Error of Distilled Sets](https://arxiv.org/abs/2305.14113) (Alaa Maalouf & Murad Tukan et al., NeurIPS 2023) [:book:](./citations/maalouf2023size.txt)
 + [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023) [:globe_with_meridians:](https://zeyuanyin.github.io/projects/SRe2L/) [:octocat:](https://github.com/VILA-Lab/SRe2L) [:book:](./citations/yin2023sre2l.txt)
 + [You Only Condense Once: Two Rules for Pruning Condensed Datasets](https://arxiv.org/abs/2310.14019) (Yang He et al., NeurIPS 2023) [:octocat:](https://github.com/he-y/you-only-condense-once) [:book:](./citations/he2023yoco.txt)
 + [MIM4DD: Mutual Information Maximization for Dataset Distillation](https://arxiv.org/abs/2312.16627) (Yuzhang Shang et al., NeurIPS 2023) [:book:](./citations/shang2023mim4dd.txt)
-+ [MGDD: A Meta Generator for Fast Dataset Distillation](https://openreview.net/forum?id=D9CMRR5Lof) (Songhua Liu et al., NeurIPS 2023) [:book:](./citations/liu2023mgdd.txt)
 + [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381) (Yue Xu et al., 2023) [:octocat:](https://github.com/silicx/GoldFromOres) [:book:](./citations/xu2023distill.txt)
 + [Can Pre-Trained Models Assist in Dataset Distillation?](https://arxiv.org/abs/2310.03295) (Yao Lu et al., 2023) [:octocat:](https://github.com/yaolu-zjut/DDInterpreter) [:book:](./citations/lu2023pre.txt)
 + [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) [:book:](./citations/liu2023dream+.txt)
@@ -125,6 +128,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075) (Yang He et al., ICLR 2024) [:octocat:](https://github.com/he-y/Multisize-Dataset-Condensation) [:book:](./citations/he2024mdc.txt)
 + [Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching](https://arxiv.org/abs/2311.17950) (Shitong Shao et al., CVPR 2024) [:octocat:](https://github.com/shaoshitong/G_VBSM_Dataset_Condensation) [:book:](./citations/shao2024gvbsm.txt)
 + [Curriculum Dataset Distillation](https://arxiv.org/abs/2405.09150) (Zhiheng Ma & Anjia Cao et al., 2024) [:book:](./citations/ma2024cudd.txt)
+
+<a name="understanding" />
+
+### Better Understanding
++ [On the Size and Approximation Error of Distilled Sets](https://arxiv.org/abs/2305.14113) (Alaa Maalouf & Murad Tukan et al., NeurIPS 2023) [:book:](./citations/maalouf2023size.txt)
++ [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:book:](./citations/yang2024learning.txt)
 
 <a name="parametrization" />
 
@@ -137,6 +146,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Condensation with Latent Space Knowledge Factorization and Sharing](https://arxiv.org/abs/2208.10494) (Hae Beom Lee & Dong Bok Lee et al., 2022) [:book:](./citations/lee2022kfs.txt)
 + [Slimmable Dataset Condensation](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Slimmable_Dataset_Condensation_CVPR_2023_paper.html) (Songhua Liu et al., CVPR 2023) [:book:](./citations/liu2023slimmable.txt)
 + [Few-Shot Dataset Distillation via Translative Pre-Training](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Few-Shot_Dataset_Distillation_via_Translative_Pre-Training_ICCV_2023_paper.html) (Songhua Liu et al., ICCV 2023) [:book:](./citations/liu2023fewshot.txt)
++ [MGDD: A Meta Generator for Fast Dataset Distillation](https://openreview.net/forum?id=D9CMRR5Lof) (Songhua Liu et al., NeurIPS 2023) [:book:](./citations/liu2023mgdd.txt)
 + [Sparse Parameterization for Epitomic Dataset Distillation](https://openreview.net/forum?id=ZIfhYAE2xg) (Xing Wei & Anjia Cao et al., NeurIPS 2023) [:octocat:](https://github.com/MIV-XJTU/SPEED) [:book:](./citations/wei2023sparse.txt)
 + [Frequency Domain-based Dataset Distillation](https://arxiv.org/abs/2311.08819) (Donghyeok Shin & Seungjae Shin et al., NeurIPS 2023) [:octocat:](https://github.com/sdh0818/FreD) [:book:](./citations/shin2023fred.txt)
 
@@ -165,6 +175,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Multimodal Distillation
 + [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., 2023) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2023multi.txt)
++ [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) [:book:](./citations/xu2024lors.txt)
 
 <a name="self" />
 
@@ -354,6 +365,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Time Series
 + [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245) (Zhanyu Liu et al., KDD 2024) [:octocat:](https://github.com/zhyliu00/TimeSeriesCond) [:book:](./citations/liu2024time.txt)
 + [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) (Jianrong Ding & Zhanyu Liu et al., 2024) [:book:](./citations/ding2024time.txt)
+
+<a name="speech" />
+
+### Speech
++ [Dataset-Distillation Generative Model for Speech Emotion Recognition](https://arxiv.org/abs/2406.02963) (Fabian Ritter-Gutierrez et al., Interspeech 2024) [:book:](./citations/fabian2024speech.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
