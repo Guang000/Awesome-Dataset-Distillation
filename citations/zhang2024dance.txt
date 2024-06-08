@@ -1,0 +1,6 @@
+@inproceedings{zhang2024dance,
+  title={{DANCE}: Dual-View Distribution Alignment for Dataset Condensation},
+  author={Zhang, Hansong and Li, Shikun and Lin, Fanzhao and Wang, Weiping and Qian, Zhenxing and Ge, Shiming},
+  booktitle={Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  year={2024}
+}
