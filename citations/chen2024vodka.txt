@@ -1,0 +1,6 @@
+@inproceedings{chen2024vodka,
+  title={Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality},
+  author={Chen, Xuxi and Yang, Yu and Wang, Zhangyang and Mirzasoleiman, Baharan},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
