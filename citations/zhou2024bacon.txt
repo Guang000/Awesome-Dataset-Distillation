@@ -1,0 +1,6 @@
+@article{zhou2024bacon,
+  title={BACON: Bayesian Optimal Condensation Framework for Dataset Distillation}, 
+  author={Zhou, Zheng and Zhao, Hongbo and Cheng, Guangliang and Li, Xiangtai and Lyu, Shuchang and Feng, Wenquan and Zhao, Qi},
+  journal={arXiv preprint arXiv:2406.01112},
+  year={2024}
+}
