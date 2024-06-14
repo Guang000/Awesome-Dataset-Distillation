@@ -1,0 +1,6 @@
+@inproceedings{su2024d4m,
+  title={{D4M}: Dataset Distillation via Disentangled Diffusion Model},
+  author={Su, Duo and Hou, Junjie and Gao, Weizhi and Tian, Yingjie and Tang, Bowen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
