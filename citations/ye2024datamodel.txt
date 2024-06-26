@@ -1,0 +1,7 @@
+@inproceedings{ye2024datamodel,
+  title={Distilled Datamodel with Reverse Gradient Matching},
+  author={Ye, Jingwen and Yu, Ruonan and Liu, Songhua and Wang, Xinchao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={11954--11963},
+  year={2024}
+}
