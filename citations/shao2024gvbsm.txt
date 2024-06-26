@@ -2,5 +2,6 @@
   title={Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching},
   author={Shao, Shitong and Yin, Zeyuan and Zhou, Muxin and Zhang, Xindong and Shen, Zhiqiang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={16709--16718},
   year={2024}
 }
