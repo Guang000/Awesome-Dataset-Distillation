@@ -2,5 +2,6 @@
   title={Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation},
   author={Deng, Wenxiao and Li, Wenbin and Ding, Tianyu and Wang, Lei and Zhang, Hongguang and Huang, Kuihua and Huo, Jing and Gao, Yang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={17057--17066},
   year={2024}
 }
