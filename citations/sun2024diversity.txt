@@ -2,5 +2,6 @@
   title={On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm},
   author={Sun, Peng and Shi, Bei and Yu, Daiwei and Lin, Tao},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={9390--9399},
   year={2024}
 }
