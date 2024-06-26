@@ -1,0 +1,6 @@
+@inproceedings{lee2024selfmatch,
+  title={{SelMatch}: Effectively Scaling Up Dataset Distillation via Selection-Based Initialization and Partial Updates by Trajectory Matching}, 
+  author={Lee, Yongmin and Chung, Hye Won},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2024}
+}
