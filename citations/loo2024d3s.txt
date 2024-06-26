@@ -1,0 +1,6 @@
+@inproceedings{loo2024d3s,
+  title={Large Scale Dataset Distillation with Domain Shift}, 
+  author={Loo, Noel and Maalouf, Alaa and Hasani, Ramin and Lechner, Mathias and Amini, Alexander and Rus, Daniela},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2024}
+}
