@@ -1,0 +1,6 @@
+@inproceedings{cui2024bias,
+  title={Ameliorate Spurious Correlations in Dataset Condensation}, 
+  author={Cui, Justin andn Wang, Ruoche and Xiong, Yuanhao and Hsieh, Cho-Jui},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2024}
+}
