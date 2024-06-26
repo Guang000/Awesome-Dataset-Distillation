@@ -21,11 +21,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + **[Call for papers]** [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) (Kai Wang & Ahmad Sajedi et al., ECCV 2024)
++ [2024/06/26] [Distilled Datamodel with Reverse Gradient Matching](https://arxiv.org/abs/2404.14006) (Jingwen Ye et al., CVPR 2024) [:book:](./citations/ye2024datamodel.txt)
 + [2024/06/14] [D4M: Dataset Distillation via Disentangled Diffusion Model](https://openaccess.thecvf.com/content/CVPR2024/html/Su_D4_Dataset_Distillation_via_Disentangled_Diffusion_Model_CVPR_2024_paper.html) (Duo Su & Junjie Hou et al., CVPR 2024) [:globe_with_meridians:](https://junjie31.github.io/D4M/) [:book:](./citations/su2024d4m.txt)
 + [2024/06/14] [BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/abs/2406.01112) (Zheng Zhou et al., 2024) [:octocat:](https://github.com/zhouzhengqd/BACON) [:book:](./citations/zhou2024bacon.txt)
-+ [2024/06/11] [Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality](https://arxiv.org/abs/2310.06982) (Xuxi Chen & Yu Yang et al., ICLR 2024) [:octocat:](https://github.com/VITA-Group/ProgressiveDD) [:book:](./citations/chen2024vodka.txt)
 + [2024/06/08] [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) [:book:](./citations/xu2024lors.txt)
-+ [2024/06/08] [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:book:](./citations/yang2024learning.txt)
++ [2024/06/08] [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) [:book:](./citations/yang2024learning.txt)
 
 ## Contents
 - [Main](#main)
@@ -65,6 +65,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Super Resolution](#super)
   - [Time Series](#time)
   - [Speech](#speech)
+  - [Machine Unlearning](#unlearning)
 <a name="main" />
 
 ## Main
@@ -130,7 +131,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Better Understanding
 + [On the Size and Approximation Error of Distilled Sets](https://arxiv.org/abs/2305.14113) (Alaa Maalouf & Murad Tukan et al., NeurIPS 2023) [:book:](./citations/maalouf2023size.txt)
-+ [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:book:](./citations/yang2024learning.txt)
++ [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) [:book:](./citations/yang2024learning.txt)
 
 <a name="parametrization" />
 
@@ -368,6 +369,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Speech
 + [Dataset-Distillation Generative Model for Speech Emotion Recognition](https://arxiv.org/abs/2406.02963) (Fabian Ritter-Gutierrez et al., Interspeech 2024) [:book:](./citations/fabian2024speech.txt)
+
+<a name="unlearning" />
+
+### Machine Unlearning
++ [Distilled Datamodel with Reverse Gradient Matching](https://arxiv.org/abs/2404.14006) (Jingwen Ye et al., CVPR 2024) [:book:](./citations/ye2024datamodel.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
