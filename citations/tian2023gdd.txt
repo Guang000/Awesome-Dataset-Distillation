@@ -2,6 +2,6 @@
   title={Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation},
   author={Tian, Yuchen and Wang, Jiacheng and Jin Yueming and Wang, Liansheng},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Workshop},
-  pages={1--10},
+  pages={14--24},
   year={2023}
 }
