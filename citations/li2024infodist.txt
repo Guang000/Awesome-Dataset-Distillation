@@ -1,0 +1,6 @@
+@inproceedings{li2024infodist,
+  title={Image Distillation for Safe Data Sharing in Histopathology},
+  author={Li, Zhe and Kainz, Bernhard},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+  year={2024}
+}
