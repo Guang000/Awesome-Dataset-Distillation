@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ **[Call for papers]** [The First Dataset Distillation Challenge] (Kai Wang & Ahmad Sajedi et al., ECCV 2024) [:globe_with_meridians:](https://www.dd-challenge.com/)
++ **[Call for papers]** The First Dataset Distillation Challenge (Kai Wang & Ahmad Sajedi et al., ECCV 2024) [:globe_with_meridians:](https://www.dd-challenge.com/)
 + [2024/07/10] [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381) (Yue Xu et al., ECCV 2024) [:octocat:](https://github.com/silicx/GoldFromOres) [:book:](./citations/xu2024distill.txt)
 + [2024/06/28] [Image Distillation for Safe Data Sharing in Histopathology](https://arxiv.org/abs/2406.13536) (Zhe Li et al., MICCAI 2024) [:octocat:](https://github.com/ZheLi2020/InfoDist) [:book:](./citations/li2024infodist.txt)
 + [2024/06/26] [Ameliorate Spurious Correlations in Dataset Condensation](https://arxiv.org/abs/2406.06609) (Justin Cui et al., ICML 2024) [:book:](./citations/cui2024bias.txt)
@@ -211,12 +211,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="workshop" />
 
 ### Workshop
-+ [1st CVPR Workshop on Dataset Distillation] (Saeed Vahidian et al., CVPR 2024) [:globe_with_meridians:](https://sites.google.com/view/dd-cvpr2024/home)
++ 1st CVPR Workshop on Dataset Distillation (Saeed Vahidian et al., CVPR 2024) [:globe_with_meridians:](https://sites.google.com/view/dd-cvpr2024/home)
 
 <a name="challenge" />
 
 ### Challenge
-+ [The First Dataset Distillation Challenge] (Kai Wang & Ahmad Sajedi et al., ECCV 2024) [:globe_with_meridians:](https://www.dd-challenge.com/)
++ The First Dataset Distillation Challenge (Kai Wang & Ahmad Sajedi et al., ECCV 2024) [:globe_with_meridians:](https://www.dd-challenge.com/)
 
 ## Applications
 
