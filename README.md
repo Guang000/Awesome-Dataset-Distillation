@@ -245,6 +245,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation](https://arxiv.org/abs/2301.13389) (Margarita Vinaroz et al., 2023) [:octocat:](https://github.com/dpclip/dpclip) [:book:](./citations/vinaroz2023dpkip.txt)
 + [Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation](https://arxiv.org/abs/2302.01428) (Noel Loo et al., ICLR 2024) [:book:](./citations/loo2024attack.txt)
 + [Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective](https://arxiv.org/abs/2311.16646) (Ming-Yu Chung et al., ICLR 2024) [:book:](./citations/chung2024backdoor.txt)
++ [Differentially Private Dataset Condensation](https://www.ndss-symposium.org/wp-content/uploads/aiscc2024-5-paper.pdf) (Zheng et al., NDSS-AISCC 2024) [:book:](./citations/zheng2024differentially.txt)
 
 <a name="medical" />
 
