@@ -122,7 +122,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective](https://arxiv.org/abs/2306.13092) (Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023) [:globe_with_meridians:](https://zeyuanyin.github.io/projects/SRe2L/) [:octocat:](https://github.com/VILA-Lab/SRe2L) [:book:](./citations/yin2023sre2l.txt)
 + [You Only Condense Once: Two Rules for Pruning Condensed Datasets](https://arxiv.org/abs/2310.14019) (Yang He et al., NeurIPS 2023) [:octocat:](https://github.com/he-y/you-only-condense-once) [:book:](./citations/he2023yoco.txt)
 + [MIM4DD: Mutual Information Maximization for Dataset Distillation](https://arxiv.org/abs/2312.16627) (Yuzhang Shang et al., NeurIPS 2023) [:book:](./citations/shang2023mim4dd.txt)
-+ [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381) (Yue Xu et al., 2023) [:octocat:](https://github.com/silicx/GoldFromOres) [:book:](./citations/xu2023distill.txt)
 + [Can Pre-Trained Models Assist in Dataset Distillation?](https://arxiv.org/abs/2310.03295) (Yao Lu et al., 2023) [:octocat:](https://github.com/yaolu-zjut/DDInterpreter) [:book:](./citations/lu2023pre.txt)
 + [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) [:book:](./citations/liu2023dream+.txt)
 + [Dataset Distillation in Latent Space](https://arxiv.org/abs/2311.15547) (Yuxuan Duan et al., 2023) [:book:](./citations/duan2023latent.txt)
@@ -132,6 +131,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching](https://arxiv.org/abs/2311.17950) (Shitong Shao et al., CVPR 2024) [:octocat:](https://github.com/shaoshitong/G_VBSM_Dataset_Condensation) [:book:](./citations/shao2024gvbsm.txt)
 + [Ameliorate Spurious Correlations in Dataset Condensation](https://arxiv.org/abs/2406.06609) (Justin Cui et al., ICML 2024) [:book:](./citations/cui2024bias.txt)
 + [Large Scale Dataset Distillation with Domain Shift](https://openreview.net/forum?id=0FWPKHMCSc) (Noel Loo & Alaa Maalouf et al., ICML 2024) [:book:](./citations/loo2024d3s.txt)
++ [Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection](https://arxiv.org/abs/2305.18381) (Yue Xu et al., ECCV 2024) [:octocat:](https://github.com/silicx/GoldFromOres) [:book:](./citations/xu2024distill.txt)
 + [Curriculum Dataset Distillation](https://arxiv.org/abs/2405.09150) (Zhiheng Ma & Anjia Cao et al., 2024) [:book:](./citations/ma2024cudd.txt)
 + [BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/abs/2406.01112) (Zheng Zhou et al., 2024) [:octocat:](https://github.com/zhouzhengqd/BACON) [:book:](./citations/zhou2024bacon.txt)
 <a name="understanding" />
