@@ -1,4 +1,6 @@
-@article{zheng2024differentially,
+@inproceedings{zheng2024differentially,
   title={Differentially Private Dataset Condensation},
-  author={Zheng, Tianhang and Li, Baochun}
+  author={Zheng, Tianhang and Li, Baochun},
+  booktitle={Proceedings of the Network and Distributed System Security Symposium (NDSS), Workshop},
+  year={2024}
 }
