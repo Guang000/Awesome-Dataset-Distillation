@@ -1,0 +1,6 @@
+@inproceedings{liu2024att,
+  title={Dataset Distillation by Automatic Training Trajectories},
+  author={Liu, Dai and Gu, Jindong and Cao, Hu and Trinitis, Carsten and Schulz, Martin},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@inproceedings{zhao2024dqas,
+  title={Dataset Quantization with Active Learning based Adaptive Sampling},
+  author={Zhao, Zhenghao and Shang, Yuzhang and Wu, Junyi and Yan, Yan},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
