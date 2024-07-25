@@ -1,0 +1,6 @@
+@article{li2024medical,
+  title={Dataset Distillation in Medical Imaging: A Feasibility Study}, 
+  author={Li, Muyang and Cui, Can and Liu, Quan and Deng, Ruining and Yao, Tianyuan and Lionts, Marilyn and Huo, Yuankai},
+  journal={arXiv preprint arXiv:2406.01112},
+  year={2024}
+}
