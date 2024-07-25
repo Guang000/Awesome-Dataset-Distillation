@@ -1,0 +1,6 @@
+@inproceedings{izzo2023theo,
+  title={A Theoretical Study of Dataset Distillation},
+  author={Izzo, Zachary and Zou, James},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
+  year={2023}
+}
