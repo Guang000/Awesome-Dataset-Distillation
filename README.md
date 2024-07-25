@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-159-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-161-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -21,6 +21,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + **[Call for papers]** The First Dataset Distillation Challenge (Kai Wang & Ahmad Sajedi et al., ECCV 2024) [:globe_with_meridians:](https://www.dd-challenge.com/) [:octocat:](https://github.com/DataDistillation/ECCV2024-Dataset-Distillation-Challenge)
++ [2024/07/25] [Dataset Distillation in Medical Imaging: A Feasibility Study](https://arxiv.org/abs/2407.14429) (Muyang Li et al., 2024) [:book:](./citations/li2024medical.txt)
++ [2024/07/25] [A Theoretical Study of Dataset Distillation](https://openreview.net/forum?id=dq5QGXGxoJ) (Zachary Izzo et al., NeurIPS 2023 Workshop) [:book:](./citations/izzo2023theo.txt)
 + [2024/07/23] [Dataset Distillation by Automatic Training Trajectories](https://arxiv.org/abs/2407.14245) (Dai Liu et al., ECCV 2024) [:octocat:](https://github.com/NiaLiu/ATT) [:book:](./citations/liu2024att.txt)
 + [2024/07/16] [FYI: Flip Your Images for Dataset Distillation](https://arxiv.org/abs/2407.08113) (Byunggwan Son et al., ECCV 2024) [:globe_with_meridians:](https://cvlab.yonsei.ac.kr/projects/FYI/) [:book:](./citations/son2024fyi.txt)
 + [2024/07/13] [Differentially Private Dataset Condensation](https://www.ndss-symposium.org/ndss-paper/auto-draft-542/) (Zheng et al., NDSS 2024 Workshop) [:book:](./citations/zheng2024differentially.txt)
@@ -107,10 +109,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="optimization" />
 
 ### Better Optimization
-+ [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) [:book:](./citations/lorraine2020optimizing.txt) 
 + [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) (Timothy Nguyen et al., ICLR 2021) [:octocat:](https://github.com/google/neural-tangents) [:book:](./citations/nguyen2021kip.txt)
 + [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) (Timothy Nguyen et al., NeurIPS 2021) [:octocat:](https://github.com/google/neural-tangents) [:book:](./citations/nguyen2021kipimprovedresults.txt)
-+ [On Implicit Bias in Overparameterized Bilevel Optimization](https://proceedings.mlr.press/v162/vicol22a.html) (Paul Vicol et al., ICML 2022) [:book:](./citations/vicol2022implicit.txt)
 + [Dataset Distillation using Neural Feature Regression](https://arxiv.org/abs/2206.00719) (Yongchao Zhou et al., NeurIPS 2022) [:globe_with_meridians:](https://sites.google.com/view/frepo) [:octocat:](https://github.com/yongchao97/FRePo) [:book:](./citations/zhou2022dataset.txt)
 + [Efficient Dataset Distillation using Random Feature Approximation](https://arxiv.org/abs/2210.12067) (Noel Loo et al., NeurIPS 2022) [:octocat:](https://github.com/yolky/RFAD) [:book:](./citations/loo2022efficient.txt)
 + [Accelerating Dataset Distillation via Model Augmentation](https://arxiv.org/abs/2212.06152) (Lei Zhang & Jie Zhang et al., CVPR 2023) [:octocat:](https://github.com/ncsu-dk-lab/Acc-DD) [:book:](./citations/zhang2023accelerating.txt)
@@ -135,7 +135,10 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="understanding" />
 
 ### Better Understanding
++ [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) [:book:](./citations/lorraine2020optimizing.txt) 
++ [On Implicit Bias in Overparameterized Bilevel Optimization](https://proceedings.mlr.press/v162/vicol22a.html) (Paul Vicol et al., ICML 2022) [:book:](./citations/vicol2022implicit.txt)
 + [On the Size and Approximation Error of Distilled Sets](https://arxiv.org/abs/2305.14113) (Alaa Maalouf & Murad Tukan et al., NeurIPS 2023) [:book:](./citations/maalouf2023size.txt)
++ [A Theoretical Study of Dataset Distillation](https://openreview.net/forum?id=dq5QGXGxoJ) (Zachary Izzo et al., NeurIPS 2023 Workshop) [:book:](./citations/izzo2023theo.txt)
 + [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) [:book:](./citations/yang2024learning.txt)
 
 <a name="parametrization" />
@@ -254,6 +257,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_2) (Yuchen Tian & Jiacheng Wang, MICCAI 2023 Workshop) [:book:](./citations/tian2023gdd.txt)
 + [Image Distillation for Safe Data Sharing in Histopathology](https://arxiv.org/abs/2406.13536) (Zhe Li et al., MICCAI 2024) [:octocat:](https://github.com/ZheLi2020/InfoDist) [:book:](./citations/li2024infodist.txt)
 + [Progressive Trajectory Matching for Medical Dataset Distillation](https://arxiv.org/abs/2403.13469) (Zhen Yu et al., 2024) [:book:](./citations/yu2024progressive.txt)
++ [Dataset Distillation in Medical Imaging: A Feasibility Study](https://arxiv.org/abs/2407.14429) (Muyang Li et al., 2024) [:book:](./citations/li2024medical.txt)
 
 <a name="fed" />
 
