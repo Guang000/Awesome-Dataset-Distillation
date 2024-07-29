@@ -1,0 +1,7 @@
+@inproceedings{wang2024fed,
+  title={An Aggregation-Free Federated Learning for Tackling Data Heterogeneity},
+  author={Wang, Yuan and Fu, Huazhu and Kanagavelu, Renuga and Wei, Qingsong and Liu, Yong and Goh, Rick Siow Mong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={26233--26242},
+  year={2024}
+}
