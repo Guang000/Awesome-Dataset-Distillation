@@ -1,0 +1,6 @@
+@article{li2024pad,
+  title={Prioritize Alignment in Dataset Distillation}, 
+  author={Li, Zekai and Guo, Ziyao and Zhao, Wangbo and Zhang, Tianle and Cheng, Zhi-Qi and Khaki, Samir and Zhang, Kaipeng and Sajed, Ahmad and Plataniotis, Konstantinos N and Wang, Kai and You, Yang},
+  journal={arXiv preprint arXiv:2408.03360},
+  year={2024}
+}
