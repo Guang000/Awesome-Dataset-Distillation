@@ -1,0 +1,6 @@
+@article{ma2024trustworthy,
+  title={Towards Trustworthy Dataset Distillation},
+  author={Ma, Shijie and Zhu, Fei and Cheng, Zhen and Zhang, Xu-Yao},
+  journal={Pattern Recognition},
+  year={2024}
+}

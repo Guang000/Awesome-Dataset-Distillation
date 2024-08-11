@@ -1,6 +1,0 @@
-@article{ma2023trustworthy,
-  title={Vision-Language Dataset Distillation},
-  author={Ma, Shijie and Zhu, Fei and Cheng, Zhen and Zhang, Xu-Yao},
-  journal={arXiv preprint arXiv:2307.09165},
-  year={2023}
-}
