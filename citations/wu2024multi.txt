@@ -1,6 +1,6 @@
-@article{wu2023multi,
+@article{wu2024multi,
   title={Vision-Language Dataset Distillation},
   author={Wu, Xindi and Zhang, Byron and Deng, Zhiwei and Russakovsky, Olga},
-  journal={arXiv preprint arXiv:2308.07545},
-  year={2023}
+  journal={Transactions on Machine Learning Research},
+  year={2024}
 }
