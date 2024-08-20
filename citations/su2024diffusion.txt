@@ -1,0 +1,6 @@
+@inproceedings{su2024diffusion,
+  title={Generative Dataset Distillation Based on Diffusion Model},
+  author={Su, Duo and Hou, Junjie and Li, Guang and Togo, Ren and Song, Rui and Ogawa, Takahiro and Haseyama, Miki},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV), Workshop},
+  year={2024}
+}
