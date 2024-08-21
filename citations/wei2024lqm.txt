@@ -2,6 +2,6 @@
   author={Dataset Condensation with Latent Quantile Matching},
   title={Wei, Wei and De Schepper, Tom and Mets, Kevin},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
-  pages={7703-7712},
+  pages={7703--7712},
   year={2024}
 }
