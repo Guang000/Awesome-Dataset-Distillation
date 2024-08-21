@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-166-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-167-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -108,8 +108,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy](https://arxiv.org/abs/2312.15927) (Hansong Zhang & Shikun Li et al., AAAI 2024)  [:octocat:](https://github.com/Hansong-Zhang/M3D) [:book:](./citations/zhang2024m3d.txt)
 + [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (Peng Sun et al., CVPR 2024) [:octocat:](https://github.com/LINs-lab/RDED) [:book:](./citations/sun2024diversity.txt)
 + [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
++ [Dataset Condensation with Latent Quantile Matching](https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html) (Wei et al., CVPR 2024 workshop) [:book:](./citations/wei2024lqm.txt)
 + [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063) (Hansong Zhang et al., IJCAI 2024) [:octocat:](https://github.com/Hansong-Zhang/DANCE) [:book:](./citations/zhang2024dance.txt)
-+ [Dataset Condensation with Latent Quantile Matching](https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html) (Wei et al., CVPR 2024 workshop DDCV) [:book:](./citations/wei2024lqm.txt)
 
 <a name="optimization" />
 
@@ -422,6 +422,6 @@ If you find this project useful for your research, please use the following BibT
 
 ## Acknowledgments
 We would like to express our heartfelt thanks to [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), [Can Chen](https://github.com/GGchen1997), [Guangxiang Zhao](https://github.com/zhaoguangxiang), [Shiye Lei](https://github.com/LeavesLei), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/), [Dmitry Medvedev](https://github.com/dm-medvedev), [Seungjae Shin](https://github.com/SJShin-AI), [Jiawei Du](https://github.com/AngusDujw), [Yidi Jiang](https://github.com/Jiang-Yidi), [Xindi Wu](https://github.com/XindiWu), [Guangyi Liu](https://github.com/lgy0404), [Yilun Liu](https://github.com/superallen13), [Kai Wang](https://github.com/kaiwang960112), [Yue Xu](https://github.com/silicx), [Anjia Cao](https://github.com/CAOANJIA), [Jianyang Gu](https://github.com/vimar-gu), [Yuanzhen Feng](https://github.com/fengyzpku), [Peng Sun](https://github.com/sp12138), [Ahmad Sajedi](https://github.com/AhmadSajedii), 
-[Zhihao Sui](https://github.com/suizhihao), [Ziyu Wang](https://github.com/yuz1wan), [Haoyang Liu](https://github.com/Liu-Hy), [Eduardo Montesuma](https://github.com/eddardd), [Shengbo Gong](https://github.com/rockcor), [Zheng Zhou](https://github.com/zhouzhengqd), [Zhenghao Zhao](https://github.com/ichbill), [Duo Su](https://github.com/suduo94), [Tianhang Zheng](https://github.com/tianzheng4) and [Shijie Ma](https://github.com/mashijie1028) for their valuable suggestions and contributions.
+[Zhihao Sui](https://github.com/suizhihao), [Ziyu Wang](https://github.com/yuz1wan), [Haoyang Liu](https://github.com/Liu-Hy), [Eduardo Montesuma](https://github.com/eddardd), [Shengbo Gong](https://github.com/rockcor), [Zheng Zhou](https://github.com/zhouzhengqd), [Zhenghao Zhao](https://github.com/ichbill), [Duo Su](https://github.com/suduo94), [Tianhang Zheng](https://github.com/tianzheng4) [Shijie Ma](https://github.com/mashijie1028) and [Wei Wei](https://github.com/WeiWeic6222848) for their valuable suggestions and contributions.
 
 The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awesome Dataset Distillation was designed and maintained by [Longzhen Li](https://github.com/LOVELESSG).
