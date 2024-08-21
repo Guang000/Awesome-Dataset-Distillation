@@ -1,0 +1,8 @@
+@InProceedings{Wei_2024_CVPR,
+    author    = {Wei, Wei and De Schepper, Tom and Mets, Kevin},
+    title     = {Dataset Condensation with Latent Quantile Matching},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {7703-7712}
+}
