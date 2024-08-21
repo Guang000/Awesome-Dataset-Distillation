@@ -3,5 +3,5 @@
   author={Li, Longzhen and Li, Guang and Togo, Ren and Maeda, Keisuke and Ogawa, Takahiro and Haseyama, Miki},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
   pages={7664--7671},
-  year={2024},
+  year={2024}
 }
