@@ -1,0 +1,9 @@
+@misc{wang2024samples,
+      title={Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation}, 
+      author={Shaobo Wang and Yantai Yang and Qilong Wang and Kaixin Li and Linfeng Zhang and Junchi Yan},
+      year={2024},
+      eprint={2408.12483},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.12483}, 
+}
