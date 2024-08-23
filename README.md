@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-167-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-168-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2024/08/23] [Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation](https://arxiv.org/abs/2408.12483) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024samples.txt)
++ [2024/08/22] [Dataset Condensation with Latent Quantile Matching](https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html) (Wei et al., CVPR 2024 Workshop) [:book:](./citations/wei2024lqm.txt)
 + [2024/08/20] [Generative Dataset Distillation Based on Diffusion Model](https://arxiv.org/abs/2408.08610) (Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) [:octocat:](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model) [:book:](./citations/su2024diffusion.txt)
 + [2024/08/07] [Prioritize Alignment in Dataset Distillation](https://arxiv.org/abs/2408.03360) (Zekai Li & Ziyao Guo et al., 2024) [:octocat:](https://github.com/NUS-HPC-AI-Lab/PAD) [:book:](./citations/li2024pad.txt)
 + [2024/08/02] [Dataset Distillation for Offline Reinforcement Learning](https://arxiv.org/abs/2407.20299) (Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop) [:globe_with_meridians:](https://datasetdistillation4rl.github.io/) [:octocat:](https://github.com/ggflow123/DDRL) [:book:](./citations/light2024rl.txt)
@@ -28,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/07/25] [A Theoretical Study of Dataset Distillation](https://openreview.net/forum?id=dq5QGXGxoJ) (Zachary Izzo et al., NeurIPS 2023 Workshop) [:book:](./citations/izzo2023theo.txt)
 + [2024/07/23] [Dataset Distillation by Automatic Training Trajectories](https://arxiv.org/abs/2407.14245) (Dai Liu et al., ECCV 2024) [:octocat:](https://github.com/NiaLiu/ATT) [:book:](./citations/liu2024att.txt)
 + [2024/07/16] [FYI: Flip Your Images for Dataset Distillation](https://arxiv.org/abs/2407.08113) (Byunggwan Son et al., ECCV 2024) [:globe_with_meridians:](https://cvlab.yonsei.ac.kr/projects/FYI/) [:book:](./citations/son2024fyi.txt)
-+ [2024/07/13] [Differentially Private Dataset Condensation](https://www.ndss-symposium.org/ndss-paper/auto-draft-542/) (Zheng et al., NDSS 2024 Workshop) [:book:](./citations/zheng2024differentially.txt)
-+ [2024/07/11] [Dataset Quantization with Active Learning based Adaptive Sampling](https://arxiv.org/abs/2407.07268) (Zhenghao Zhao et al., ECCV 2024) [:octocat:](https://github.com/ichbill/DQAS) [:book:](./citations/zhao2024dqas.txt)
 
 ## Contents
 - [Main](#main)
@@ -108,7 +108,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy](https://arxiv.org/abs/2312.15927) (Hansong Zhang & Shikun Li et al., AAAI 2024)  [:octocat:](https://github.com/Hansong-Zhang/M3D) [:book:](./citations/zhang2024m3d.txt)
 + [On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm](https://arxiv.org/abs/2312.03526) (Peng Sun et al., CVPR 2024) [:octocat:](https://github.com/LINs-lab/RDED) [:book:](./citations/sun2024diversity.txt)
 + [Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation](https://arxiv.org/abs/2404.00563) (Wenxiao Deng et al., CVPR 2024) [:octocat:](https://github.com/VincenDen/IID) [:book:](./citations/deng2024iid.txt)
-+ [Dataset Condensation with Latent Quantile Matching](https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html) (Wei et al., CVPR 2024 workshop) [:book:](./citations/wei2024lqm.txt)
++ [Dataset Condensation with Latent Quantile Matching](https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html) (Wei et al., CVPR 2024 Workshop) [:book:](./citations/wei2024lqm.txt)
 + [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063) (Hansong Zhang et al., IJCAI 2024) [:octocat:](https://github.com/Hansong-Zhang/DANCE) [:book:](./citations/zhang2024dance.txt)
 
 <a name="optimization" />
@@ -137,7 +137,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [FYI: Flip Your Images for Dataset Distillation](https://arxiv.org/abs/2407.08113) (Byunggwan Son et al., ECCV 2024) [:globe_with_meridians:](https://cvlab.yonsei.ac.kr/projects/FYI/) [:book:](./citations/son2024fyi.txt)
 + [Curriculum Dataset Distillation](https://arxiv.org/abs/2405.09150) (Zhiheng Ma & Anjia Cao et al., 2024) [:book:](./citations/ma2024cudd.txt)
 + [BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/abs/2406.01112) (Zheng Zhou et al., 2024) [:octocat:](https://github.com/zhouzhengqd/BACON) [:book:](./citations/zhou2024bacon.txt)
-+ [Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation](https://arxiv.org/abs/2408.12483) (Shaobo Wang et al., 2024)  [:book:](./citations/wang2024samples.txt)
++ [Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation](https://arxiv.org/abs/2408.12483) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024samples.txt)
+
 <a name="understanding" />
 
 ### Better Understanding
@@ -423,6 +424,6 @@ If you find this project useful for your research, please use the following BibT
 
 ## Acknowledgments
 We would like to express our heartfelt thanks to [Nikolaos Tsilivis](https://github.com/Tsili42), [Wei Jin](https://github.com/ChandlerBang), [Yongchao Zhou](https://github.com/yongchao97), [Noveen Sachdeva](https://github.com/noveens), [Can Chen](https://github.com/GGchen1997), [Guangxiang Zhao](https://github.com/zhaoguangxiang), [Shiye Lei](https://github.com/LeavesLei), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/), [Dmitry Medvedev](https://github.com/dm-medvedev), [Seungjae Shin](https://github.com/SJShin-AI), [Jiawei Du](https://github.com/AngusDujw), [Yidi Jiang](https://github.com/Jiang-Yidi), [Xindi Wu](https://github.com/XindiWu), [Guangyi Liu](https://github.com/lgy0404), [Yilun Liu](https://github.com/superallen13), [Kai Wang](https://github.com/kaiwang960112), [Yue Xu](https://github.com/silicx), [Anjia Cao](https://github.com/CAOANJIA), [Jianyang Gu](https://github.com/vimar-gu), [Yuanzhen Feng](https://github.com/fengyzpku), [Peng Sun](https://github.com/sp12138), [Ahmad Sajedi](https://github.com/AhmadSajedii), 
-[Zhihao Sui](https://github.com/suizhihao), [Ziyu Wang](https://github.com/yuz1wan), [Haoyang Liu](https://github.com/Liu-Hy), [Eduardo Montesuma](https://github.com/eddardd), [Shengbo Gong](https://github.com/rockcor), [Zheng Zhou](https://github.com/zhouzhengqd), [Zhenghao Zhao](https://github.com/ichbill), [Duo Su](https://github.com/suduo94), [Tianhang Zheng](https://github.com/tianzheng4) [Shijie Ma](https://github.com/mashijie1028) and [Wei Wei](https://github.com/WeiWeic6222848) for their valuable suggestions and contributions.
+[Zhihao Sui](https://github.com/suizhihao), [Ziyu Wang](https://github.com/yuz1wan), [Haoyang Liu](https://github.com/Liu-Hy), [Eduardo Montesuma](https://github.com/eddardd), [Shengbo Gong](https://github.com/rockcor), [Zheng Zhou](https://github.com/zhouzhengqd), [Zhenghao Zhao](https://github.com/ichbill), [Duo Su](https://github.com/suduo94), [Tianhang Zheng](https://github.com/tianzheng4), [Shijie Ma](https://github.com/mashijie1028), [Wei Wei](https://github.com/WeiWeic6222848) and [Shaobo Wang](https://github.com/Hiter-Q) for their valuable suggestions and contributions.
 
 The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awesome Dataset Distillation was designed and maintained by [Longzhen Li](https://github.com/LOVELESSG).
