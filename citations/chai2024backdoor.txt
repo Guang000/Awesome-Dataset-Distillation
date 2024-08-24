@@ -1,0 +1,7 @@
+@inproceedings{chai2024backdoor,
+  title={Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning},
+  author={Chai, Ze and Gao, Zhipeng and Lin, Yijing and Zhao, Chen and Yu, Xinlei and Xie, Zhiqiang},
+  booktitle={IEEE International Conference on Communications (ICC)},
+  pages={4614--4619},
+  year={2024}
+}
