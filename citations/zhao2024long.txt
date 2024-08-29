@@ -1,0 +1,6 @@
+@article{zhao2024long,
+  title={Distilling Long-tailed Datasets, 
+  author={Zhao, Zhenghao and Wang, Haoxuan and Shang, Yuzhang and Wang, Kai and Yan, Yan},
+  journal={arXiv preprint arXiv:2408.14506},
+  year={2024}
+}
