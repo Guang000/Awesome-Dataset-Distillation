@@ -389,7 +389,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Time Series
 + [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245) (Zhanyu Liu et al., KDD 2024) [:octocat:](https://github.com/zhyliu00/TimeSeriesCond) [:book:](./citations/liu2024time.txt)
-+ [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) (Jianrong Ding & Zhanyu Liu et al., 2024) [:book:](./citations/ding2024time.txt)
++ [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) (Jianrong Ding & Zhanyu Liu et al., 2024) [:octocat:](https://github.com/RafaDD/CondTSF) [:book:](./citations/ding2024time.txt) 
 
 <a name="speech" />
 
