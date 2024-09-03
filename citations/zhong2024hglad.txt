@@ -1,0 +1,6 @@
+@article{zhao2024long,
+  title={{Hierarchical Features Matter}: A Deep Exploration of GAN Priors for Improved Dataset Distillation, 
+  author={Zhong, Xinhao and Fang, Hao and Chen, Bin and Gu, Xulin and Dai, Tao and Qiu, Meikang and Xia, Shu-Tao},
+  journal={arXiv preprint arXiv:2406.05704},
+  year={2024}
+}
