@@ -1,0 +1,6 @@
+@inproceedings{yang2024nsd,
+  title={Neural Spectral Decomposition for Dataset Distillation},
+  author={Yang, Shaolei and Cheng, Shen and Hong, Mingbo and Fan, Haoqiang and Wei, Xing and Liu, Shuaicheng},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
