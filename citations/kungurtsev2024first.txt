@@ -1,0 +1,6 @@
+@article{kungurtsev2024first,
+  title={{Dataset Distillation from First Principles}: Integrating Core Information Extraction and Purposeful Learning, 
+  author={Kungurtsev, Vyacheslav and Peng, Yuanfang and Gu, Jianyang and Vahidian, Saeed and Quinn, Anthony and Idlahcen, Fadwa and Chen, Yiran},
+  journal={arXiv preprint arXiv:2409.01410},
+  year={2024}
+}
