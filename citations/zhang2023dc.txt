@@ -1,6 +1,6 @@
 @article{zhang2023dc,
   title={Dataset Condensation via Generative Model},
   author={Zhang, David Junhao and Wang, Heng and Xue, Chuhui and Yan, Rui and Zhang, Wenqing and Bai, Song and Shou, Mike Zheng},
-  journal={https://arxiv.org/abs/2309.07698},
+  journal={arXiv preprint arXiv:2309.07698},
   year={2023}
 }
