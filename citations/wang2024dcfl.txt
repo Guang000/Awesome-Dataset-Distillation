@@ -1,0 +1,7 @@
+@inproceedings{wang2024dcfl,
+  title={DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning},
+  author={Wang, Xingwang and Sha,  Shaohan and Sun, Yafeng},
+  booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2021}
+}
