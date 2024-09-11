@@ -3,5 +3,5 @@
   author={Wang, Xingwang and Sha,  Shaohan and Sun, Yafeng},
   booktitle={Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
   pages={1--8},
-  year={2021}
+  year={2024}
 }
