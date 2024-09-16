@@ -1,0 +1,6 @@
+@inproceedings{jia2024feddg,
+  title={Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents},
+  author={Jia, Yuqi and Vahidian, Saeed and Sun, Jingwei and Zhang, Jianyi and Kungurtsev, Vyacheslav and Gong, Neil Zhenqiang and Chen, Yiran},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
