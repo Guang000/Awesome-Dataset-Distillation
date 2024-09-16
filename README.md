@@ -34,7 +34,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ## Contents
 - [Main](#main)
   - [Early Work](#early-work)
-  - [Label Distillation](#label)
   - [Gradient/Trajectory Matching Surrogate Objective](#gradient-objective)
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
   - [Kernel-Based Distillation](#kernel)
@@ -42,6 +41,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Generative Prior](#generative)
   - [Better Optimization](#optimization)
   - [Better Understanding](#understanding)
+  - [Label Distillation](#label)
   - [Dataset Quantization](#quant)
   - [Decoupled Distillation](#decouple)
   - [Multimodal Distillation](#multi)
@@ -83,12 +83,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Early Work
 + [Gradient-Based Hyperparameter Optimization Through Reversible Learning](https://arxiv.org/abs/1502.03492) (Dougal Maclaurin et al., ICML 2015) [:octocat:](https://github.com/HIPS/hypergrad) [:book:](./citations/maclaurin2015gradient.txt)
-
-<a name="label" />
-
-### Label Distillation
-+ [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS 2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation) [:book:](./citations/bohdal2020flexible.txt)
-+ [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN 2021) [:octocat:](https://github.com/ilia10000/dataset-distillation) [:book:](./citations/sucholutsky2021soft.txt)
 
 <a name="gradient-objective" />
 
@@ -189,6 +183,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [A Theoretical Study of Dataset Distillation](https://openreview.net/forum?id=dq5QGXGxoJ) (Zachary Izzo et al., NeurIPS 2023 Workshop) [:book:](./citations/izzo2023theo.txt)
 + [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) [:book:](./citations/yang2024learning.txt)
 + [Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning](https://arxiv.org/abs/2409.01410) (Vyacheslav Kungurtsev et al., 2024) [:book:](./citations/kungurtsev2024first.txt)
+
+<a name="label" />
+
+### Label Distillation
++ [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS 2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation) [:book:](./citations/bohdal2020flexible.txt)
++ [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN 2021) [:octocat:](https://github.com/ilia10000/dataset-distillation) [:book:](./citations/sucholutsky2021soft.txt)
 
 <a name="quant" />
 
