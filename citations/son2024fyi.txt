@@ -1,5 +1,5 @@
 @inproceedings{son2024fyi,
-  title={FYI: Flip Your Images for Dataset Distillation},
+  title={{FYI}: Flip Your Images for Dataset Distillation},
   author={Son, Byunggwan and Oh, Youngmin and Baek, Donghyeon and Ham, Bumsub},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
   year={2024}
