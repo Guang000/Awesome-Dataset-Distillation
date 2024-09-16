@@ -1,0 +1,6 @@
+@inproceedings{zheng2024hmn,
+  title={Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation},
+  author={Zheng, Haizhong and Sun, Jiachen and Wu, Shutong and Kailkhura, Bhavya and Mao, Zhuoqing and Xiao, Chaowei and Prakash, Atul},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
