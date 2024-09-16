@@ -38,7 +38,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Distribution/Feature Matching Surrogate Objective](#feature-objective)
   - [Kernel-Based Distillation](#kernel)
   - [Distilled Dataset Parametrization](#parametrization)
-  - [Generative Prior](#generative)
+  - [Generative Distillation](#generative)
   - [Better Optimization](#optimization)
   - [Better Understanding](#understanding)
   - [Label Distillation](#label)
@@ -142,7 +142,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 <a name="generative" />
 
-### Generative Prior
+### Generative Distillation
 + [Synthesizing Informative Training Samples with GAN](https://arxiv.org/abs/2204.07513) (Bo Zhao et al., NeurIPS 2022 Workshop) [:octocat:](https://github.com/vico-uoe/it-gan) [:book:](./citations/zhao2022synthesizing.txt)
 + [Generalizing Dataset Distillation via Deep Generative Prior](https://arxiv.org/abs/2305.01649) (George Cazenavette et al., CVPR 2023) [:globe_with_meridians:](https://georgecazenavette.github.io/glad/) [:octocat:](https://github.com/georgecazenavette/glad) [:book:](./citations/cazenavette2023glad.txt)
 + [DiM: Distilling Dataset into Generative Model](https://arxiv.org/abs/2303.04707) (Kai Wang & Jianyang Gu et al., 2023) [:octocat:](https://github.com/vimar-gu/DiM) [:book:](./citations/wang2023dim.txt)
