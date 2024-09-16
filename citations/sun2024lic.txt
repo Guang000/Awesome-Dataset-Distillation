@@ -1,0 +1,6 @@
+@inproceedings{sun2024lic,
+  title={{Information Compensation}: A Fix for Any-scale Dataset Distillation},
+  author={Sun, Peng and Shi, Bei and Shang, Xinyi and Lin, Tao},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR), Workshop},
+  year={2024}
+}
