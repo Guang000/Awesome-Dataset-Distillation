@@ -1,0 +1,6 @@
+@article{shao2024edc,
+  title={Dataset Distillation in Large Data Era, 
+  author={Shao, Shitong and Zhou, Zikai and Chen, Huanran and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2404.13733},
+  year={2024}
+}
