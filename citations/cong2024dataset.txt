@@ -1,0 +1,6 @@
+@article{cong2024dataset,
+  title={Dataset Distillation for Histopathology Image Classification},
+  author={Cong, Cong and Xuan, Shiyu and Liu, Sidong and Pagnucco, Maurice and Zhang, Shiliang and Song, Yang},
+  journal={arXiv preprint arXiv:2408.09709},
+  year={2024}
+}
