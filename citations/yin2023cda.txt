@@ -1,0 +1,6 @@
+@article{yin2023cda,
+  title={Dataset Distillation in Large Data Era, 
+  author={Yin, Zeyuan and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2311.18838},
+  year={2023}
+}
