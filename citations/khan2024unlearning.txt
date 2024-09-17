@@ -1,0 +1,6 @@
+@article{khan2024unlearning,
+  title={Dataset Condensation Driven Machine Unlearning, 
+  author={Khan, Junaid Iqbal},
+  journal={arXiv preprint arXiv:2402.00195},
+  year={2024}
+}
