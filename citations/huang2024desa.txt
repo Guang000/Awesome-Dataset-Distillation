@@ -1,0 +1,6 @@
+@inproceedings{huang2024desa,
+  title={Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors}, 
+  author={Huang, Chun-Yin and Srinivas, Kartik and Zhang, Xin and Li, Xiaoxiao},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2024}
+}
