@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-185-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-184-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -60,7 +60,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Graph Neural Network](#gnn)
   - [Neural Architecture Search](#nas)
   - [Fashion, Art, and Design](#fashion)
-  - [Knowledge Distillation](#kd)
   - [Recommender Systems](#rec)
   - [Blackbox Optimization](#blackbox)
   - [Trustworthy](#trustworthy)
@@ -353,11 +352,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR 2022 Workshop) [:globe_with_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) [:book:](./citations/cazenavette2022textures.txt)
 + [Learning from Designers: Fashion Compatibility Analysis Via Dataset Distillation](https://ieeexplore.ieee.org/document/9897234) (Yulan Chen et al., ICIP 2022) [:book:](./citations/chen2022fashion.txt)
 + [Galaxy Dataset Distillation with Self-Adaptive Trajectory Matching](https://arxiv.org/abs/2311.17967) (Haowen Guan et al., NeurIPS 2023 Workshop) [:octocat:](https://github.com/HaowenGuan/Galaxy-Dataset-Distillation) [:book:](./citations/guan2023galaxy.txt)
-
-<a name="kd" />
-
-### Knowledge Distillation
-+ [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409) (Chenxin Li et al., ECCV 2022) [:octocat:](https://github.com/dzy3/KCD) [:book:](./citations/li2022knowledge.txt)
 
 <a name="rec" />
 
