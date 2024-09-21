@@ -1,0 +1,9 @@
+@article{li2024iadd,
+  title={Importance-aware adaptive dataset distillation},
+  author={Li, Guang and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
+  journal={Neural Networks},
+  volume={172},
+  pages={106154},
+  year={2024},
+  publisher={Elsevier}
+}
