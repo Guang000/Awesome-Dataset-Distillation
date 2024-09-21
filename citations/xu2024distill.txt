@@ -1,5 +1,5 @@
 @inproceedings{xu2024distill,
-  title={Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection},
+  title={Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation},
   author={Xu, Yue and Li, Yong-Lu and Cui, Kaitong and Wang, Ziyu and Lu, Cewu and Tai, Yu-Wing and Tang, Chi-Keung},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
   year={2024}
