@@ -1,0 +1,6 @@
+@article{gong2024graphslim,
+  title={{GC-Bench}: A Benchmark Framework for Graph Condensation with New Insights},
+  author={Gong, Shengbo and Ni, Juntong and Sachdeva, Noveen and Yang, Carl and Jin, Wei},
+  journal={arXiv preprint arXiv:2406.16715},
+  year={2024}
+}
