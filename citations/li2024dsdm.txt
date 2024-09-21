@@ -1,0 +1,6 @@
+@inproceedings{li2024dsdm,
+  title={Diversified Semantic Distribution Matching for Dataset Distillation}, 
+  author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
+  booktitle={Proceedings of the ACM International Conference on Multimedia (MM)},
+  year={2024}
+}
