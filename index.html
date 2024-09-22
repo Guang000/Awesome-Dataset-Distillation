@@ -79,12 +79,14 @@
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#early" class="title-medium on-primary-container-text">Early Work</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#gradient" class="title-medium on-primary-container-text">Gradient/Trajectory Matching Surrogate Objective</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#distribution" class="title-medium on-primary-container-text">Distribution/Feature Matching Surrogate Objective</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#kernel" class="title-medium on-primary-container-text">Kernel-Based Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#parametrization" class="title-medium on-primary-container-text">Distilled Dataset Parametrization</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#generative" class="title-medium on-primary-container-text">Generative Distillation</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#better-optimization" class="title-medium on-primary-container-text">Better Optimization</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#better-understanding" class="title-medium on-primary-container-text">Better Understanding</a></div>
-					<div class="navigation-item"><a onclick="close_sidebar()" href="#parametrization" class="title-medium on-primary-container-text">Distilled Dataset Parametrization</a></div>
-					<div class="navigation-item"><a onclick="close_sidebar()" href="#generative" class="title-medium on-primary-container-text">Generative Prior</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#label" class="title-medium on-primary-container-text">Label Distillation</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#quantization" class="title-medium on-primary-container-text">Dataset Quantization</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#decouple" class="title-medium on-primary-container-text">Decoupled Distillation</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#multimodal" class="title-medium on-primary-container-text">Multimodal Distillation</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#self" class="title-medium on-primary-container-text">Self-Supervised Distillation</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#long" class="title-medium on-primary-container-text">Long-Tailed Distillation</a></div>
@@ -103,7 +105,6 @@
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#graph-neural" class="title-medium on-primary-container-text">Graph Neural Network</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#neural-architecture" class="title-medium on-primary-container-text">Neural Architecture Search</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#fashion" class="title-medium on-primary-container-text">Fashion, Art, and Design</a></div>
-					<div class="navigation-item"><a onclick="close_sidebar()" href="#knowledge" class="title-medium on-primary-container-text">Knowledge Distillation</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#recommender" class="title-medium on-primary-container-text">Recommender Systems</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#blackbox" class="title-medium on-primary-container-text">Blackbox Optimization</a></div>
 					<div class="navigation-item"><a onclick="close_sidebar()" href="#trustworthy" class="title-medium on-primary-container-text">Trustworthy</a></div>
@@ -131,7 +132,7 @@
                 <hr class="count-divider on-background-text">
                 <div class="item-number-container" onclick="location.href='https://github.com/Guang000/Awesome-Dataset-Distillation'">
                     <p class="count-title on-background-text display-small">Paper Statistics:</p>
-                    <p class="count-number on-background-text display-large">173</p>
+                    <p class="count-number on-background-text display-large">186</p>
                 </div>
             </div>
 
@@ -147,6 +148,236 @@
             <h2 class="section-title display-medium on-background-text">Latest Updates</h2>
             <div class="lastupdate-container surface-variant">
                 <ul>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2024/09/21</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/ubc-tea/DESA">Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors</a></p>
+							<p class="title-medium essay-author"><i>Chun-Yin Huang et al., ICML 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/huang2024desa.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2405.11525">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Diversified Semantic Distribution Matching for Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Hongcheng Li et al., MM 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024dsdm.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=vtpwJob0L1">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2024/09/17</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Dataset Distillation for Histopathology Image Classification</p>
+							<p class="title-medium essay-author"><i>Cong Cong et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cong2024dataset.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2408.09709">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/algebraicdianuj/DC_U">Dataset Condensation Driven Machine Unlearning</a></p>
+							<p class="title-medium essay-author"><i>Junaid Iqbal Khan, 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/khan2024unlearning.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2402.00195">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Calibrated Dataset Condensation for Faster Hyperparameter Search</p>
+							<p class="title-medium essay-author"><i>Mucong Ding et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2024hcdc.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2405.17535">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Elucidating the Design Space of Dataset Condensation</p>
+							<p class="title-medium essay-author"><i>Shitong Shao et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024edc.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2404.13733">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VILA-Lab/SRe2L/tree/main/CDA">Dataset Distillation in Large Data Era</a></p>
+							<p class="title-medium essay-author"><i>Zeyuan Yin et al., 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2023cda.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2311.18838">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2024/09/16</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation</p>
+							<p class="title-medium essay-author"><i>Haizhong Zheng et al., ECCV 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2024hmn.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2310.07506">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/FedDG23/FedDG-main">Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents</a></p>
+							<p class="title-medium essay-author"><i>Yuqi Jia & Saeed Vahidian et al., ECCV 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jia2024feddg.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2312.01537">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Information Compensation: A Fix for Any-scale Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Peng Sun et al., ICLR 2024 Workshop</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024lic.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=2SnmKd1JK4">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2024/09/11</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning</p>
+							<p class="title-medium essay-author"><i>Xingwang Wang et al., IJCNN 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024dcfl.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://ieeexplore.ieee.org/document/10650791">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
 
 					<li class="edit-date">
 						<p class="essay-content title-large on-surface-variant-text">2024/09/05</p>
@@ -482,7 +713,7 @@
 					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">FYI: Flip Your Images for Dataset Distillation</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/cvlab-yonsei/FYI">FYI: Flip Your Images for Dataset Distillation</a></p>
 							<p class="title-medium essay-author"><i>Byunggwan Son et al., ECCV 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -558,7 +789,7 @@
 					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/silicx/GoldFromOres">Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection</a></p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/silicx/GoldFromOres">Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation</a></p>
 							<p class="title-medium essay-author"><i>Yue Xu et al., ECCV 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -606,7 +837,7 @@
 					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">Ameliorate Spurious Correlations in Dataset Condensation</p>
+							<p class="essay-content">Mitigating Bias in Dataset Distillation</p>
 							<p class="title-medium essay-author"><i>Justin Cui et al., ICML 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -625,7 +856,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">Large Scale Dataset Distillation with Domain Shift</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/yolky/d3s_distillation">Large Scale Dataset Distillation with Domain Shift</a></p>
 							<p class="title-medium essay-author"><i>Noel Loo & Alaa Maalouf et al., ICML 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -920,7 +1151,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">Graph Condensation: A Survey</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/xygaog/graph-condensation-papers">Graph Condensation: A Survey</a></p>
 							<p class="title-medium essay-author"><i>Xinyi Gao et al., 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -939,7 +1170,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">A Survey on Graph Condensation</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/Frostland12138/Awesome-Graph-Condensation">A Survey on Graph Condensation</a></p>
 							<p class="title-medium essay-author"><i>Hongjia Xu., 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -1011,7 +1242,7 @@
 						</div>
 						<div class="button-group">
 							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024efficiency.txt">
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rela.txt">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
 								</span>
@@ -1792,25 +2023,6 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/LINs-lab/RDED">On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm</a></p>
-							<p class="title-medium essay-author"><i>Peng Sun et al., CVPR 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024diversity.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2312.03526">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
 							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VincenDen/IID">Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation</a></p>
 							<p class="title-medium essay-author"><i>Wenxiao Deng et al., CVPR 2024</i></p>
 						</div>
@@ -1866,12 +2078,30 @@
 							</a>
 						</div>
 					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Diversified Semantic Distribution Matching for Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Hongcheng Li et al., MM 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024dsdm.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=vtpwJob0L1">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
 
 
 					<li>
-						<h4 class="section-subtitle title-large on-background-text" id="better-optimization">Better Optimization</h4>
+						<h4 class="section-subtitle title-large on-background-text" id="kernel">Kernel-Based Distillation</h4>
 					</li>
-
 
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
@@ -1955,25 +2185,6 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/ncsu-dk-lab/Acc-DD">Accelerating Dataset Distillation via Model Augmentation</a></p>
-							<p class="title-medium essay-author"><i>Lei Zhang & Jie Zhang et al., CVPR 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2023accelerating.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2212.06152">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
 							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/yolky/RCIG">Dataset Distillation with Convexified Implicit Gradients </a></p>
 							<p class="title-medium essay-author"><i>Noel Loo et al., ICML 2023</i></p>
 						</div>
@@ -1991,477 +2202,6 @@
 							</a>
 						</div>
 					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/lyq312318224/DREAM">DREAM: Efficient Dataset Distillation by Representative Matching</a></p>
-							<p class="title-medium essay-author"><i>Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2302.14416">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VILA-Lab/SRe2L">Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective</a></p>
-							<p class="title-medium essay-author"><i>Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023</i></p>
-						</div>
-						<div class="button-group">
-							<a href="https://zeyuanyin.github.io/projects/SRe2L/">
-								<span class="essay-button surface">
-									<svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-80q-82 0-155-31.5t-127.5-86Q143-252 111.5-325T80-480q0-83 31.5-155.5t86-127Q252-817 325-848.5T480-880q83 0 155.5 31.5t127 86q54.5 54.5 86 127T880-480q0 82-31.5 155t-86 127.5q-54.5 54.5-127 86T480-80Zm0-82q26-36 45-75t31-83H404q12 44 31 83t45 75Zm-104-16q-18-33-31.5-68.5T322-320H204q29 50 72.5 87t99.5 55Zm208 0q56-18 99.5-55t72.5-87H638q-9 38-22.5 73.5T584-178ZM170-400h136q-3-20-4.5-39.5T300-480q0-21 1.5-40.5T306-560H170q-5 20-7.5 39.5T160-480q0 21 2.5 40.5T170-400Zm216 0h188q3-20 4.5-39.5T580-480q0-21-1.5-40.5T574-560H386q-3 20-4.5 39.5T380-480q0 21 1.5 40.5T386-400Zm268 0h136q5-20 7.5-39.5T800-480q0-21-2.5-40.5T790-560H654q3 20 4.5 39.5T660-480q0 21-1.5 40.5T654-400Zm-16-240h118q-29-50-72.5-87T584-782q18 33 31.5 68.5T638-640Zm-234 0h152q-12-44-31-83t-45-75q-26 36-45 75t-31 83Zm-200 0h118q9-38 22.5-73.5T376-782q-56 18-99.5 55T204-640Z"/></svg>
-								</span>
-							</a>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2023sre2l.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2306.13092">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/he-y/you-only-condense-once">You Only Condense Once: Two Rules for Pruning Condensed Datasets</a></p>
-							<p class="title-medium essay-author"><i>Yang He et al., NeurIPS 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2023yoco.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2310.14019">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">MIM4DD: Mutual Information Maximization for Dataset Distillation</p>
-							<p class="title-medium essay-author"><i>Yuzhang Shang et al., NeurIPS 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2023mim4dd.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2312.16627">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/yaolu-zjut/DDInterpreter">Can Pre-Trained Models Assist in Dataset Distillation? </a></p>
-							<p class="title-medium essay-author"><i>Yao Lu et al., 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2023pre.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2310.03295">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/lyq312318224/DREAM">DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching</a></p>
-							<p class="title-medium essay-author"><i>Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream+.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2310.15052">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">Dataset Distillation in Latent Space</p>
-							<p class="title-medium essay-author"><i>Yuxuan Duan et al., 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/duan2023latent.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2311.15547">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VITA-Group/ProgressiveDD">Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality</a></p>
-							<p class="title-medium essay-author"><i>Xuxi Chen & Yu Yang et al., ICLR 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024vodka.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2310.06982">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/fengyzpku/Simple_Dataset_Distillation">Embarassingly Simple Dataset Distillation</a></p>
-							<p class="title-medium essay-author"><i>Yunzhen Feng et al., ICLR 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yunzhen2024embarassingly.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2311.07025">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-                    <li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/he-y/Multisize-Dataset-Condensation">Multisize Dataset Condensation</a></p>
-							<p class="title-medium essay-author"><i>Yang He et al., ICLR 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2024mdc.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2403.06075">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/shaoshitong/G_VBSM_Dataset_Condensation">Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching</a></p>
-							<p class="title-medium essay-author"><i>Shitong Shao et al., CVPR 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024gvbsm.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2311.17950">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">Ameliorate Spurious Correlations in Dataset Condensation</p>
-							<p class="title-medium essay-author"><i>Justin Cui et al., ICML 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2024bias.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2406.06609">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">Large Scale Dataset Distillation with Domain Shift</p>
-							<p class="title-medium essay-author"><i>Noel Loo & Alaa Maalouf et al., ICML 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2024d3s.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://openreview.net/forum?id=0FWPKHMCSc">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/silicx/GoldFromOres">Distill Gold from Massive Ores: Efficient Dataset Distillation via Critical Samples Selection</a></p>
-							<p class="title-medium essay-author"><i>Yue Xu et al., ECCV 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024distill.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2305.18381">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">FYI: Flip Your Images for Dataset Distillation</p>
-							<p class="title-medium essay-author"><i>Byunggwan Son et al., ECCV 2024</i></p>
-						</div>
-						<div class="button-group">
-							<a href="https://cvlab.yonsei.ac.kr/projects/FYI/">
-								<span class="essay-button surface">
-									<svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-80q-82 0-155-31.5t-127.5-86Q143-252 111.5-325T80-480q0-83 31.5-155.5t86-127Q252-817 325-848.5T480-880q83 0 155.5 31.5t127 86q54.5 54.5 86 127T880-480q0 82-31.5 155t-86 127.5q-54.5 54.5-127 86T480-80Zm0-82q26-36 45-75t31-83H404q12 44 31 83t45 75Zm-104-16q-18-33-31.5-68.5T322-320H204q29 50 72.5 87t99.5 55Zm208 0q56-18 99.5-55t72.5-87H638q-9 38-22.5 73.5T584-178ZM170-400h136q-3-20-4.5-39.5T300-480q0-21 1.5-40.5T306-560H170q-5 20-7.5 39.5T160-480q0 21 2.5 40.5T170-400Zm216 0h188q3-20 4.5-39.5T580-480q0-21-1.5-40.5T574-560H386q-3 20-4.5 39.5T380-480q0 21 1.5 40.5T386-400Zm268 0h136q5-20 7.5-39.5T800-480q0-21-2.5-40.5T790-560H654q3 20 4.5 39.5T660-480q0 21-1.5 40.5T654-400Zm-16-240h118q-29-50-72.5-87T584-782q18 33 31.5 68.5T638-640Zm-234 0h152q-12-44-31-83t-45-75q-26 36-45 75t-31 83Zm-200 0h118q9-38 22.5-73.5T376-782q-56 18-99.5 55T204-640Z"/></svg>
-								</span>
-							</a>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/son2024fyi.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2407.08113">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">Curriculum Dataset Distillation</p>
-							<p class="title-medium essay-author"><i>Zhiheng Ma & Anjia Cao et al., 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ma2024cudd.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2405.09150">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/zhouzhengqd/BACON">BACON: Bayesian Optimal Condensation Framework for Dataset Distillation</a></p>
-							<p class="title-medium essay-author"><i>Zheng Zhou et al., 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024bacon.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2406.01112">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation</p>
-							<p class="title-medium essay-author"><i>Shaobo Wang et al., 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024samples.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2408.12483">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-
-
-
-					<li>
-						<h4 class="section-subtitle title-large on-background-text" id="better-understanding">Better Understanding</h4>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation">Optimizing Millions of Hyperparameters by Implicit Differentiation</a></p>
-							<p class="title-medium essay-author"><i>Jonathan Lorraine et al., AISTATS 2020</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lorraine2020optimizing.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/1911.02590">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">On Implicit Bias in Overparameterized Bilevel Optimization</p>
-							<p class="title-medium essay-author"><i>Paul Vicol et al., ICML 2022</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vicol2022implicit.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://proceedings.mlr.press/v162/vicol22a.html">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">On the Size and Approximation Error of Distilled Sets</p>
-							<p class="title-medium essay-author"><i>Alaa Maalouf & Murad Tukan et al., NeurIPS 2023</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maalouf2023size.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2305.14113">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">A Theoretical Study of Dataset Distillation</p>
-							<p class="title-medium essay-author"><i>Zachary Izzo et al., NeurIPS 2023 Workshop</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/izzo2023theo.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://openreview.net/forum?id=dq5QGXGxoJ">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning">What is Dataset Distillation Learning?</a></p>
-							<p class="title-medium essay-author"><i>William Yang et al., ICML 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2024learning.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2406.04284">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content">Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning</p>
-							<p class="title-medium essay-author"><i>Vyacheslav Kungurtsev et al., 2024</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kungurtsev2024first.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2409.01410">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-
 
 
 					<li>
@@ -2677,10 +2417,52 @@
 							</a>
 						</div>
 					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation</p>
+							<p class="title-medium essay-author"><i>Haizhong Zheng et al., ECCV 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2024hmn.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2310.07506">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/cvlab-yonsei/FYI">FYI: Flip Your Images for Dataset Distillation</a></p>
+							<p class="title-medium essay-author"><i>Byunggwan Son et al., ECCV 2024</i></p>
+						</div>
+						<div class="button-group">
+							<a href="https://cvlab.yonsei.ac.kr/projects/FYI/">
+								<span class="essay-button surface">
+									<svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-80q-82 0-155-31.5t-127.5-86Q143-252 111.5-325T80-480q0-83 31.5-155.5t86-127Q252-817 325-848.5T480-880q83 0 155.5 31.5t127 86q54.5 54.5 86 127T880-480q0 82-31.5 155t-86 127.5q-54.5 54.5-127 86T480-80Zm0-82q26-36 45-75t31-83H404q12 44 31 83t45 75Zm-104-16q-18-33-31.5-68.5T322-320H204q29 50 72.5 87t99.5 55Zm208 0q56-18 99.5-55t72.5-87H638q-9 38-22.5 73.5T584-178ZM170-400h136q-3-20-4.5-39.5T300-480q0-21 1.5-40.5T306-560H170q-5 20-7.5 39.5T160-480q0 21 2.5 40.5T170-400Zm216 0h188q3-20 4.5-39.5T580-480q0-21-1.5-40.5T574-560H386q-3 20-4.5 39.5T380-480q0 21 1.5 40.5T386-400Zm268 0h136q5-20 7.5-39.5T800-480q0-21-2.5-40.5T790-560H654q3 20 4.5 39.5T660-480q0 21-1.5 40.5T654-400Zm-16-240h118q-29-50-72.5-87T584-782q18 33 31.5 68.5T638-640Zm-234 0h152q-12-44-31-83t-45-75q-26 36-45 75t-31 83Zm-200 0h118q9-38 22.5-73.5T376-782q-56 18-99.5 55T204-640Z"/></svg>
+								</span>
+							</a>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/son2024fyi.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2407.08113">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
 
 
 					<li>
-						<h4 class="section-subtitle title-large on-background-text" id="generative">Generative Prior</h4>
+						<h4 class="section-subtitle title-large on-background-text" id="generative">Generative Distillation</h4>
 					</li>
 
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
@@ -2884,6 +2666,417 @@
 
 
 					<li>
+						<h4 class="section-subtitle title-large on-background-text" id="better-optimization">Better Optimization</h4>
+					</li>
+
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/ncsu-dk-lab/Acc-DD">Accelerating Dataset Distillation via Model Augmentation</a></p>
+							<p class="title-medium essay-author"><i>Lei Zhang & Jie Zhang et al., CVPR 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2023accelerating.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2212.06152">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/lyq312318224/DREAM">DREAM: Efficient Dataset Distillation by Representative Matching</a></p>
+							<p class="title-medium essay-author"><i>Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2302.14416">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/he-y/you-only-condense-once">You Only Condense Once: Two Rules for Pruning Condensed Datasets</a></p>
+							<p class="title-medium essay-author"><i>Yang He et al., NeurIPS 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2023yoco.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2310.14019">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">MIM4DD: Mutual Information Maximization for Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Yuzhang Shang et al., NeurIPS 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2023mim4dd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2312.16627">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/yaolu-zjut/DDInterpreter">Can Pre-Trained Models Assist in Dataset Distillation? </a></p>
+							<p class="title-medium essay-author"><i>Yao Lu et al., 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2023pre.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2310.03295">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/lyq312318224/DREAM">DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching</a></p>
+							<p class="title-medium essay-author"><i>Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream+.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2310.15052">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Dataset Distillation in Latent Space</p>
+							<p class="title-medium essay-author"><i>Yuxuan Duan et al., 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/duan2023latent.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2311.15547">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VITA-Group/ProgressiveDD">Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality</a></p>
+							<p class="title-medium essay-author"><i>Xuxi Chen & Yu Yang et al., ICLR 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024vodka.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2310.06982">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/fengyzpku/Simple_Dataset_Distillation">Embarassingly Simple Dataset Distillation</a></p>
+							<p class="title-medium essay-author"><i>Yunzhen Feng et al., ICLR 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yunzhen2024embarassingly.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2311.07025">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/he-y/Multisize-Dataset-Condensation">Multisize Dataset Condensation</a></p>
+							<p class="title-medium essay-author"><i>Yang He et al., ICLR 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2024mdc.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2403.06075">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/yolky/d3s_distillation">Large Scale Dataset Distillation with Domain Shift</a></p>
+							<p class="title-medium essay-author"><i>Noel Loo & Alaa Maalouf et al., ICML 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2024d3s.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=0FWPKHMCSc">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/silicx/GoldFromOres">Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation</a></p>
+							<p class="title-medium essay-author"><i>Yue Xu et al., ECCV 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024distill.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2305.18381">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/zhouzhengqd/BACON">BACON: Bayesian Optimal Condensation Framework for Dataset Distillation</a></p>
+							<p class="title-medium essay-author"><i>Zheng Zhou et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024bacon.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2406.01112">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Shaobo Wang et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024samples.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2408.12483">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+
+
+					<li>
+						<h4 class="section-subtitle title-large on-background-text" id="better-understanding">Better Understanding</h4>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation">Optimizing Millions of Hyperparameters by Implicit Differentiation</a></p>
+							<p class="title-medium essay-author"><i>Jonathan Lorraine et al., AISTATS 2020</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lorraine2020optimizing.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/1911.02590">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">On Implicit Bias in Overparameterized Bilevel Optimization</p>
+							<p class="title-medium essay-author"><i>Paul Vicol et al., ICML 2022</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vicol2022implicit.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://proceedings.mlr.press/v162/vicol22a.html">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">On the Size and Approximation Error of Distilled Sets</p>
+							<p class="title-medium essay-author"><i>Alaa Maalouf & Murad Tukan et al., NeurIPS 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maalouf2023size.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2305.14113">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">A Theoretical Study of Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Zachary Izzo et al., NeurIPS 2023 Workshop</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/izzo2023theo.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=dq5QGXGxoJ">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning">What is Dataset Distillation Learning?</a></p>
+							<p class="title-medium essay-author"><i>William Yang et al., ICML 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2024learning.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2406.04284">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Mitigating Bias in Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Justin Cui et al., ICML 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2024bias.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2406.06609">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning</p>
+							<p class="title-medium essay-author"><i>Vyacheslav Kungurtsev et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kungurtsev2024first.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2409.01410">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+
+					<li>
 						<h4 class="section-subtitle title-large on-background-text" id="label">Label Distillation</h4>
 					</li>
 
@@ -2964,6 +3157,149 @@
 								</span>
 							</a>
 							<a href="https://arxiv.org/abs/2407.07268">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+
+					<li>
+						<h4 class="section-subtitle title-large on-background-text" id="decouple">Decoupled Distillation</h4>
+					</li>
+
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VILA-Lab/SRe2L/tree/main/SRe2L">Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective</a></p>
+							<p class="title-medium essay-author"><i>Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023</i></p>
+						</div>
+						<div class="button-group">
+							<a href="https://zeyuanyin.github.io/projects/SRe2L/">
+								<span class="essay-button surface">
+									<svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-80q-82 0-155-31.5t-127.5-86Q143-252 111.5-325T80-480q0-83 31.5-155.5t86-127Q252-817 325-848.5T480-880q83 0 155.5 31.5t127 86q54.5 54.5 86 127T880-480q0 82-31.5 155t-86 127.5q-54.5 54.5-127 86T480-80Zm0-82q26-36 45-75t31-83H404q12 44 31 83t45 75Zm-104-16q-18-33-31.5-68.5T322-320H204q29 50 72.5 87t99.5 55Zm208 0q56-18 99.5-55t72.5-87H638q-9 38-22.5 73.5T584-178ZM170-400h136q-3-20-4.5-39.5T300-480q0-21 1.5-40.5T306-560H170q-5 20-7.5 39.5T160-480q0 21 2.5 40.5T170-400Zm216 0h188q3-20 4.5-39.5T580-480q0-21-1.5-40.5T574-560H386q-3 20-4.5 39.5T380-480q0 21 1.5 40.5T386-400Zm268 0h136q5-20 7.5-39.5T800-480q0-21-2.5-40.5T790-560H654q3 20 4.5 39.5T660-480q0 21-1.5 40.5T654-400Zm-16-240h118q-29-50-72.5-87T584-782q18 33 31.5 68.5T638-640Zm-234 0h152q-12-44-31-83t-45-75q-26 36-45 75t-31 83Zm-200 0h118q9-38 22.5-73.5T376-782q-56 18-99.5 55T204-640Z"/></svg>
+								</span>
+							</a>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2023sre2l.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2306.13092">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/VILA-Lab/SRe2L/tree/main/CDA">Dataset Distillation in Large Data Era</a></p>
+							<p class="title-medium essay-author"><i>Zeyuan Yin et al., 2023</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2023cda.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2311.18838">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/shaoshitong/G_VBSM_Dataset_Condensation">Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching</a></p>
+							<p class="title-medium essay-author"><i>Shitong Shao et al., CVPR 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024gvbsm.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2311.17950">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/LINs-lab/RDED">On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm</a></p>
+							<p class="title-medium essay-author"><i>Peng Sun et al., CVPR 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rded.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2312.03526">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Information Compensation: A Fix for Any-scale Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Peng Sun et al., ICLR 2024 Workshop</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024lic.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=2SnmKd1JK4">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Elucidating the Design Space of Dataset Condensation</p>
+							<p class="title-medium essay-author"><i>Shitong Shao et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024edc.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2404.13733">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Curriculum Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Zhiheng Ma & Anjia Cao et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ma2024cudd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2405.09150">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
 								</span>
@@ -3069,7 +3405,7 @@
 						</div>
 						<div class="button-group">
 							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024efficiency.txt">
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rela.txt">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
 								</span>
@@ -3388,7 +3724,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">Sample Condensation in Online Continual Learning</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/MattiaSangermano/OLCGM">Sample Condensation in Online Continual Learning</a></p>
 							<p class="title-medium essay-author"><i>Mattia Sangermano et al., IJCNN 2022</i></p>
 						</div>
 						<div class="button-group">
@@ -3407,7 +3743,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">An Efficient Dataset Condensation Plugin and Its Application to Continual Learning</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin">An Efficient Dataset Condensation Plugin and Its Application to Continual Learning</a></p>
 							<p class="title-medium essay-author"><i>Enneng Yang et al., NeurIPS 2023</i></p>
 						</div>
 						<div class="button-group">
@@ -3707,6 +4043,25 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
+							<p class="essay-content">Importance-Aware Adaptive Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Guang Li et al., NN 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024iadd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2401.15863">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
 							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/ZheLi2020/InfoDist">Image Distillation for Safe Data Sharing in Histopathology</a></p>
 							<p class="title-medium essay-author"><i>Zhe Li et al., MICCAI 2024</i></p>
 						</div>
@@ -3756,6 +4111,25 @@
 								</span>
 							</a>
 							<a href="https://arxiv.org/abs/2407.14429">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Dataset Distillation for Histopathology Image Classification</p>
+							<p class="title-medium essay-author"><i>Cong Cong et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cong2024dataset.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2408.09709">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
 								</span>
@@ -3884,7 +4258,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/anonymifish/fed-distribution-matching">FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning</a></p>
 							<p class="title-medium essay-author"><i>Yuanhao Xiong & Ruochen Wang et al., CVPR 2023</i></p>
 						</div>
 						<div class="button-group">
@@ -3922,7 +4296,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">Fed-GLOSS-DP: Federated, Global Learning using Synthetic Sets with Record Level Differential Privacy</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/a514514772/fedlap-dp">FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations</a></p>
 							<p class="title-medium essay-author"><i>Hui-Po Wang et al., 2023</i></p>
 						</div>
 						<div class="button-group">
@@ -3971,6 +4345,63 @@
 								</span>
 							</a>
 							<a href="https://arxiv.org/abs/2404.18962">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/ubc-tea/DESA">Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors</a></p>
+							<p class="title-medium essay-author"><i>Chun-Yin Huang et al., ICML 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/huang2024desa.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2405.11525">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning</p>
+							<p class="title-medium essay-author"><i>Xingwang Wang et al., IJCNN 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024dcfl.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://ieeexplore.ieee.org/document/10650791">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/FedDG23/FedDG-main">Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents</a></p>
+							<p class="title-medium essay-author"><i>Yuqi Jia & Saeed Vahidian et al., ECCV 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jia2024feddg.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2312.01537">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
 								</span>
@@ -4257,7 +4688,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">Graph Condensation: A Survey</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/xygaog/graph-condensation-papers">Graph Condensation: A Survey</a></p>
 							<p class="title-medium essay-author"><i>Xinyi Gao et al., 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -4276,7 +4707,7 @@
 					</li>
 					<li class="essay-container title-large surface-variant on-surface-variant-text">
 						<div>
-							<p class="essay-content">A Survey on Graph Condensation</p>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/Frostland12138/Awesome-Graph-Condensation">A Survey on Graph Condensation</a></p>
 							<p class="title-medium essay-author"><i>Hongjia Xu., 2024</i></p>
 						</div>
 						<div class="button-group">
@@ -4311,6 +4742,44 @@
 								</span>
 							</a>
 							<a href="https://arxiv.org/abs/2405.14246">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/Emory-Melody/GraphSlim">GC-Bench: A Benchmark Framework for Graph Condensation with New Insights</a></p>
+							<p class="title-medium essay-author"><i>Shengbo Gong & Juntong Ni et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gong2024graphslim.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2406.16715">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/RingBDStack/GC-Bench">GC-Bench: An Open and Unified Benchmark for Graph Condensation</a></p>
+							<p class="title-medium essay-author"><i>Qingyun Sun & Ziying Chen et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024gcbench.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2407.00615">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
 								</span>
@@ -4355,6 +4824,25 @@
 								</span>
 							</a>
 							<a href="https://arxiv.org/abs/2203.08559">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Calibrated Dataset Condensation for Faster Hyperparameter Search</p>
+							<p class="title-medium essay-author"><i>Mucong Ding et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2024hcdc.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2405.17535">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
 								</span>
@@ -4422,31 +4910,6 @@
 								</span>
 							</a>
 							<a href="https://arxiv.org/abs/2311.17967">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
-								</span>
-							</a>
-						</div>
-					</li>
-
-
-					<li>
-						<h4 class="section-subtitle title-large on-background-text" id="knowledge">Knowledge Distillation</h4>
-					</li>
-
-					<li class="essay-container title-large surface-variant on-surface-variant-text">
-						<div>
-							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/HIPS/hypergrad">Knowledge Condensation Distillation</a></p>
-							<p class="title-medium essay-author"><i>Chenxin Li et al., ECCV 2022</i></p>
-						</div>
-						<div class="button-group">
-							<span class="placeholder"></span>
-							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2022knowledge.txt">
-								<span class="essay-button surface">
-									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
-								</span>
-							</a>
-							<a href="https://arxiv.org/abs/2207.05409">
 								<span class="essay-button surface">
 									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
 								</span>
@@ -4943,6 +5406,25 @@
 							</a>
 						</div>
 					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/algebraicdianuj/DC_U">Dataset Condensation Driven Machine Unlearning</a></p>
+							<p class="title-medium essay-author"><i>Junaid Iqbal Khan, 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/khan2024unlearning.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2402.00195">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
 
 
 
@@ -5064,8 +5546,12 @@
 							<a class="primary-text" href="https://github.com/tianzheng4">Tianhang Zheng</a>,
 							<a class="primary-text" href="https://github.com/mashijie1028">Shijie Ma</a>,
 							<a class="primary-text" href="https://github.com/WeiWeic6222848">Wei Wei</a>,
-							<a class="primary-text" href="https://github.com/Hiter-Q">Shaobo Wang</a>
-								and <a class="primary-text" href="https://github.com/ndhg1213">Xinhao Zhong</a>
+							<a class="primary-text" href="https://github.com/Hiter-Q">Yantai Yang</a>,
+							<a class="primary-text" href="https://github.com/gszfwsb">Shaobo Wang</a>,
+							<a class="primary-text" href="https://github.com/ndhg1213">Xinhao Zhong</a>,
+							<a class="primary-text" href="https://github.com/szq0214">Zhiqiang Shen</a>,
+							<a class="primary-text" href="https://github.com/thomascong121">Cong Cong</a>,
+								and <a class="primary-text" href="https://github.com/chunyinhuang">Chun-Yin Huang</a>
 								for their valuable suggestions and contributions.</p>
                             <p class="page-footer-instruction body-large on-background-text">The <a class="primary-text" href="https://guang000.github.io/Awesome-Dataset-Distillation/">Homepage</a> of Awesome Dataset Distillation was designed and maintained by <a class="primary-text" href="https://github.com/LOVELESSG">Longzhen Li.</a></p>
 						</div>
