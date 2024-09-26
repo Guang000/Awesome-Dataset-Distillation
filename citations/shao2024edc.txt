@@ -1,6 +1,6 @@
-@article{shao2024edc,
-  title={Dataset Distillation in Large Data Era, 
+@inproceedings{shao2024edc,
+  title={Elucidating the Design Space of Dataset Condensation, 
   author={Shao, Shitong and Zhou, Zikai and Chen, Huanran and Shen, Zhiqiang},
-  journal={arXiv preprint arXiv:2404.13733},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
