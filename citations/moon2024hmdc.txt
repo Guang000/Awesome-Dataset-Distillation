@@ -1,0 +1,6 @@
+@inproceedings{moon2024hmdc,
+  title={Towards Model-Agnostic Dataset Condensation by Heterogeneous Models},
+  author={Moon, Jun-Yeong and Kim, Jung Uk and Park, Gyeong-Moon},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
