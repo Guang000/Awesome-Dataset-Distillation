@@ -1,6 +1,6 @@
 @inproceedings{feng2023fair,
-title={Fair Graph Distillation},
-author={Feng, Qizhang and Jiang, Zhimeng and Li, Ruiquan and Wang, Yicheng and Zou, Na and Bian, Jiang and Hu, Xia},
-booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
-year={2023}
+  title={Fair Graph Distillation},
+  author={Feng, Qizhang and Jiang, Zhimeng and Li, Ruiquan and Wang, Yicheng and Zou, Na and Bian, Jiang and Hu, Xia},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2023}
 }
