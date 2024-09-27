@@ -1,6 +1,6 @@
-@article{sun2024rela,
+@inproceedings{sun2024rela,
   title={Efficiency for Free: Ideal Data Are Transportable Representations},
   author={Sun, Peng and Jiang, Yi and Lin, Tao},
-  journal={arXiv preprint arXiv:2405.14669},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
