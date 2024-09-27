@@ -46,7 +46,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Decoupled Distillation](#decouple)
   - [Multimodal Distillation](#multi)
   - [Self-Supervised Distillation](#self)
-  - [Long-Tailed Distillation](#long)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
   - [Ph.D. Thesis](#thesis)
@@ -73,6 +72,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Speech](#speech)
   - [Machine Unlearning](#unlearning)
   - [Reinforcement Learning](#rl)
+  - [Long-Tail](#long)
 <a name="main" />
 
 ## Main
@@ -220,11 +220,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Self-Supervised Dataset Distillation for Transfer Learning](https://arxiv.org/abs/2310.06511) (Dong Bok Lee & Seanie Lee et al., ICLR 2024) [:octocat:](https://github.com/db-Lee/selfsup_dd) [:book:](./citations/lee2024self.txt)
 + [Efficiency for Free: Ideal Data Are Transportable Representations](https://arxiv.org/abs/2405.14669) (Peng Sun et al., NeurIPS 2024) [:octocat:](https://github.com/LINs-lab/ReLA) [:book:](./citations/sun2024rela.txt)
 + [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
-
-<a name="long" />
-
-### Long-Tailed Distillation
-+ [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., 2024) [:book:](./citations/zhao2024long.txt)
 
 <a name="benchmark" />
 
@@ -432,6 +427,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Reinforcement Learning
 + [Dataset Distillation for Offline Reinforcement Learning](https://arxiv.org/abs/2407.20299) (Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop) [:globe_with_meridians:](https://datasetdistillation4rl.github.io/) [:octocat:](https://github.com/ggflow123/DDRL) [:book:](./citations/light2024rl.txt)
+
+<a name="long" />
+
+### Long-Tail
++ [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., 2024) [:book:](./citations/zhao2024long.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
