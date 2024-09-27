@@ -1,0 +1,6 @@
+@inproceedings{du2024diversity,
+  title={{Diversity-Driven Synthesis}: Enhancing Dataset Distillation through Directed Weight Adjustment},
+  author={Jiawei Du, Xin Zhang, Juncheng Hu, Wenxin Huang, Joey Tianyi Zhou},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
