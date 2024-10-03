@@ -1,9 +1,6 @@
-@misc{wang2024drupidatasetreductionusing,
-      title={DRUPI: Dataset Reduction Using Privileged Information}, 
-      author={Shaobo Wang and Yantai Yang and Shuaiyu Zhang and Chenghao Sun and Weiya Li and Xuming Hu and Linfeng Zhang},
-      year={2024},
-      eprint={2410.01611},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.01611}, 
+@article{wang2024drupi,
+  title={{DRUPI}: Dataset Reduction Using Privileged Information}, 
+  author={Wang, Shaobo and Yang, Yantai and Zhang, Shuaiyu and Sun, Chenghao and Li, Weiya and Hu, Xuming and Zhang, Linfeng},
+  journal={arXiv preprint arXiv:2408.09709},
+  year={2024}
 }
