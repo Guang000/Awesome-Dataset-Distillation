@@ -1,6 +1,6 @@
-@article{ding2024time,
+@inproceedings{ding2024time,
   title={{CondTSF}: One-line Plugin of Dataset Condensation for Time Series Forecasting},
   author={Ding, Jianrong and Liu, Zhanyu and Zheng, Guanjie and Jin, Haiming and Kong, Linghe},
-  journal={arXiv preprint arXiv:2406.02131},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
