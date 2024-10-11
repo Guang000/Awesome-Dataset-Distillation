@@ -1,0 +1,6 @@
+@article{kang2024label,
+  title={Label-Augmented Dataset Distillation}, 
+  author={Kang, Seoungyoon and Lim, Youngsun and Shim, Hyunjung},
+  journal={arXiv preprint arXiv:2409.16239},
+  year={2024}
+}
