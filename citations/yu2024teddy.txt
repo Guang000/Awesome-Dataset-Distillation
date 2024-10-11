@@ -1,0 +1,6 @@
+@inproceedings{yu2024teddy,
+  title={{Teddy}: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching},
+  author={Yu, Ruonan and Liu, Songhua and Ye, Jingwen and Wang, Xinchao},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
