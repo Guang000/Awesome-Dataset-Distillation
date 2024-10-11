@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+
++ [Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching](https://arxiv.org/abs/2410.07579) (Ruonan Yu et al., ECCV 2024) [:book:](./citations/yu2024teddy.txt)
 + [2024/10/11] [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., 2024) [:book:](./citations/kang2024label.txt)
 + [2024/10/03] [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
 + [2024/09/27] [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:book:](./citations/du2024diversity.txt)
