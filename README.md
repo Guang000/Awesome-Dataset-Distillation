@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching](https://arxiv.org/abs/2410.07579) (Ruonan Yu et al., ECCV 2024) [:book:](./citations/yu2024teddy.txt)
++ [2024/10/11] [Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching](https://arxiv.org/abs/2410.07579) (Ruonan Yu et al., ECCV 2024) [:book:](./citations/yu2024teddy.txt)
 + [2024/10/11] [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., 2024) [:book:](./citations/kang2024label.txt)
 + [2024/10/03] [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
 + [2024/09/27] [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:book:](./citations/du2024diversity.txt)
@@ -30,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/09/17] [Dataset Distillation for Histopathology Image Classification](https://arxiv.org/abs/2408.09709) (Cong Cong et al., 2024) [:book:](./citations/cong2024dataset.txt)
 + [2024/09/17] [Dataset Condensation Driven Machine Unlearning](https://arxiv.org/abs/2402.00195) (Junaid Iqbal Khan, 2024) [:octocat:](https://github.com/algebraicdianuj/DC_U) [:book:](./citations/khan2024unlearning.txt)
 + [2024/09/17] [Calibrated Dataset Condensation for Faster Hyperparameter Search](https://arxiv.org/abs/2405.17535) (Mucong Ding et al., 2024) [:book:](./citations/ding2024hcdc.txt)
-+ [2024/09/17] [Elucidating the Design Space of Dataset Condensation](https://arxiv.org/abs/2404.13733) (Shitong Shao et al., NeurIPS 2024) [:book:](./citations/shao2024edc.txt)
-+ [2024/09/17] [Dataset Distillation in Large Data Era](https://arxiv.org/abs/2311.18838) (Zeyuan Yin et al., 2023) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/CDA) [:book:](./citations/yin2023cda.txt)
 
 ## Contents
 - [Main](#main)
