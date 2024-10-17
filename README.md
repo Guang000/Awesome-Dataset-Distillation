@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-191-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-192-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2024/10/17] [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/abs/2406.10485) (Tian Qin et al. NeurIPS 2024) [:octocat:](https://github.com/sunnytqin/no-distillation) [:book:](./citations/qin2024label.txt)
 + [2024/10/11] [Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching](https://arxiv.org/abs/2410.07579) (Ruonan Yu et al., ECCV 2024) [:book:](./citations/yu2024teddy.txt)
 + [2024/10/11] [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., 2024) [:book:](./citations/kang2024label.txt)
 + [2024/10/03] [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
@@ -29,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/09/21] [Diversified Semantic Distribution Matching for Dataset Distillation](https://openreview.net/forum?id=vtpwJob0L1) (Hongcheng Li et al., MM 2024) [:book:](./citations/li2024dsdm.txt)
 + [2024/09/17] [Dataset Distillation for Histopathology Image Classification](https://arxiv.org/abs/2408.09709) (Cong Cong et al., 2024) [:book:](./citations/cong2024dataset.txt)
 + [2024/09/17] [Dataset Condensation Driven Machine Unlearning](https://arxiv.org/abs/2402.00195) (Junaid Iqbal Khan, 2024) [:octocat:](https://github.com/algebraicdianuj/DC_U) [:book:](./citations/khan2024unlearning.txt)
-+ [2024/09/17] [Calibrated Dataset Condensation for Faster Hyperparameter Search](https://arxiv.org/abs/2405.17535) (Mucong Ding et al., 2024) [:book:](./citations/ding2024hcdc.txt)
 
 ## Contents
 - [Main](#main)
@@ -190,6 +190,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Label Distillation
 + [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS 2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation) [:book:](./citations/bohdal2020flexible.txt)
 + [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN 2021) [:octocat:](https://github.com/ilia10000/dataset-distillation) [:book:](./citations/sucholutsky2021soft.txt)
++ [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/abs/2406.10485) (Tian Qin et al. NeurIPS 2024) [:octocat:](https://github.com/sunnytqin/no-distillation) [:book:](./citations/qin2024label.txt)
 + [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., 2024) [:book:](./citations/kang2024label.txt)
 + [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
 
@@ -337,9 +338,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [A Survey on Graph Condensation](https://arxiv.org/abs/2402.02000) (Hongjia Xu., 2024) [:octocat:](https://github.com/Frostland12138/Awesome-Graph-Condensation) [:book:](./citations/xu2024survey.txt)
 
 #### Benchmark
++ [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/abs/2407.00615) (Qingyun Sun & Ziying Chen et al., NeurIPS 2024) [:octocat:](https://github.com/RingBDStack/GC-Bench) [:book:](./citations/sun2024gcbench.txt)
 + [GCondenser: Benchmarking Graph Condensation](https://arxiv.org/abs/2405.14246) (Yilun Liu et al., 2024) [:octocat:](https://github.com/superallen13/GCondenser) [:book:](./citations/liu2024gcondenser.txt)
 + [GC-Bench: A Benchmark Framework for Graph Condensation with New Insights](https://arxiv.org/abs/2406.16715) (Shengbo Gong & Juntong Ni et al., 2024) [:octocat:](https://github.com/Emory-Melody/GraphSlim) [:book:](./citations/gong2024graphslim.txt)
-+ [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/abs/2407.00615) (Qingyun Sun & Ziying Chen et al., 2024) [:octocat:](https://github.com/RingBDStack/GC-Bench) [:book:](./citations/sun2024gcbench.txt)
 
 <a name="nas" />
 
