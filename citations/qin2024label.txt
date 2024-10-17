@@ -1,0 +1,6 @@
+@inproceedings{qin2024label,
+  title={A Label is Worth a Thousand Images in Dataset Distillation},
+  author={Qin, Tian and Deng, Zhiwei and Alvarez-Melis, David},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
