@@ -1,0 +1,6 @@
+@inproceedings{xiao2024soft,
+  title={Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?},
+  author={Xiao, Lingao and He, Yang},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
