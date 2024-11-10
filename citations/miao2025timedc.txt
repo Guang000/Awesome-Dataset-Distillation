@@ -1,0 +1,6 @@
+@inproceedings{miao2025timedc,
+  title={{Less is More}: Efficient Time Series Dataset Condensation via Two-fold Modal Matching--Extended Version},
+  author={Miao, Hao and Liu, Ziqiao and Zhao, Yan and Guo, Chenjuan and Yang, Bin and Zheng, Kai and Jensen, Christian S.},
+  booktitle={Proceedings of the International Conference on Very Large Data Bases (VLDB)},
+  year={2025}
+}
