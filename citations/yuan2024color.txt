@@ -1,0 +1,6 @@
+@inproceedings{yuan2024color,
+  title={Color-Oriented Redundancy Reduction in Dataset Distillation},
+  author={Yuan, Bowen and Wang, Zijian and Baktashmotlagh, Mahsa and Luo, Yadan and Huang, Zi},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
