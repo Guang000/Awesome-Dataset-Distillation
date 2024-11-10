@@ -1,0 +1,6 @@
+@inproceedings{qi2024dcod,
+  title={Fetch and Forge: Efficient Dataset Condensation for Object Detection},
+  author={Qi, Ding and Li, Jian and Peng, Jinlong and Zhao, Bo and Dou, Shuguang and Li, Jialin and Zhang, Jiangning and Wang, Yabiao and Wang, Chengjie and Zhao, Cairong},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
