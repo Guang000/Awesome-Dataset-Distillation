@@ -1,0 +1,6 @@
+@inproceedings{chen2024krr,
+  title={Provable and Efficient Dataset Distillation for Kernel Ridge Regression},
+  author={Chen, Yilan and Huang, Wei and Weng, Tsui-Wei},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
