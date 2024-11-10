@@ -30,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/09/27] [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:book:](./citations/du2024diversity.txt)
 + [2024/09/27] [Towards Model-Agnostic Dataset Condensation by Heterogeneous Models](https://arxiv.org/abs/2409.14538) (Jun-Yeong Moon et al., ECCV 2024) [:octocat:](https://github.com/khu-agi/hmdc) [:book:](./citations/moon2024hmdc.txt)
 + [2024/09/21] [Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors](https://arxiv.org/abs/2405.11525) (Chun-Yin Huang et al., ICML 2024) [:octocat:](https://github.com/ubc-tea/DESA) [:book:](./citations/huang2024desa.txt)
-+ [2024/09/21] [Diversified Semantic Distribution Matching for Dataset Distillation](https://openreview.net/forum?id=vtpwJob0L1) (Hongcheng Li et al., MM 2024) [:book:](./citations/li2024dsdm.txt)
 
 ## Contents
 - [Main](#main)
