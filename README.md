@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-198-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-199-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -28,7 +28,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/10/24] [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., 2024) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) [:book:](./citations/wang2024edf.txt)
 + [2024/10/24] [Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?](https://arxiv.org/abs/2410.15919) (Lingao Xiao, et al., NeurIPS 2024) [:octocat:](https://github.com/he-y/soft-label-pruning-for-dataset-distillation) [:book:](./citations/xiao2024soft.txt)
 + [2024/10/17] [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/abs/2406.10485) (Tian Qin et al., NeurIPS 2024) [:octocat:](https://github.com/sunnytqin/no-distillation) [:book:](./citations/qin2024label.txt)
-+ [2024/10/11] [Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching](https://arxiv.org/abs/2410.07579) (Ruonan Yu et al., ECCV 2024) [:book:](./citations/yu2024teddy.txt)
 + [2024/09/27] [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:book:](./citations/du2024diversity.txt)
 + [2024/09/27] [Towards Model-Agnostic Dataset Condensation by Heterogeneous Models](https://arxiv.org/abs/2409.14538) (Jun-Yeong Moon et al., ECCV 2024) [:octocat:](https://github.com/khu-agi/hmdc) [:book:](./citations/moon2024hmdc.txt)
 
