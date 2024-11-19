@@ -1,0 +1,6 @@
+@inproceedings{sajedi2024data,
+  title={Data-to-Model Distillation: Data-Efficient Learning Framework},
+  author={Sajedi, Ahmad and Khaki, Samir and Liu, Lucy Z. and Amjadian, Ehsan and Lawryshyn, Yuri A. and Plataniotis, Konstantinos N.},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
