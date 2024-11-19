@@ -302,7 +302,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_2) (Yuchen Tian & Jiacheng Wang et al., MICCAI 2023 Workshop) [:book:](./citations/tian2023gdd.txt)
 + [Importance-Aware Adaptive Dataset Distillation](https://arxiv.org/abs/2401.15863) (Guang Li et al., NN 2024) [:book:](./citations/li2024iadd.txt)
 + [Image Distillation for Safe Data Sharing in Histopathology](https://arxiv.org/abs/2406.13536) (Zhe Li et al., MICCAI 2024) [:octocat:](https://github.com/ZheLi2020/InfoDist) [:book:](./citations/li2024infodist.txt)
-+ [MedSynth: Leveraging Generative Model for Healthcare Data Sharing](https://papers.miccai.org/miccai-2024/506-Paper2872.html) (Renuga Kanagavelu et al., MICCAI 2024) [:book:](./citations/Kanagavelu2024medsynth.txt)
++ [MedSynth: Leveraging Generative Model for Healthcare Data Sharing](https://papers.miccai.org/miccai-2024/506-Paper2872.html) (Renuga Kanagavelu et al., MICCAI 2024) [:book:](./citations/kanagavelu2024medsynth.txt)
 + [Progressive Trajectory Matching for Medical Dataset Distillation](https://arxiv.org/abs/2403.13469) (Zhen Yu et al., 2024) [:book:](./citations/yu2024progressive.txt)
 + [Dataset Distillation in Medical Imaging: A Feasibility Study](https://arxiv.org/abs/2407.14429) (Muyang Li et al., 2024) [:book:](./citations/li2024medical.txt)
 + [Dataset Distillation for Histopathology Image Classification](https://arxiv.org/abs/2408.09709) (Cong Cong et al., 2024) [:book:](./citations/cong2024dataset.txt)
