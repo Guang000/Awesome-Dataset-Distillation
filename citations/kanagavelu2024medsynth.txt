@@ -1,0 +1,6 @@
+@inproceedings{kanagavelu2024medsynth,
+  title={{MedSynth}: Leveraging Generative Model for Healthcare Data Sharing},
+  author={Kanagavelu, Renuga and Walia, Madhav and Wang, Yuan and Fu, Huazhu and Wei, Qingsong and Liu, Yong and Goh, Rick Siow Mong},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+  year={2024}
+}
