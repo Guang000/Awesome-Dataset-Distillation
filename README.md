@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-200-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-201-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -154,6 +154,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Efficient Dataset Distillation via Minimax Diffusion](https://arxiv.org/abs/2311.15529) (Jianyang Gu et al., CVPR 2024) [:octocat:](https://github.com/vimar-gu/MinimaxDiffusion) [:book:](./citations/gu2024efficient.txt)
 + [D4M: Dataset Distillation via Disentangled Diffusion Model](https://arxiv.org/abs/2407.15138) (Duo Su & Junjie Hou et al., CVPR 2024) [:globe_with_meridians:](https://junjie31.github.io/D4M/) [:octocat:](https://github.com/suduo94/D4M) [:book:](./citations/su2024d4m.txt)
 + [Generative Dataset Distillation: Balancing Global Structure and Local Details](https://arxiv.org/abs/2404.17732) (Longzhen Li & Guang Li et al., CVPR 2024 Workshop) [:book:](./citations/li2024generative.txt)
++ [Data-to-Model Distillation: Data-Efficient Learning Framework](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php) (Ahmad Sajedi & Samir Khaki et al., ECCV 2024) [:book:](./citations/sajedi2024data.txt)
 + [Generative Dataset Distillation Based on Diffusion Model](https://arxiv.org/abs/2408.08610) (Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) [:octocat:](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model) [:book:](./citations/su2024diffusion.txt)
 + [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., 2024) [:book:](./citations/moser2024ld3m.txt)
 + [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., 2024) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2024hglad.txt)
