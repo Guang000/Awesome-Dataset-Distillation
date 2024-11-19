@@ -355,6 +355,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [GCondenser: Benchmarking Graph Condensation](https://arxiv.org/abs/2405.14246) (Yilun Liu et al., 2024) [:octocat:](https://github.com/superallen13/GCondenser) [:book:](./citations/liu2024gcondenser.txt)
 + [GC-Bench: A Benchmark Framework for Graph Condensation with New Insights](https://arxiv.org/abs/2406.16715) (Shengbo Gong & Juntong Ni et al., 2024) [:octocat:](https://github.com/Emory-Melody/GraphSlim) [:book:](./citations/gong2024graphslim.txt)
 
+#### No further updates will be made regarding graph distillation topics as sufficient papers and summary projects are already available on the subject
+
 <a name="nas" />
 
 ### Neural Architecture Search
