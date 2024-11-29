@@ -1,0 +1,6 @@
+@article{cheng2024noisy,
+  title={Dataset Distillers Are Good Label Denoisers In the Wild}, 
+  author={Cheng, Lechao and Chen, Kaifeng and Li, Jiyang and Tang, Shengeng and Zhang, Shufei and Wang, Meng},
+  journal={arXiv preprint arXiv:2411.11924},
+  year={2024}
+}
