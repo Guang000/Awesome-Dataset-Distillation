@@ -1,0 +1,7 @@
+@inproceedings{tao2024textual,
+  title={Textual Dataset Distillation via Language Model Embedding},
+  author={Tao, Yefan and Kong, Luyang and Kan, Andrey and Callot, Laurent},
+  booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={12557-–12569},
+  year={2024}
+}
