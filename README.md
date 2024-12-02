@@ -326,6 +326,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors](https://arxiv.org/abs/2405.11525) (Chun-Yin Huang et al., ICML 2024) [:octocat:](https://github.com/ubc-tea/DESA) [:book:](./citations/huang2024desa.txt)
 + [DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning](https://ieeexplore.ieee.org/document/10650791) (Xingwang Wang et al., IJCNN 2024) [:book:](./citations/wang2024dcfl.txt)
 + [Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents](https://arxiv.org/abs/2312.01537) (Yuqi Jia & Saeed Vahidian et al., ECCV 2024) [:octocat:](https://github.com/FedDG23/FedDG-main) [:book:](./citations/jia2024feddg.txt)
++ [One-Shot Collaborative Data Distillation](https://arxiv.org/abs/2408.02266) (Holland et al., ECAI 2024) [:octocat:](https://github.com/rayneholland/CollabDM) [:book:](./citations/holland2024one.txt)
 
 
 <a name="gnn" />
