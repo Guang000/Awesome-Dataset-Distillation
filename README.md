@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2024/12/06] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](Zhiqiang Shen & Ammar Sherif et al., 2024) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2024delt.txt)
++ [2024/12/06] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., 2024) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2024delt.txt)
 + [2024/11/29] [Dataset Distillers Are Good Label Denoisers In the Wild](https://arxiv.org/abs/2411.11924) (Lechao Cheng et al., 2024) [:octocat:](https://github.com/Kciiiman/DD_LNL) [:book:](./citations/cheng2024noisy.txt)
 + [2024/11/29] [Textual Dataset Distillation via Language Model Embedding](https://aclanthology.org/2024.findings-emnlp.733/) (Yefan Tao et al., EMNLP 2024) [:book:](./citations/tao2024textual.txt)
 + [2024/11/17] [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., 2024) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2024beard.txt)
@@ -218,7 +218,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Elucidating the Design Space of Dataset Condensation](https://arxiv.org/abs/2404.13733) (Shitong Shao et al., NeurIPS 2024) [:octocat:](https://github.com/shaoshitong/EDC) [:book:](./citations/shao2024edc.txt)
 + [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:octocat:](https://github.com/AngusDujw/Diversity-Driven-Synthesis) [:book:](./citations/du2024diversity.txt)
 + [Curriculum Dataset Distillation](https://arxiv.org/abs/2405.09150) (Zhiheng Ma & Anjia Cao et al., 2024) [:book:](./citations/ma2024cudd.txt)
-+ [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](Zhiqiang Shen & Ammar Sherif et al., 2024) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2024delt.txt)
++ [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., 2024) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2024delt.txt)
 
 <a name="multi" />
 
