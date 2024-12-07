@@ -1,0 +1,6 @@
+@article{zhao2024video,
+  title={Video Set Distillation: Information Diversification and Temporal Densification}, 
+  author={Zhao, Yinjie and Zhao, Heng and Wen, Bihan and Ong, Yew-Soon and Zhou, Joey Tianyi},
+  journal={arXiv preprint arXiv:2412.00111},
+  year={2024}
+}
