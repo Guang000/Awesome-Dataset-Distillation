@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-205-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-206-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2024/12/07] [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
 + [2024/12/06] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., 2024) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2024delt.txt)
 + [2024/11/29] [Dataset Distillers Are Good Label Denoisers In the Wild](https://arxiv.org/abs/2411.11924) (Lechao Cheng et al., 2024) [:octocat:](https://github.com/Kciiiman/DD_LNL) [:book:](./citations/cheng2024noisy.txt)
 + [2024/11/29] [Textual Dataset Distillation via Language Model Embedding](https://aclanthology.org/2024.findings-emnlp.733/) (Yefan Tao et al., EMNLP 2024) [:book:](./citations/tao2024textual.txt)
@@ -28,7 +29,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/11/10] [Color-Oriented Redundancy Reduction in Dataset Distillation](https://arxiv.org/abs/2411.11329) (Bowen Yuan et al., NeurIPS 2024) [:octocat:](https://github.com/KeViNYuAn0314/AutoPalette) [:book:](./citations/yuan2024color.txt)
 + [2024/11/10] [Provable and Efficient Dataset Distillation for Kernel Ridge Regression](https://openreview.net/forum?id=WI2VpcBdnd) (Yilan Chen et al., NeurIPS 2024) [:book:](./citations/chen2024krr.txt)
 + [2024/11/10] [Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching](https://arxiv.org/abs/2410.20905) (Hao Miao et al., VLDB 2025) [:octocat:](https://github.com/uestc-liuzq/STdistillation) [:book:](./citations/miao2025timedc.txt)
-+ [2024/10/24] [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., 2024) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) [:book:](./citations/wang2024edf.txt)
 + [2024/10/24] [Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?](https://arxiv.org/abs/2410.15919) (Lingao Xiao, et al., NeurIPS 2024) [:octocat:](https://github.com/he-y/soft-label-pruning-for-dataset-distillation) [:book:](./citations/xiao2024soft.txt)
 
 ## Contents
@@ -418,6 +418,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Video
 + [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
++ [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
 
 <a name="domain" />
 
