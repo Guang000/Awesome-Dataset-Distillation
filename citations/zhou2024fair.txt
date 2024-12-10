@@ -1,0 +1,6 @@
+@article{zhou2024fair,
+  title={FairDD: Fair Dataset Distillation via Synchronized Matching},
+  author={Zhou, Qihang and Fang, Shenhao and He, Shibo and Meng, Wenchao and Chen, Jiming},
+  journal={arXiv preprint arXiv:2411.19623},
+  year={2024}
+}
