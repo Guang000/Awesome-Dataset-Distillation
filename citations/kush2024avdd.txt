@@ -1,7 +1,6 @@
-@article{
-　kushwaha2024audiovisual,
-　title={Audio-Visual Dataset Distillation},
-　author={Kushwaha, Saksham Singh and Vasireddy, Siva Sai Nagender and Wang, Kai and Tian, Yapeng},
-　journal={Transactions on Machine Learning Research},
-　year={2024}
+@article{kush2024avdd,
+　 title={Audio-Visual Dataset Distillation},
+　 author={Kushwaha, Saksham Singh and Vasireddy, Siva Sai Nagender and Wang, Kai and Tian, Yapeng},
+　 journal={Transactions on Machine Learning Research},
+　 year={2024}
 }
