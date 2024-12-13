@@ -1,0 +1,10 @@
+@article{
+kushwaha2024audiovisual,
+title={Audio-Visual Dataset Distillation},
+author={Saksham Singh Kushwaha and Siva Sai Nagender Vasireddy and Kai Wang and Yapeng Tian},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=IJlbuSrXmk},
+note={}
+}
