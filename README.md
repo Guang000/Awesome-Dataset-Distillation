@@ -46,7 +46,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Decoupled Distillation](#decouple)
   - [Multimodal Distillation](#multi)
   - [Self-Supervised Distillation](#self)
-  - [Object Detection](#detection)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
   - [Ph.D. Thesis](#thesis)
@@ -76,6 +75,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Reinforcement Learning](#rl)
   - [Long-Tail](#long)
   - [Learning with Noisy Labels](#noisy)
+  - [Object Detection](#detection)
 <a name="main" />
 
 ## Main
