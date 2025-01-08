@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-209-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-210-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/01/08] [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2025) [:book:](./citations/chen2025video.txt)
 + [2024/12/13] [Audio-Visual Dataset Distillation](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [:octocat:](https://github.com/sakshamsingh1/AVDD) [:book:](./citations/kush2024avdd.txt)
 + [2024/12/10] [FairDD: Fair Dataset Distillation via Synchronized Matching](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., 2024) [:book:](./citations/zhou2024fair.txt)
 + [2024/12/07] [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
@@ -29,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/11/17] [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., 2024) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2024beard.txt)
 + [2024/11/10] [Fetch and Forge: Efficient Dataset Condensation for Object Detection](https://openreview.net/forum?id=m8MElyzuwp) (Ding Qi et al., NeurIPS 2024) [:book:](./citations/qi2024dcod.txt)
 + [2024/11/10] [Color-Oriented Redundancy Reduction in Dataset Distillation](https://arxiv.org/abs/2411.11329) (Bowen Yuan et al., NeurIPS 2024) [:octocat:](https://github.com/KeViNYuAn0314/AutoPalette) [:book:](./citations/yuan2024color.txt)
-+ [2024/11/10] [Provable and Efficient Dataset Distillation for Kernel Ridge Regression](https://openreview.net/forum?id=WI2VpcBdnd) (Yilan Chen et al., NeurIPS 2024) [:book:](./citations/chen2024krr.txt)
 
 ## Contents
 - [Main](#main)
@@ -423,6 +423,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Video
 + [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
 + [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
++ [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2025) [:book:](./citations/chen2025video.txt)
 
 <a name="domain" />
 
