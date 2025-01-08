@@ -1,0 +1,6 @@
+@article{chen2024video,
+  title={A Large-Scale Study on Video Action Dataset Condensation},
+  author={Chen, Yang and Guo, Sheng and Wang, Limin},
+  journal={arXiv preprint arXiv:2412.21197},
+  year={2024}
+}
