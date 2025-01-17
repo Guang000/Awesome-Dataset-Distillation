@@ -1,0 +1,6 @@
+@article{cui2025cvdd,
+  title={Dataset Distillation via Committee Voting},
+  author={Cui, Jiacheng and Li, Zhaoyi and Ma, Xiaochen and Bi, Xinyue and Luo, Yaxin and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2501.07575},
+  year={2025}
+}
