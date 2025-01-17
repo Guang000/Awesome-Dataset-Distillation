@@ -1,0 +1,6 @@
+@article{hu2025focusdd,
+  title={FocusDD: Real-World Scene Infusion for Robust Dataset Distillation},
+  author={Hu, Youbing and Cheng, Yun and Saukh, Olga and Ozdemir, Firat and Lu, Anqi and Cao, Zhiqiang and Li, Zhijun},
+  journal={arXiv preprint arXiv:2501.06405},
+  year={2025}
+}
