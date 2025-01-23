@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-213-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-214-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/01/23] [Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks] (Siddharth Joshi et al., ICLR 2025) [:book:](./citations/joshi2025kd.txt)
 + [2025/01/23] [Group Distributionally Robust Dataset Distillation with Risk Minimization](https://arxiv.org/abs/2402.04676) (Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025) [:octocat:](https://github.com/Mming11/RobustDatasetDistillation) [:book:](./citations/vahidian2025group.txt)
 + [2025/01/17] [Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681) (Hongye Tan, et al., 2025) [:book:](./citations/tan2025optimal.txt)
 + [2025/01/17] [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) [:book:](./citations/cui2025cvdd.txt)
@@ -29,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2024/12/10] [FairDD: Fair Dataset Distillation via Synchronized Matching](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., 2024) [:book:](./citations/zhou2024fair.txt)
 + [2024/12/07] [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
 + [2024/12/06] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., 2024) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2024delt.txt)
-+ [2024/11/29] [Dataset Distillers Are Good Label Denoisers In the Wild](https://arxiv.org/abs/2411.11924) (Lechao Cheng et al., 2024) [:octocat:](https://github.com/Kciiiman/DD_LNL) [:book:](./citations/cheng2024noisy.txt)
 
 ## Contents
 - [Main](#main)
@@ -238,6 +238,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Self-Supervised Dataset Distillation for Transfer Learning](https://arxiv.org/abs/2310.06511) (Dong Bok Lee & Seanie Lee et al., ICLR 2024) [:octocat:](https://github.com/db-Lee/selfsup_dd) [:book:](./citations/lee2024self.txt)
 + [Efficiency for Free: Ideal Data Are Transportable Representations](https://arxiv.org/abs/2405.14669) (Peng Sun et al., NeurIPS 2024) [:octocat:](https://github.com/LINs-lab/ReLA) [:book:](./citations/sun2024rela.txt)
 + [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
++ [Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks] (Siddharth Joshi et al., ICLR 2025) [:book:](./citations/joshi2025kd.txt)
 
 <a name="benchmark" />
 
