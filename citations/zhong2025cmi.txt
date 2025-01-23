@@ -1,0 +1,6 @@
+@inproceedings{zhong2025cmi,
+  title={Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information},
+  author={Zhong, Xinhao and Chen, Bin and Fang, Hao and Gu, Xulin and Xia, Shu-Tao and Yang, En-Hui},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
