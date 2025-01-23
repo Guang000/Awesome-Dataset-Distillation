@@ -1,6 +1,6 @@
-@article{zhang2024infer,
+@inproceedings{zhang2025infer,
   title={Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator},
   author={Zhang, Xin and Du, Jiawei and Liu, Ping and Zhou, Joey Tianyi},
-  journal={arXiv preprint arXiv:2408.06927},
-  year={2024}
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
 }
