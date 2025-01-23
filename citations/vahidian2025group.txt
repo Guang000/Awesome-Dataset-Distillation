@@ -1,4 +1,4 @@
-@proceedings{vahidian2025group,
+@inproceedings{vahidian2025group,
   title={Group Distributionally Robust Dataset Distillation with Risk Minimization},
   author={Vahidian, Saeed and Wang, Mingyu and Gu, Jianyang and Kungurtsev, Vyacheslav and Jiang, Wei and Chen, Yiran},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
