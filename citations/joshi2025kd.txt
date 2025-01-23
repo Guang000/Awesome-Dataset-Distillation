@@ -1,4 +1,4 @@
-@proceedings{joshi2025kd,
+@inproceedings{joshi2025kd,
   title={Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks},
   author={Joshi, Siddharth and Ni, Jiayi and Mirzasoleiman, Baharan},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
