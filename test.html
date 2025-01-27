@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Awesome Dataset Distillation</title>
+
+        <link rel="stylesheet" media="screen" href="css/styles.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+        <link rel="mask-icon" href="images/safari-pinned-tab.svg" color="#5bbad5">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Li Longzhen">
+        <meta name="description" content="A curated list of awesome papers on dataset distillation and related applications.">
+        <meta name="color-scheme" content="light">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
+    </head>
+    <body id="awesome-dataset-distillation" class="background">
+        <div class="overall-container">
+            <div class="lastupdate-container surface-variant">
+                <ul id="latest_update">
+                </ul>
+            </div>
+        </div>
+        <script>
+            let container = document.getElementById('latest_update');
+            fetch('articles.json')
+                .then(response => response.json())
+                .then(data =>{
+                    Object.keys(data).forEach(keys=>{
+                        let papers = data[keys];
+                        papers.forEach(paper =>{
+                            let li0 = document.createElement('li');
+                            li0.setAttribute('class', "essay-container title-large surface-variant on-surface-variant-text");
+                            li0.innerHTML = `<div><p class="essay-content">${paper.title}</p><p class="title-medium essay-author"><i>${paper.author}</i></p></div>`;
+                            container.appendChild(li0);
+                        });
+                    })
+                })
+
+        </script>
+    </body>
+</html>
