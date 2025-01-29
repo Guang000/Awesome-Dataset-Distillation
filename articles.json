@@ -1,15 +1,45 @@
 {
-  "main": [
-    {
-      "title": "article1",
-      "author": "author1"
-    },
-    {
-      "title": "article2",
-      "author": "author2"
-    }
-  ],
-  "prov": [
+  "Main": {
+    "Base": [
+      {
+        "title": "Dataset Distillation",
+        "author": "Tongzhou Wang et al., 2018",
+        "github": "https://github.com/SsnL/dataset-distillation",
+        "url": "https://arxiv.org/abs/1811.10959",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2018datasetdistillation.txt",
+        "website": "https://ssnl.github.io/dataset_distillation/"
+      }
+    ],
+    "Early Work": [
+      {
+        "title": "Gradient-Based Hyperparameter Optimization Through Reversible Learning",
+        "author": "Dougal Maclaurin et al., ICML 2015",
+        "github": "https://github.com/HIPS/hypergrad",
+        "url": "https://arxiv.org/abs/1502.03492",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maclaurin2015gradient.txt",
+        "website": null
+      }
+    ],
+    "Gradient/Trajectory Matching Surrogate Objective": [
+      {
+        "title": "Dataset Condensation with Gradient Matching",
+        "author": "Bo Zhao et al., ICLR 2021",
+        "github": "https://github.com/VICO-UoE/DatasetCondensation",
+        "url": "https://arxiv.org/abs/2006.05929",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2021datasetcondensation.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Condensation with Differentiable Siamese Augmentation",
+        "author": "Bo Zhao et al., ICML 2021",
+        "github": "https://github.com/VICO-UoE/DatasetCondensation",
+        "url": "https://arxiv.org/abs/2102.08259",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2021differentiatble.txt",
+        "website": null
+      }
+    ]
+  },
+  "Applications": [
     {
       "title": "porv1",
       "author": "prov1"

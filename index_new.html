@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Awesome Dataset Distillation</title>
+
+		<link rel="stylesheet" media="screen" href="css/styles.css">
+		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+		<link rel="mask-icon" href="images/safari-pinned-tab.svg" color="#5bbad5">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content="Li Longzhen">
+		<meta name="description" content="A curated list of awesome papers on dataset distillation and related applications.">
+		<meta name="color-scheme" content="light">
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
+	</head>
+
+	<body id="awesome-dataset-distillation" class="background">
+
+		<header class="top-header">
+			<div class="background" style="height: 8px;"></div>
+			<div class="top-bar background">
+				<div class="top-bar-left">
+					<span onclick="open_sidebar()" class="navigation-button on-background-text">
+						<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg>
+					</span>
+					<span class="top-bar-title title-medium on-background-text">
+						<span>Awesome Dataset Distillation</span>
+					</span>
+				</div>
+			</div>
+		</header>
+
+        <div onclick="close_sidebar()" class="overlay" id="sidebarOverlay"></div>
+
+		<div class="background" style="height: 72px;"></div>
+		<div class="top-title">
+			<div class="title-brief background">
+				<!--Here put the title and main content-->
+				<div class="show-on-large-screens"><h1 class="title display-large">Awesome Dataset Distillation</h1></div>
+				<div class="show-on-middle-screens"><h1 class="title display-large">Awesome<br> Dataset Distillation</h1></div>
+				<div class="show-on-small-screens"><h1 class="title display-large">Awesome<br> Dataset<br> Distillation</h1></div>
+				<div><p class="brief title-large">Awesome Dataset Distillation provides the most comprehensive and detailed information on the Dataset Distillation field.</p></div>
+				<div><p class="brief title-large">This project is curated and maintained by <a style="color: black;" href="https://www-lmd.ist.hokudai.ac.jp/member/guang-li/">Guang Li</a>, <a style="color: black;" href="https://www.bozhao.me/">Bo Zhao</a>, and <a style="color: black;" href="https://www.tongzhouwang.info/">Tongzhou Wang</a>.</p></div>
+				<div>
+					<button onclick="location.href='https://github.com/Guang000/Awesome-Dataset-Distillation'" type="button" class="github-homepage primary">
+						<span class="on-primary-text headline-small">
+							GitHub
+						</span>
+					</button>
+				</div>
+			</div>
+		</div>
+
+		<div class="sidebar surface-variant" id="quickContent">
+			<div class="top-bar" id="sidebarTitle">
+                <div class="surface-variant" style="height: 8px"></div>
+				<div class="top-bar-left surface-variant">
+					<span onclick="close_sidebar()" class="close-navigation-button on-background-text">
+						<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M120-240v-80h520v80H120Zm664-40L584-480l200-200 56 56-144 144 144 144-56 56ZM120-440v-80h400v80H120Zm0-200v-80h520v80H120Z"/></svg>
+					</span>
+					<span class="top-bar-title title-medium on-background-text">
+						Awesome Dataset Distillation
+					</span>
+				</div>
+			</div>
+            <div class="surface-variant" style="height: 64px"></div>
+			<div class="navigation-list">
+				<div class="list-section primary-container">
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#main" class="title-large on-primary-container-text">Main</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#early" class="title-medium on-primary-container-text">Early Work</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#gradient" class="title-medium on-primary-container-text">Gradient/Trajectory Matching Surrogate Objective</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#distribution" class="title-medium on-primary-container-text">Distribution/Feature Matching Surrogate Objective</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#kernel" class="title-medium on-primary-container-text">Kernel-Based Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#parametrization" class="title-medium on-primary-container-text">Distilled Dataset Parametrization</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#generative" class="title-medium on-primary-container-text">Generative Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#better-optimization" class="title-medium on-primary-container-text">Better Optimization</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#better-understanding" class="title-medium on-primary-container-text">Better Understanding</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#label" class="title-medium on-primary-container-text">Label Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#quantization" class="title-medium on-primary-container-text">Dataset Quantization</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#decouple" class="title-medium on-primary-container-text">Decoupled Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#multimodal" class="title-medium on-primary-container-text">Multimodal Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#self" class="title-medium on-primary-container-text">Self-Supervised Distillation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#benchmark" class="title-medium on-primary-container-text">Benchmark</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#survey" class="title-medium on-primary-container-text">Survey</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#phd" class="title-medium on-primary-container-text">Ph.D. Thesis</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#workshop" class="title-medium on-primary-container-text">Workshop</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#challenge" class="title-medium on-primary-container-text">Challenge</a></div>
+				</div>
+				<div class="list-section primary-container">
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#applications" class="title-large on-primary-container-text">Applications</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#continual" class="title-medium on-primary-container-text">Continual Learning</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#privacy" class="title-medium on-primary-container-text">Privacy</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#medical" class="title-medium on-primary-container-text">Medical</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#federated" class="title-medium on-primary-container-text">Federated Learning</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#graph-neural" class="title-medium on-primary-container-text">Graph Neural Network</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#neural-architecture" class="title-medium on-primary-container-text">Neural Architecture Search</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#fashion" class="title-medium on-primary-container-text">Fashion, Art, and Design</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#recommender" class="title-medium on-primary-container-text">Recommender Systems</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#blackbox" class="title-medium on-primary-container-text">Blackbox Optimization</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#robustness" class="title-medium on-primary-container-text">Robustness</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#fairness" class="title-medium on-primary-container-text">Fairness</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#textApplication" class="title-medium on-primary-container-text">Text</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#tabular" class="title-medium on-primary-container-text">Tabular</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#retrieval" class="title-medium on-primary-container-text">Retrieval</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#videoApplication" class="title-medium on-primary-container-text">Video</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#domainAdaptation" class="title-medium on-primary-container-text">Domain Adaptation</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#super-resolution" class="title-medium on-primary-container-text">Super Resolution</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#timeSeries" class="title-medium on-primary-container-text">Time Series</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#speech" class="title-medium on-primary-container-text">Speech</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#machineUnlearning" class="title-medium on-primary-container-text">Machine Unlearning</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#reinforcementLearning" class="title-medium on-primary-container-text">Reinforcement Learning</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#long" class="title-medium on-primary-container-text">Long-Tail</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#noisy" class="title-medium on-primary-container-text">Learning with Noisy Labels</a></div>
+					<div class="navigation-item"><a onclick="close_sidebar()" href="#object" class="title-medium on-primary-container-text">Object Detection</a></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="overall-container">
+
+            <div class="count-container">
+                <div class="item-number-container" onclick="location.href='https://github.com/Guang000/Awesome-Dataset-Distillation'">
+                    <p class="count-title on-background-text display-small">GitHub Stars:</p>
+                    <p class="count-number on-background-text display-large" id="starCount"> </p>
+                </div>
+                <hr class="count-divider on-background-text">
+                <div class="item-number-container" onclick="location.href='https://github.com/Guang000/Awesome-Dataset-Distillation'">
+                    <p class="count-title on-background-text display-small">Paper Statistics:</p>
+                    <p class="count-number on-background-text display-large">217</p>
+                </div>
+            </div>
+
+
+			<h2 class="section-title display-medium on-background-text">Background & Vision</h2>
+			<div class="background-vision-container surface-variant">
+				<!--Put the Background information here-->
+                <p class="background-vision body-large on-surface-variant-text">Dataset distillation is the task of synthesizing a small dataset such that models trained on it achieve high performance on the original large dataset. A dataset distillation algorithm takes as input a large real dataset to be distilled (training set), and outputs a small synthetic distilled dataset, which is evaluated via testing models trained on this distilled dataset on a separate real dataset (validation/test set). A good small distilled dataset is not only useful in dataset understanding, but has various applications (e.g., continual learning, privacy, neural architecture search, etc.). This task was first introduced in the paper <a class="body-large on-surface-variant-text" href="https://www.tongzhouwang.info/dataset_distillation/">Dataset Distillation [Tongzhou Wang et al., '18]</a>, along with a proposed algorithm using backpropagation through optimization steps. Then the task was first extended to the real-world datasets in the paper <a class="body-large on-surface-variant-text" href="https://arxiv.org/abs/2104.02857">Medical Dataset Distillation [Guang Li et al., '19]</a>, which also explored the privacy preservation possibilities of dataset distillation. In the paper <a class="body-large on-surface-variant-text" href="https://arxiv.org/abs/2006.05929">Dataset Condensation [Bo Zhao et al., '20]</a>, gradient matching was first introduced and greatly promoted the development of the dataset distillation field.</p>
+				<br>
+				<p class="background-vision body-large on-surface-variant-text">In recent years (2022-now), dataset distillation has gained increasing attention in the research community, across many institutes and labs. More papers are now being published each year. These wonderful researches have been constantly improving dataset distillation and exploring its various variants and applications.</p>
+			</div>
+
+            <h2 class="section-title display-medium on-background-text">Latest Updates</h2>
+
+<!--last updates			-->
+            <div class="lastupdate-container surface-variant">
+                <ul>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2025/1/23</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information</p>
+							<p class="title-medium essay-author"><i>Xinhao Zhong et al., ICLR 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2412.09945">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator</p>
+							<p class="title-medium essay-author"><i>Xin Zhang et al., ICLR 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2408.06927">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks</p>
+							<p class="title-medium essay-author"><i>Siddharth Joshi et al., ICLR 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/joshi2025kd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2410.02116">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/Mming11/RobustDatasetDistillation">Group Distributionally Robust Dataset Distillation with Risk Minimization</a></p>
+							<p class="title-medium essay-author"><i>Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vahidian2025group.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2402.04676">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2025/1/17</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">Dataset Distillation as Pushforward Optimal Quantization</p>
+							<p class="title-medium essay-author"><i>Hongye Tan et al., 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tan2025optimal.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2501.07681">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/Jiacheng8/CV-DD">Dataset Distillation via Committee Voting</a></p>
+							<p class="title-medium essay-author"><i>Jiacheng Cui et al., 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025cvdd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2501.07575">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">FocusDD: Real-World Scene Infusion for Robust Dataset Distillation</p>
+							<p class="title-medium essay-author"><i>Youbin Hu et al., 2025</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2025focusdd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2501.06405">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2025/1/8</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">A Large-Scale Study on Video Action Dataset Condensation</p>
+							<p class="title-medium essay-author"><i>Yang Chen et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024video.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2412.21197">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2024/12/13</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content"><a class="on-surface-variant-text" href="https://github.com/sakshamsingh1/AVDD">Audio-Visual Dataset Distillation</a></p>
+							<p class="title-medium essay-author"><i>Saksham Singh Kushwaha et al., TMLR 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kush2024avdd.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://openreview.net/forum?id=IJlbuSrXmk">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+					<li class="edit-date">
+						<p class="essay-content title-large on-surface-variant-text">2024/12/10</p>
+					</li>
+					<li><hr class="outline-variant" style="width:96%;text-align:center;"></li>
+					<li class="essay-container title-large surface-variant on-surface-variant-text">
+						<div>
+							<p class="essay-content">FairDD: Fair Dataset Distillation via Synchronized Matching</p>
+							<p class="title-medium essay-author"><i>Qihang Zhou et al., 2024</i></p>
+						</div>
+						<div class="button-group">
+							<span class="placeholder"></span>
+							<a href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024fair.txt">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/></svg>
+								</span>
+							</a>
+							<a href="https://arxiv.org/abs/2411.19623">
+								<span class="essay-button surface">
+									<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/></svg>
+								</span>
+							</a>
+						</div>
+					</li>
+
+                </ul>
+            </div>
+
+<!--Main Contents-->
+			<h2 class="section-title display-medium on-background-text">Content</h2>
+			<div class="main-content">
+				<!--Put the main list here-->
+				<ul id="ul_main">
+					<li><h3 class="section-subtitle headline-medium on-background-text" id="main">Main</h3></li>
+
+
+				</ul>
+			</div>
+			<script>
+				let container = document.getElementById('ul_main');
+				let main_container = document.getElementById('ul_main');
+
+				fetch('articles.json')
+						.then(response => response.json())
+						.then(data =>{
+							// div0 = document.createElement('div');
+							// div0.innerHTML = section;
+							// container.appendChild(div0)
+							let main_papers = data['Main'];
+							Object.keys(main_papers).forEach(section=>{
+								if (!(section === "Base")){
+									let li_section = document.createElement('li');
+									li_section.innerHTML = `<h3 class="section-subtitle headline-medium on-background-text" id=${section}>${section}</h3>`;
+									container.appendChild(li_section)
+								}
+								console.log(section);
+								let papers = main_papers[section];
+								papers.forEach(paper =>{
+									let li0 = document.createElement('li');
+									li0.setAttribute('class', "essay-container title-large surface-variant on-surface-variant-text");
+									let div_content = document.createElement('div');
+									let p1 = document.createElement('p');
+									p1.setAttribute('class', "essay-content");
+									if (paper['github']){
+										p1.innerHTML = `<a class="on-surface-variant-text" href=${paper.github}>${paper.title}</a>`;
+									}else{
+										p1.innerHTML = `${paper.title}`;
+									}
+									let p2 = document.createElement('p');
+									p2.setAttribute('class', "title-medium essay-author");
+									p2.innerHTML = `<i>${paper.author}</i>`
+									div_content.appendChild(p1);
+									div_content.appendChild(p2);
+									li0.appendChild(div_content);
+									container.appendChild(li0);
+
+									let div_btn = document.createElement('div');
+									div_btn.setAttribute('class', "button-group");
+									if (paper['website']){
+										div_btn.innerHTML += `<a href=${paper.website}>
+										<span class="essay-button surface">
+										<svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+										<path d="M480-80q-82 0-155-31.5t-127.5-86Q143-252 111.5-325T80-480q0-83 31.5-155.5t86-127Q252-817 325-848.5T480-880q83 0 155.5 31.5t127 86q54.5 54.5 86 127T880-480q0 82-31.5 155t-86 127.5q-54.5 54.5-127 86T480-80Zm0-82q26-36 45-75t31-83H404q12 44 31 83t45 75Zm-104-16q-18-33-31.5-68.5T322-320H204q29 50 72.5 87t99.5 55Zm208 0q56-18 99.5-55t72.5-87H638q-9 38-22.5 73.5T584-178ZM170-400h136q-3-20-4.5-39.5T300-480q0-21 1.5-40.5T306-560H170q-5 20-7.5 39.5T160-480q0 21 2.5 40.5T170-400Zm216 0h188q3-20 4.5-39.5T580-480q0-21-1.5-40.5T574-560H386q-3 20-4.5 39.5T380-480q0 21 1.5 40.5T386-400Zm268 0h136q5-20 7.5-39.5T800-480q0-21-2.5-40.5T790-560H654q3 20 4.5 39.5T660-480q0 21-1.5 40.5T654-400Zm-16-240h118q-29-50-72.5-87T584-782q18 33 31.5 68.5T638-640Zm-234 0h152q-12-44-31-83t-45-75q-26 36-45 75t-31 83Zm-200 0h118q9-38 22.5-73.5T376-782q-56 18-99.5 55T204-640Z"/>
+										</svg>
+										</span>
+										</a>`;
+									}else {
+										div_btn.innerHTML += `<span class="placeholder"></span>`
+									}
+									div_btn.innerHTML += `<a href=${paper.cite}>
+										<span class="essay-button surface">
+										<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px">
+										<path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/>
+										</svg>
+										</span>
+										</a>`;
+									div_btn.innerHTML += `<a href=${paper.url}>
+										<span class="essay-button surface">
+										<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24">
+										<path d="m720-120 160-160-56-56-64 64v-167h-80v167l-64-64-56 56 160 160ZM560 0v-80h320V0H560ZM240-160q-33 0-56.5-23.5T160-240v-560q0-33 23.5-56.5T240-880h280l240 240v121h-80v-81H480v-200H240v560h240v80H240Zm0-80v-560 560Z"/>
+										</svg>
+										</span>
+										</a>`;
+									li0.appendChild(div_btn);
+									container.appendChild(li0);
+								});
+							})
+						})
+			</script>
+
+			<h2 class="section-title display-medium on-background-text">Media Coverage</h2>
+			<div class="media-coverage-container">
+				<div class="media-coverage-content-container title-large surface-variant on-surface-variant-text">
+					<a class="on-surface-variant-text" href="https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA"><p class="essay-content">Beginning of Awesome Dataset Distillation</p></a>
+				</div>
+				<div class="media-coverage-content-container title-large surface-variant on-surface-variant-text">
+					<a class="on-surface-variant-text" href="https://www.libhunt.com/posts/874974-d-most-popular-ai-research-aug-2022-ranked-based-on-github-stars"><p class="essay-content">Most Popular AI Research Aug 2022</p></a>
+				</div>
+				<div class="media-coverage-content-container title-large surface-variant on-surface-variant-text">
+					<a class="on-surface-variant-text" href="https://www.jiqizhixin.com/articles/2022-10-11-22"><p class="essay-content">一个项目帮你了解数据集蒸馏Dataset Distillation</p></a>
+				</div>
+				<div class="media-coverage-content-container title-large surface-variant on-surface-variant-text">
+					<a class="on-surface-variant-text" href="https://mp.weixin.qq.com/s/__IjS0_FMpu35X9cNhNhPg"><p class="essay-content">浓缩就是精华：用大一统视角看待数据集蒸馏</p></a>
+				</div>
+			</div>
+		</div>
+
+<!--Foot Print-->
+		<div class="page-footer-container">
+			<hr class="outline-variant" style="width:100%;margin:0">
+			<footer class="page-footer">
+				<section class="about">
+					<div>
+						<h3 class="page-footer-title headline-large on-background-text">Awesome Dataset Distillation</h3>
+						<div class="cite">
+							<!--Put cite instruction here-->
+							<p class="page-footer-instruction body-large on-background-text">If you find this project useful for your research, please use the following BibTeX entry:</p>
+								<code class="on-background-text" style="display: block; white-space: pre-line">
+								@misc{li2022awesome,
+									author={Li, Guang and Zhao, Bo and Wang, Tongzhou},
+									title={Awesome Dataset Distillation},
+									howpublished={\url{https://github.com/Guang000/Awesome-Dataset-Distillation}},
+									year={2022}
+								}
+								</code>
+						</div>
+                        <div class="visitor-map">
+							<script src="//rf.revolvermaps.com/0/0/7.js?i=53hthxwlwi6&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;br=20&amp;sx=0&amp;cw=fbfcfe&amp;cb=191c1e" async="async"></script>
+                        </div>
+						<div>
+							<p class="page-footer-instruction body-large on-background-text">This page has been viewed:</p>
+							<script src="//counter.websiteout.com/js/7/6/0/0"></script>
+							<p class="page-footer-instruction body-large on-background-text">since 2024.03.22</p>
+						</div>
+
+					</div>
+					<div>
+						<div class="contribution">
+							<!--Put contribution instruction here-->
+							<h4 class="page-footer-subtitle body-medium on-background-text">Contribution Guide</h4>
+							<p class="page-footer-instruction body-large on-background-text">If you want to make contribution to this project, click <a class="primary-text" href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/CONTRIBUTING.md">here</a> for more details.</p>
+						</div>
+						<div class="acknowledgment">
+							<!--Put the acknowledgment information here-->
+							<h4 class="page-footer-subtitle body-medium on-background-text">Acknowledgments</h4>
+							<p class="page-footer-instruction body-large on-background-text">We would like to express our heartfelt thanks to
+							<a class="primary-text" href="https://github.com/Tsili42">Nikolaos Tsilivis</a>,
+							<a class="primary-text" href="https://github.com/ChandlerBang">Wei Jin</a>,
+							<a class="primary-text" href="https://github.com/yongchao97">Yongchao Zhou</a>,
+							<a class="primary-text" href="https://github.com/noveens">Noveen Sachdeva</a>,
+							<a class="primary-text" href="https://github.com/GGchen1997">Can Chen</a>,
+							<a class="primary-text" href="https://github.com/zhaoguangxiang">Guangxiang Zhao,</a>
+							<a class="primary-text" href="https://github.com/LeavesLei">Shiye Lei</a>,
+							<a class="primary-text" href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a>,
+							<a class="primary-text" href="https://github.com/dm-medvedev">Dmitry Medvedev</a>,
+							<a class="primary-text" href="https://github.com/SJShin-AI">Seungjae Shin</a>,
+							<a class="primary-text" href="https://github.com/AngusDujw">Jiawei Du</a>,
+							<a class="primary-text" href="https://github.com/Jiang-Yidi">Yidi Jiang</a>,
+							<a class="primary-text" href="https://github.com/XindiWu">Xindi Wu</a>,
+							<a class="primary-text" href="https://github.com/lgy0404">Guangyi Liu</a>,
+							<a class="primary-text" href="https://github.com/superallen13">Yilun Liu</a>,
+							<a class="primary-text" href="https://github.com/kaiwang960112">Kai Wang</a>,
+							<a class="primary-text" href="https://github.com/silicx">Yue Xu</a>,
+							<a class="primary-text" href="https://github.com/CAOANJIA">Anjia Cao</a>,
+							<a class="primary-text" href="https://github.com/vimar-gu">Jianyang Gu</a>,
+							<a class="primary-text" href="https://github.com/fengyzpku">Yuanzhen Feng</a>,
+							<a class="primary-text" href="https://github.com/sp12138">Peng Sun</a>,
+							<a class="primary-text" href="https://github.com/AhmadSajedii">Ahmad Sajedi</a>,
+							<a class="primary-text" href="https://github.com/suizhihao">Zhihao Sui</a>,
+							<a class="primary-text" href="https://github.com/yuz1wan">Ziyu Wang</a>,
+							<a class="primary-text" href="https://github.com/Liu-Hy">Haoyang Liu</a>,
+							<a class="primary-text" href="https://github.com/eddardd">Eduardo Montesuma</a>,
+							<a class="primary-text" href="https://github.com/rockcor">Shengbo Gong</a>,
+							<a class="primary-text" href="https://github.com/zhouzhengqd">Zheng Zhou</a>,
+							<a class="primary-text" href="https://github.com/ichbill">Zhenghao Zhao</a>,
+							<a class="primary-text" href="https://github.com/suduo94">Duo Su</a>,
+							<a class="primary-text" href="https://github.com/tianzheng4">Tianhang Zheng</a>,
+							<a class="primary-text" href="https://github.com/mashijie1028">Shijie Ma</a>,
+							<a class="primary-text" href="https://github.com/WeiWeic6222848">Wei Wei</a>,
+							<a class="primary-text" href="https://github.com/Hiter-Q">Yantai Yang</a>,
+							<a class="primary-text" href="https://github.com/gszfwsb">Shaobo Wang</a>,
+							<a class="primary-text" href="https://github.com/ndhg1213">Xinhao Zhong</a>,
+							<a class="primary-text" href="https://github.com/szq0214">Zhiqiang Shen</a>,
+							<a class="primary-text" href="https://github.com/thomascong121">Cong Cong</a>,
+							<a class="primary-text" href="https://github.com/chunyinhuang">Chun-Yin Huang</a>,
+							<a class="primary-text" href="https://github.com/NiaLiu">Dai Liu</a>
+							<a class="primary-text" href="https://github.com/Lexie-YU">Ruonan Yu</a>,
+							<a class="primary-text" href="https://github.com/rayneholland">William Holland</a>,
+								and <a class="primary-text" href="https://github.com/sakshamsingh1">Saksham Singh Kushwaha</a>
+								for their valuable suggestions and contributions.</p>
+							<p class="page-footer-instruction body-large on-background-text">The <a class="primary-text" href="https://guang000.github.io/Awesome-Dataset-Distillation/">Homepage</a> of Awesome Dataset Distillation was designed by <a class="primary-text" href="https://lovelessg.github.io/">Longzhen Li</a> and maintained by <a class="primary-text" href="https://github.com/SumomoTaku">Mingzhuo Li</a></p>
+						</div>
+					</div>
+				</section>
+			</footer>
+		</div>
+		<script>
+			function open_sidebar() {
+                            let isMobile = navigator.userAgent.toLowerCase().match(/mobile/i)
+                            if (isMobile) {
+                                document.getElementById("quickContent").style.width = "100%";
+								document.getElementById("sidebarTitle").style.width = "100%";
+                            } else {
+                                document.getElementById("quickContent").style.width = "466px";
+								document.getElementById("sidebarTitle").style.width = "466px";
+                                document.getElementById("sidebarOverlay").style.width = "100%";
+                                document.getElementById("sidebarOverlay").style.height = "100%";
+                                document.getElementById("awesome-dataset-distillation").style.overflow = "hidden";
+                            }
+
+                            document.getElementById("sidebarTitle").style.position = "fixed";
+						}
+
+			function close_sidebar() {
+							document.getElementById("quickContent").style.width = "0";
+                            document.getElementById("sidebarTitle").style.position = "static";
+                            document.getElementById("sidebarOverlay").style.width = "0";
+                            document.getElementById("sidebarOverlay").style.height = "0";
+                            document.getElementById("awesome-dataset-distillation").style.overflow = "visible";
+						}
+
+            window.onload = function(){
+                fetch('https://api.github.com/repos/guang000/awesome-dataset-distillation')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("starCount").innerHTML = data.stargazers_count;
+                })
+            }
+		</script>
+	</body>
+</html>
