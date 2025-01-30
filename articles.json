@@ -36,13 +36,1797 @@
         "url": "https://arxiv.org/abs/2102.08259",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2021differentiatble.txt",
         "website": null
+      },
+      {
+        "title": "Dataset Distillation by Matching Training Trajectories",
+        "author": "George Cazenavette et al., CVPR 2022",
+        "github": "https://github.com/georgecazenavette/mtt-distillation",
+        "url": "https://arxiv.org/abs/2203.11932",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cazenavette2022dataset.txt",
+        "website": "https://georgecazenavette.github.io/mtt-distillation/"
+      },
+      {
+        "title": "Dataset Condensation with Contrastive Signals",
+        "author": "Saehyung Lee et al., ICML 2022",
+        "github": "https://github.com/saehyung-lee/dcc",
+        "url": "https://arxiv.org/abs/2202.02916",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2022dataset.txt",
+        "website": null
+      },
+      {
+        "title": "Loss-Curvature Matching for Dataset Selection and Condensation",
+        "author": "Seungjae Shin & Heesun Bae et al., AISTATS 2023",
+        "github": "https://github.com/SJShin-AI/LCMat",
+        "url": "https://arxiv.org/abs/2303.04449",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2023lcmat.txt",
+        "website": null
+      },
+      {
+        "title": "Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation",
+        "author": "Jiawei Du & Yidi Jiang et al., CVPR 2023",
+        "github": "https://github.com/AngusDujw/FTD-distillation",
+        "url": "https://arxiv.org/abs/2211.11004",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2023minimizing.txt",
+        "website": null
+      },
+      {
+        "title": "Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory",
+        "author": "Justin Cui et al., ICML 2023",
+        "github": "https://github.com/justincui03/tesla",
+        "url": "https://arxiv.org/abs/2211.10586",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2022scaling.txt",
+        "website": null
+      },
+      {
+        "title": "Sequential Subset Matching for Dataset Distillation",
+        "author": "Jiawei Du et al., NeurIPS 2023",
+        "github": "https://github.com/shqii1j/seqmatch",
+        "url": "https://arxiv.org/abs/2311.01570",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2023seqmatch.txt",
+        "website": null
+      },
+      {
+        "title": "Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching",
+        "author": "Ziyao Guo & Kai Wang et al., ICLR 2024",
+        "github": "https://github.com/GzyAftermath/DATM",
+        "url": "https://arxiv.org/abs/2310.05773",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/guo2024datm.txt",
+        "website": "https://gzyaftermath.github.io/DATM/"
+      },
+      {
+        "title": "SelMatch: Effectively Scaling Up Dataset Distillation via Selection-Based Initialization and Partial Updates by Trajectory Matching",
+        "author": "Yongmin Lee et al., ICML 2024",
+        "github": "https://github.com/Yongalls/SelMatch",
+        "url": "https://arxiv.org/abs/2406.18561",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2024selmatch.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation by Automatic Training Trajectories",
+        "author": "Dai Liu et al., ECCV 2024",
+        "github": "https://github.com/NiaLiu/ATT",
+        "url": "https://arxiv.org/abs/2407.14245",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024att.txt",
+        "website": null
+      },
+      {
+        "title": "Neural Spectral Decomposition for Dataset Distillation",
+        "author": "Shaolei Yang et al., ECCV 2024",
+        "github": "https://github.com/slyang2021/NSD",
+        "url": "https://arxiv.org/abs/2408.16236",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2024nsd.txt",
+        "website": null
+      },
+      {
+        "title": "Prioritize Alignment in Dataset Distillation",
+        "author": "Zekai Li & Ziyao Guo et al., 2024",
+        "github": "https://github.com/NUS-HPC-AI-Lab/PAD",
+        "url": "https://arxiv.org/abs/2408.03360",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024pad.txt",
+        "website": null
+      },
+      {
+        "title": "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios",
+        "author": "Kai Wang & Zekai Li et al., 2024",
+        "github": "https://github.com/NUS-HPC-AI-Lab/EDF",
+        "url": "https://arxiv.org/abs/2410.17193",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024edf.txt",
+        "website": null
+      }
+    ],
+    "Distribution/Feature Matching Surrogate Objective": [
+      {
+        "title": "CAFE: Learning to Condense Dataset by Aligning Features",
+        "author": "Kai Wang & Bo Zhao et al., CVPR 2022",
+        "github": "https://github.com/kaiwang960112/cafe",
+        "url": "https://arxiv.org/abs/2203.01531",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2022cafe.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Condensation with Distribution Matching",
+        "author": "Bo Zhao et al., WACV 2023",
+        "github": "https://github.com/VICO-UoE/DatasetCondensation",
+        "url": "https://arxiv.org/abs/2110.04181",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2023distribution.txt",
+        "website": null
+      },
+      {
+        "title": "Improved Distribution Matching for Dataset Condensation",
+        "author": "Ganlong Zhao et al., CVPR 2023",
+        "github": "https://github.com/uitrbn/IDM",
+        "url": "https://arxiv.org/abs/2307.09742",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2023idm.txt",
+        "website": null
+      },
+      {
+        "title": "DataDAM: Efficient Dataset Distillation with Attention Matching",
+        "author": "Ahmad Sajedi & Samir Khaki et al., ICCV 2023",
+        "github": "https://github.com/DataDistillation/DataDAM",
+        "url": "https://arxiv.org/abs/2310.00093",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sajedi2023datadam.txt",
+        "website": "https://datadistillation.github.io/DataDAM/"
+      },
+      {
+        "title": "Dataset Distillation via the Wasserstein Metric",
+        "author": "Haoyang Liu et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2311.18531",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023wasserstein.txt",
+        "website": null
+      },
+      {
+        "title": "M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy",
+        "author": "Hansong Zhang & Shikun Li et al., AAAI 2024",
+        "github": "https://github.com/Hansong-Zhang/M3D",
+        "url": "https://arxiv.org/abs/2312.15927",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024m3d.txt",
+        "website": null
+      },
+      {
+        "title": "Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation",
+        "author": "Wenxiao Deng et al., CVPR 2024",
+        "github": "https://github.com/VincenDen/IID",
+        "url": "https://arxiv.org/abs/2404.00563",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/deng2024iid.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Condensation with Latent Quantile Matching",
+        "author": "Wei Wei et al., CVPR 2024 Workshop",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wei2024lqm.txt",
+        "website": null
+      },
+      {
+        "title": "DANCE: Dual-View Distribution Alignment for Dataset Condensation",
+        "author": "Hansong Zhang et al., IJCAI 2024",
+        "github": "https://github.com/Hansong-Zhang/DANCE",
+        "url": "https://arxiv.org/abs/2406.01063",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024dance.txt",
+        "website": null
+      },
+      {
+        "title": "Diversified Semantic Distribution Matching for Dataset Distillation",
+        "author": "Hongcheng Li et al., MM 2024",
+        "github": "https://github.com/Li-Hongcheng/DSDM",
+        "url": "https://dl.acm.org/doi/10.1145/3664647.3680900",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024dsdm.txt",
+        "website": null
+      }
+    ],
+    "Kernel-Based Distillation": [
+      {
+        "title": "Dataset Meta-Learning from Kernel Ridge-Regression",
+        "author": "Timothy Nguyen et al., ICLR 2021",
+        "github": "https://github.com/google/neural-tangents",
+        "url": "https://arxiv.org/abs/2011.00050",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2021kip.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation with Infinitely Wide Convolutional Networks",
+        "author": "Timothy Nguyen et al., NeurIPS 2021",
+        "github": "https://github.com/google/neural-tangents",
+        "url": "https://arxiv.org/abs/2107.13034",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2021kipimprovedresults.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation using Neural Feature Regression",
+        "author": "Yongchao Zhou et al., NeurIPS 2022",
+        "github": "https://github.com/yongchao97/FRePo",
+        "url": "https://arxiv.org/abs/2206.00719",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2022dataset.txt",
+        "website": "https://sites.google.com/view/frepo"
+      },
+      {
+        "title": "Efficient Dataset Distillation using Random Feature Approximation",
+        "author": "Noel Loo et al., NeurIPS 2022",
+        "github": "https://github.com/yolky/RFAD",
+        "url": "https://arxiv.org/abs/2210.12067",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2022efficient.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation with Convexified Implicit Gradients",
+        "author": "Noel Loo et al., ICML 2023",
+        "github": "https://github.com/yolky/RCIG",
+        "url": "https://arxiv.org/abs/2302.06755",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2023dataset.txt",
+        "website": null
+      },
+      {
+        "title": "Provable and Efficient Dataset Distillation for Kernel Ridge Regression",
+        "author": "Yilan Chen et al., NeurIPS 2024",
+        "github": null,
+        "url": "https://openreview.net/forum?id=WI2VpcBdnd",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024krr.txt",
+        "website": null
+      }
+    ],
+    "Distilled Dataset Parametrization": [
+      {
+        "title": "Dataset Condensation via Efficient Synthetic-Data Parameterization",
+        "author": "Jang-Hyun Kim et al., ICML 2022",
+        "github": "https://github.com/snu-mllab/efficient-dataset-condensation",
+        "url": "https://arxiv.org/abs/2205.14959",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kim2022dataset.txt",
+        "website": null
+      },
+      {
+        "title": "Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks",
+        "author": "Zhiwei Deng et al., NeurIPS 2022",
+        "github": "https://github.com/princetonvisualai/RememberThePast-DatasetDistillation",
+        "url": "https://arxiv.org/abs/2206.02916",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/deng2022remember.txt",
+        "website": null
+      },
+      {
+        "title": "On Divergence Measures for Bayesian Pseudocoresets",
+        "author": "Balhae Kim et al., NeurIPS 2022",
+        "github": "https://github.com/balhaekim/bpc-divergences",
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kim2022divergence.txt",
+        "cite": "https://arxiv.org/abs/2210.06205",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation via Factorization",
+        "author": "Songhua Liu et al., NeurIPS 2022",
+        "github": "https://github.com/Huage001/DatasetFactorization",
+        "url": "https://arxiv.org/abs/2210.16774",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2022dataset.txt",
+        "website": null
+      },
+      {
+        "title": "PRANC: Pseudo RAndom Networks for Compacting Deep Models",
+        "author": "Parsa Nooralinejad et al., 2022",
+        "github": "https://github.com/UCDvision/PRANC",
+        "url": "https://arxiv.org/abs/2206.08464",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nooralinejad2022pranc.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Condensation with Latent Space Knowledge Factorization and Sharing",
+        "author": "Hae Beom Lee & Dong Bok Lee et al., 2022",
+        "github": null,
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2022kfs.txt",
+        "cite": "https://arxiv.org/abs/2208.10494",
+        "website": null
+      },
+      {
+        "title": "Slimmable Dataset Condensation",
+        "author": "Songhua Liu et al., CVPR 2023",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Slimmable_Dataset_Condensation_CVPR_2023_paper.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023slimmable.txt",
+        "website": null
+      },
+      {
+        "title": "Few-Shot Dataset Distillation via Translative Pre-Training",
+        "author": "Songhua Liu et al., ICCV 2023",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Few-Shot_Dataset_Distillation_via_Translative_Pre-Training_ICCV_2023_paper.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023fewshot.txt",
+        "website": null
+      },
+      {
+        "title": "MGDD: A Meta Generator for Fast Dataset Distillation",
+        "author": "Songhua Liu et al., NeurIPS 2023",
+        "github": null,
+        "url": "https://openreview.net/forum?id=D9CMRR5Lof",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023mgdd.txt",
+        "website": null
+      },
+      {
+        "title": "Sparse Parameterization for Epitomic Dataset Distillation",
+        "author": "Xing Wei & Anjia Cao et al., NeurIPS 2023",
+        "github": "https://github.com/MIV-XJTU/SPEED",
+        "url": "https://openreview.net/forum?id=ZIfhYAE2xg",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wei2023sparse.txt",
+        "website": null
+      },
+      {
+        "title": "Frequency Domain-based Dataset Distillation",
+        "author": "Donghyeok Shin & Seungjae Shin et al., NeurIPS 2023",
+        "github": "https://github.com/sdh0818/FreD",
+        "url": "https://arxiv.org/abs/2311.08819",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2023fred.txt",
+        "website": null
+      },
+      {
+        "title": "Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation",
+        "author": "Haizhong Zheng et al., ECCV 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2310.07506",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2024hmn.txt",
+        "website": null
+      },
+      {
+        "title": "FYI: Flip Your Images for Dataset Distillation",
+        "author": "Byunggwan Son et al., ECCV 2024",
+        "github": "https://github.com/cvlab-yonsei/FYI",
+        "url": "https://arxiv.org/abs/2407.08113",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/son2024fyi.txt",
+        "website": "https://cvlab.yonsei.ac.kr/projects/FYI/"
+      },
+      {
+        "title": "Color-Oriented Redundancy Reduction in Dataset Distillation",
+        "author": "Bowen Yuan et al., NeurIPS 2024",
+        "github": "https://github.com/KeViNYuAn0314/AutoPalette",
+        "url": "https://arxiv.org/abs/2411.11329",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yuan2024color.txt",
+        "website": null
+      }
+    ],
+    "Generative Distillation": [
+      {
+        "title": "Synthesizing Informative Training Samples with GAN",
+        "author": "https://github.com/vico-uoe/it-gan",
+        "github": "Bo Zhao et al., NeurIPS 2022 Workshop",
+        "url": "https://arxiv.org/abs/2204.07513",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2022synthesizing.txt",
+        "website": null
+      },
+      {
+        "title": "Generalizing Dataset Distillation via Deep Generative Prior",
+        "author": "George Cazenavette et al., CVPR 2023",
+        "github": "https://github.com/georgecazenavette/glad",
+        "url": "https://arxiv.org/abs/2305.01649",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cazenavette2023glad.txt",
+        "website": "https://georgecazenavette.github.io/glad/"
+      },
+      {
+        "title": "DiM: Distilling Dataset into Generative Model",
+        "author": "Kai Wang & Jianyang Gu et al., 2023",
+        "github": "https://github.com/vimar-gu/DiM",
+        "url": "https://arxiv.org/abs/2303.04707",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023dim.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Condensation via Generative Model",
+        "author": "Junhao Zhang et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2309.07698",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2023dc.txt",
+        "website": null
+      },
+      {
+        "title": "Efficient Dataset Distillation via Minimax Diffusion",
+        "author": "Jianyang Gu et al., CVPR 2024",
+        "github": "https://github.com/vimar-gu/MinimaxDiffusion",
+        "url": "https://arxiv.org/abs/2311.15529",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gu2024efficient.txt",
+        "website": null
+      },
+      {
+        "title": "D4M: Dataset Distillation via Disentangled Diffusion Model",
+        "author": "Duo Su & Junjie Hou et al., CVPR 2024",
+        "github": "https://github.com/suduo94/D4M",
+        "url": "https://arxiv.org/abs/2407.15138",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/su2024d4m.txt",
+        "website": "https://junjie31.github.io/D4M/"
+      },
+      {
+        "title": "Generative Dataset Distillation: Balancing Global Structure and Local Details",
+        "author": "Longzhen Li & Guang Li et al., CVPR 2024 Workshop",
+        "github": null,
+        "url": "https://arxiv.org/abs/2404.17732",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024generative.txt",
+        "website": null
+      },
+      {
+        "title": "Data-to-Model Distillation: Data-Efficient Learning Framework",
+        "author": "Ahmad Sajedi & Samir Khaki et al., ECCV 2024",
+        "github": null,
+        "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sajedi2024data.txt",
+        "website": null
+      },
+      {
+        "title": "https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model",
+        "author": "Generative Dataset Distillation Based on Diffusion Models",
+        "github": "Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop",
+        "url": "https://arxiv.org/abs/2408.08610",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/su2024diffusion.txt",
+        "website": null
+      },
+      {
+        "title": "Latent Dataset Distillation with Diffusion Models",
+        "author": "Brian B. Moser & Federico Raue et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2403.03881",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/moser2024ld3m.txt",
+        "website": null
+      },
+      {
+        "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
+        "author": "Xinhao Zhong & Hao Fang et al., 2024",
+        "github": "https://github.com/ndhg1213/H-GLaD",
+        "url": "https://arxiv.org/abs/2406.05704",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2024hglad.txt",
+        "website": null
+      },
+      {
+        "title": "FocusDD: Real-World Scene Infusion for Robust Dataset Distillation",
+        "author": "Youbin Hu et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2501.06405",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2025focusdd.txt",
+        "website": null
+      }
+    ],
+    "Better Optimization": [
+      {
+        "title": "Accelerating Dataset Distillation via Model Augmentation",
+        "author": "Lei Zhang & Jie Zhang et al., CVPR 2023",
+        "github": "https://github.com/ncsu-dk-lab/Acc-DD",
+        "url": "https://arxiv.org/abs/2212.06152",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2023accelerating.txt",
+        "website": null
+      },
+      {
+        "title": "DREAM: Efficient Dataset Distillation by Representative Matching",
+        "author": "Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023",
+        "github": "https://github.com/lyq312318224/DREAM",
+        "url": "https://arxiv.org/abs/2302.14416",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream.txt",
+        "website": null
+      },
+      {
+        "title": "You Only Condense Once: Two Rules for Pruning Condensed Datasets",
+        "author": "Yang He et al., NeurIPS 2023",
+        "github": "https://github.com/he-y/you-only-condense-once",
+        "url": "https://arxiv.org/abs/2310.14019",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2023yoco.txt",
+        "website": null
+      },
+      {
+        "title": "MIM4DD: Mutual Information Maximization for Dataset Distillation",
+        "author": "Yuzhang Shang et al., NeurIPS 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2312.16627",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2023mim4dd.txt",
+        "website": null
+      },
+      {
+        "title": "Can Pre-Trained Models Assist in Dataset Distillation?",
+        "author": "Yao Lu et al., 2023",
+        "github": "https://github.com/yaolu-zjut/DDInterpreter",
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2023pre.txt",
+        "cite": "https://arxiv.org/abs/2310.03295",
+        "website": null
+      },
+      {
+        "title": "DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching",
+        "author": "Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023",
+        "github": "https://github.com/lyq312318224/DREAM",
+        "url": "https://arxiv.org/abs/2310.15052",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream+.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation in Latent Space",
+        "author": "Yuxuan Duan et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2311.15547",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/duan2023latent.txt",
+        "website": null
+      },
+      {
+        "title": "Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality",
+        "author": "Xuxi Chen & Yu Yang et al., ICLR 2024",
+        "github": "https://github.com/VITA-Group/ProgressiveDD",
+        "url": "https://arxiv.org/abs/2310.06982",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024vodka.txt",
+        "website": null
+      },
+      {
+        "title": "Embarassingly Simple Dataset Distillation",
+        "author": "Yunzhen Feng et al., ICLR 2024",
+        "github": "https://github.com/fengyzpku/Simple_Dataset_Distillation",
+        "url": "https://arxiv.org/abs/2311.07025",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yunzhen2024embarassingly.txt",
+        "website": null
+      },
+      {
+        "title": "Multisize Dataset Condensation",
+        "author": "Yang He et al., ICLR 2024",
+        "github": "https://github.com/he-y/Multisize-Dataset-Condensation",
+        "url": "https://arxiv.org/abs/2403.06075",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2024mdc.txt",
+        "website": null
+      },
+      {
+        "title": "Large Scale Dataset Distillation with Domain Shift",
+        "author": "Noel Loo & Alaa Maalouf et al., ICML 2024",
+        "github": "https://github.com/yolky/d3s_distillation",
+        "url": "https://openreview.net/forum?id=0FWPKHMCSc",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2024d3s.txt",
+        "website": null
+      },
+      {
+        "title": "https://github.com/silicx/GoldFromOres",
+        "author": "Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation",
+        "github": "Yue Xu et al., ECCV 2024",
+        "url": "https://arxiv.org/abs/2305.18381",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024distill.txt",
+        "website": null
+      },
+      {
+        "title": "Towards Model-Agnostic Dataset Condensation by Heterogeneous Models",
+        "author": "Jun-Yeong Moon et al., ECCV 2024",
+        "github": "https://github.com/khu-agi/hmdc",
+        "url": "https://arxiv.org/abs/2409.14538",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/moon2024hmdc.txt",
+        "website": null
+      },
+      {
+        "title": "Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching",
+        "author": "Ruonan Yu et al., ECCV 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2410.07579",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2024teddy.txt",
+        "website": null
+      },
+      {
+        "title": "BACON: Bayesian Optimal Condensation Framework for Dataset Distillation",
+        "author": "Zheng Zhou et al., 2024",
+        "github": "https://github.com/zhouzhengqd/BACON",
+        "url": "https://arxiv.org/abs/2406.01112",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024bacon.txt",
+        "website": null
+      },
+      {
+        "title": "Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information",
+        "author": "Xinhao Zhong et al., ICLR 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2412.09945",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
+        "website": null
+      }
+    ],
+    "Better Understanding": [
+      {
+        "title": "Optimizing Millions of Hyperparameters by Implicit Differentiation",
+        "author": "Jonathan Lorraine et al., AISTATS 2020",
+        "github": "https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation",
+        "url": "https://arxiv.org/abs/1911.02590",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lorraine2020optimizing.txt",
+        "website": null
+      },
+      {
+        "title": "On Implicit Bias in Overparameterized Bilevel Optimization",
+        "author": "Paul Vicol et al., ICML 2022",
+        "github": null,
+        "url": "https://proceedings.mlr.press/v162/vicol22a.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vicol2022implicit.txt",
+        "website": null
+      },
+      {
+        "title": "On the Size and Approximation Error of Distilled Sets",
+        "author": "Alaa Maalouf & Murad Tukan et al., NeurIPS 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2305.14113",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maalouf2023size.txt",
+        "website": null
+      },
+      {
+        "title": "A Theoretical Study of Dataset Distillation",
+        "author": "Zachary Izzo et al., NeurIPS 2023 Workshop",
+        "github": null,
+        "url": "https://openreview.net/forum?id=dq5QGXGxoJ",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/izzo2023theo.txt",
+        "website": null
+      },
+      {
+        "title": "What is Dataset Distillation Learning?",
+        "author": "William Yang et al., ICML 2024",
+        "github": "https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning",
+        "url": "https://arxiv.org/abs/2406.04284",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2024learning.txt",
+        "website": null
+      },
+      {
+        "title": "Mitigating Bias in Dataset Distillation",
+        "author": "Justin Cui et al., ICML 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2406.06609",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2024bias.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning",
+        "author": "Vyacheslav Kungurtsev et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2409.01410",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kungurtsev2024first.txt",
+        "website": null
+      },
+      {
+        "title": "Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation",
+        "author": "Shaobo Wang et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2408.12483",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024samples.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation as Pushforward Optimal Quantization",
+        "author": "Hongye Tan et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2501.07681",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tan2025optimal.txt",
+        "website": null
+      }
+    ],
+    "Label Distillation": [
+      {
+        "title": "Flexible Dataset Distillation: Learn Labels Instead of Images",
+        "author": "Ondrej Bohdal et al., NeurIPS 2020 Workshop",
+        "github": "https://github.com/ondrejbohdal/label-distillation",
+        "url": "https://arxiv.org/abs/2006.08572",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/bohdal2020flexible.txt",
+        "website": null
+      },
+      {
+        "title": "Soft-Label Dataset Distillation and Text Dataset Distillation",
+        "author": "Ilia Sucholutsky et al., IJCNN 2021",
+        "github": "https://github.com/ilia10000/dataset-distillation",
+        "url": "https://arxiv.org/abs/1910.02551",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sucholutsky2021soft.txt",
+        "website": null
+      },
+      {
+        "title": "A Label is Worth a Thousand Images in Dataset Distillation",
+        "author": "Tian Qin et al., NeurIPS 2024",
+        "github": "https://github.com/sunnytqin/no-distillation",
+        "url": "https://arxiv.org/abs/2406.10485",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qin2024label.txt",
+        "website": null
+      },
+      {
+        "title": "https://github.com/he-y/soft-label-pruning-for-dataset-distillation",
+        "author": "Lingao Xiao et al., NeurIPS 2024",
+        "github": "https://github.com/he-y/soft-label-pruning-for-dataset-distillation",
+        "url": "https://arxiv.org/abs/2410.15919",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xiao2024soft.txt",
+        "website": null
+      },
+      {
+        "title": "Label-Augmented Dataset Distillation",
+        "author": "Seoungyoon Kang & Youngsun Lim et al., WACV 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2409.16239",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kang2024label.txt",
+        "website": null
+      },
+      {
+        "title": "DRUPI: Dataset Reduction Using Privileged Information",
+        "author": "Shaobo Wang et al., 2024",
+        "github": "",
+        "url": "https://arxiv.org/abs/2410.01611",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024drupi.txt",
+        "website": null
+      }
+    ],
+    "Dataset Quantization": [
+      {
+        "title": "Dataset Quantization",
+        "author": "Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023",
+        "github": "https://github.com/magic-research/Dataset_Quantization",
+        "url": "https://arxiv.org/abs/2308.10524",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2023dataset.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Quantization with Active Learning based Adaptive Sampling",
+        "author": "Zhenghao Zhao et al., ECCV 2024",
+        "github": "https://github.com/ichbill/DQAS",
+        "url": "https://arxiv.org/abs/2407.07268",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2024dqas.txt",
+        "website": null
+      }
+    ],
+    "Decoupled Distillation": [
+      {
+        "title": "Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective",
+        "author": "Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023",
+        "github": "https://github.com/VILA-Lab/SRe2L/tree/main/SRe2L",
+        "url": "https://arxiv.org/abs/2306.13092",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2023sre2l.txt",
+        "website": "https://zeyuanyin.github.io/projects/SRe2L/"
+      },
+      {
+        "title": "Dataset Distillation via Curriculum Data Synthesis in Large Data Era",
+        "author": "Zeyuan Yin et al., TMLR 2024",
+        "github": "https://github.com/VILA-Lab/SRe2L/tree/main/CDA",
+        "url": "https://arxiv.org/abs/2311.18838",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2024cda.txt",
+        "website": null
+      },
+      {
+        "title": "Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching",
+        "author": "Shitong Shao et al., CVPR 2024",
+        "github": "https://github.com/shaoshitong/G_VBSM_Dataset_Condensation",
+        "url": "https://arxiv.org/abs/2311.17950",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024gvbsm.txt",
+        "website": null
+      },
+      {
+        "title": "On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm",
+        "author": "Peng Sun et al., CVPR 2024",
+        "github": "https://github.com/LINs-lab/RDED",
+        "url": "https://arxiv.org/abs/2312.03526",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rded.txt",
+        "website": null
+      },
+      {
+        "title": "Information Compensation: A Fix for Any-scale Dataset Distillation",
+        "author": "Peng Sun et al., ICLR 2024 Workshop",
+        "github": null,
+        "url": "https://openreview.net/forum?id=2SnmKd1JK4",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024lic.txt",
+        "website": null
+      },
+      {
+        "title": "Elucidating the Design Space of Dataset Condensation",
+        "author": "Shitong Shao et al., NeurIPS 2024",
+        "github": "https://github.com/shaoshitong/EDC",
+        "url": "https://arxiv.org/abs/2404.13733",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024edc.txt",
+        "website": null
+      },
+      {
+        "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment",
+        "author": "Jiawei Du et al., NeurIPS 2024",
+        "github": "https://github.com/AngusDujw/Diversity-Driven-Synthesis",
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2024diversity.txt",
+        "cite": "https://arxiv.org/abs/2409.17612",
+        "website": null
+      },
+      {
+        "title": "Curriculum Dataset Distillation",
+        "author": "Zhiheng Ma & Anjia Cao et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2405.09150",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ma2024cudd.txt",
+        "website": null
+      },
+      {
+        "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+        "author": "Zhiqiang Shen & Ammar Sherif et al., 2024",
+        "github": "https://github.com/VILA-Lab/DELT",
+        "url": "https://arxiv.org/abs/2411.19946",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2024delt.txt",
+        "website": null
+      },
+      {
+        "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
+        "author": "Xin Zhang et al., ICLR 2025",
+        "github": "",
+        "url": "https://arxiv.org/abs/2408.06927",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation via Committee Voting",
+        "author": "Jiacheng Cui et al., 2025",
+        "github": "https://github.com/Jiacheng8/CV-DD",
+        "url": "https://arxiv.org/abs/2501.07575",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025cvdd.txt",
+        "website": null
+      }
+    ],
+    "Multimodel Distillation": [
+      {
+        "title": "Vision-Language Dataset Distillation",
+        "author": "Xindi Wu et al., TMLR 2024",
+        "github": "https://github.com/princetonvisualai/multimodal_dataset_distillation",
+        "url": "https://arxiv.org/abs/2308.07545",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2024multi.txt",
+        "website": "https://princetonvisualai.github.io/multimodal_dataset_distillation/"
+      },
+      {
+        "title": "Low-Rank Similarity Mining for Multimodal Dataset Distillation",
+        "author": "Yue Xu et al., ICML 2024",
+        "github": "https://github.com/silicx/LoRS_Distill",
+        "url": "https://arxiv.org/abs/2406.03793",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024lors.txt",
+        "website": null
+      },
+      {
+        "title": "Audio-Visual Dataset Distillation",
+        "author": "Saksham Singh Kushwaha et al., TMLR 2024",
+        "github": "https://github.com/sakshamsingh1/AVDD",
+        "url": "https://openreview.net/forum?id=IJlbuSrXmk",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kush2024avdd.txt",
+        "website": null
+      }
+    ],
+    "Self-Supervised Distillation": [
+      {
+        "title": "Dong Bok Lee & Seanie Lee et al., ICLR 2024",
+        "author": "Self-Supervised Dataset Distillation for Transfer Learning",
+        "github": "https://github.com/db-Lee/selfsup_dd",
+        "url": "https://arxiv.org/abs/2310.06511",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2024self.txt",
+        "website": null
+      },
+      {
+        "title": "Efficiency for Free: Ideal Data Are Transportable Representations",
+        "author": "Peng Sun et al., NeurIPS 2024",
+        "github": "https://github.com/LINs-lab/ReLA",
+        "url": "https://arxiv.org/abs/2405.14669",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rela.txt",
+        "website": null
+      },
+      {
+        "title": "Self-supervised Dataset Distillation: A Good Compression Is All You Need",
+        "author": "Muxin Zhou et al., 2024",
+        "github": "https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/",
+        "url": "https://arxiv.org/abs/2404.07976",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024self.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks",
+        "author": "Siddharth Joshi et al., ICLR 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2410.02116",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/joshi2025kd.txt",
+        "website": null
+      }
+    ],
+    "Benchmark": [
+      {
+        "title": "DC-BENCH: Dataset Condensation Benchmark",
+        "author": "Justin Cui et al., NeurIPS 2022",
+        "github": "https://github.com/justincui03/dc_benchmark",
+        "url": "https://arxiv.org/abs/2207.09639",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2022dc.txt",
+        "website": "https://dc-bench.github.io/"
+      },
+      {
+        "title": "A Comprehensive Study on Dataset Distillation: Performance, Privacy, Robustness and Fairness",
+        "author": "Zongxiong Chen & Jiahui Geng et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2305.03355",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2023study.txt",
+        "website": null
+      },
+      {
+        "title": "DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation",
+        "author": "Yifan Wu et al., 2024",
+        "github": "https://github.com/FredWU-HUST/DD-RobustBench",
+        "url": "https://arxiv.org/abs/2403.13322",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2024robust.txt",
+        "website": null
+      },
+      {
+        "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
+        "author": "Zheng Zhou et al., 2024",
+        "github": "https://github.com/zhouzhengqd/BEARD/",
+        "url": "https://arxiv.org/abs/2411.09265",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024beard.txt",
+        "website": "https://beard-leaderboard.github.io/"
+      }
+    ],
+    "Survey": [
+      {
+        "title": "Data Distillation: A Survey",
+        "author": "Noveen Sachdeva et al., TMLR 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2301.04272",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sachdeva2023survey.txt",
+        "website": null
+      },
+      {
+        "title": "A Survey on Dataset Distillation: Approaches, Applications and Future Directions",
+        "author": "Jiahui Geng & Zongxiong Chen et al., IJCAI 2023",
+        "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
+        "url": "https://arxiv.org/abs/2305.01975",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/geng2023survey.txt",
+        "website": null
+      },
+      {
+        "title": "A Comprehensive Survey to Dataset Distillation",
+        "author": "Shiye Lei et al., TPAMI 2023",
+        "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
+        "url": "https://arxiv.org/abs/2301.05603",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nooralinejad2022pranc.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation: A Comprehensive Review",
+        "author": "Ruonan Yu & Songhua Liu et al., TPAMI 2023",
+        "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
+        "url": "https://arxiv.org/abs/2301.07014",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2023review.txt",
+        "website": null
+      }
+    ],
+    "Ph.D Thesis": [
+      {
+        "title": "Data-efficient Neural Network Training with Dataset Condensation",
+        "author": "Bo Zhao, The University of Edinburgh 2023",
+        "github": null,
+        "url": "https://era.ed.ac.uk/handle/1842/39756",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2023thesis.txt",
+        "website": null
+      }
+    ],
+    "Workshop": [
+      {
+        "title": "1st CVPR Workshop on Dataset Distillation",
+        "author": "Saeed Vahidian et al., CVPR 2024",
+        "github": null,
+        "url": null,
+        "cite": null,
+        "website": "https://sites.google.com/view/dd-cvpr2024/home"
+      }
+    ],
+    "Chanllenge": [
+      {
+        "title": "The First Dataset Distillation Challenge",
+        "author": "Kai Wang & Ahmad Sajedi et al., ECCV 2024",
+        "github": "https://github.com/DataDistillation/ECCV2024-Dataset-Distillation-Challenge",
+        "url": null,
+        "cite": null,
+        "website": "https://www.dd-challenge.com/"
       }
     ]
   },
-  "Applications": [
-    {
-      "title": "porv1",
-      "author": "prov1"
-    }
-  ]
+  "Applications": {
+    "Continual Learning": [
+      {
+        "title": "Reducing Catastrophic Forgetting with Learning on Synthetic Data",
+        "author": "Wojciech Masarczyk et al., CVPR 2020 Workshop",
+        "github": null,
+        "url": "https://arxiv.org/abs/2004.14046",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/masarczyk2020reducing.txt",
+        "website": null
+      },
+      {
+        "title": "Condensed Composite Memory Continual Learning",
+        "author": "Felix Wiewel et al., IJCNN 2021",
+        "github": "https://github.com/FelixWiewel/CCMCL",
+        "url": "https://arxiv.org/abs/2102.09890",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wiewel2021soft.txt",
+        "website": null
+      },
+      {
+        "title": "Distilled Replay: Overcoming Forgetting through Synthetic Samples",
+        "author": "Andrea Rosasco et al., IJCAI 2021 Workshop",
+        "github": "https://github.com/andrearosasco/DistilledReplay",
+        "url": "https://arxiv.org/abs/2103.15851",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/rosasco2021distilled.txt",
+        "website": null
+      },
+      {
+        "title": "Sample Condensation in Online Continual Learning",
+        "author": "Mattia Sangermano et al., IJCNN 2022",
+        "github": "https://github.com/MattiaSangermano/OLCGM",
+        "url": "https://arxiv.org/abs/2206.11849",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sangermano2022sample.txt",
+        "website": null
+      },
+      {
+        "title": "An Efficient Dataset Condensation Plugin and Its Application to Continual Learning",
+        "author": "Enneng Yang et al., NeurIPS 2023",
+        "github": "https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin",
+        "url": "https://openreview.net/forum?id=Murj6wcjRw",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2023efficient.txt",
+        "website": null
+      },
+      {
+        "title": "Summarizing Stream Data for Memory-Restricted Online Continual Learning",
+        "author": "Jianyang Gu et al., AAAI 2024",
+        "github": "https://github.com/vimar-gu/SSD",
+        "url": "https://arxiv.org/abs/2305.16645",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gu2024ssd.txt",
+        "website": null
+      }
+    ],
+    "Privacy": [
+      {
+        "title": "Privacy for Free: How does Dataset Condensation Help Privacy?",
+        "author": "Tian Dong et al., ICML 2022",
+        "github": null,
+        "url": "https://arxiv.org/abs/2206.00240",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/dong2022privacy.txt",
+        "website": null
+      },
+      {
+        "title": "https://github.com/DingfanChen/Private-Set",
+        "author": "Private Set Generation with Discriminative Information",
+        "github": "Dingfan Chen et al., NeurIPS 2022",
+        "url": "https://arxiv.org/abs/2211.04446",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2022privacy.txt",
+        "website": null
+      },
+      {
+        "title": "No Free Lunch in \"Privacy for Free: How does Dataset Condensation Help Privacy\"",
+        "author": "Nicholas Carlini et al., 2022",
+        "github": null,
+        "url": "https://arxiv.org/abs/2209.14987",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/carlini2022no.txt",
+        "website": null
+      },
+      {
+        "title": "Backdoor Attacks Against Dataset Distillation",
+        "author": "https://github.com/liuyugeng/baadd",
+        "github": "Yugeng Liu et al., NDSS 2023",
+        "url": "https://arxiv.org/abs/2301.01197",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023backdoor.txt",
+        "website": null
+      },
+      {
+        "title": "Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation",
+        "author": "Margarita Vinaroz et al., 2023",
+        "github": "https://github.com/dpclip/dpclip",
+        "url": "https://arxiv.org/abs/2301.13389",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vinaroz2023dpkip.txt",
+        "website": null
+      },
+      {
+        "title": "Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation",
+        "author": "Noel Loo et al., ICLR 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2302.01428",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2024attack.txt",
+        "website": null
+      },
+      {
+        "title": "Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective",
+        "author": "Ming-Yu Chung et al., ICLR 2024",
+        "github": null,
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chung2024backdoor.txt",
+        "cite": "https://arxiv.org/abs/2311.16646",
+        "website": null
+      },
+      {
+        "title": "Differentially Private Dataset Condensation",
+        "author": "Zheng et al., NDSS 2024 Workshop",
+        "github": null,
+        "url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-542/",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2024differentially.txt",
+        "website": null
+      },
+      {
+        "title": "Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning",
+        "author": "Ze Chai et al., ICC 2024",
+        "github": null,
+        "url": "https://ieeexplore.ieee.org/abstract/document/10622462?casa_token=tHyZ-Pz7DpUAAAAA:vmCYI4cUcKzMluUsASHhIhr0CvBkjzBR-0N7REVj7aFN5hT5TinQTpSEsE0Bo3Fl8auh52Fipm_v",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chai2024backdoor.txt",
+        "website": null
+      }
+    ],
+    "Medical": [
+      {
+        "title": "Soft-Label Anonymous Gastric X-ray Image Distillation",
+        "author": "Guang Li et al., ICIP 2020",
+        "github": "https://github.com/Guang000/dataset-distillation",
+        "url": "https://arxiv.org/abs/2104.02857",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2020soft.txt",
+        "website": null
+      },
+      {
+        "title": "Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing",
+        "author": "Guang Li et al., CMPB 2022",
+        "github": "https://github.com/Guang000/dataset-distillation",
+        "url": "https://arxiv.org/abs/2209.14635",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2022compressed.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation for Medical Dataset Sharing",
+        "author": "Guang Li et al., AAAI 2023 Workshop",
+        "github": "https://github.com/Guang000/mtt-distillation",
+        "url": "https://r2hcai.github.io/AAAI-23/pages/accepted-papers.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2023sharing.txt",
+        "website": null
+      },
+      {
+        "title": "Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation",
+        "author": "Yuchen Tian & Jiacheng Wang et al., MICCAI 2023 Workshop",
+        "github": null,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-47401-9_2",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tian2023gdd.txt",
+        "website": null
+      },
+      {
+        "title": "Importance-Aware Adaptive Dataset Distillation",
+        "author": "Guang Li et al., NN 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2401.15863",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024iadd.txt",
+        "website": null
+      },
+      {
+        "title": "Image Distillation for Safe Data Sharing in Histopathology",
+        "author": "Zhe Li et al., MICCAI 2024",
+        "github": "https://github.com/ZheLi2020/InfoDist",
+        "url": "https://arxiv.org/abs/2406.13536",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024infodist.txt",
+        "website": null
+      },
+      {
+        "title": "MedSynth: Leveraging Generative Model for Healthcare Data Sharing",
+        "author": "Renuga Kanagavelu et al., MICCAI 2024",
+        "github": null,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-72390-2_61",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kanagavelu2024medsynth.txt",
+        "website": null
+      },
+      {
+        "title": "Progressive Trajectory Matching for Medical Dataset Distillation",
+        "author": "Zhen Yu et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2403.13469",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2024progressive.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation in Medical Imaging: A Feasibility Study",
+        "author": "Muyang Li et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2407.14429",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024medical.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation for Histopathology Image Classification",
+        "author": "Cong Cong et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2408.09709",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cong2024dataset.txt",
+        "website": null
+      }
+    ],
+    "Federated Learning": [
+      {
+        "title": "Federated Learning via Synthetic Data",
+        "author": "Jack Goetz et al., 2020",
+        "github": null,
+        "url": "https://arxiv.org/abs/2008.04489",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/goetz2020federated.txt",
+        "website": null
+      },
+      {
+        "title": "Distilled One-Shot Federated Learning",
+        "author": "Yanlin Zhou et al., 2020",
+        "github": "",
+        "url": "https://arxiv.org/abs/2009.07999",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2020distilled.txt",
+        "website": null
+      },
+      {
+        "title": "DENSE: Data-Free One-Shot Federated Learning",
+        "author": "Jie Zhang & Chen Chen et al., NeurIPS 2022",
+        "github": "https://github.com/zj-jayzhang/DENSE",
+        "url": "https://arxiv.org/abs/2112.12371",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2022dense.txt",
+        "website": null
+      },
+      {
+        "title": "FedSynth: Gradient Compression via Synthetic Data in Federated Learning",
+        "author": "Shengyuan Hu et al., 2022",
+        "github": null,
+        "url": "https://arxiv.org/abs/2204.01273",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2022fedsynth.txt",
+        "website": null
+      },
+      {
+        "title": "Meta Knowledge Condensation for Federated Learning",
+        "author": "Ping Liu et al., ICLR 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2209.14851",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023meta.txt",
+        "website": null
+      },
+      {
+        "title": "DYNAFED: Tackling Client Data Heterogeneity with Global Dynamics",
+        "author": "Renjie Pi et al., CVPR 2023",
+        "github": "https://github.com/pipilurj/dynafed",
+        "url": "https://arxiv.org/abs/2211.10878",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/pi2023dynafed.txt",
+        "website": null
+      },
+      {
+        "title": "FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning",
+        "author": "Yuanhao Xiong & Ruochen Wang et al., CVPR 2023",
+        "github": "https://github.com/anonymifish/fed-distribution-matching",
+        "url": "https://arxiv.org/abs/2207.09653",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xiong2023feddm.txt",
+        "website": null
+      },
+      {
+        "title": "Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments",
+        "author": "Rui Song et al., IJCNN 2023",
+        "github": "https://github.com/rruisong/fedd3",
+        "url": "https://arxiv.org/abs/2208.11311",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/song2023federated.txt",
+        "website": null
+      },
+      {
+        "title": "FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations",
+        "author": "Hui-Po Wang et al., 2023",
+        "github": "https://github.com/a514514772/fedlap-dp",
+        "url": "https://arxiv.org/abs/2302.01068",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023fed.txt",
+        "website": null
+      },
+      {
+        "title": "Federated Virtual Learning on Heterogeneous Data with Local-global Distillation",
+        "author": "Chun-Yin Huang et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2303.02278",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/huang2023federated.txt",
+        "website": null
+      },
+      {
+        "title": "An Aggregation-Free Federated Learning for Tackling Data Heterogeneity",
+        "author": "Yuan Wang et al., CVPR 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2404.18962",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024fed.txt",
+        "website": null
+      },
+      {
+        "title": "Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors",
+        "author": "Chun-Yin Huang et al., ICML 2024",
+        "github": "https://github.com/ubc-tea/DESA",
+        "url": "https://arxiv.org/abs/2405.11525",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/huang2024desa.txt",
+        "website": null
+      },
+      {
+        "title": "DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning",
+        "author": "Xingwang Wang et al., IJCNN 2024",
+        "github": null,
+        "url": "https://ieeexplore.ieee.org/document/10650791",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024dcfl.txt",
+        "website": null
+      },
+      {
+        "title": "Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents",
+        "author": "Yuqi Jia & Saeed Vahidian et al., ECCV 2024",
+        "github": "https://github.com/FedDG23/FedDG-main",
+        "url": "https://arxiv.org/abs/2312.01537",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jia2024feddg.txt",
+        "website": null
+      },
+      {
+        "title": "One-Shot Collaborative Data Distillation",
+        "author": "William Holland et al., ECAI 2024",
+        "github": "https://github.com/rayneholland/CollabDM",
+        "url": "https://arxiv.org/abs/2408.02266",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/holland2024one.txt",
+        "website": null
+      }
+    ],
+    "Graph Neural Network": [
+      {
+        "title": "Graph Condensation for Graph Neural Networks",
+        "author": "Wei Jin et al., ICLR 2022",
+        "github": "https://github.com/HIPS/hypergrad",
+        "url": "https://arxiv.org/abs/2110.07580",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jin2022graph.txt",
+        "website": null
+      },
+      {
+        "title": "Condensing Graphs via One-Step Gradient Matching",
+        "author": "Wei Jin et al., KDD 2022",
+        "github": "https://github.com/amazon-research/DosCond",
+        "url": "https://arxiv.org/abs/2206.07746",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jin2022condensing.txt",
+        "website": null
+      },
+      {
+        "title": "Graph Condensation via Receptive Field Distribution Matching",
+        "author": "Mengyang Liu et al., 2022",
+        "github": null,
+        "url": "https://arxiv.org/abs/2206.13697",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2022graph.txt",
+        "website": null
+      },
+      {
+        "title": "Kernel Ridge Regression-Based Graph Dataset Distillation",
+        "author": "Zhe Xu et al., KDD 2023",
+        "github": "https://github.com/pricexu/KIDD",
+        "url": "https://dl.acm.org/doi/10.1145/3580305.3599398",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2023kidd.txt",
+        "website": null
+      },
+      {
+        "title": "Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data",
+        "author": "Xin Zheng et al., NeurIPS 2023",
+        "github": "https://github.com/amanda-zheng/sfgc",
+        "url": "https://arxiv.org/abs/2306.02664",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2023sfgc.txt",
+        "website": null
+      },
+      {
+        "title": "Does Graph Distillation See Like Vision Dataset Counterpart?",
+        "author": "Beining Yang & Kai Wang et al., NeurIPS 2023",
+        "github": "https://github.com/RingBDStack/SGDD",
+        "url": "https://arxiv.org/abs/2310.09192",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2023sgdd.txt",
+        "website": null
+      },
+      {
+        "title": "CaT: Balanced Continual Graph Learning with Graph Condensation",
+        "author": "Liu Yilun et al., ICDM 2023",
+        "github": "https://github.com/superallen13/CaT-CGL",
+        "url": "https://arxiv.org/abs/2309.09455",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023cat.txt",
+        "website": null
+      },
+      {
+        "title": "Mirage: Model-Agnostic Graph Distillation for Graph Classification",
+        "author": "Mridul Gupta & Sahil Manchanda et al., ICLR 2024",
+        "github": "https://github.com/frigategnn/Mirage",
+        "url": "https://arxiv.org/abs/2310.09486",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gupta2024mirage.txt",
+        "website": null
+      },
+      {
+        "title": "Graph Distillation with Eigenbasis Matching",
+        "author": "Yang Liu & Deyu Bo et al., ICML 2024",
+        "github": "https://github.com/liuyang-tian/GDEM",
+        "url": "https://arxiv.org/abs/2310.09202",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024gdem.txt",
+        "website": null
+      },
+      {
+        "title": "Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching",
+        "author": "Yuchen Zhang & Tianle Zhang & Kai Wang et al., ICML 2024",
+        "github": "https://github.com/nus-hpc-ai-lab/geom",
+        "url": "https://arxiv.org/abs/2402.05011",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024geom.txt",
+        "website": null
+      },
+      {
+        "title": "Graph Data Condensation via Self-expressive Graph Structure Reconstruction",
+        "author": "Zhanyu Liu & Chaolv Zeng et al., KDD 2024",
+        "github": "https://github.com/zclzcl0223/GCSR",
+        "url": "https://arxiv.org/abs/2403.07294",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024gcsr.txt",
+        "website": null
+      },
+      {
+        "title": "Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching",
+        "author": "Tianle Zhang & Yuchen Zhang & Kai Wang et al., 2024",
+        "github": "https://github.com/nus-hpc-ai-lab/ctrl",
+        "url": "https://arxiv.org/abs/2402.04924",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024ctrl.txt",
+        "website": null
+      }
+    ],
+    "Graph Neural Network -- Survey": [
+      {
+        "title": "A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation",
+        "author": "Mohammad Hashemi et al., IJCAI 2024",
+        "github": "https://github.com/Emory-Melody/awesome-graph-reduction",
+        "url": "https://arxiv.org/abs/2402.03358",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hashemi2024awesome.txt",
+        "website": null
+      },
+      {
+        "title": "Graph Condensation: A Survey",
+        "author": "Xinyi Gao et al., 2024",
+        "github": "https://github.com/xygaog/graph-condensation-papers",
+        "url": "https://arxiv.org/abs/2401.11720",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gao2024graph.txt",
+        "website": null
+      },
+      {
+        "title": "A Survey on Graph Condensation",
+        "author": "Hongjia Xu et al., 2024",
+        "github": "https://github.com/Frostland12138/Awesome-Graph-Condensation",
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024survey.txt",
+        "cite": "https://arxiv.org/abs/2402.02000",
+        "website": null
+      }
+    ],
+    "Graph Neural Network -- Benchmark": [
+      {
+        "title": "GC-Bench: An Open and Unified Benchmark for Graph Condensation",
+        "author": "Qingyun Sun & Ziying Chen et al., 2024",
+        "github": "https://github.com/RingBDStack/GC-Bench",
+        "url": "https://arxiv.org/abs/2407.00615",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024gcbench.txt",
+        "website": null
+      },
+      {
+        "title": "GCondenser: Benchmarking Graph Condensation",
+        "author": "Yilun Liu et al., 2024",
+        "github": "https://github.com/superallen13/GCondenser",
+        "url": "https://arxiv.org/abs/2405.14246",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024gcondenser.txt",
+        "website": null
+      },
+      {
+        "title": "GC-Bench: A Benchmark Framework for Graph Condensation with New Insights",
+        "author": "Shengbo Gong & Juntong Ni et al., 2024",
+        "github": "https://github.com/Emory-Melody/GraphSlim",
+        "url": "https://arxiv.org/abs/2406.16715",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gong2024graphslim.txt",
+        "website": null
+      }
+    ],
+    "Neural Architecture Search": [
+      {
+        "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data",
+        "author": "Felipe Petroski Such et al., ICML 2020",
+        "github": null,
+        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/such2020generative.txt",
+        "cite": "https://arxiv.org/abs/1912.07768",
+        "website": null
+      },
+      {
+        "title": "Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation",
+        "author": "Dmitry Medvedev et al., AIST 2021",
+        "github": "https://github.com/dm-medvedev/efficientdistillation",
+        "url": "https://arxiv.org/abs/2203.08559",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/medvedev2021tabular.txt",
+        "website": null
+      },
+      {
+        "title": "Calibrated Dataset Condensation for Faster Hyperparameter Search",
+        "author": "Mucong Ding et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2405.17535",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2024hcdc.txt",
+        "website": null
+      }
+    ],
+    "Fashion, Art, and Design": [
+      {
+        "title": "Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation",
+        "author": "George Cazenavette et al., CVPR 2022 Workshop",
+        "github": "https://github.com/georgecazenavette/mtt-distillation",
+        "url": "https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cazenavette2022textures.txt",
+        "website": "https://georgecazenavette.github.io/mtt-distillation/"
+      },
+      {
+        "title": "Learning from Designers: Fashion Compatibility Analysis Via Dataset Distillation",
+        "author": "Yulan Chen et al., ICIP 2022",
+        "github": null,
+        "url": "https://ieeexplore.ieee.org/document/9897234",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2022fashion.txt",
+        "website": null
+      },
+      {
+        "title": "Galaxy Dataset Distillation with Self-Adaptive Trajectory Matching",
+        "author": "Haowen Guan et al., NeurIPS 2023 Workshop",
+        "github": "https://github.com/HaowenGuan/Galaxy-Dataset-Distillation",
+        "url": "https://arxiv.org/abs/2311.17967",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/guan2023galaxy.txt",
+        "website": null
+      }
+    ],
+    "Recommender Systems": [
+      {
+        "title": "Infinite Recommendation Networks: A Data-Centric Approach",
+        "author": "Noveen Sachdeva et al., NeurIPS 2022",
+        "github": "https://github.com/noveens/distill_cf",
+        "url": "https://arxiv.org/abs/2206.02626",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sachdeva2022data.txt",
+        "website": null
+      },
+      {
+        "title": "Gradient Matching for Categorical Data Distillation in CTR Prediction",
+        "author": "Chen Wang et al., RecSys 2023",
+        "github": null,
+        "url": "https://dl.acm.org/doi/10.1145/3604915.3608769",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023cgm.txt",
+        "website": null
+      }
+    ],
+    "Blackbox Optimization": [
+      {
+        "title": "Bidirectional Learning for Offline Infinite-width Model-based Optimization",
+        "author": "Can Chen et al., NeurIPS 2022",
+        "github": "https://github.com/ggchen1997/bdi",
+        "url": "https://arxiv.org/abs/2209.07507",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2022bidirectional.txt",
+        "website": null
+      },
+      {
+        "title": "Bidirectional Learning for Offline Model-based Biological Sequence Design",
+        "author": "Can Chen et al., ICML 2023",
+        "github": "https://github.com/GGchen1997/BIB-ICML2023-Submission",
+        "url": "https://arxiv.org/abs/2301.02931",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2023bidirectional.txt",
+        "website": null
+      }
+    ],
+    "Robustness": [
+      {
+        "title": "Can We Achieve Robustness from Data Alone?",
+        "author": "Nikolaos Tsilivis et al., ICML 2022 Workshop",
+        "github": null,
+        "url": "https://arxiv.org/abs/2207.11727",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tsilivis2022robust.txt",
+        "website": null
+      },
+      {
+        "title": "Towards Robust Dataset Learning",
+        "author": "Yihan Wu et al., 2022",
+        "github": null,
+        "url": "https://arxiv.org/abs/2211.10752",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2022towards.txt",
+        "website": null
+      },
+      {
+        "title": "Rethinking Data Distillation: Do Not Overlook Calibration",
+        "author": "Dongyao Zhu et al., ICCV 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2307.12463",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhu2023calibration.txt",
+        "website": null
+      },
+      {
+        "title": "Towards Trustworthy Dataset Distillation",
+        "author": "Shijie Ma et al., PR 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2307.09165",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ma2024trustworthy.txt",
+        "website": null
+      },
+      {
+        "title": "Towards Adversarially Robust Dataset Distillation by Curvature Regularization",
+        "author": "Eric Xue et al., AAAI 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2403.10045",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xue2025robust.txt",
+        "website": null
+      },
+      {
+        "title": "Group Distributionally Robust Dataset Distillation with Risk Minimization",
+        "author": "Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025",
+        "github": "https://github.com/Mming11/RobustDatasetDistillation",
+        "url": "https://arxiv.org/abs/2402.04676",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vahidian2025group.txt",
+        "website": null
+      }
+    ],
+    "Fairness": [
+      {
+        "title": "Fair Graph Distillation",
+        "author": "Qizhang Feng et al., NeurIPS 2023",
+        "github": "",
+        "url": "https://openreview.net/forum?id=xW0ayZxPWs",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023fair.txt",
+        "website": null
+      },
+      {
+        "title": "FairDD: Fair Dataset Distillation via Synchronized Matching",
+        "author": "Qihang Zhou et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2411.19623",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024fair.txt",
+        "website": null
+      }
+    ],
+    "Text": [
+      {
+        "title": "Data Distillation for Text Classification",
+        "author": "Yongqi Li et al., 2021",
+        "github": null,
+        "url": "https://arxiv.org/abs/2104.08448",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2021text.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation with Attention Labels for Fine-tuning BERT",
+        "author": "Aru Maekawa et al., ACL 2023",
+        "github": "https://github.com/arumaekawa/dataset-distillation-with-attention-labels",
+        "url": "https://aclanthology.org/2023.acl-short.12/",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maekawa2023text.txt",
+        "website": null
+      },
+      {
+        "title": "DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation",
+        "author": "Aru Maekawa et al., NAACL 2024",
+        "github": "https://github.com/arumaekawa/DiLM",
+        "url": "https://arxiv.org/abs/2404.00264",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maekawa2024dilm.txt",
+        "website": null
+      },
+      {
+        "title": "Textual Dataset Distillation via Language Model Embedding",
+        "author": "Yefan Tao et al., EMNLP 2024",
+        "github": "",
+        "url": "https://aclanthology.org/2024.findings-emnlp.733/",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tao2024textual.txt",
+        "website": null
+      }
+    ],
+    "Tabular": [
+      {
+        "title": "New Properties of the Data Distillation Method When Working With Tabular Data",
+        "author": "Dmitry Medvedev et al., AIST 2020",
+        "github": "https://github.com/dm-medvedev/dataset-distillation",
+        "url": "https://arxiv.org/abs/2010.09839",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/medvedev2020tabular.txt",
+        "website": null
+      }
+    ],
+    "Retrieval": [
+      {
+        "title": "Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching",
+        "author": "Tao Feng & Jie Zhang et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2305.18076",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023hash.txt",
+        "website": null
+      }
+    ],
+    "Video": [
+      {
+        "title": "Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement",
+        "author": "Ziyu Wang & Yue Xu et al., CVPR 2024",
+        "github": "https://github.com/yuz1wan/video_distillation",
+        "url": "https://arxiv.org/abs/2312.00362",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023dancing.txt",
+        "website": null
+      },
+      {
+        "title": "Video Set Distillation: Information Diversification and Temporal Densifica",
+        "author": "Yinjie Zhao et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2412.00111",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2024video.txt",
+        "website": null
+      },
+      {
+        "title": "A Large-Scale Study on Video Action Dataset Condensation",
+        "author": "Yang Chen et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2412.21197",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024video.txt",
+        "website": null
+      }
+    ],
+    "Domain Adaptation": [
+      {
+        "title": "Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning",
+        "author": "Montesuma et al., ICASSP 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2309.07666",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/montesuma2024multi.txt",
+        "website": null
+      }
+    ],
+    "Super Resolution": [
+      {
+        "title": "GSDD: Generative Space Dataset Distillation for Image Super-resolution",
+        "author": "Haiyu Zhang et al., AAAI 2024",
+        "github": null,
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28534",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024super.txt",
+        "website": null
+      }
+    ],
+    "Time Series": [
+      {
+        "title": "Dataset Condensation for Time Series Classification via Dual Domain Matching",
+        "author": "Zhanyu Liu et al., KDD 2024",
+        "github": "https://github.com/zhyliu00/TimeSeriesCond",
+        "url": "https://arxiv.org/abs/2403.07245",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024time.txt",
+        "website": null
+      },
+      {
+        "title": "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting",
+        "author": "Jianrong Ding & Zhanyu Liu et al., NeurIPS 2024",
+        "github": "https://github.com/RafaDD/CondTSF",
+        "url": "https://arxiv.org/abs/2406.02131",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2024time.txt",
+        "website": null
+      },
+      {
+        "title": "Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching",
+        "author": "Hao Miao et al., VLDB 2025",
+        "github": "https://github.com/uestc-liuzq/STdistillation",
+        "url": "https://arxiv.org/abs/2410.20905",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/miao2025timedc.txt",
+        "website": null
+      }
+    ],
+    "Speech": [
+      {
+        "title": "Dataset-Distillation Generative Model for Speech Emotion Recognition",
+        "author": "Fabian Ritter-Gutierrez et al., Interspeech 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2406.02963",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/fabian2024speech.txt",
+        "website": null
+      }
+    ],
+    "Machine Unlearning": [
+      {
+        "title": "Distilled Datamodel with Reverse Gradient Matching",
+        "author": "Jingwen Ye et al., CVPR 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2404.14006",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ye2024datamodel.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Condensation Driven Machine Unlearning",
+        "author": "Junaid Iqbal Khan, 2024",
+        "github": "https://github.com/algebraicdianuj/DC_U",
+        "url": "https://arxiv.org/abs/2402.00195",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/khan2024unlearning.txt",
+        "website": null
+      }
+    ],
+    "Reinforcement Learning": [
+      {
+        "title": "Dataset Distillation for Offline Reinforcement Learning",
+        "author": "Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop",
+        "github": "https://github.com/ggflow123/DDRL",
+        "url": "https://arxiv.org/abs/2407.20299",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/light2024rl.txt",
+        "website": "https://datasetdistillation4rl.github.io/"
+      }
+    ],
+    "Long-Tail": [
+      {
+        "title": "Distilling Long-tailed Datasets",
+        "author": "Zhenghao Zhao & Haoxuan Wang et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2408.14506",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2024long.txt",
+        "website": null
+      }
+    ],
+    "Learning with Noisy Labels": [
+      {
+        "title": "Dataset Distillers Are Good Label Denoisers In the Wild",
+        "author": "Lechao Cheng et al., 2024",
+        "github": "https://github.com/Kciiiman/DD_LNL",
+        "url": "https://arxiv.org/abs/2411.11924",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cheng2024noisy.txt",
+        "website": null
+      }
+    ],
+    "Object Detection": [
+      {
+        "title": "Fetch and Forge: Efficient Dataset Condensation for Object Detection",
+        "author": "Ding Qi et al., NeurIPS 2024",
+        "github": null,
+        "url": "https://openreview.net/forum?id=m8MElyzuwp",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2024dcod.txt",
+        "website": null
+      }
+    ]
+  }
 }
