@@ -100,17 +100,28 @@
 				<br>
 				<p class="background-vision body-large on-surface-variant-text">In recent years (2022-now), dataset distillation has gained increasing attention in the research community, across many institutes and labs. More papers are now being published each year. These wonderful researches have been constantly improving dataset distillation and exploring its various variants and applications.</p>
 			</div>
-
+			<script>
+				// // let c = document.getElementById('counter');
+				// // c.innerHTML = 1;
+				// // test();
+				// let c = document.getElementById('counter');
+				// fetch('navi_abbr.json')
+				// 		.then(response => response.json())
+				// 		.then(data =>{
+				// 			c.innerHTML = "2"
+				// 		});
+				// c.innerHTML = "3";
+			</script>
 			<!--latest updates-->
             <h2 class="section-title display-medium on-background-text">Latest Updates</h2>
             <div class="lastupdate-container surface-variant" id="latest">
             </div>
 			<script>
-				let container_latest = document.getElementById('latest');
-				fetch('latest.json')
-						.then(response => response.json())
-						.then(data => latestPapers(data, container_latest))
-						.catch(error => console.error('Error in Latest:', error));
+				// let container_latest = document.getElementById('latest');
+				// fetch('latest.json')
+				// 		.then(response => response.json())
+				// 		.then(data => latestPapers(data, container_latest))
+				// 		.catch(error => console.error('Error in Latest:', error));
 			</script>
 
 
@@ -119,12 +130,12 @@
 			<h2 class="section-title display-medium on-background-text">Content</h2>
 			<div class="main-content" id="contents"></div>
 			<script>
-				let container_main = document.getElementById('contents');
-				let paper_counter = document.getElementById('counter');
-				fetch('articles.json')
-						.then(response => response.json())
-						.then(data => mainPapers(data, container_main, paper_counter))
-						.catch(error => console.error('Error in Main:', error));
+				// let container_main = document.getElementById('contents');
+				// let paper_counter = document.getElementById('counter');
+				// fetch('articles.json')
+				// 		.then(response => response.json())
+				// 		.then(data => mainPapers(data, container_main, paper_counter))
+				// 		.catch(error => console.error('Error in Main:', error));
 			</script>
 
 			<h2 class="section-title display-medium on-background-text">Media Coverage</h2>
@@ -179,16 +190,13 @@
 							<h4 class="page-footer-subtitle body-medium on-background-text">Contribution Guide</h4>
 							<p class="page-footer-instruction body-large on-background-text">If you want to make contribution to this project, click <a class="primary-text" href="https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/CONTRIBUTING.md">here</a> for more details.</p>
 						</div>
-						<div class="acknowledgment" id="thanks">
-							<!--Put the acknowledgment information here-->
-							<p class="page-footer-instruction body-large on-background-text">The <a class="primary-text" href="https://guang000.github.io/Awesome-Dataset-Distillation/">Homepage</a> of Awesome Dataset Distillation was designed by <a class="primary-text" href="https://lovelessg.github.io/">Longzhen Li</a> and maintained by <a class="primary-text" href="https://github.com/SumomoTaku">Mingzhuo Li</a></p>
-						</div>
+						<div class="acknowledgment" id="thanks"></div>
 						<script>
-							let container_ac = document.getElementById('thanks');
-							fetch('acknowledgements.json')
-									.then(response => response.json())
-									.then(data => acknowledgment(data, container_ac))
-									.catch(error => console.error('Error in Latest:', error));
+							// let container_ac = document.getElementById('thanks');
+							// fetch('acknowledgements.json')
+							// 		.then(response => response.json())
+							// 		.then(data => acknowledgment(data, container_ac))
+							// 		.catch(error => console.error('Error in Latest:', error));
 						</script>
 
 					</div>
@@ -196,6 +204,13 @@
 			</footer>
 
 		</div>
+		<script>
+			fetch('navi_abbr.json')
+				.then(response => response.json())
+				.then(data =>{initialize(data)});
+		</script>
+
+
 		<script>
 			function open_sidebar() {
                             let isMobile = navigator.userAgent.toLowerCase().match(/mobile/i)

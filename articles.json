@@ -1,6 +1,6 @@
 {
-  "Main": {
-    "Base": [
+  "main": {
+    "base": [
       {
         "title": "Dataset Distillation",
         "author": "Tongzhou Wang et al., 2018",
@@ -10,7 +10,7 @@
         "website": "https://ssnl.github.io/dataset_distillation/"
       }
     ],
-    "Early Work": [
+    "early": [
       {
         "title": "Gradient-Based Hyperparameter Optimization Through Reversible Learning",
         "author": "Dougal Maclaurin et al., ICML 2015",
@@ -20,7 +20,7 @@
         "website": null
       }
     ],
-    "Gradient/Trajectory Matching Surrogate Objective": [
+    "gradient": [
       {
         "title": "Dataset Condensation with Gradient Matching",
         "author": "Bo Zhao et al., ICLR 2021",
@@ -134,7 +134,7 @@
         "website": null
       }
     ],
-    "Distribution/Feature Matching Surrogate Objective": [
+    "distribution": [
       {
         "title": "CAFE: Learning to Condense Dataset by Aligning Features",
         "author": "Kai Wang & Bo Zhao et al., CVPR 2022",
@@ -216,7 +216,7 @@
         "website": null
       }
     ],
-    "Kernel-Based Distillation": [
+    "kernel": [
       {
         "title": "Dataset Meta-Learning from Kernel Ridge-Regression",
         "author": "Timothy Nguyen et al., ICLR 2021",
@@ -266,7 +266,7 @@
         "website": null
       }
     ],
-    "Distilled Dataset Parametrization": [
+    "parametrization": [
       {
         "title": "Dataset Condensation via Efficient Synthetic-Data Parameterization",
         "author": "Jang-Hyun Kim et al., ICML 2022",
@@ -380,7 +380,7 @@
         "website": null
       }
     ],
-    "Generative Distillation": [
+    "generative": [
       {
         "title": "Synthesizing Informative Training Samples with GAN",
         "author": "https://github.com/vico-uoe/it-gan",
@@ -478,7 +478,7 @@
         "website": null
       }
     ],
-    "Better Optimization": [
+    "better-optimization": [
       {
         "title": "Accelerating Dataset Distillation via Model Augmentation",
         "author": "Lei Zhang & Jie Zhang et al., CVPR 2023",
@@ -608,7 +608,7 @@
         "website": null
       }
     ],
-    "Better Understanding": [
+    "better-understanding": [
       {
         "title": "Optimizing Millions of Hyperparameters by Implicit Differentiation",
         "author": "Jonathan Lorraine et al., AISTATS 2020",
@@ -682,7 +682,7 @@
         "website": null
       }
     ],
-    "Label Distillation": [
+    "label": [
       {
         "title": "Flexible Dataset Distillation: Learn Labels Instead of Images",
         "author": "Ondrej Bohdal et al., NeurIPS 2020 Workshop",
@@ -732,7 +732,7 @@
         "website": null
       }
     ],
-    "Dataset Quantization": [
+    "quantization": [
       {
         "title": "Dataset Quantization",
         "author": "Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023",
@@ -750,7 +750,7 @@
         "website": null
       }
     ],
-    "Decoupled Distillation": [
+    "decouple": [
       {
         "title": "Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective",
         "author": "Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023",
@@ -840,7 +840,7 @@
         "website": null
       }
     ],
-    "Multimodel Distillation": [
+    "multimodal": [
       {
         "title": "Vision-Language Dataset Distillation",
         "author": "Xindi Wu et al., TMLR 2024",
@@ -866,7 +866,7 @@
         "website": null
       }
     ],
-    "Self-Supervised Distillation": [
+    "self": [
       {
         "title": "Dong Bok Lee & Seanie Lee et al., ICLR 2024",
         "author": "Self-Supervised Dataset Distillation for Transfer Learning",
@@ -900,7 +900,7 @@
         "website": null
       }
     ],
-    "Benchmark": [
+    "benchmark": [
       {
         "title": "DC-BENCH: Dataset Condensation Benchmark",
         "author": "Justin Cui et al., NeurIPS 2022",
@@ -934,7 +934,7 @@
         "website": "https://beard-leaderboard.github.io/"
       }
     ],
-    "Survey": [
+    "survey": [
       {
         "title": "Data Distillation: A Survey",
         "author": "Noveen Sachdeva et al., TMLR 2023",
@@ -968,7 +968,7 @@
         "website": null
       }
     ],
-    "Ph.D Thesis": [
+    "phd": [
       {
         "title": "Data-efficient Neural Network Training with Dataset Condensation",
         "author": "Bo Zhao, The University of Edinburgh 2023",
@@ -978,7 +978,7 @@
         "website": null
       }
     ],
-    "Workshop": [
+    "workshop": [
       {
         "title": "1st CVPR Workshop on Dataset Distillation",
         "author": "Saeed Vahidian et al., CVPR 2024",
@@ -988,7 +988,7 @@
         "website": "https://sites.google.com/view/dd-cvpr2024/home"
       }
     ],
-    "Chanllenge": [
+    "challenge": [
       {
         "title": "The First Dataset Distillation Challenge",
         "author": "Kai Wang & Ahmad Sajedi et al., ECCV 2024",
@@ -999,8 +999,8 @@
       }
     ]
   },
-  "Applications": {
-    "Continual Learning": [
+  "applications": {
+    "continual": [
       {
         "title": "Reducing Catastrophic Forgetting with Learning on Synthetic Data",
         "author": "Wojciech Masarczyk et al., CVPR 2020 Workshop",
@@ -1050,7 +1050,7 @@
         "website": null
       }
     ],
-    "Privacy": [
+    "privacy": [
       {
         "title": "Privacy for Free: How does Dataset Condensation Help Privacy?",
         "author": "Tian Dong et al., ICML 2022",
@@ -1124,7 +1124,7 @@
         "website": null
       }
     ],
-    "Medical": [
+    "medical": [
       {
         "title": "Soft-Label Anonymous Gastric X-ray Image Distillation",
         "author": "Guang Li et al., ICIP 2020",
@@ -1206,7 +1206,7 @@
         "website": null
       }
     ],
-    "Federated Learning": [
+    "federated": [
       {
         "title": "Federated Learning via Synthetic Data",
         "author": "Jack Goetz et al., 2020",
@@ -1328,7 +1328,7 @@
         "website": null
       }
     ],
-    "Graph Neural Network": [
+    "graph-neural": [
       {
         "title": "Graph Condensation for Graph Neural Networks",
         "author": "Wei Jin et al., ICLR 2022",
@@ -1426,7 +1426,7 @@
         "website": null
       }
     ],
-    "Graph Neural Network -- Survey": [
+    "_g-survey": [
       {
         "title": "A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation",
         "author": "Mohammad Hashemi et al., IJCAI 2024",
@@ -1452,7 +1452,7 @@
         "website": null
       }
     ],
-    "Graph Neural Network -- Benchmark": [
+    "_g-benchmark": [
       {
         "title": "GC-Bench: An Open and Unified Benchmark for Graph Condensation",
         "author": "Qingyun Sun & Ziying Chen et al., 2024",
@@ -1478,7 +1478,7 @@
         "website": null
       }
     ],
-    "Neural Architecture Search": [
+    "neural-architecture": [
       {
         "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data",
         "author": "Felipe Petroski Such et al., ICML 2020",
@@ -1504,7 +1504,7 @@
         "website": null
       }
     ],
-    "Fashion, Art, and Design": [
+    "fashion": [
       {
         "title": "Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation",
         "author": "George Cazenavette et al., CVPR 2022 Workshop",
@@ -1530,7 +1530,7 @@
         "website": null
       }
     ],
-    "Recommender Systems": [
+    "recommender": [
       {
         "title": "Infinite Recommendation Networks: A Data-Centric Approach",
         "author": "Noveen Sachdeva et al., NeurIPS 2022",
@@ -1548,7 +1548,7 @@
         "website": null
       }
     ],
-    "Blackbox Optimization": [
+    "blackbox": [
       {
         "title": "Bidirectional Learning for Offline Infinite-width Model-based Optimization",
         "author": "Can Chen et al., NeurIPS 2022",
@@ -1566,7 +1566,7 @@
         "website": null
       }
     ],
-    "Robustness": [
+    "robustness": [
       {
         "title": "Can We Achieve Robustness from Data Alone?",
         "author": "Nikolaos Tsilivis et al., ICML 2022 Workshop",
@@ -1616,7 +1616,7 @@
         "website": null
       }
     ],
-    "Fairness": [
+    "fairness": [
       {
         "title": "Fair Graph Distillation",
         "author": "Qizhang Feng et al., NeurIPS 2023",
@@ -1634,7 +1634,7 @@
         "website": null
       }
     ],
-    "Text": [
+    "text-application": [
       {
         "title": "Data Distillation for Text Classification",
         "author": "Yongqi Li et al., 2021",
@@ -1668,7 +1668,7 @@
         "website": null
       }
     ],
-    "Tabular": [
+    "tabular": [
       {
         "title": "New Properties of the Data Distillation Method When Working With Tabular Data",
         "author": "Dmitry Medvedev et al., AIST 2020",
@@ -1678,7 +1678,7 @@
         "website": null
       }
     ],
-    "Retrieval": [
+    "retrieval": [
       {
         "title": "Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching",
         "author": "Tao Feng & Jie Zhang et al., 2023",
@@ -1688,7 +1688,7 @@
         "website": null
       }
     ],
-    "Video": [
+    "video-application": [
       {
         "title": "Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement",
         "author": "Ziyu Wang & Yue Xu et al., CVPR 2024",
@@ -1714,7 +1714,7 @@
         "website": null
       }
     ],
-    "Domain Adaptation": [
+    "domain-adaptation": [
       {
         "title": "Multi-Source Domain Adaptation Meets Dataset Distillation through Dataset Dictionary Learning",
         "author": "Montesuma et al., ICASSP 2024",
@@ -1724,7 +1724,7 @@
         "website": null
       }
     ],
-    "Super Resolution": [
+    "super-resolution": [
       {
         "title": "GSDD: Generative Space Dataset Distillation for Image Super-resolution",
         "author": "Haiyu Zhang et al., AAAI 2024",
@@ -1734,7 +1734,7 @@
         "website": null
       }
     ],
-    "Time Series": [
+    "time-series": [
       {
         "title": "Dataset Condensation for Time Series Classification via Dual Domain Matching",
         "author": "Zhanyu Liu et al., KDD 2024",
@@ -1760,7 +1760,7 @@
         "website": null
       }
     ],
-    "Speech": [
+    "speech": [
       {
         "title": "Dataset-Distillation Generative Model for Speech Emotion Recognition",
         "author": "Fabian Ritter-Gutierrez et al., Interspeech 2024",
@@ -1770,7 +1770,7 @@
         "website": null
       }
     ],
-    "Machine Unlearning": [
+    "machine-unlearning": [
       {
         "title": "Distilled Datamodel with Reverse Gradient Matching",
         "author": "Jingwen Ye et al., CVPR 2024",
@@ -1788,7 +1788,7 @@
         "website": null
       }
     ],
-    "Reinforcement Learning": [
+    "reinforcement-learning": [
       {
         "title": "Dataset Distillation for Offline Reinforcement Learning",
         "author": "Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop",
@@ -1798,7 +1798,7 @@
         "website": "https://datasetdistillation4rl.github.io/"
       }
     ],
-    "Long-Tail": [
+    "long": [
       {
         "title": "Distilling Long-tailed Datasets",
         "author": "Zhenghao Zhao & Haoxuan Wang et al., 2024",
@@ -1808,7 +1808,7 @@
         "website": null
       }
     ],
-    "Learning with Noisy Labels": [
+    "noisy": [
       {
         "title": "Dataset Distillers Are Good Label Denoisers In the Wild",
         "author": "Lechao Cheng et al., 2024",
@@ -1818,7 +1818,7 @@
         "website": null
       }
     ],
-    "Object Detection": [
+    "object": [
       {
         "title": "Fetch and Forge: Efficient Dataset Condensation for Object Detection",
         "author": "Ding Qi et al., NeurIPS 2024",

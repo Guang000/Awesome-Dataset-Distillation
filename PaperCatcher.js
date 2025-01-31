@@ -1,24 +1,49 @@
+let dic = null
+
+function initialize(data){
+    dic = data
+    let container_latest = document.getElementById('latest');
+    fetch('latest.json')
+    		.then(response => response.json())
+    		.then(data => latestPapers(data, container_latest))
+    		.catch(error => console.error('Error in Latest:', error));
+
+    let container_main = document.getElementById('contents');
+    let paper_counter = document.getElementById('counter');
+    fetch('articles.json')
+        .then(response => response.json())
+        .then(data => mainPapers(data, container_main, paper_counter))
+        .catch(error => console.error('Error in Main:', error));
+
+    let container_ac = document.getElementById('thanks');
+    fetch('acknowledgements.json')
+        .then(response => response.json())
+        .then(data => acknowledgment(data, container_ac))
+        .catch(error => console.error('Error in Latest:', error));
+}
 function mainPapers(data, container, counter=null){
     let n_paper = 0;
     Object.keys(data).forEach(field=>{
         let ul_field = document.createElement('ul');
-        ul_field.innerHTML += `<li><h3 class="section-title headline-medium on-background-text" id="${field}">${field}</h3></li>`;
+        ul_field.innerHTML += `<li><h3 class="section-title headline-medium on-background-text" id="${field}">${dic[field]}</h3></li>`;
         let fields = data[field];
         Object.keys(fields).forEach(section=>{
-            if (!(section === "Base")){
-                let li_section = document.createElement('li');
-                if (section.includes("--")){
-                    li_section.innerHTML = `<h5 class="section-subtitle title-large on-background-text" id=${section}>${section}</h5>`;
-                }else{
-                    li_section.innerHTML = `<h4 class="section-subtitle title-large on-background-text" id=${section}>${section}</h4>`;
+            let li_section = document.createElement('li');
+            if (section.includes("_")){
+                if(dic[section]){
+                    li_section.innerHTML = `<h5 class="section-subtitle title-large on-background-text" id=${section}>${dic[section]}</h5>`;
                 }
-                ul_field.appendChild(li_section)
-                if (section === "Graph Neural Network"){
-                    let li_comment =  document.createElement('li');
-                    li_comment.setAttribute('class', "essay-container title-large error-container on-error-container-text");
-                    li_comment.innerHTML = `<div><p class="essay-content">No further updates will be made regarding graph distillation topics as sufficient papers and summary projects are already available on the subject</p></div>`;
-                    ul_field.appendChild(li_comment);
+            }else{
+                if(dic[section]){
+                    li_section.innerHTML = `<h4 class="section-subtitle title-large on-background-text" id=${section}>${dic[section]}</h4>`;
                 }
+            }
+            ul_field.appendChild(li_section)
+            if (section === "graph-neural"){
+                let li_comment =  document.createElement('li');
+                li_comment.setAttribute('class', "essay-container title-large error-container on-error-container-text");
+                li_comment.innerHTML = `<div><p class="essay-content">No further updates will be made regarding graph distillation topics as sufficient papers and summary projects are already available on the subject</p></div>`;
+                ul_field.appendChild(li_comment);
             }
             let papers = fields[section];
             papers.forEach(paper =>{
@@ -28,9 +53,9 @@ function mainPapers(data, container, counter=null){
         })
         container.appendChild(ul_field);
     })
-    if (counter){
-        counter.innerHTML = n_paper;
-    }
+    // if (counter){
+    //     counter.innerHTML = n_paper;
+    // }
 }
 
 function latestPapers(data, container){
@@ -103,18 +128,24 @@ function aPaper(paper, container){
 }
 
 function acknowledgment(data, container){
-    container.innerHTML += `<h4 class="page-footer-subtitle body-medium on-background-text">Acknowledgments</h4>`
-    // thanks_html = `<p class="page-footer-instruction body-large on-background-text">We would like to express our heartfelt thanks to`
-    // let names = Object.keys(data);
-    // let n = names.length;
-    // for (let i= 0; i < n; i ++){
-    //     name = names[i];
-    //     if (i === (n-1)){
-    //         thanks_html += `, and `;
-    //     }else{
-    //         thanks_html += `, `;
-    //     }
-    //     thanks_html += `<a class="primary-text" href="${data.name}">${name}</a>`;
-    // }
-    // thanks_html += `for their valuable suggestions and contributions.</p>`;
+    container.innerHTML += `<h4 class="page-footer-subtitle body-medium on-background-text">Acknowledgments</h4>`;
+    let thanks_html = `<p class="page-footer-instruction body-large on-background-text">We would like to express our heartfelt thanks to`;
+    let names = Object.keys(data);
+    let n = names.length;
+    for (let i= 0; i < n; i ++){
+        name = names[i];
+        if (i === (n-1)){
+            thanks_html += `and <a class="primary-text" href="${data.name}">${name}</a> `;
+        }else{
+            thanks_html += `<a class="primary-text" href="${data.name}">${name}</a>, `;
+        }
+    }
+    thanks_html += `for their valuable suggestions and contributions.</p>`;
+    container.innerHTML += thanks_html;
+
+    container.innerHTML += `<p class="page-footer-instruction body-large on-background-text">
+                            The <a class="primary-text" href="https://guang000.github.io/Awesome-Dataset-Distillation/">Homepage </a>
+                            of Awesome Dataset Distillation was designed by 
+                            <a class="primary-text" href="https://lovelessg.github.io/">Longzhen Li </a>
+                            and maintained by <a class="primary-text" href="https://github.com/SumomoTaku">Mingzhuo Li</a></p>`
 }
