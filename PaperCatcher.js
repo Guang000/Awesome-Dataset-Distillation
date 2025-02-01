@@ -2,30 +2,46 @@ let dic = null
 
 function initialize(data){
     dic = data
+
+
+    let container_navi = document.getElementById('navi');
+    fetch('data/navi_abbr.json')
+        .then(response => response.json())
+        .then(data => navigation_list(data, container_navi))
+        .catch(error => console.error('Error in navi:', error));
+
     let container_latest = document.getElementById('latest');
-    fetch('latest.json')
+    fetch('data/latest.json')
     		.then(response => response.json())
     		.then(data => latestPapers(data, container_latest))
-    		.catch(error => console.error('Error in Latest:', error));
+    		.catch(error => console.error('Error in latest:', error));
 
     let container_main = document.getElementById('contents');
     let paper_counter = document.getElementById('counter');
-    fetch('articles.json')
+    fetch('data/articles.json')
         .then(response => response.json())
         .then(data => mainPapers(data, container_main, paper_counter))
-        .catch(error => console.error('Error in Main:', error));
+        .catch(error => console.error('Error in main:', error));
 
     let container_ac = document.getElementById('thanks');
-    fetch('acknowledgements.json')
+    fetch('data/acknowledgements.json')
         .then(response => response.json())
         .then(data => acknowledgment(data, container_ac))
-        .catch(error => console.error('Error in Latest:', error));
+        .catch(error => console.error('Error in acknowledgements:', error));
 }
+
 function mainPapers(data, container, counter=null){
+    let container_navi = document.getElementById('navi');
+
     let n_paper = 0;
     Object.keys(data).forEach(field=>{
         let ul_field = document.createElement('ul');
         ul_field.innerHTML += `<li><h3 class="section-title headline-medium on-background-text" id="${field}">${dic[field]}</h3></li>`;
+
+        let div_navi = document.createElement('div');
+        div_navi.setAttribute('class', 'list-section primary-container');
+        div_navi.innerHTML += `<div class="navigation-item"><a onclick="close_sidebar()" href="#${field}" class="title-large on-primary-container-text">${dic[field]}</a></div>`;
+
         let fields = data[field];
         Object.keys(fields).forEach(section=>{
             let li_section = document.createElement('li');
@@ -36,6 +52,7 @@ function mainPapers(data, container, counter=null){
             }else{
                 if(dic[section]){
                     li_section.innerHTML = `<h4 class="section-subtitle title-large on-background-text" id=${section}>${dic[section]}</h4>`;
+                    div_navi.innerHTML += `<div class="navigation-item"><a onclick="close_sidebar()" href="#${section}" class="title-medium on-primary-container-text">${dic[section]}</a></div>`;
                 }
             }
             ul_field.appendChild(li_section)
@@ -50,12 +67,22 @@ function mainPapers(data, container, counter=null){
                 aPaper(paper, ul_field);
                 n_paper += 1;
             });
-        })
+        });
         container.appendChild(ul_field);
+        container_navi.appendChild(div_navi);
     })
-    // if (counter){
-    //     counter.innerHTML = n_paper;
-    // }
+    if (counter){
+        counter.innerHTML = n_paper;
+    }
+}
+
+function navigation_list(data, container){
+    // Object.keys(data).forEach(field=>{
+    //     let div = document.createElement('div');
+    //     div.setAttribute('class', 'list-section primary-container');
+    //     div.innerHTML += `<div class="navigation-item"><a onclick="close_sidebar()" href="#${}" class="title-large on-primary-container-text">Main</a></div>`;
+    //     container.appendChild(div);
+    // });
 }
 
 function latestPapers(data, container){
@@ -129,7 +156,7 @@ function aPaper(paper, container){
 
 function acknowledgment(data, container){
     container.innerHTML += `<h4 class="page-footer-subtitle body-medium on-background-text">Acknowledgments</h4>`;
-    let thanks_html = `<p class="page-footer-instruction body-large on-background-text">We would like to express our heartfelt thanks to`;
+    let thanks_html = `<p class="page-footer-instruction body-large on-background-text">We would like to express our heartfelt thanks to `;
     let names = Object.keys(data);
     let n = names.length;
     for (let i= 0; i < n; i ++){
@@ -148,4 +175,37 @@ function acknowledgment(data, container){
                             of Awesome Dataset Distillation was designed by 
                             <a class="primary-text" href="https://lovelessg.github.io/">Longzhen Li </a>
                             and maintained by <a class="primary-text" href="https://github.com/SumomoTaku">Mingzhuo Li</a></p>`
+}
+
+// actions
+function open_sidebar() {
+    let isMobile = navigator.userAgent.toLowerCase().match(/mobile/i)
+    if (isMobile) {
+        document.getElementById("quickContent").style.width = "100%";
+        document.getElementById("sidebarTitle").style.width = "100%";
+    } else {
+        document.getElementById("quickContent").style.width = "466px";
+        document.getElementById("sidebarTitle").style.width = "466px";
+        document.getElementById("sidebarOverlay").style.width = "100%";
+        document.getElementById("sidebarOverlay").style.height = "100%";
+        document.getElementById("awesome-dataset-distillation").style.overflow = "hidden";
+    }
+
+    document.getElementById("sidebarTitle").style.position = "fixed";
+}
+
+function close_sidebar() {
+    document.getElementById("quickContent").style.width = "0";
+    document.getElementById("sidebarTitle").style.position = "static";
+    document.getElementById("sidebarOverlay").style.width = "0";
+    document.getElementById("sidebarOverlay").style.height = "0";
+    document.getElementById("awesome-dataset-distillation").style.overflow = "visible";
+}
+
+function github_star(){
+    fetch('https://api.github.com/repos/guang000/awesome-dataset-distillation')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("starCount").innerHTML = data.stargazers_count;
+        })
 }
