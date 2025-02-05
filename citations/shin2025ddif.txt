@@ -1,0 +1,6 @@
+@inproceedings{shin2025ddif,
+  title={Distilling Dataset into Neural Field},
+  author={Shin, Donghyeok and Bae, HeeSun and Sim, Gyuwon and Kang, Wanmo and Moon, Il-chul},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
