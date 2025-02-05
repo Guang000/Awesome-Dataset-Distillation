@@ -1,0 +1,6 @@
+@inproceedings{yu2025self,
+  title={Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation},
+  author={Yu, Sheng-Feng and Yao, Jia-Jiun and Chiu, Wei-Chen},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
