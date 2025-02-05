@@ -1,0 +1,6 @@
+@inproceedings{cai2025llm,
+  title={Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training},
+  author={Cai, Xunxin and Wang, Chengrui and Long, Qingqing and Zhou, Yuanchun and Xiao, Meng},
+  booktitle={Proceedings of the International Conference on Database Systems for Advanced Applications (DASFAA)},
+  year={2025}
+}
