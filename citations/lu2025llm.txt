@@ -1,0 +1,6 @@
+@inproceedings{wilhelm2025rl,
+  title={{UniDetox}: Universal Detoxification of Large Language Models via Dataset Distillation},
+  author={Lu, Huimin and Isonuma, Masaru and Mori, Junichiro and Sakata, Ichiro},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
