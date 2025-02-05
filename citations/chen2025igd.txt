@@ -1,0 +1,6 @@
+@inproceedings{chen2025igd,
+  title={Influence-Guided Diffusion for Dataset Distillation},
+  author={Chen, Mingyang and Du, Jiawei and Huang, Bo and Wang, Yi and Zhang, Xiaobo and Wang, Wei},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
