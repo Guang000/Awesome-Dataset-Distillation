@@ -1,4 +1,54 @@
 {
+  "2025/02/05": [
+  {
+    "title": "Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training",
+    "author": "Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025",
+    "github": null,
+    "url": "https://arxiv.org/abs/2501.15108",
+    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
+    "website": null
+  },
+  {
+    "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
+    "author": "Huimin Lu et al., ICLR 2025",
+    "github": null,
+    "url": "https://openreview.net/forum?id=eLLBILFRsA",
+    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
+    "website": null
+  },
+  {
+    "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
+    "author": "Connor Wilhelm et al., ICLR 2025",
+    "github": null,
+    "url": "https://openreview.net/forum?id=XnX7xRoroC",
+    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wilhelm2025rl.txt",
+    "website": null
+  },
+  {
+    "title": "Influence-Guided Diffusion for Dataset Distillation",
+    "author": "Mingyang Chen et al., ICLR 2025",
+    "github": null,
+    "url": "https://openreview.net/forum?id=0whx8MhysK",
+    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
+    "website": null
+  },
+  {
+    "title": "Distilling Dataset into Neural Field",
+    "author": "Donghyeok Shin et al., ICLR 2025",
+    "github": null,
+    "url": "https://openreview.net/forum?id=nCrJD7qPJN",
+    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
+    "website": null
+  },
+  {
+    "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
+    "author": "Sheng-Feng Yu et al., ICLR 2025",
+    "github": null,
+    "url": "https://openreview.net/forum?id=2RfWRKwxYh",
+    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
+    "website": null
+  }
+],
   "2025/01/23": [
     {
       "title": "Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information",
@@ -11,7 +61,7 @@
     {
       "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
       "author": "Xin Zhang et al., ICLR 2025",
-      "github": "",
+      "github": null,
       "url": "https://arxiv.org/abs/2408.06927",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
       "website": null
@@ -30,62 +80,6 @@
       "github": "https://github.com/Mming11/RobustDatasetDistillation",
       "url": "https://arxiv.org/abs/2402.04676",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vahidian2025group.txt",
-      "website": null
-    }
-  ],
-  "2025/01/17": [
-    {
-      "title": "Dataset Distillation as Pushforward Optimal Quantization",
-      "author": "Hongye Tan et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2501.07681",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tan2025optimal.txt",
-      "website": null
-    },
-    {
-      "title": "Dataset Distillation via Committee Voting",
-      "author": "Jiacheng Cui et al., 2025",
-      "github": "https://github.com/Jiacheng8/CV-DD",
-      "url": "https://arxiv.org/abs/2501.07575",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025cvdd.txt",
-      "website": null
-    },
-    {
-      "title": "FocusDD: Real-World Scene Infusion for Robust Dataset Distillation",
-      "author": "Youbin Hu et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2501.06405",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2025focusdd.txt",
-      "website": null
-    }
-  ],
-  "2025/01/08": [
-    {
-      "title": "A Large-Scale Study on Video Action Dataset Condensation",
-      "author": "Yang Chen et al., 2024",
-      "github": null,
-      "url": "https://arxiv.org/abs/2412.21197",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024video.txt",
-      "website": null
-    }
-  ],
-  "2024/12/13": [
-    {
-      "title": "Audio-Visual Dataset Distillation",
-      "author": "Saksham Singh Kushwaha et al., TMLR 2024",
-      "github": "https://github.com/sakshamsingh1/AVDD",
-      "url": "https://openreview.net/forum?id=IJlbuSrXmk",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kush2024avdd.txt",
-      "website": null
-    }
-  ],
-  "2024/12/10": [
-    {
-      "title": "FairDD: Fair Dataset Distillation via Synchronized Matching",
-      "author": "Qihang Zhou et al., 2024",
-      "github": null,
-      "url": "https://arxiv.org/abs/2411.19623",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024fair.txt",
       "website": null
     }
   ]

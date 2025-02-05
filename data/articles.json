@@ -378,6 +378,14 @@
         "url": "https://arxiv.org/abs/2411.11329",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yuan2024color.txt",
         "website": null
+      },
+      {
+        "title": "Distilling Dataset into Neural Field",
+        "author": "Donghyeok Shin et al., ICLR 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=nCrJD7qPJN",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
+        "website": null
       }
     ],
     "generative": [
@@ -467,6 +475,14 @@
         "github": "https://github.com/ndhg1213/H-GLaD",
         "url": "https://arxiv.org/abs/2406.05704",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2024hglad.txt",
+        "website": null
+      },
+      {
+        "title": "Influence-Guided Diffusion for Dataset Distillation",
+        "author": "Mingyang Chen et al., ICLR 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=0whx8MhysK",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
         "website": null
       },
       {
@@ -726,7 +742,7 @@
       {
         "title": "DRUPI: Dataset Reduction Using Privileged Information",
         "author": "Shaobo Wang et al., 2024",
-        "github": "",
+        "github": null,
         "url": "https://arxiv.org/abs/2410.01611",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024drupi.txt",
         "website": null
@@ -826,7 +842,7 @@
       {
         "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
         "author": "Xin Zhang et al., ICLR 2025",
-        "github": "",
+        "github": null,
         "url": "https://arxiv.org/abs/2408.06927",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
         "website": null
@@ -897,6 +913,14 @@
         "github": null,
         "url": "https://arxiv.org/abs/2410.02116",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/joshi2025kd.txt",
+        "website": null
+      },
+      {
+        "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
+        "author": "Sheng-Feng Yu et al., ICLR 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=2RfWRKwxYh",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
         "website": null
       }
     ],
@@ -1218,7 +1242,7 @@
       {
         "title": "Distilled One-Shot Federated Learning",
         "author": "Yanlin Zhou et al., 2020",
-        "github": "",
+        "github": null,
         "url": "https://arxiv.org/abs/2009.07999",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2020distilled.txt",
         "website": null
@@ -1620,7 +1644,7 @@
       {
         "title": "Fair Graph Distillation",
         "author": "Qizhang Feng et al., NeurIPS 2023",
-        "github": "",
+        "github": null,
         "url": "https://openreview.net/forum?id=xW0ayZxPWs",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023fair.txt",
         "website": null
@@ -1662,9 +1686,25 @@
       {
         "title": "Textual Dataset Distillation via Language Model Embedding",
         "author": "Yefan Tao et al., EMNLP 2024",
-        "github": "",
+        "github": null,
         "url": "https://aclanthology.org/2024.findings-emnlp.733/",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tao2024textual.txt",
+        "website": null
+      },
+      {
+        "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
+        "author": "Huimin Lu et al., ICLR 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=eLLBILFRsA",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
+        "website": null
+      },
+      {
+        "title": "Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training",
+        "author": "Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2501.15108",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
         "website": null
       }
     ],
@@ -1796,6 +1836,14 @@
         "url": "https://arxiv.org/abs/2407.20299",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/light2024rl.txt",
         "website": "https://datasetdistillation4rl.github.io/"
+      },
+      {
+        "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
+        "author": "Connor Wilhelm et al., ICLR 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=XnX7xRoroC",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wilhelm2025rl.txt",
+        "website": null
       }
     ],
     "long": [
