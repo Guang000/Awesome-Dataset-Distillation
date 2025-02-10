@@ -1748,7 +1748,7 @@
       {
         "title": "A Large-Scale Study on Video Action Dataset Condensation",
         "author": "Yang Chen et al., 2024",
-        "github": null,
+        "github": "https://github.com/MCG-NJU/Video-DC",
         "url": "https://arxiv.org/abs/2412.21197",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024video.txt",
         "website": null
