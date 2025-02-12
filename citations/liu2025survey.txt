@@ -1,0 +1,6 @@
+@article{liu2025survey,
+  title={The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions}, 
+  author={Liu, Ping and Du, Jiawei},
+  journal={arXiv preprint arXiv:2502.05673},
+  year={2025}
+}
