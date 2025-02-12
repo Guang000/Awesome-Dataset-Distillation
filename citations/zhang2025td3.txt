@@ -1,0 +1,6 @@
+@inproceedings{zhang2025td3,
+  title={{TD3}: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation},
+  author={Zhang, Jiaqing and Yin, Mingjia and Wang, Hao and Li, Yawen and Ye, Yuyang and Lou, Xingyu and Du, Junping and Chen, Enhong},
+  booktitle={Proceedings of the ACM Web Conference (WWW)},
+  year={2025}
+}
