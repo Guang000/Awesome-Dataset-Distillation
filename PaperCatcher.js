@@ -162,9 +162,9 @@ function acknowledgment(data, container){
     for (let i= 0; i < n; i ++){
         name = names[i];
         if (i === (n-1)){
-            thanks_html += `and <a class="primary-text" href="${data.name}">${name}</a> `;
+            thanks_html += `and <a class="primary-text" href="${data[name]}">${name}</a> `;
         }else{
-            thanks_html += `<a class="primary-text" href="${data.name}">${name}</a>, `;
+            thanks_html += `<a class="primary-text" href="${data[name]}">${name}</a>, `;
         }
     }
     thanks_html += `for their valuable suggestions and contributions.</p>`;
