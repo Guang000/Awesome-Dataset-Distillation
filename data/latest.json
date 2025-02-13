@@ -1,4 +1,22 @@
 {
+  "2025/02/12": [
+    {
+      "title": "The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions",
+      "author": "Ping Liu et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2502.02854",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2025survey.txt",
+      "website": null
+    },
+    {
+      "title": "TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation]",
+      "author": "Jiaqing Zhang et al., WWW 2025",
+      "github": "https://github.com/USTC-StarTeam/TD3",
+      "url": "https://arxiv.org/abs/2502.05673",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025td3.txt",
+      "website": null
+    }
+  ],
   "2025/02/05": [
   {
     "title": "Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training",
