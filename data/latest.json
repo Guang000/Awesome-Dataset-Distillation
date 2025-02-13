@@ -83,22 +83,6 @@
       "url": "https://arxiv.org/abs/2408.06927",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
       "website": null
-    },
-    {
-      "title": "Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks",
-      "author": "Siddharth Joshi et al., ICLR 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2410.02116",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/joshi2025kd.txt",
-      "website": null
-    },
-    {
-      "title": "Group Distributionally Robust Dataset Distillation with Risk Minimization",
-      "author": "Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025",
-      "github": "https://github.com/Mming11/RobustDatasetDistillation",
-      "url": "https://arxiv.org/abs/2402.04676",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vahidian2025group.txt",
-      "website": null
     }
   ]
 }
