@@ -1,0 +1,6 @@
+@inproceedings{shang2025gift,
+  title={{GIFT}: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost},
+  author={Shang, Xinyi and Sun, Peng and Lin, Tao},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
