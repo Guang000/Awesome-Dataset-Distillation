@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/02/15] [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) (Zekai Li & Xinhao Zhong et al., 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
 + [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
 + [2025/02/12] [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
 + [2025/02/12] [TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation](https://arxiv.org/abs/2502.02854) (Jiaqing Zhang et al., WWW 2025) [:octocat:](https://github.com/USTC-StarTeam/TD3) [:book:](./citations/zhang2025td3.txt)
@@ -29,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/05] [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:book:](./citations/chen2025igd.txt)
 + [2025/02/05] [Distilling Dataset into Neural Field](https://openreview.net/forum?id=nCrJD7qPJN) (Donghyeok Shin et al., ICLR 2025) [:book:](./citations/shin2025ddif.txt)
 + [2025/02/05] [Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://openreview.net/forum?id=2RfWRKwxYh) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
-+ [2025/01/23] [Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information](https://arxiv.org/abs/2412.09945) (Xinhao Zhong et al., ICLR 2025) [:book:](./citations/zhong2025cmi.txt)
-+ [2025/01/23] [Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator](https://arxiv.org/abs/2408.06927) (Xin Zhang et al., ICLR 2025) [:book:](./citations/zhang2025infer.txt)
 
 ## Contents
 - [Main](#main)
@@ -207,6 +206,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?](https://arxiv.org/abs/2410.15919) (Lingao Xiao et al., NeurIPS 2024) [:octocat:](https://github.com/he-y/soft-label-pruning-for-dataset-distillation) [:book:](./citations/xiao2024soft.txt)
 + [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
 + [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., WACV 2025) [:book:](./citations/kang2024label.txt)
++ [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
 
 <a name="quant" />
 
@@ -253,6 +253,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [A Comprehensive Study on Dataset Distillation: Performance, Privacy, Robustness and Fairness](https://arxiv.org/abs/2305.03355) (Zongxiong Chen & Jiahui Geng et al., 2023) [:book:](./citations/chen2023study.txt)
 + [DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation](https://arxiv.org/abs/2403.13322) (Yifan Wu et al., 2024) [:octocat:](https://github.com/FredWU-HUST/DD-RobustBench) [:book:](./citations/wu2024robust.txt)
 + [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., 2024) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2024beard.txt)
++ [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) (Zekai Li & Xinhao Zhong et al., 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
 
 <a name="survey" />
 
