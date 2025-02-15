@@ -1,0 +1,7 @@
+@misc{li2025ranking,
+  title = {DD-Ranking: Rethinking the Evaluation of Dataset Distillation},
+  author = {Li, Zekai and Zhong, Xinhao and Liang, Zhiyuan and Zhou, Yuhao and Shi, Mingjia and Wang, Ziqiao and Zhao, Wangbo and Zhao, Xuanlei and Wang, Haonan and Qin, Ziheng and Liu, Dai and Zhang, Kaipeng and Zhou, Tianyi and Zhu, Zheng and Wang, Kun and Li, Guang and Zhang, Junhao and Liu, Jiawei and Huang, Yiran and Lyu, Lingjuan and Lv, Jiancheng and Jin, Yaochu and Akata, Zeynep and Gu, Jindong and Vedantam, Rama and Shou, Mike and Deng, Zhiwei and Yan, Yan and Shang, Yuzhang and Cazenavette, George and Wu, Xindi and Cui, Justin and Chen, Tianlong and Yao, Angela and Kellis, Manolis and Plataniotis, Konstantinos N. and Zhao, Bo and Wang, Zhangyang and You, Yang and Wang, Kai},
+  year = {2024},
+  howpublished = {GitHub repository},
+  url = {https://github.com/NUS-HPC-AI-Lab/DD-Ranking}
+}
