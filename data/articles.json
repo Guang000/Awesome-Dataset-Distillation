@@ -724,11 +724,19 @@
         "website": null
       },
       {
-        "title": "https://github.com/he-y/soft-label-pruning-for-dataset-distillation",
+        "title": "Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?",
         "author": "Lingao Xiao et al., NeurIPS 2024",
         "github": "https://github.com/he-y/soft-label-pruning-for-dataset-distillation",
         "url": "https://arxiv.org/abs/2410.15919",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xiao2024soft.txt",
+        "website": null
+      },
+      {
+        "title": "DRUPI: Dataset Reduction Using Privileged Information",
+        "author": "Shaobo Wang et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2410.01611",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024drupi.txt",
         "website": null
       },
       {
@@ -740,11 +748,11 @@
         "website": null
       },
       {
-        "title": "DRUPI: Dataset Reduction Using Privileged Information",
-        "author": "Shaobo Wang et al., 2024",
+        "title": "GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
+        "author": "Xinyi Shang & Peng Sun et al., ICLR 2025",
         "github": null,
-        "url": "https://arxiv.org/abs/2410.01611",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024drupi.txt",
+        "url": "https://arxiv.org/abs/2405.14736",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2025gift.txt",
         "website": null
       }
     ],
@@ -1028,6 +1036,16 @@
         "url": null,
         "cite": null,
         "website": "https://www.dd-challenge.com/"
+      }
+    ],
+    "ranking": [
+      {
+        "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+        "author": "Zekai Li & Xinhao Zhong et al., 2025",
+        "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
+        "url": null,
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
+        "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
       }
     ]
   },

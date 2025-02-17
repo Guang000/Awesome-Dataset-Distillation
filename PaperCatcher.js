@@ -95,7 +95,7 @@ function latestPapers(data, container){
         papers.forEach(paper=>{
             aPaper(paper, ul_field);
         })
-    })
+    });
     container.appendChild(ul_field);
 }
 
@@ -116,6 +116,7 @@ function aPaper(paper, container){
 
     let div_btn = document.createElement('div');
     div_btn.setAttribute('class', "button-group");
+    // 用placeholder达成全部靠右排列的效果
     let n_space = 0;
     let btn_html = "";
     if (paper['website']){

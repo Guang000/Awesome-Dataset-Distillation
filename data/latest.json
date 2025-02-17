@@ -1,4 +1,22 @@
 {
+  "2025/02/15": [
+    {
+      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+      "author": "Zekai Li & Xinhao Zhong et al., 2025",
+      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
+      "url": null,
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
+      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
+    },
+    {
+      "title": "GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
+      "author": "Xinyi Shang & Peng Sun et al., ICLR 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2405.14736",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2025gift.txt",
+      "website": null
+    }
+  ],
   "2025/02/12": [
     {
       "title": "The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions",
@@ -18,70 +36,52 @@
     }
   ],
   "2025/02/05": [
-  {
-    "title": "Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training",
-    "author": "Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025",
-    "github": null,
-    "url": "https://arxiv.org/abs/2501.15108",
-    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
-    "website": null
-  },
-  {
-    "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
-    "author": "Huimin Lu et al., ICLR 2025",
-    "github": null,
-    "url": "https://openreview.net/forum?id=eLLBILFRsA",
-    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
-    "website": null
-  },
-  {
-    "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
-    "author": "Connor Wilhelm et al., ICLR 2025",
-    "github": null,
-    "url": "https://openreview.net/forum?id=XnX7xRoroC",
-    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wilhelm2025rl.txt",
-    "website": null
-  },
-  {
-    "title": "Influence-Guided Diffusion for Dataset Distillation",
-    "author": "Mingyang Chen et al., ICLR 2025",
-    "github": null,
-    "url": "https://openreview.net/forum?id=0whx8MhysK",
-    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
-    "website": null
-  },
-  {
-    "title": "Distilling Dataset into Neural Field",
-    "author": "Donghyeok Shin et al., ICLR 2025",
-    "github": null,
-    "url": "https://openreview.net/forum?id=nCrJD7qPJN",
-    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
-    "website": null
-  },
-  {
-    "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
-    "author": "Sheng-Feng Yu et al., ICLR 2025",
-    "github": null,
-    "url": "https://openreview.net/forum?id=2RfWRKwxYh",
-    "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
-    "website": null
-  }
-],
-  "2025/01/23": [
     {
-      "title": "Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information",
-      "author": "Xinhao Zhong et al., ICLR 2025",
+      "title": "Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training",
+      "author": "Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025",
       "github": null,
-      "url": "https://arxiv.org/abs/2412.09945",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
+      "url": "https://arxiv.org/abs/2501.15108",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
       "website": null
     },
     {
-      "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
-      "author": "Xin Zhang et al., ICLR 2025",
+      "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
+      "author": "Huimin Lu et al., ICLR 2025",
       "github": null,
-      "url": "https://arxiv.org/abs/2408.06927",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
+      "url": "https://openreview.net/forum?id=eLLBILFRsA",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
+      "website": null
+    },
+    {
+      "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
+      "author": "Connor Wilhelm et al., ICLR 2025",
+      "github": null,
+      "url": "https://openreview.net/forum?id=XnX7xRoroC",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wilhelm2025rl.txt",
+      "website": null
+    },
+    {
+      "title": "Influence-Guided Diffusion for Dataset Distillation",
+      "author": "Mingyang Chen et al., ICLR 2025",
+      "github": null,
+      "url": "https://openreview.net/forum?id=0whx8MhysK",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
+      "website": null
+    },
+    {
+      "title": "Distilling Dataset into Neural Field",
+      "author": "Donghyeok Shin et al., ICLR 2025",
+      "github": null,
+      "url": "https://openreview.net/forum?id=nCrJD7qPJN",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
+      "website": null
+    },
+    {
+      "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
+      "author": "Sheng-Feng Yu et al., ICLR 2025",
+      "github": null,
+      "url": "https://openreview.net/forum?id=2RfWRKwxYh",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
       "website": null
     }
   ]
