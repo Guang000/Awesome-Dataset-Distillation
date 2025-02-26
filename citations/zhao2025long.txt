@@ -1,0 +1,6 @@
+@inproceedings{zhao2025long,
+  title={Distilling Long-tailed Datasets, 
+  author={Zhao, Zhenghao and Wang, Haoxuan and Shang, Yuzhang and Wang, Kai and Yan, Yan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
+}
