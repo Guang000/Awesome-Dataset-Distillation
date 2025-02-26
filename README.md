@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/02/26] [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
 + [2025/02/15] DD-Ranking: Rethinking the Evaluation of Dataset Distillation (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
 + [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
 + [2025/02/12] [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
@@ -29,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/05] [Distilling Reinforcement Learning into Single-Batch Datasets](https://openreview.net/forum?id=XnX7xRoroC) (Connor Wilhelm et al., ICLR 2025) [:book:](./citations/wilhelm2025rl.txt)
 + [2025/02/05] [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:book:](./citations/chen2025igd.txt)
 + [2025/02/05] [Distilling Dataset into Neural Field](https://openreview.net/forum?id=nCrJD7qPJN) (Donghyeok Shin et al., ICLR 2025) [:book:](./citations/shin2025ddif.txt)
-+ [2025/02/05] [Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://openreview.net/forum?id=2RfWRKwxYh) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
 
 ## Contents
 - [Main](#main)
@@ -481,7 +481,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="long" />
 
 ### Long-Tail
-+ [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., 2024) [:book:](./citations/zhao2024long.txt)
++ [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
 
 <a name="noisy" />
 
