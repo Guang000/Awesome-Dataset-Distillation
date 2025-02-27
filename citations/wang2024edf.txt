@@ -1,6 +1,0 @@
-@article{wang2024edf,
-  title={Label-Augmented Dataset Distillation}, 
-  author={Wang, Kai and Li, Zekai and Cheng, Zhi-Qi and Khaki, Samir and Sajedi, Ahmad and Vedantam, Ramakrishna and Plataniotis, Konstantinos N and Hauptmann, Alexander and You, Yang},
-  journal={arXiv preprint arXiv:2410.17193},
-  year={2024}
-}

@@ -1,0 +1,6 @@
+@inproceedings{wang2025edf,
+  title={Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios}, 
+  author={Wang, Kai and Li, Zekai and Cheng, Zhi-Qi and Khaki, Samir and Sajedi, Ahmad and Vedantam, Ramakrishna and Plataniotis, Konstantinos N and Hauptmann, Alexander and You, Yang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
