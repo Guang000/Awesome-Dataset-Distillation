@@ -1,4 +1,22 @@
 {
+  "2025/02/26":[
+    {
+      "title": "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios",
+      "author": "Kai Wang & Zekai Li et al., CVPR 2025",
+      "github": "https://github.com/NUS-HPC-AI-Lab/EDF",
+      "url": "https://arxiv.org/abs/2410.17193",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025edf.txt",
+      "website": null
+    },
+    {
+      "title": "Distilling Long-tailed Datasets",
+      "author": "Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025",
+      "github": "https://github.com/ichbill/LTDD",
+      "url": "https://arxiv.org/abs/2408.14506",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025long.txt",
+      "website": null
+    }
+  ],
   "2025/02/15": [
     {
       "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
@@ -66,22 +84,6 @@
       "github": null,
       "url": "https://openreview.net/forum?id=0whx8MhysK",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
-      "website": null
-    },
-    {
-      "title": "Distilling Dataset into Neural Field",
-      "author": "Donghyeok Shin et al., ICLR 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=nCrJD7qPJN",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
-      "website": null
-    },
-    {
-      "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
-      "author": "Sheng-Feng Yu et al., ICLR 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=2RfWRKwxYh",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
       "website": null
     }
   ]
