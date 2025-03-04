@@ -1,4 +1,4 @@
-@inproceedings{wang2025ncfd,
+@inproceedings{wang2025ncfm,
   title={Dataset Distillation with Neural Characteristic Function: A Minmax Perspective}, 
   author={Wang, Shaobo and Yang, Yicun and Liu, Zhiyuan and Sun, Chenghao and Hu, Xuming and He, Conghui and Zhang, Linfeng},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
