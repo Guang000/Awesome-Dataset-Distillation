@@ -30,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/12] [TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation](https://arxiv.org/abs/2502.02854) (Jiaqing Zhang et al., WWW 2025) [:octocat:](https://github.com/USTC-StarTeam/TD3) [:book:](./citations/zhang2025td3.txt)
 + [2025/02/05] [Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training](https://arxiv.org/abs/2501.15108) (Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025) [:book:](./citations/cai2025llm.txt)
 + [2025/02/05] [UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation](https://openreview.net/forum?id=eLLBILFRsA) (Huimin Lu et al., ICLR 2025) [:book:](./citations/lu2025llm.txt)
-+ [2025/02/05] [Distilling Reinforcement Learning into Single-Batch Datasets](https://openreview.net/forum?id=XnX7xRoroC) (Connor Wilhelm et al., ICLR 2025) [:book:](./citations/wilhelm2025rl.txt)
-+ [2025/02/05] [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:book:](./citations/chen2025igd.txt)
 
 ## Contents
 - [Main](#main)
