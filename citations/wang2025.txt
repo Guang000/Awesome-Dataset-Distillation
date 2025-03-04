@@ -1,9 +1,0 @@
-@misc{wang2025datasetdistillationneuralcharacteristic,
-      title={Dataset Distillation with Neural Characteristic Function: A Minmax Perspective}, 
-      author={Shaobo Wang and Yicun Yang and Zhiyuan Liu and Chenghao Sun and Xuming Hu and Conghui He and Linfeng Zhang},
-      year={2025},
-      eprint={2502.20653},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.20653}, 
-}
