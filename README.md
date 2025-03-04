@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2025/03/04] [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2024mct.txt)
++ [2025/03/04] [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2025mct.txt)
 + [2025/03/04] [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
 + [2025/02/26] [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) [:book:](./citations/wang2025edf.txt)
 + [2025/02/26] [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
@@ -103,7 +103,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation by Automatic Training Trajectories](https://arxiv.org/abs/2407.14245) (Dai Liu et al., ECCV 2024) [:octocat:](https://github.com/NiaLiu/ATT) [:book:](./citations/liu2024att.txt)
 + [Neural Spectral Decomposition for Dataset Distillation](https://arxiv.org/abs/2408.16236) (Shaolei Yang et al., ECCV 2024) [:octocat:](https://github.com/slyang2021/NSD) [:book:](./citations/yang2024nsd.txt)
 + [Prioritize Alignment in Dataset Distillation](https://arxiv.org/abs/2408.03360) (Zekai Li & Ziyao Guo et al., 2024) [:octocat:](https://github.com/NUS-HPC-AI-Lab/PAD) [:book:](./citations/li2024pad.txt)
-+ [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2024mct.txt)
++ [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2025mct.txt)
 + [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) [:book:](./citations/wang2025edf.txt)
 
 <a name="feature-objective" />
