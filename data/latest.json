@@ -1,4 +1,22 @@
 {
+  "2025/03/04": [
+    {
+      "title": "Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory",
+      "author": "Wenliang Zhong et al., CVPR 2025",
+      "github": "https://github.githubassets.com/images/icons/emoji/octocat.png",
+      "url": "https://arxiv.org/abs/2406.19827",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025mct.txt",
+      "website": null
+    },
+    {
+      "title": "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective",
+      "author": "Shaobo Wang et al., CVPR 2025",
+      "github": "https://github.com/gszfwsb/NCFM",
+      "url": "https://arxiv.org/abs/2502.20653",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025ncfm.txt",
+      "website": null
+    }
+  ],
   "2025/02/26":[
     {
       "title": "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios",
@@ -68,22 +86,6 @@
       "github": null,
       "url": "https://openreview.net/forum?id=eLLBILFRsA",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
-      "website": null
-    },
-    {
-      "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
-      "author": "Connor Wilhelm et al., ICLR 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=XnX7xRoroC",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wilhelm2025rl.txt",
-      "website": null
-    },
-    {
-      "title": "Influence-Guided Diffusion for Dataset Distillation",
-      "author": "Mingyang Chen et al., ICLR 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=0whx8MhysK",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
       "website": null
     }
   ]

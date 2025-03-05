@@ -126,6 +126,14 @@
         "website": null
       },
       {
+        "title": "Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory",
+        "author": "Wenliang Zhong et al., CVPR 2025",
+        "github": "https://github.githubassets.com/images/icons/emoji/octocat.png",
+        "url": "https://arxiv.org/abs/2406.19827",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025mct.txt",
+        "website": null
+      },
+      {
         "title": "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios",
         "author": "Kai Wang & Zekai Li et al., CVPR 2025",
         "github": "https://github.com/NUS-HPC-AI-Lab/EDF",
@@ -213,6 +221,14 @@
         "github": "https://github.com/Li-Hongcheng/DSDM",
         "url": "https://dl.acm.org/doi/10.1145/3664647.3680900",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024dsdm.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective",
+        "author": "Shaobo Wang et al., CVPR 2025",
+        "github": "https://github.com/gszfwsb/NCFM",
+        "url": "https://arxiv.org/abs/2502.20653",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025ncfm.txt",
         "website": null
       }
     ],
@@ -613,6 +629,14 @@
         "github": "https://github.com/zhouzhengqd/BACON",
         "url": "https://arxiv.org/abs/2406.01112",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024bacon.txt",
+        "website": null
+      },
+      {
+        "title": "Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information",
+        "author": "Xinhao Zhong et al., ICLR 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2412.09945",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
         "website": null
       },
       {
