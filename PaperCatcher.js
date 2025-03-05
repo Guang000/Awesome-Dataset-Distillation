@@ -32,6 +32,7 @@ function initialize(data){
 
 function mainPapers(data, container, counter=null){
     let container_navi = document.getElementById('navi');
+    let debug_block = document.getElementById('debug');
 
     let n_paper = 0;
     Object.keys(data).forEach(field=>{
@@ -62,17 +63,20 @@ function mainPapers(data, container, counter=null){
                 li_comment.innerHTML = `<div><p class="essay-content">No further updates will be made regarding graph distillation topics as sufficient papers and summary projects are already available on the subject</p></div>`;
                 ul_field.appendChild(li_comment);
             }
+            let n_paper_f = 0;
             let papers = fields[section];
             papers.forEach(paper =>{
                 aPaper(paper, ul_field);
                 n_paper += 1;
+                n_paper_f += 1;
             });
+            debug_block.innerHTML += `++${n_paper_f}`;
         });
         container.appendChild(ul_field);
         container_navi.appendChild(div_navi);
     })
     if (counter){
-        counter.innerHTML = n_paper;
+        // counter.innerHTML = n_paper;
     }
 }
 

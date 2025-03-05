@@ -638,14 +638,6 @@
         "url": "https://arxiv.org/abs/2412.09945",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
         "website": null
-      },
-      {
-        "title": "Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information",
-        "author": "Xinhao Zhong et al., ICLR 2025",
-        "github": null,
-        "url": "https://arxiv.org/abs/2412.09945",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
-        "website": null
       }
     ],
     "better-understanding": [
