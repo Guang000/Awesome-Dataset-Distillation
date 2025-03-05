@@ -70,13 +70,13 @@ function mainPapers(data, container, counter=null){
                 n_paper += 1;
                 n_paper_f += 1;
             });
-            debug_block.innerHTML += `++${n_paper_f}`;
+            // debug_block.innerHTML += `++${n_paper_f}`;
         });
         container.appendChild(ul_field);
         container_navi.appendChild(div_navi);
     })
     if (counter){
-        // counter.innerHTML = n_paper;
+        counter.innerHTML = n_paper;
     }
 }
 
