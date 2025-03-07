@@ -2,5 +2,5 @@
   title={Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory},
   author={Zhong, Wenliang and Tang, Haoyu and Zheng, Qinghai and Xu, Mingzhu and Hu, Yupeng and Nie, Liqiang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2025},
+  year={2025}
 }
