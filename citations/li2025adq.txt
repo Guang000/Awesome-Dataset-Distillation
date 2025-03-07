@@ -1,0 +1,6 @@
+@inproceedings{li2025adq,
+  title={Adaptive Dataset Quantization},
+  author={Li, Muquan and Zhang, Dongyang and Dong, Qiang and Xie, Xiurui and Qin, Ke},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2024}
+}
