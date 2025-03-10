@@ -30,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/15] DD-Ranking: Rethinking the Evaluation of Dataset Distillation (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
 + [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
 + [2025/02/12] [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
-+ [2025/02/12] [TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation](https://arxiv.org/abs/2502.02854) (Jiaqing Zhang et al., WWW 2025) [:octocat:](https://github.com/USTC-StarTeam/TD3) [:book:](./citations/zhang2025td3.txt)
 
 ## Contents
 - [Main](#main)
