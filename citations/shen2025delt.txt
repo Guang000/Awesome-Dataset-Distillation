@@ -1,5 +1,5 @@
 @inproceedings{shen2025delt,
-  title={Dataset Distillers Are Good Label Denoisers In the Wild}, 
+  title={{DELT}: A Simple Diversity-driven EarlyLate Training for Dataset Distillation}, 
   author={Shen, Zhiqiang and Sherif, Ammar and Yin, Zeyuan and Shao, Shitong},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2025}
