@@ -479,7 +479,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Reinforcement Learning
 + [Behaviour Distillation](https://arxiv.org/abs/2406.15042) (Andrei Lupu et al., ICLR 2024) [:octocat:](https://github.com/flairox/behaviour-distillation) [:book:](./citations/lupu2024bd.txt)
-+ [Dataset Distillation for Offline Reinforcement Learning](https://arxiv.org/abs/2407.20299) (Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop) [:globe_with_meridians:] (https://datasetdistillation4rl.github.io/) [:octocat:](https://github.com/ggflow123/DDRL) [:book:](./citations/light2024rl.txt)
++ [Dataset Distillation for Offline Reinforcement Learning](https://arxiv.org/abs/2407.20299) (Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop) [:globe_with_meridians:](https://datasetdistillation4rl.github.io/) [:octocat:](https://github.com/ggflow123/DDRL) [:book:](./citations/light2024rl.txt)
 + [Offline Behavior Distillation](https://arxiv.org/abs/2410.22728) (Shiye Lei et al., NeurIPS 2024) [:octocat:](https://github.com/LeavesLei/OBD) [:book:](./citations/lei2024obl.txt)
 + [Distilling Reinforcement Learning into Single-Batch Datasets](https://openreview.net/forum?id=XnX7xRoroC) (Connor Wilhelm et al., ICLR 2025) [:book:](./citations/wilhelm2025rl.txt)
 
