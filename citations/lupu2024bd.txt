@@ -1,0 +1,6 @@
+@inproceedings{lupu2024bd,
+  title={Behaviour Distillation},
+  author={Lupu, Andrei and Lu, Chris and Liesen, Jarek and Lange, Robert Tjarko and Foerster, Jakob},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2024}
+}
