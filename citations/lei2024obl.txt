@@ -1,0 +1,6 @@
+@inproceedings{lei2024obl,
+  title={Offline Behavior Distillation},
+  author={Lei, Shiye and Zhang, Sen and Tao, Dacheng},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
