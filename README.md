@@ -148,7 +148,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation](https://arxiv.org/abs/2310.07506) (Haizhong Zheng et al., ECCV 2024) [:book:](./citations/zheng2024hmn.txt)
 + [FYI: Flip Your Images for Dataset Distillation](https://arxiv.org/abs/2407.08113) (Byunggwan Son et al., ECCV 2024) [:globe_with_meridians:](https://cvlab.yonsei.ac.kr/projects/FYI/) [:octocat:](https://github.com/cvlab-yonsei/FYI) [:book:](./citations/son2024fyi.txt)
 + [Color-Oriented Redundancy Reduction in Dataset Distillation](https://arxiv.org/abs/2411.11329) (Bowen Yuan et al., NeurIPS 2024) [:octocat:](https://github.com/KeViNYuAn0314/AutoPalette) [:book:](./citations/yuan2024color.txt)
-+ [Distilling Dataset into Neural Field](https://openreview.net/forum?id=nCrJD7qPJN) (Donghyeok Shin et al., ICLR 2025) [:book:](./citations/shin2025ddif.txt)
++ [Distilling Dataset into Neural Field](https://arxiv.org/abs/2503.04835) (Donghyeok Shin et al., ICLR 2025) [:octocat:](https://github.com/aailab-kaist/DDiF) [:book:](./citations/shin2025ddif.txt)
 
 <a name="generative" />
 
