@@ -2,10 +2,10 @@
   "2025/03/10": [
     {
       "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
-      "author": "Zhiqiang Shen & Ammar Sherif et al., 2024",
+      "author": "Zhiqiang Shen & Ammar Sherif et al., CVPR 2025",
       "github": "https://github.com/VILA-Lab/DELT",
       "url": "https://arxiv.org/abs/2411.19946",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2024delt.txt",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2025delt.txt",
       "website": null
     }
   ],

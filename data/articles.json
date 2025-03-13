@@ -128,7 +128,7 @@
       {
         "title": "Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory",
         "author": "Wenliang Zhong et al., CVPR 2025",
-        "github": "https://github.githubassets.com/images/icons/emoji/octocat.png",
+        "github": "https://github.com/Zhong0x29a/MCT",
         "url": "https://arxiv.org/abs/2406.19827",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025mct.txt",
         "website": null
