@@ -1,4 +1,24 @@
 {
+  "2025/03/10": [
+    {
+      "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+      "author": "Zhiqiang Shen & Ammar Sherif et al., 2024",
+      "github": "https://github.com/VILA-Lab/DELT",
+      "url": "https://arxiv.org/abs/2411.19946",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2024delt.txt",
+      "website": null
+    }
+  ],
+  "2025/03/07": [
+    {
+      "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
+      "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
+      "github": "https://github.com/ndhg1213/H-GLaD",
+      "url": "https://arxiv.org/abs/2406.05704",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025hglad.txt",
+      "website": null
+    }
+  ],
   "2025/03/04": [
     {
       "title": "Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory",
@@ -53,6 +73,16 @@
       "website": null
     }
   ],
+  "2025/02/20": [
+    {
+      "title": "Adaptive Dataset Quantization",
+      "author": "Muquan Li et al., AAAI 2025",
+      "github": "https://github.com/SLGSP/ADQ",
+      "url": "https://www.arxiv.org/abs/2412.16895",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025adq.txt",
+      "website": null
+    }
+  ],
   "2025/02/12": [
     {
       "title": "The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions",
@@ -60,32 +90,6 @@
       "github": null,
       "url": "https://arxiv.org/abs/2502.05673",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2025survey.txt",
-      "website": null
-    },
-    {
-      "title": "TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation]",
-      "author": "Jiaqing Zhang et al., WWW 2025",
-      "github": "https://github.com/USTC-StarTeam/TD3",
-      "url": "https://arxiv.org/abs/2502.02854",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025td3.txt",
-      "website": null
-    }
-  ],
-  "2025/02/05": [
-    {
-      "title": "Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training",
-      "author": "Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2501.15108",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
-      "website": null
-    },
-    {
-      "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
-      "author": "Huimin Lu et al., ICLR 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=eLLBILFRsA",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
       "website": null
     }
   ]

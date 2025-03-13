@@ -209,7 +209,7 @@ function close_sidebar() {
 
 function github_star(){
     fetch('https://api.github.com/repos/guang000/awesome-dataset-distillation')
-        .then(response => response.json())
+        .then(response => {response.json()})
         .then(data => {
             document.getElementById("starCount").innerHTML = data.stargazers_count;
         })

@@ -398,8 +398,8 @@
       {
         "title": "Distilling Dataset into Neural Field",
         "author": "Donghyeok Shin et al., ICLR 2025",
-        "github": null,
-        "url": "https://openreview.net/forum?id=nCrJD7qPJN",
+        "github": "https://github.com/aailab-kaist/DDiF",
+        "url": "https://arxiv.org/abs/2503.04835",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
         "website": null
       }
@@ -487,10 +487,10 @@
       },
       {
         "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
-        "author": "Xinhao Zhong & Hao Fang et al., 2024",
+        "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
         "github": "https://github.com/ndhg1213/H-GLaD",
         "url": "https://arxiv.org/abs/2406.05704",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2024hglad.txt",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025hglad.txt",
         "website": null
       },
       {
@@ -788,6 +788,14 @@
         "url": "https://arxiv.org/abs/2407.07268",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2024dqas.txt",
         "website": null
+      },
+      {
+        "title": "Adaptive Dataset Quantization",
+        "author": "Muquan Li et al., AAAI 2025",
+        "github": "https://github.com/SLGSP/ADQ",
+        "url": "https://www.arxiv.org/abs/2412.16895",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025adq.txt",
+        "website": null
       }
     ],
     "decouple": [
@@ -856,19 +864,19 @@
         "website": null
       },
       {
-        "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
-        "author": "Zhiqiang Shen & Ammar Sherif et al., 2024",
-        "github": "https://github.com/VILA-Lab/DELT",
-        "url": "https://arxiv.org/abs/2411.19946",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2024delt.txt",
-        "website": null
-      },
-      {
         "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
         "author": "Xin Zhang et al., ICLR 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2408.06927",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
+        "website": null
+      },
+      {
+        "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+        "author": "Zhiqiang Shen & Ammar Sherif et al., CVPR 2025",
+        "github": "https://github.com/VILA-Lab/DELT",
+        "url": "https://arxiv.org/abs/2411.19946",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2025delt.txt",
         "website": null
       },
       {
@@ -1880,12 +1888,28 @@
     ],
     "reinforcement-learning": [
       {
+        "title": "Behaviour Distillation",
+        "author": "Andrei Lupu et al., ICLR 2024",
+        "github": "https://github.com/flairox/behaviour-distillation",
+        "url": "https://arxiv.org/abs/2406.15042",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lupu2024bd.txt",
+        "website": null
+      },
+      {
         "title": "Dataset Distillation for Offline Reinforcement Learning",
         "author": "Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop",
         "github": "https://github.com/ggflow123/DDRL",
         "url": "https://arxiv.org/abs/2407.20299",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/light2024rl.txt",
         "website": "https://datasetdistillation4rl.github.io/"
+      },
+      {
+        "title": "Offline Behavior Distillation",
+        "author": "Shiye Lei et al., NeurIPS 2024",
+        "github": "https://github.com/LeavesLei/OBD",
+        "url": "https://arxiv.org/abs/2410.22728",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lei2024obl.txt",
+        "website": null
       },
       {
         "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
