@@ -1,6 +1,6 @@
-@article{zhou2024beard,
+@article{zhou2025beard,
   title={BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation}, 
   author={Zhou, Zheng and Feng, Wenquan and Lyu, Shuchang and Cheng, Guangliang and Huang, Xiaowei and Zhao, Qi},
-  journal={arXiv preprint arXiv:2411.09265},
-  year={2024}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
 }
