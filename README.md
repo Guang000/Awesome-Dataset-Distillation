@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/03/14] [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., CVPR 2025) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2025beard.txt)
 + [2025/03/10] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., CVPR 2025) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2025delt.txt)
 + [2025/03/07] [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
 + [2025/03/04] [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2025mct.txt)
@@ -29,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/20] [Adaptive Dataset Quantization](https://www.arxiv.org/abs/2412.16895) (Muquan Li et al., AAAI 2025) [:octocat:](https://github.com/SLGSP/ADQ) [:book:](./citations/li2025adq.txt)
 + [2025/02/15] DD-Ranking: Rethinking the Evaluation of Dataset Distillation (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
 + [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
-+ [2025/02/12] [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
 
 ## Contents
 - [Main](#main)
@@ -256,7 +256,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [DC-BENCH: Dataset Condensation Benchmark](https://arxiv.org/abs/2207.09639) (Justin Cui et al., NeurIPS 2022) [:globe_with_meridians:](https://dc-bench.github.io/) [:octocat:](https://github.com/justincui03/dc_benchmark) [:book:](./citations/cui2022dc.txt)
 + [A Comprehensive Study on Dataset Distillation: Performance, Privacy, Robustness and Fairness](https://arxiv.org/abs/2305.03355) (Zongxiong Chen & Jiahui Geng et al., 2023) [:book:](./citations/chen2023study.txt)
 + [DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation](https://arxiv.org/abs/2403.13322) (Yifan Wu et al., 2024) [:octocat:](https://github.com/FredWU-HUST/DD-RobustBench) [:book:](./citations/wu2024robust.txt)
-+ [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., 2024) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2024beard.txt)
++ [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., CVPR 2025) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2025beard.txt)
 
 <a name="survey" />
 
