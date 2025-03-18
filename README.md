@@ -29,7 +29,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/26] [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
 + [2025/02/20] [Adaptive Dataset Quantization](https://www.arxiv.org/abs/2412.16895) (Muquan Li et al., AAAI 2025) [:octocat:](https://github.com/SLGSP/ADQ) [:book:](./citations/li2025adq.txt)
 + [2025/02/15] DD-Ranking: Rethinking the Evaluation of Dataset Distillation (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
-+ [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
++ [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:octocat:](https://github.com/LINs-lab/GIFT) [:book:](./citations/shang2025gift.txt)
 
 ## Contents
 - [Main](#main)
@@ -209,7 +209,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?](https://arxiv.org/abs/2410.15919) (Lingao Xiao et al., NeurIPS 2024) [:octocat:](https://github.com/he-y/soft-label-pruning-for-dataset-distillation) [:book:](./citations/xiao2024soft.txt)
 + [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
 + [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., WACV 2025) [:book:](./citations/kang2024label.txt)
-+ [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:book:](./citations/shang2025gift.txt)
++ [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:octocat:](https://github.com/LINs-lab/GIFT) [:book:](./citations/shang2025gift.txt)
 
 <a name="quant" />
 
