@@ -163,7 +163,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Data-to-Model Distillation: Data-Efficient Learning Framework](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php) (Ahmad Sajedi & Samir Khaki et al., ECCV 2024) [:book:](./citations/sajedi2024data.txt)
 + [Generative Dataset Distillation Based on Diffusion Model](https://arxiv.org/abs/2408.08610) (Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) [:octocat:](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model) [:book:](./citations/su2024diffusion.txt)
 + [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., 2024) [:book:](./citations/moser2024ld3m.txt)
-+ [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:book:](./citations/chen2025igd.txt)
++ [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:octocat:](https://github.com/mchen725/DD_IGD) [:book:](./citations/chen2025igd.txt)
 + [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
 + [FocusDD: Real-World Scene Infusion for Robust Dataset Distillation](https://arxiv.org/abs/2501.06405) (Youbin Hu et al., 2025) [:book:](./citations/hu2025focusdd.txt)
 
