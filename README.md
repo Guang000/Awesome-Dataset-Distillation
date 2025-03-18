@@ -246,7 +246,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Self-Supervised Dataset Distillation for Transfer Learning](https://arxiv.org/abs/2310.06511) (Dong Bok Lee & Seanie Lee et al., ICLR 2024) [:octocat:](https://github.com/db-Lee/selfsup_dd) [:book:](./citations/lee2024self.txt)
 + [Efficiency for Free: Ideal Data Are Transportable Representations](https://arxiv.org/abs/2405.14669) (Peng Sun et al., NeurIPS 2024) [:octocat:](https://github.com/LINs-lab/ReLA) [:book:](./citations/sun2024rela.txt)
 + [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
-+ [Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks](https://arxiv.org/abs/2410.02116) (Siddharth Joshi et al., ICLR 2025) [:book:](./citations/joshi2025kd.txt)
++ [Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks](https://arxiv.org/abs/2410.02116) (Siddharth Joshi et al., ICLR 2025) [:octocat:](https://github.com/jiayini1119/MKDT) [:book:](./citations/joshi2025kd.txt)
 + [Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://openreview.net/forum?id=2RfWRKwxYh) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
 
 <a name="benchmark" />
