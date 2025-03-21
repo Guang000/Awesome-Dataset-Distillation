@@ -67,7 +67,7 @@
     {
       "title": "GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
       "author": "Xinyi Shang & Peng Sun et al., ICLR 2025",
-      "github": null,
+      "github": "https://github.com/LINs-lab/GIFT",
       "url": "https://arxiv.org/abs/2405.14736",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2025gift.txt",
       "website": null
