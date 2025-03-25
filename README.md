@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-232-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-233-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/03/25] [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
 + [2025/03/14] [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., CVPR 2025) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2025beard.txt)
 + [2025/03/10] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., CVPR 2025) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2025delt.txt)
 + [2025/03/07] [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
@@ -29,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/02/26] [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
 + [2025/02/20] [Adaptive Dataset Quantization](https://www.arxiv.org/abs/2412.16895) (Muquan Li et al., AAAI 2025) [:octocat:](https://github.com/SLGSP/ADQ) [:book:](./citations/li2025adq.txt)
 + [2025/02/15] DD-Ranking: Rethinking the Evaluation of Dataset Distillation (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
-+ [2025/02/15] [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:octocat:](https://github.com/LINs-lab/GIFT) [:book:](./citations/shang2025gift.txt)
 
 ## Contents
 - [Main](#main)
@@ -446,6 +446,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
 + [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
 + [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2024) [:octocat:](https://github.com/MCG-NJU/Video-DC) [:book:](./citations/chen2024video.txt)
++ [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
 
 <a name="domain" />
 
