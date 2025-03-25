@@ -366,7 +366,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 #### Survey
 + [A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation](https://arxiv.org/abs/2402.03358) (Mohammad Hashemi et al., IJCAI 2024) [:octocat:](https://github.com/Emory-Melody/awesome-graph-reduction) [:book:](./citations/hashemi2024awesome.txt)
-+ [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) (Xinyi Gao et al., 2024) [:octocat:](https://github.com/xygaog/graph-condensation-papers) [:book:](./citations/gao2024graph.txt)
++ [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720) (Xinyi Gao et al., TKDE 2025) [:octocat:](https://github.com/xygaog/graph-condensation-papers) [:book:](./citations/gao2025graph.txt)
 + [A Survey on Graph Condensation](https://arxiv.org/abs/2402.02000) (Hongjia Xu et al., 2024) [:octocat:](https://github.com/Frostland12138/Awesome-Graph-Condensation) [:book:](./citations/xu2024survey.txt)
 
 #### Benchmark
