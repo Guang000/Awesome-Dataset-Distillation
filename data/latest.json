@@ -1,4 +1,14 @@
 {
+  "2025/01/25": [
+    {
+      "title": "Condensing Action Segmentation Datasets via Generative Network Inversion",
+      "author": "Guodong Ding et al., CVPR 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2503.14112",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
+      "website": null
+    }
+  ],
   "2025/03/10": [
     {
       "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",

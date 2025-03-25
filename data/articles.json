@@ -1453,7 +1453,7 @@
       },
       {
         "title": "CaT: Balanced Continual Graph Learning with Graph Condensation",
-        "author": "Liu Yilun et al., ICDM 2023",
+        "author": "Yilun Liu et al., ICDM 2023",
         "github": "https://github.com/superallen13/CaT-CGL",
         "url": "https://arxiv.org/abs/2309.09455",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023cat.txt",
@@ -1510,19 +1510,19 @@
         "website": null
       },
       {
-        "title": "Graph Condensation: A Survey",
-        "author": "Xinyi Gao et al., 2024",
-        "github": "https://github.com/xygaog/graph-condensation-papers",
-        "url": "https://arxiv.org/abs/2401.11720",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gao2024graph.txt",
-        "website": null
-      },
-      {
         "title": "A Survey on Graph Condensation",
         "author": "Hongjia Xu et al., 2024",
         "github": "https://github.com/Frostland12138/Awesome-Graph-Condensation",
         "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024survey.txt",
         "cite": "https://arxiv.org/abs/2402.02000",
+        "website": null
+      },
+      {
+        "title": "Graph Condensation: A Survey",
+        "author": "Xinyi Gao et al., TKDE 2025",
+        "github": "https://github.com/xygaog/graph-condensation-papers",
+        "url": "https://arxiv.org/abs/2401.11720",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gao2025graph.txt",
         "website": null
       }
     ],
@@ -1810,6 +1810,14 @@
         "url": "https://arxiv.org/abs/2412.21197",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024video.txt",
         "website": null
+      },
+      {
+        "title": "Condensing Action Segmentation Datasets via Generative Network Inversion",
+        "author": "Guodong Ding et al., CVPR 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2503.14112",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
+        "website": null
       }
     ],
     "domain-adaptation": [
@@ -1909,14 +1917,6 @@
         "github": "https://github.com/LeavesLei/OBD",
         "url": "https://arxiv.org/abs/2410.22728",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lei2024obl.txt",
-        "website": null
-      },
-      {
-        "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
-        "author": "Connor Wilhelm et al., ICLR 2025",
-        "github": null,
-        "url": "https://openreview.net/forum?id=XnX7xRoroC",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wilhelm2025rl.txt",
         "website": null
       }
     ],
