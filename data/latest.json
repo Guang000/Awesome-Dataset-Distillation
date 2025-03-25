@@ -9,6 +9,16 @@
       "website": null
     }
   ],
+  "2025/03/14": [
+    {
+      "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
+      "author": "Zheng Zhou et al., 2024",
+      "github": "https://github.com/zhouzhengqd/BEARD/",
+      "url": "https://arxiv.org/abs/2411.09265",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024beard.txt",
+      "website": "https://beard-leaderboard.github.io/"
+    }
+  ],
   "2025/03/10": [
     {
       "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
@@ -65,24 +75,6 @@
       "website": null
     }
   ],
-  "2025/02/15": [
-    {
-      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
-      "author": "Zekai Li & Xinhao Zhong et al., 2025",
-      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
-      "url": null,
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
-      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
-    },
-    {
-      "title": "GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
-      "author": "Xinyi Shang & Peng Sun et al., ICLR 2025",
-      "github": "https://github.com/LINs-lab/GIFT",
-      "url": "https://arxiv.org/abs/2405.14736",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2025gift.txt",
-      "website": null
-    }
-  ],
   "2025/02/20": [
     {
       "title": "Adaptive Dataset Quantization",
@@ -93,14 +85,16 @@
       "website": null
     }
   ],
-  "2025/02/12": [
+  "2025/02/15": [
     {
-      "title": "The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions",
-      "author": "Ping Liu et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2502.05673",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2025survey.txt",
-      "website": null
+      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+      "author": "Zekai Li & Xinhao Zhong et al., 2025",
+      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
+      "url": null,
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
+      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
     }
   ]
+
+
 }
