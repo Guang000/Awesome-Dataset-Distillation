@@ -1,4 +1,22 @@
 {
+  "2025/03/26":[
+    {
+      "title": "Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation",
+      "author": "Yanda Chen & Gongwei Chen et al., CVPR 2025",
+      "github": "https://github.com/CYDaaa30/CCFS",
+      "url": "https://arxiv.org/abs/2503.18872",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025ccfs.txt",
+      "website": null
+    },
+    {
+      "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+      "author": "Minh-Tuan Tran et al., CVPR 2025",
+      "github": "https://github.com/tmtuan1307/NRR-DD",
+      "url": "https://arxiv.org/abs/2503.18267",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tran2025nrrdd.txt",
+      "website": null
+    }
+  ],
   "2025/01/25": [
     {
       "title": "Condensing Action Segmentation Datasets via Generative Network Inversion",
@@ -12,10 +30,10 @@
   "2025/03/14": [
     {
       "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-      "author": "Zheng Zhou et al., 2024",
+      "author": "Zheng Zhou et al., CVPR 2025",
       "github": "https://github.com/zhouzhengqd/BEARD/",
       "url": "https://arxiv.org/abs/2411.09265",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024beard.txt",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2025beard.txt",
       "website": "https://beard-leaderboard.github.io/"
     }
   ],
@@ -74,27 +92,5 @@
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025long.txt",
       "website": null
     }
-  ],
-  "2025/02/20": [
-    {
-      "title": "Adaptive Dataset Quantization",
-      "author": "Muquan Li et al., AAAI 2025",
-      "github": "https://github.com/SLGSP/ADQ",
-      "url": "https://www.arxiv.org/abs/2412.16895",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025adq.txt",
-      "website": null
-    }
-  ],
-  "2025/02/15": [
-    {
-      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
-      "author": "Zekai Li & Xinhao Zhong et al., 2025",
-      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
-      "url": null,
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
-      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
-    }
   ]
-
-
 }

@@ -638,6 +638,14 @@
         "url": "https://arxiv.org/abs/2412.09945",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
         "website": null
+      },
+      {
+        "title": "Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation",
+        "author": "Yanda Chen & Gongwei Chen et al., CVPR 2025",
+        "github": "https://github.com/CYDaaa30/CCFS",
+        "url": "https://arxiv.org/abs/2503.18872",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025ccfs.txt",
+        "website": null
       }
     ],
     "better-understanding": [
@@ -873,6 +881,14 @@
       },
       {
         "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+        "author": "Minh-Tuan Tran et al., CVPR 2025",
+        "github": "https://github.com/tmtuan1307/NRR-DD",
+        "url": "https://arxiv.org/abs/2503.18267",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tran2025nrrdd.txt",
+        "website": null
+      },
+      {
+        "title": "Enhancing Dataset Distillation via Non-Critical Region Refinement",
         "author": "Zhiqiang Shen & Ammar Sherif et al., CVPR 2025",
         "github": "https://github.com/VILA-Lab/DELT",
         "url": "https://arxiv.org/abs/2411.19946",
@@ -983,10 +999,10 @@
       },
       {
         "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-        "author": "Zheng Zhou et al., 2024",
+        "author": "Zheng Zhou et al., CVPR 2025",
         "github": "https://github.com/zhouzhengqd/BEARD/",
         "url": "https://arxiv.org/abs/2411.09265",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024beard.txt",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2025beard.txt",
         "website": "https://beard-leaderboard.github.io/"
       }
     ],
