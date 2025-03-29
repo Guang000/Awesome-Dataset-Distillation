@@ -1,0 +1,6 @@
+@article{wu2025robust,
+  title={DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation},
+  author={Wu, Yifan and Du, Jiawei and Liu, Ping and Lin, Yuewei and Cheng, Wenqing and Xu, Wei},
+  journal={IEEE Transactions on Image Processing},
+  year={2025}
+}
