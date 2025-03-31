@@ -991,10 +991,10 @@
       },
       {
         "title": "DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation",
-        "author": "Yifan Wu et al., 2024",
+        "author": "Yifan Wu et al., TIP 2025",
         "github": "https://github.com/FredWU-HUST/DD-RobustBench",
         "url": "https://arxiv.org/abs/2403.13322",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2024robust.txt",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2025robust.txt",
         "website": null
       },
       {
