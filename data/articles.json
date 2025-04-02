@@ -999,10 +999,10 @@
       },
       {
         "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-        "author": "Zheng Zhou et al., CVPR 2025",
+        "author": "Zheng Zhou et al., 2024",
         "github": "https://github.com/zhouzhengqd/BEARD/",
         "url": "https://arxiv.org/abs/2411.09265",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2025beard.txt",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024beard.txt",
         "website": "https://beard-leaderboard.github.io/"
       }
     ],
