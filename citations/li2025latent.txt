@@ -1,5 +1,6 @@
 @inproceedings{li2025latent,
   title={Latent Video Dataset Distillation},
   author={Li, Ning and Liu, Antai Andy and Zhang, Jingran and Cui, Justin},
-  booktitle={[CVPR 2025 Workshop] SyntaGen: 2nd Workshop on Harnessing Generative Models for Synthetic Visual Datasets}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
+  year={2025}
 }
