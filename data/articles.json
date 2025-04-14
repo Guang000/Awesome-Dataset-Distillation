@@ -1834,7 +1834,16 @@
         "url": "https://arxiv.org/abs/2503.14112",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
         "website": null
+      },
+      {
+        "title": "Latent Video Dataset Distillation",
+        "author": "Ning Li et al., CVPR 2025 Workshop",
+        "github": null,
+        "url": "https://openreview.net/forum?id=i665TIHv92",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025latent.txt",
+        "website": null
       }
+
     ],
     "domain-adaptation": [
       {
