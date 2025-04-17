@@ -500,14 +500,6 @@
         "url": "https://openreview.net/forum?id=0whx8MhysK",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
         "website": null
-      },
-      {
-        "title": "FocusDD: Real-World Scene Infusion for Robust Dataset Distillation",
-        "author": "Youbin Hu et al., 2025",
-        "github": null,
-        "url": "https://arxiv.org/abs/2501.06405",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2025focusdd.txt",
-        "website": null
       }
     ],
     "better-optimization": [
@@ -893,6 +885,14 @@
         "github": "https://github.com/VILA-Lab/DELT",
         "url": "https://arxiv.org/abs/2411.19946",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2025delt.txt",
+        "website": null
+      },
+      {
+        "title": "FocusDD: Real-World Scene Infusion for Robust Dataset Distillation",
+        "author": "Youbin Hu et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2501.06405",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2025focusdd.txt",
         "website": null
       },
       {
