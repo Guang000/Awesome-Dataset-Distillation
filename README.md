@@ -164,7 +164,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., 2024) [:book:](./citations/moser2024ld3m.txt)
 + [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:octocat:](https://github.com/mchen725/DD_IGD) [:book:](./citations/chen2025igd.txt)
 + [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
-+ [FocusDD: Real-World Scene Infusion for Robust Dataset Distillation](https://arxiv.org/abs/2501.06405) (Youbin Hu et al., 2025) [:book:](./citations/hu2025focusdd.txt)
 
 <a name="optimization" />
 
@@ -232,6 +231,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator](https://arxiv.org/abs/2408.06927) (Xin Zhang et al., ICLR 2025) [:octocat:](https://github.com/zhangxin-xd/UFC) [:book:](./citations/zhang2025infer.txt)
 + [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., CVPR 2025) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2025delt.txt)
 + [Enhancing Dataset Distillation via Non-Critical Region Refinement](https://arxiv.org/abs/2503.18267) (Minh-Tuan Tran et al., CVPR 2025) [:octocat:](https://github.com/tmtuan1307/NRR-DD) [:book:](./citations/tran2025nrrdd.txt)
++ [FocusDD: Real-World Scene Infusion for Robust Dataset Distillation](https://arxiv.org/abs/2501.06405) (Youbin Hu et al., 2025) [:book:](./citations/hu2025focusdd.txt)
 + [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) [:book:](./citations/cui2025cvdd.txt)
 
 <a name="multi" />
