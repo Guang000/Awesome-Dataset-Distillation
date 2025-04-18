@@ -27,16 +27,6 @@
       "website": null
     }
   ],
-  "2025/03/14": [
-    {
-      "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-      "author": "Zheng Zhou et al., CVPR 2025",
-      "github": "https://github.com/zhouzhengqd/BEARD/",
-      "url": "https://arxiv.org/abs/2411.09265",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2025beard.txt",
-      "website": "https://beard-leaderboard.github.io/"
-    }
-  ],
   "2025/03/10": [
     {
       "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
