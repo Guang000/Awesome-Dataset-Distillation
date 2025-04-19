@@ -9,11 +9,11 @@
       "website": null
     },
     {
-      "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
-      "author": "Minh-Tuan Tran et al., CVPR 2025",
-      "github": "https://github.com/tmtuan1307/NRR-DD",
-      "url": "https://arxiv.org/abs/2503.18267",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tran2025nrrdd.txt",
+      "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment",
+      "author": "Jiawei Du et al., NeurIPS 2024",
+      "github": "https://github.com/AngusDujw/Diversity-Driven-Synthesis",
+      "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2024diversity.txt",
+      "cite": "https://arxiv.org/abs/2409.17612",
       "website": null
     }
   ],
@@ -25,16 +25,6 @@
       "url": "https://arxiv.org/abs/2503.14112",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
       "website": null
-    }
-  ],
-  "2025/03/14": [
-    {
-      "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-      "author": "Zheng Zhou et al., CVPR 2025",
-      "github": "https://github.com/zhouzhengqd/BEARD/",
-      "url": "https://arxiv.org/abs/2411.09265",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2025beard.txt",
-      "website": "https://beard-leaderboard.github.io/"
     }
   ],
   "2025/03/10": [
