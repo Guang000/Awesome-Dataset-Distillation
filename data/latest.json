@@ -9,15 +9,15 @@
       "website": null
     },
     {
-      "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment",
-      "author": "Jiawei Du et al., NeurIPS 2024",
-      "github": "https://github.com/AngusDujw/Diversity-Driven-Synthesis",
-      "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2024diversity.txt",
-      "cite": "https://arxiv.org/abs/2409.17612",
+      "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+      "author": "Minh-Tuan Tran et al., CVPR 2025",
+      "github": "https://github.com/tmtuan1307/NRR-DD",
+      "url": "https://arxiv.org/abs/2503.18267",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tran2025nrrdd.txt",
       "website": null
     }
   ],
-  "2025/01/25": [
+  "2025/03/25": [
     {
       "title": "Condensing Action Segmentation Datasets via Generative Network Inversion",
       "author": "Guodong Ding et al., CVPR 2025",
