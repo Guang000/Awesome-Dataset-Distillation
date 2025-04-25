@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2025/04/25] [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) [Jae-Young Yim & Dongwook Kim et al., 2025] [:book:](./citations/yim2025point.txt)
++ [2025/04/25] [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 + [2025/03/26] [Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation](https://arxiv.org/abs/2503.18872) (Yanda Chen & Gongwei Chen et al., CVPR 2025) [:octocat:](https://github.com/CYDaaa30/CCFS) [:book:](./citations/chen2025ccfs.txt)
 + [2025/03/26] [Enhancing Dataset Distillation via Non-Critical Region Refinement](https://arxiv.org/abs/2503.18267) (Minh-Tuan Tran et al., CVPR 2025) [:octocat:](https://github.com/tmtuan1307/NRR-DD) [:book:](./citations/tran2025nrrdd.txt)
 + [2025/03/25] [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
@@ -505,8 +505,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 <a name="point" />
 
-### Object Detection
-+ [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) [Jae-Young Yim & Dongwook Kim et al., 2025] [:book:](./citations/yim2025point.txt)
+### Point Cloud
++ [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
