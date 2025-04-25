@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-235-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-236-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/04/25] [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) [Jae-Young Yim & Dongwook Kim et al., 2025] [:book:](./citations/yim2025point.txt)
 + [2025/03/26] [Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation](https://arxiv.org/abs/2503.18872) (Yanda Chen & Gongwei Chen et al., CVPR 2025) [:octocat:](https://github.com/CYDaaa30/CCFS) [:book:](./citations/chen2025ccfs.txt)
 + [2025/03/26] [Enhancing Dataset Distillation via Non-Critical Region Refinement](https://arxiv.org/abs/2503.18267) (Minh-Tuan Tran et al., CVPR 2025) [:octocat:](https://github.com/tmtuan1307/NRR-DD) [:book:](./citations/tran2025nrrdd.txt)
 + [2025/03/25] [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
@@ -76,6 +77,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Long-Tail](#long)
   - [Learning with Noisy Labels](#noisy)
   - [Object Detection](#detection)
+  - [Point Cloud](#point)
 <a name="main" />
 
 ## Main
@@ -500,6 +502,11 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Object Detection
 + [Fetch and Forge: Efficient Dataset Condensation for Object Detection](https://openreview.net/forum?id=m8MElyzuwp) (Ding Qi et al., NeurIPS 2024) [:book:](./citations/qi2024dcod.txt)
+
+<a name="point" />
+
+### Object Detection
++ [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) [Jae-Young Yim & Dongwook Kim et al., 2025] [:book:](./citations/yim2025point.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
