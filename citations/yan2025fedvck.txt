@@ -1,0 +1,6 @@
+@inproceedings{yan2025fedvck,
+  title={{FedVCK}: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis},
+  author={Yan, Guochen and Xie, Luyuan and Gao, Xinyi and Zhang, Wentao and Shen, Qingni and Fang, Yuejian and Wu, Zhonghai},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2025}
+}
