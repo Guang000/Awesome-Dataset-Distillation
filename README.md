@@ -349,6 +349,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning](https://ieeexplore.ieee.org/document/10650791) (Xingwang Wang et al., IJCNN 2024) [:book:](./citations/wang2024dcfl.txt)
 + [Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents](https://arxiv.org/abs/2312.01537) (Yuqi Jia & Saeed Vahidian et al., ECCV 2024) [:octocat:](https://github.com/FedDG23/FedDG-main) [:book:](./citations/jia2024feddg.txt)
 + [One-Shot Collaborative Data Distillation](https://arxiv.org/abs/2408.02266) (William Holland et al., ECAI 2024) [:octocat:](https://github.com/rayneholland/CollabDM) [:book:](./citations/holland2024one.txt)
++ [FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis](https://arxiv.org/abs/2412.18557) (Guochen Yan et al., AAAI 2025) [:octocat:](https://github.com/Youth-49/FedVCK_2024) [:book:](./citations/yan2025fedvck.txt)
 
 
 <a name="gnn" />
