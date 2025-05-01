@@ -432,7 +432,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation with Attention Labels for Fine-tuning BERT](https://aclanthology.org/2023.acl-short.12/) (Aru Maekawa et al., ACL 2023) [:octocat:](https://github.com/arumaekawa/dataset-distillation-with-attention-labels) [:book:](./citations/maekawa2023text.txt)
 + [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](https://arxiv.org/abs/2404.00264) (Aru Maekawa et al., NAACL 2024) [:octocat:](https://github.com/arumaekawa/DiLM) [:book:](./citations/maekawa2024dilm.txt)
 + [Textual Dataset Distillation via Language Model Embedding](https://aclanthology.org/2024.findings-emnlp.733/) (Yefan Tao et al., EMNLP 2024) [:book:](./citations/tao2024textual.txt)
-+ [UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation](https://openreview.net/forum?id=eLLBILFRsA) (Huimin Lu et al., ICLR 2025) [:octocat:](https://github.com/EminLU/UniDetox) [:book:](./citations/lu2025llm.txt)
++ [UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation](https://arxiv.org/abs/2504.20500) (Huimin Lu et al., ICLR 2025) [:octocat:](https://github.com/EminLU/UniDetox) [:book:](./citations/lu2025llm.txt)
 + [Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training](https://arxiv.org/abs/2501.15108) (Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025) [:book:](./citations/cai2025llm.txt)
 
 <a name="tabular" />
