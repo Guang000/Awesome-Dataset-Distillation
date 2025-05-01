@@ -1,4 +1,14 @@
 {
+  "2025/04/25": [
+    {
+      "title": "Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds",
+      "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2503.22154",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yim2025point.txt",
+      "website": null
+    }
+  ],
   "2025/03/26":[
     {
       "title": "Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation",

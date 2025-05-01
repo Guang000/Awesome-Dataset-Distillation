@@ -46,5 +46,6 @@
   "reinforcement-learning": "Reinforcement Learning",
   "long": "Long-Tail",
   "noisy": "Learning with Noisy Labels",
-  "object": "Object Detection"
+  "object": "Object Detection",
+  "point": "Point Cloud"
 }

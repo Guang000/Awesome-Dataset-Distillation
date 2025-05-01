@@ -1416,6 +1416,14 @@
         "url": "https://arxiv.org/abs/2408.02266",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/holland2024one.txt",
         "website": null
+      },
+      {
+        "title": "FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis",
+        "author": "Guochen Yan et al., AAAI 2025",
+        "github": "https://github.com/Youth-49/FedVCK_2024",
+        "url": "https://arxiv.org/abs/2412.18557",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yan2025fedvck.txt",
+        "website": null
       }
     ],
     "graph-neural": [
@@ -1839,7 +1847,7 @@
         "title": "Latent Video Dataset Distillation",
         "author": "Ning Li et al., CVPR 2025 Workshop",
         "github": null,
-        "url": "https://openreview.net/forum?id=i665TIHv92",
+        "url": "https://arxiv.org/abs/2412.00111",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025latent.txt",
         "website": null
       }
@@ -1972,6 +1980,16 @@
         "github": null,
         "url": "https://openreview.net/forum?id=m8MElyzuwp",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2024dcod.txt",
+        "website": null
+      }
+    ],
+    "point": [
+      {
+        "title": "Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds",
+        "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2503.22154",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yim2025point.txt",
         "website": null
       }
     ]
