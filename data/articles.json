@@ -1777,7 +1777,7 @@
         "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
         "author": "Huimin Lu et al., ICLR 2025",
         "github": "https://github.com/EminLU/UniDetox",
-        "url": "https://openreview.net/forum?id=eLLBILFRsA",
+        "url": "https://arxiv.org/abs/2504.20500",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
         "website": null
       },
