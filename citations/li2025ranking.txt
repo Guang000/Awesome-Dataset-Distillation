@@ -1,6 +1,6 @@
-@misc{li2025ranking,
+@article{li2025ranking,
   title={DD-Ranking: Rethinking the Evaluation of Dataset Distillation},
-  author={Li, Zekai and Zhong, Xinhao and Liang, Zhiyuan and Zhou, Yuhao and Shi, Mingjia and Wang, Ziqiao and Zhao, Wangbo and Zhao, Xuanlei and Wang, Haonan and Qin, Ziheng and Liu, Dai and Zhang, Kaipeng and Zhou, Tianyi and Zhu, Zheng and Wang, Kun and Li, Guang and Zhang, Junhao and Liu, Jiawei and Huang, Yiran and Lyu, Lingjuan and Lv, Jiancheng and Jin, Yaochu and Akata, Zeynep and Gu, Jindong and Vedantam, Rama and Shou, Mike and Deng, Zhiwei and Yan, Yan and Shang, Yuzhang and Cazenavette, George and Wu, Xindi and Cui, Justin and Chen, Tianlong and Yao, Angela and Kellis, Manolis and Plataniotis, Konstantinos N. and Zhao, Bo and Wang, Zhangyang and You, Yang and Wang, Kai},
-  howpublished={\url{https://github.com/NUS-HPC-AI-Lab/DD-Ranking}},
+  author={Li, Zekai and Zhong, Xinhao and Khaki, Samir and Liang, Zhiyuan and Zhou, Yuhao and Shi, Mingjia and Wang, Ziqiao and Zhao, Xuanlei and Zhao, Wangbo and Qin, Ziheng and Mengxuan Wu and Zhou, Pengfei and Wang, Haonan and Zhang, David Junhao and Liu, Jia-Wei and Wang, Shaobo and Liu, Dai and Linfeng Zhang and Li, Guang and Wang, Kun and Zhu, Zheng and Ma, Zhiheng and Zhou, Joey Tianyi and Lv, Jiancheng and Jin, Yaochu and Wang, Peihao and Zhang, Kaipeng and Lyu, Lingjuan and Huang, Yiran and Akata, Zeynep and Deng, Zhiwei and Wu, Xindi and Cazenavette, George and Shang, Yuzhang and Cui, Justin and Gu, Jindong and Zheng, Qian and Ye, Hao and Wang, Shuo and Wang, Xiaobo and Yan, Yan and Yao, Angela and Shou, Mike Zheng and Chen, Tianlong and Bilen, Hakan and Mirzasoleiman, Baharan and Kellis, Manolis and Plataniotis, Konstantinos N. and Wang, Zhangyang and Zhao, Bo and You, Yang and Wang, Kai},
+  journal={arXiv preprint arXiv:2505.13300},
   year={2025}
 }
