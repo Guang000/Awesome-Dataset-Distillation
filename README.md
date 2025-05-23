@@ -30,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/03/04] [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2025mct.txt)
 + [2025/03/04] [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
 + [2025/02/26] [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) [:book:](./citations/wang2025edf.txt)
-+ [2025/02/26] [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
 
 ## Contents
 - [Main](#main)
