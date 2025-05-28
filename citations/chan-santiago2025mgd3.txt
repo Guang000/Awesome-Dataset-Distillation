@@ -1,0 +1,6 @@
+@inproceedings{chan-santiago2025mgd3,
+  title={{MGD3}: Mode-Guided Dataset Distillation using Diffusion Models}, 
+  author={Chan-Santiago, Jeffrey A. and Tirupattur, Praveen and Nayak, Gaurav Kumar and Liu, Gaowen and Shah, Mubarak},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2025}
+}
