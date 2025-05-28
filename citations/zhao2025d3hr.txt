@@ -1,0 +1,6 @@
+@inproceedings{zhao2025d3hr,
+  title={Taming Diffusion for Dataset Distillation with High Representativeness}, 
+  author={Zhao, Lin and Wu, Yushu and Jiang, Xinru and Gu, Jianyang and Wang, Yanzhi and Xu, Xiaolin and Zhao, Pu and Lin, Xue},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2025}
+}
