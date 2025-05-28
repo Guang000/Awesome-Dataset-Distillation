@@ -1,0 +1,6 @@
+@inproceedings{nguyen2025llm,
+  title={Synthetic Text Generation for Training Large Language Models via Gradient Matching}, 
+  author={Nguyen, Dang and Li, Zeman and Bateni, Mohammadhossein and Mirrokni, Vahab and Razaviyayn, Meisam and Mirzasoleima, Baharan},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2025}
+}
