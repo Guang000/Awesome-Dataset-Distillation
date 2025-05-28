@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-237-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-240-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/05/28] [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:octocat:](https://github.com/jachansantiago/mode_guidance/) [:book:](./citations/chan-santiago2025mgd3.txt)
++ [2025/05/28] [Taming Diffusion for Dataset Distillation with High Representativeness](https://arxiv.org/abs/2505.18399) (Lin Zhao et al., ICML 2025) [:octocat:](https://github.com/lin-zhao-resoLve/D3HR) [:book:](./citations/zhao2025d3hr.txt)
++ [2025/05/28] [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:book:](./citations/nguyen2025llm.txt)
 + [2025/05/23] [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://arxiv.org/abs/2505.13300) (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
 + [2025/04/25] [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 + [2025/03/26] [Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation](https://arxiv.org/abs/2503.18872) (Yanda Chen & Gongwei Chen et al., CVPR 2025) [:octocat:](https://github.com/CYDaaa30/CCFS) [:book:](./citations/chen2025ccfs.txt)
@@ -27,9 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/03/25] [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
 + [2025/03/10] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., CVPR 2025) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2025delt.txt)
 + [2025/03/07] [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
-+ [2025/03/04] [Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory](https://arxiv.org/abs/2406.19827) (Wenliang Zhong et al., CVPR 2025) [:octocat:](https://github.com/Zhong0x29a/MCT) [:book:](./citations/zhong2025mct.txt)
-+ [2025/03/04] [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
-+ [2025/02/26] [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) [:book:](./citations/wang2025edf.txt)
 
 ## Contents
 - [Main](#main)
@@ -166,6 +166,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Latent Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., 2024) [:book:](./citations/moser2024ld3m.txt)
 + [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:octocat:](https://github.com/mchen725/DD_IGD) [:book:](./citations/chen2025igd.txt)
 + [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
++ [Taming Diffusion for Dataset Distillation with High Representativeness](https://arxiv.org/abs/2505.18399) (Lin Zhao et al., ICML 2025) [:octocat:](https://github.com/lin-zhao-resoLve/D3HR) [:book:](./citations/zhao2025d3hr.txt)
++ [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:octocat:](https://github.com/jachansantiago/mode_guidance/) [:book:](./citations/chan-santiago2025mgd3.txt)
 
 <a name="optimization" />
 
@@ -434,6 +436,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Textual Dataset Distillation via Language Model Embedding](https://aclanthology.org/2024.findings-emnlp.733/) (Yefan Tao et al., EMNLP 2024) [:book:](./citations/tao2024textual.txt)
 + [UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation](https://arxiv.org/abs/2504.20500) (Huimin Lu et al., ICLR 2025) [:octocat:](https://github.com/EminLU/UniDetox) [:book:](./citations/lu2025llm.txt)
 + [Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training](https://arxiv.org/abs/2501.15108) (Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025) [:book:](./citations/cai2025llm.txt)
++ [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:book:](./citations/nguyen2025llm.txt)
 
 <a name="tabular" />
 
