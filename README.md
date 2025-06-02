@@ -30,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/03/26] [Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation](https://arxiv.org/abs/2503.18872) (Yanda Chen & Gongwei Chen et al., CVPR 2025) [:octocat:](https://github.com/CYDaaa30/CCFS) [:book:](./citations/chen2025ccfs.txt)
 + [2025/03/26] [Enhancing Dataset Distillation via Non-Critical Region Refinement](https://arxiv.org/abs/2503.18267) (Minh-Tuan Tran et al., CVPR 2025) [:octocat:](https://github.com/tmtuan1307/NRR-DD) [:book:](./citations/tran2025nrrdd.txt)
 + [2025/03/25] [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
-+ [2025/03/10] [DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation](https://arxiv.org/abs/2411.19946) (Zhiqiang Shen & Ammar Sherif et al., CVPR 2025) [:octocat:](https://github.com/VILA-Lab/DELT) [:book:](./citations/shen2025delt.txt)
-+ [2025/03/07] [Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation](https://arxiv.org/abs/2406.05704) (Xinhao Zhong & Hao Fang et al., CVPR 2025) [:octocat:](https://github.com/ndhg1213/H-GLaD) [:book:](./citations/zhong2025hglad.txt)
 
 ## Contents
 - [Main](#main)
