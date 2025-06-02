@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-240-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-242-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/06/02] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025hdd.txt)
++ [2025/06/02] [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., 2025) [:book:](./citations/zhang2025mdd.txt)
 + [2025/05/28] [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe_with_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) [:book:](./citations/chan-santiago2025mgd3.txt)
 + [2025/05/28] [Taming Diffusion for Dataset Distillation with High Representativeness](https://arxiv.org/abs/2505.18399) (Lin Zhao et al., ICML 2025) [:octocat:](https://github.com/lin-zhao-resoLve/D3HR) [:book:](./citations/zhao2025d3hr.txt)
 + [2025/05/28] [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:book:](./citations/nguyen2025llm.txt)
@@ -121,6 +123,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063) (Hansong Zhang et al., IJCAI 2024) [:octocat:](https://github.com/Hansong-Zhang/DANCE) [:book:](./citations/zhang2024dance.txt)
 + [Diversified Semantic Distribution Matching for Dataset Distillation](https://dl.acm.org/doi/10.1145/3664647.3680900) (Hongcheng Li et al., MM 2024) [:octocat:](https://github.com/Li-Hongcheng/DSDM) [:book:](./citations/li2024dsdm.txt)
 + [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
++ [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025hdd.txt)
  
 <a name="kernel" />
 
@@ -244,6 +247,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [:globe_with_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) [:book:](./citations/wu2024multi.txt)
 + [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) [:book:](./citations/xu2024lors.txt)
 + [Audio-Visual Dataset Distillation](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [:octocat:](https://github.com/sakshamsingh1/AVDD) [:book:](./citations/kush2024avdd.txt)
++ [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., 2025) [:book:](./citations/zhang2025mdd.txt)
 
 <a name="self" />
 
