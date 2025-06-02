@@ -1,0 +1,6 @@
+@article{zhang2025mdd,
+  title={Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation},
+  author={Zhang, Xin and Zhang, Ziruo and Du, Jiawei and Liu, Zuozhu and Zhou, Joey Tianyi},
+  journal={arXiv preprint arXiv:2505.14705},
+  year={2025}
+}
