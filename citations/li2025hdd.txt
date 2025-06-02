@@ -1,0 +1,6 @@
+@article{zhang2025mdd,
+  title={Hyperbolic Dataset Distillation},
+  author={Li, Wenyuan and Li, Guang and Maeda, Keisuke and Ogawa, Takahiro and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2505.24623},
+  year={2025}
+}
