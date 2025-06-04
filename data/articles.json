@@ -230,6 +230,14 @@
         "url": "https://arxiv.org/abs/2502.20653",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025ncfm.txt",
         "website": null
+      },
+      {
+        "title": "Hyperbolic Dataset Distillation",
+        "author": "Wenyuan Li & Guang Li et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2505.24623",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt",
+        "website": null
       }
     ],
     "kernel": [
@@ -486,6 +494,14 @@
         "website": null
       },
       {
+        "title": "Influence-Guided Diffusion for Dataset Distillation",
+        "author": "Mingyang Chen et al., ICLR 2025",
+        "github": "https://github.com/mchen725/DD_IGD",
+        "url": "https://openreview.net/forum?id=0whx8MhysK",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
+        "website": null
+      },
+      {
         "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
         "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
         "github": "https://github.com/ndhg1213/H-GLaD",
@@ -494,11 +510,19 @@
         "website": null
       },
       {
-        "title": "Influence-Guided Diffusion for Dataset Distillation",
-        "author": "Mingyang Chen et al., ICLR 2025",
-        "github": "https://github.com/mchen725/DD_IGD",
-        "url": "https://openreview.net/forum?id=0whx8MhysK",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
+        "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
+        "author": "Lin Zhao et al., ICML 2025",
+        "github": "https://github.com/lin-zhao-resoLve/D3HR",
+        "url": "https://arxiv.org/abs/2505.18399",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025d3hr.txt",
+        "website": null
+      },
+      {
+        "title": "MGD3: Mode-Guided Dataset Distillation using Diffusion Models",
+        "author": "Jeffrey A. Chan-Santiago et al., ICML 2025",
+        "github": "https://github.com/jachansantiago/mode_guidance/",
+        "url": "https://arxiv.org/abs/2505.18963",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
         "website": null
       }
     ],
@@ -928,6 +952,14 @@
         "url": "https://openreview.net/forum?id=IJlbuSrXmk",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kush2024avdd.txt",
         "website": null
+      },
+      {
+        "title": "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation",
+        "author": "Xin Zhang et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2505.14705",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025mdd.txt",
+        "website": null
       }
     ],
     "self": [
@@ -1083,7 +1115,7 @@
         "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
         "author": "Zekai Li & Xinhao Zhong et al., 2025",
         "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
-        "url": null,
+        "url": "https://arxiv.org/abs/2505.13300",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
         "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
       }
@@ -1396,7 +1428,7 @@
       {
         "title": "DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning",
         "author": "Xingwang Wang et al., IJCNN 2024",
-        "github": null,
+        "github": "https://github.com/JLUssh/DCFL",
         "url": "https://ieeexplore.ieee.org/document/10650791",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024dcfl.txt",
         "website": null
@@ -1787,6 +1819,14 @@
         "github": null,
         "url": "https://arxiv.org/abs/2501.15108",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
+        "website": null
+      },
+      {
+        "title": "Synthetic Text Generation for Training Large Language Models via Gradient Matching",
+        "author": "Dang Nguyen & Zeman Li et al., ICML 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2502.17607",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2025llm.txt",
         "website": null
       }
     ],

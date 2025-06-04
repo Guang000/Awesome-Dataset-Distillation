@@ -1,4 +1,58 @@
 {
+  "2025/06/02":[
+    {
+      "title": "Hyperbolic Dataset Distillation",
+      "author": "Wenyuan Li & Guang Li et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2505.24623",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt",
+      "website": null
+    },
+    {
+      "title": "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation",
+      "author": "Xin Zhang et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2505.14705",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025mdd.txt",
+      "website": null
+    }
+  ],
+  "2025/05/28":[
+    {
+      "title": "MGD3: Mode-Guided Dataset Distillation using Diffusion Models",
+      "author": "Jeffrey A. Chan-Santiago et al., ICML 2025",
+      "github": "https://github.com/jachansantiago/mode_guidance/",
+      "url": "https://arxiv.org/abs/2505.18963",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
+      "website": null
+    },
+    {
+      "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
+      "author": "Lin Zhao et al., ICML 2025",
+      "github": "https://github.com/lin-zhao-resoLve/D3HR",
+      "url": "https://arxiv.org/abs/2505.18399",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025d3hr.txt",
+      "website": null
+    },
+    {
+      "title": "Synthetic Text Generation for Training Large Language Models via Gradient Matching",
+      "author": "Dang Nguyen & Zeman Li et al., ICML 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2502.17607",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2025llm.txt",
+      "website": null
+    }
+  ],
+  "2025/05/23":[
+    {
+      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+      "author": "Zekai Li & Xinhao Zhong et al., 2025",
+      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
+      "url": "https://arxiv.org/abs/2505.13300",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
+      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
+    }
+  ],
   "2025/04/25": [
     {
       "title": "Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds",
@@ -34,62 +88,6 @@
       "github": null,
       "url": "https://arxiv.org/abs/2503.14112",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
-      "website": null
-    }
-  ],
-  "2025/03/10": [
-    {
-      "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
-      "author": "Zhiqiang Shen & Ammar Sherif et al., CVPR 2025",
-      "github": "https://github.com/VILA-Lab/DELT",
-      "url": "https://arxiv.org/abs/2411.19946",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2025delt.txt",
-      "website": null
-    }
-  ],
-  "2025/03/07": [
-    {
-      "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
-      "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
-      "github": "https://github.com/ndhg1213/H-GLaD",
-      "url": "https://arxiv.org/abs/2406.05704",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025hglad.txt",
-      "website": null
-    }
-  ],
-  "2025/03/04": [
-    {
-      "title": "Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory",
-      "author": "Wenliang Zhong et al., CVPR 2025",
-      "github": "https://github.githubassets.com/images/icons/emoji/octocat.png",
-      "url": "https://arxiv.org/abs/2406.19827",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025mct.txt",
-      "website": null
-    },
-    {
-      "title": "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective",
-      "author": "Shaobo Wang et al., CVPR 2025",
-      "github": "https://github.com/gszfwsb/NCFM",
-      "url": "https://arxiv.org/abs/2502.20653",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025ncfm.txt",
-      "website": null
-    }
-  ],
-  "2025/02/26":[
-    {
-      "title": "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios",
-      "author": "Kai Wang & Zekai Li et al., CVPR 2025",
-      "github": "https://github.com/NUS-HPC-AI-Lab/EDF",
-      "url": "https://arxiv.org/abs/2410.17193",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025edf.txt",
-      "website": null
-    },
-    {
-      "title": "Distilling Long-tailed Datasets",
-      "author": "Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025",
-      "github": "https://github.com/ichbill/LTDD",
-      "url": "https://arxiv.org/abs/2408.14506",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025long.txt",
       "website": null
     }
   ]
