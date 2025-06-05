@@ -1,0 +1,6 @@
+@article{khatib2025od3,
+  title={{OD3}: Optimization-free Dataset Distillation for Object Detection},
+  author={Khatib, Salwa K. Al and ElHagry, Ahmed and Shao, Shitong and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2506.01942},
+  year={2025}
+}
