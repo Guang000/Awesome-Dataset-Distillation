@@ -1,0 +1,6 @@
+@inproceedings{cui2025optical,
+  title={{OPTICAL}: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation},
+  author={Cui, Xiao and Qin, Yulei and Zhou, Wengang and Li, Hongsheng and Li, Houqiang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
+}
