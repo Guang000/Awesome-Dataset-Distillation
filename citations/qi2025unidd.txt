@@ -1,0 +1,6 @@
+@inproceedings{qi2025unidd,
+  title={Towards Universal Dataset Distillation via Task-Driven Diffusion},
+  author={Qi, Ding and Li, Jian and Gao, Junyao and Dou, Shuguang and Tai, Ying and Hu, Jianlong and Zhao, Bo and Wang, Yabiao and Wang, Chengjie and Zhao, Cairong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
+}
