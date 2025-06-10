@@ -1,5 +1,5 @@
 @article{yim2025point,
-  title={Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds},
+  title={Dataset Distillation of 3D Point Clouds via Distribution Matching},
   author={Yim, Jae-Young and Kim, Dongwook and Sim, Jae-Young},
   journal={arXiv preprint arXiv:2503.22154},
   year={2025}
