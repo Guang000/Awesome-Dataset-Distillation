@@ -521,7 +521,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="point" />
 
 ### Point Cloud
-+ [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
++ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
