@@ -1,4 +1,22 @@
 {
+  "2025/06/05": [
+    {
+      "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
+      "author": "Ding Qi et al., CVPR 2025",
+      "github": null,
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2025unidd.txt",
+      "website": null
+    }
+    ,{
+      "title": "OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation",
+      "author": "Xiao Cui et al., CVPR 2025",
+      "github": null,
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025optical.txt",
+      "website": null
+    }
+  ],
   "2025/06/02":[
     {
       "title": "Hyperbolic Dataset Distillation",
@@ -24,7 +42,7 @@
       "github": "https://github.com/jachansantiago/mode_guidance/",
       "url": "https://arxiv.org/abs/2505.18963",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
-      "website": null
+      "website": "https://jachansantiago.com/mode-guided-distillation/"
     },
     {
       "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
@@ -60,34 +78,6 @@
       "github": null,
       "url": "https://arxiv.org/abs/2503.22154",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yim2025point.txt",
-      "website": null
-    }
-  ],
-  "2025/03/26":[
-    {
-      "title": "Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation",
-      "author": "Yanda Chen & Gongwei Chen et al., CVPR 2025",
-      "github": "https://github.com/CYDaaa30/CCFS",
-      "url": "https://arxiv.org/abs/2503.18872",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025ccfs.txt",
-      "website": null
-    },
-    {
-      "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
-      "author": "Minh-Tuan Tran et al., CVPR 2025",
-      "github": "https://github.com/tmtuan1307/NRR-DD",
-      "url": "https://arxiv.org/abs/2503.18267",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tran2025nrrdd.txt",
-      "website": null
-    }
-  ],
-  "2025/03/25": [
-    {
-      "title": "Condensing Action Segmentation Datasets via Generative Network Inversion",
-      "author": "Guodong Ding et al., CVPR 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2503.14112",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
       "website": null
     }
   ]

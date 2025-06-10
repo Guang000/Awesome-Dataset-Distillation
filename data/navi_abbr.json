@@ -15,6 +15,7 @@
   "multimodal": "Multimodal Distillation",
   "self": "Self-Supervised Distillation",
   "benchmark": "Benchmark",
+  "uni": "Universal Distillation",
   "survey": "Survey",
   "phd": "Ph.D. Thesis",
   "workshop": "Workshop",

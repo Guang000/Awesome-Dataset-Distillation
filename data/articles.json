@@ -232,6 +232,14 @@
         "website": null
       },
       {
+        "title": "OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation",
+        "author": "Xiao Cui et al., CVPR 2025",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025optical.txt",
+        "website": null
+      },
+      {
         "title": "Hyperbolic Dataset Distillation",
         "author": "Wenyuan Li & Guang Li et al., 2025",
         "github": null,
@@ -523,7 +531,7 @@
         "github": "https://github.com/jachansantiago/mode_guidance/",
         "url": "https://arxiv.org/abs/2505.18963",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
-        "website": null
+        "website": "https://jachansantiago.com/mode-guided-distillation/"
       }
     ],
     "better-optimization": [
@@ -1001,6 +1009,16 @@
         "github": null,
         "url": "https://openreview.net/forum?id=2RfWRKwxYh",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
+        "website": null
+      }
+    ],
+    "uni": [
+      {
+        "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
+        "author": "Ding Qi et al., CVPR 2025",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2025unidd.txt",
         "website": null
       }
     ],
@@ -2020,6 +2038,14 @@
         "github": null,
         "url": "https://openreview.net/forum?id=m8MElyzuwp",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2024dcod.txt",
+        "website": null
+      },
+      {
+        "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
+        "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025",
+        "github": "https://github.com/VILA-Lab/OD3",
+        "url": "https://arxiv.org/abs/2506.01942",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/khatib2025od3.txt",
         "website": null
       }
     ],
