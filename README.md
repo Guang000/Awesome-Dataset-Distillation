@@ -465,7 +465,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
 + [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2024) [:octocat:](https://github.com/MCG-NJU/Video-DC) [:book:](./citations/chen2024video.txt)
 + [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
-+ [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:book:](./citations/li2025latent.txt)
++ [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:octocat:](https://github.com/liningresearch/Latent_Video_Dataset_Distillation) [:book:](./citations/li2025latent.txt)
 
 <a name="domain" />
 
