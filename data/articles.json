@@ -1904,8 +1904,8 @@
       {
         "title": "Latent Video Dataset Distillation",
         "author": "Ning Li et al., CVPR 2025 Workshop",
-        "github": null,
-        "url": "https://arxiv.org/abs/2412.00111",
+        "github": "https://github.com/liningresearch/Latent_Video_Dataset_Distillation",
+        "url": "https://arxiv.org/abs/2504.17132",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025latent.txt",
         "website": null
       }
@@ -2051,7 +2051,7 @@
     ],
     "point": [
       {
-        "title": "Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds",
+        "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
         "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2503.22154",
