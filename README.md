@@ -66,9 +66,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Robustness](#robustness)
   - [Fairness](#fairness)
   - [Text](#text)
+  - [Video](#video)
   - [Tabular](#tabular)
   - [Retrieval](#retrieval)
-  - [Video](#video)
   - [Domain Adaptation](#domain)
   - [Super Resolution](#super)
   - [Time Series](#time)
@@ -448,6 +448,15 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training](https://arxiv.org/abs/2501.15108) (Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025) [:book:](./citations/cai2025llm.txt)
 + [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:book:](./citations/nguyen2025llm.txt)
 
+<a name="video" />
+
+### Video
++ [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
++ [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
++ [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2024) [:octocat:](https://github.com/MCG-NJU/Video-DC) [:book:](./citations/chen2024video.txt)
++ [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
++ [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:octocat:](https://github.com/liningresearch/Latent_Video_Dataset_Distillation) [:book:](./citations/li2025latent.txt)
+
 <a name="tabular" />
 
 ### Tabular
@@ -457,15 +466,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Retrieval
 + [Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching](https://arxiv.org/abs/2305.18076) (Tao Feng & Jie Zhang et al., 2023) [:book:](./citations/feng2023hash.txt)
-
-<a name="video" />
-
-### Video
-+ [Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement](https://arxiv.org/abs/2312.00362) (Ziyu Wang & Yue Xu et al., CVPR 2024) [:octocat:](https://github.com/yuz1wan/video_distillation) [:book:](./citations/wang2023dancing.txt)
-+ [Video Set Distillation: Information Diversification and Temporal Densifica](https://arxiv.org/abs/2412.00111) (Yinjie Zhao et al., 2024) [:book:](./citations/zhao2024video.txt)
-+ [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2024) [:octocat:](https://github.com/MCG-NJU/Video-DC) [:book:](./citations/chen2024video.txt)
-+ [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
-+ [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:octocat:](https://github.com/liningresearch/Latent_Video_Dataset_Distillation) [:book:](./citations/li2025latent.txt)
 
 <a name="domain" />
 
