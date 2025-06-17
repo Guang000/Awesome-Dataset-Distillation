@@ -1848,26 +1848,6 @@
         "website": null
       }
     ],
-    "tabular": [
-      {
-        "title": "New Properties of the Data Distillation Method When Working With Tabular Data",
-        "author": "Dmitry Medvedev et al., AIST 2020",
-        "github": "https://github.com/dm-medvedev/dataset-distillation",
-        "url": "https://arxiv.org/abs/2010.09839",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/medvedev2020tabular.txt",
-        "website": null
-      }
-    ],
-    "retrieval": [
-      {
-        "title": "Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching",
-        "author": "Tao Feng & Jie Zhang et al., 2023",
-        "github": null,
-        "url": "https://arxiv.org/abs/2305.18076",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023hash.txt",
-        "website": null
-      }
-    ],
     "video-application": [
       {
         "title": "Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement",
@@ -1909,7 +1889,26 @@
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025latent.txt",
         "website": null
       }
-
+    ],
+    "tabular": [
+      {
+        "title": "New Properties of the Data Distillation Method When Working With Tabular Data",
+        "author": "Dmitry Medvedev et al., AIST 2020",
+        "github": "https://github.com/dm-medvedev/dataset-distillation",
+        "url": "https://arxiv.org/abs/2010.09839",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/medvedev2020tabular.txt",
+        "website": null
+      }
+    ],
+    "retrieval": [
+      {
+        "title": "Towards Efficient Deep Hashing Retrieval: Condensing Your Data via Feature-Embedding Matching",
+        "author": "Tao Feng & Jie Zhang et al., 2023",
+        "github": null,
+        "url": "https://arxiv.org/abs/2305.18076",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023hash.txt",
+        "website": null
+      }
     ],
     "domain-adaptation": [
       {

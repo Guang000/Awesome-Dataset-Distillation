@@ -1,8 +1,8 @@
+// navi_abbr
 let dic = null
 
 function initialize(data){
     dic = data
-
 
     let container_navi = document.getElementById('navi');
     fetch('data/navi_abbr.json')
@@ -30,6 +30,8 @@ function initialize(data){
         .catch(error => console.error('Error in acknowledgements:', error));
 }
 
+// data为articles
+// 出现的顺序由articles中内容决定。navi_abbr单纯作为一个字典存在
 function mainPapers(data, container, counter=null){
     let container_navi = document.getElementById('navi');
     let debug_block = document.getElementById('debug');
@@ -41,11 +43,14 @@ function mainPapers(data, container, counter=null){
 
         let div_navi = document.createElement('div');
         div_navi.setAttribute('class', 'list-section primary-container');
+        // 导航栏的定位
         div_navi.innerHTML += `<div class="navigation-item"><a onclick="close_sidebar()" href="#${field}" class="title-large on-primary-container-text">${dic[field]}</a></div>`;
 
         let fields = data[field];
         Object.keys(fields).forEach(section=>{
             let li_section = document.createElement('li');
+            // 创建field的容器
+            // 带_的是小标题
             if (section.includes("_")){
                 if(dic[section]){
                     li_section.innerHTML = `<h5 class="section-subtitle title-large on-background-text" id=${section}>${dic[section]}</h5>`;
@@ -57,12 +62,16 @@ function mainPapers(data, container, counter=null){
                 }
             }
             ul_field.appendChild(li_section)
+
+            // 特殊field
             if (section === "graph-neural"){
                 let li_comment =  document.createElement('li');
                 li_comment.setAttribute('class', "essay-container title-large error-container on-error-container-text");
                 li_comment.innerHTML = `<div><p class="essay-content">No further updates will be made regarding graph distillation topics as sufficient papers and summary projects are already available on the subject</p></div>`;
                 ul_field.appendChild(li_comment);
             }
+
+            // 论文填充
             let n_paper_f = 0;
             let papers = fields[section];
             papers.forEach(paper =>{
