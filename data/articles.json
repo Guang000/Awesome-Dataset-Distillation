@@ -1758,7 +1758,7 @@
       {
         "title": "Towards Adversarially Robust Dataset Distillation by Curvature Regularization",
         "author": "Eric Xue et al., AAAI 2025",
-        "github": null,
+        "github": "https://github.com/yumozi/GUARD",
         "url": "https://arxiv.org/abs/2403.10045",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xue2025robust.txt",
         "website": null
