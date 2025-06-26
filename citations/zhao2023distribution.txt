@@ -2,6 +2,6 @@
   title={Dataset Condensation with Distribution Matching},
   author={Zhao, Bo and Bilen, Hakan},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  pages={6514--6523}
+  pages={6514--6523},
   year={2023}
 }
