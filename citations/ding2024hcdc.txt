@@ -1,5 +1,5 @@
 @article{ding2024hcdc,
-  title={Calibrated Dataset Condensation for Faster Hyperparameter Search, 
+  title={Calibrated Dataset Condensation for Faster Hyperparameter Search}, 
   author={Ding, Mucong and Xu, Yuancheng and Rabbani, Tahseen and Liu, Xiaoyu and Gravelle, Brian and Ranadive, Teresa and Tuan, Tai-Ching and Huang, Furong},
   journal={arXiv preprint arXiv:2405.17535},
   year={2024}
