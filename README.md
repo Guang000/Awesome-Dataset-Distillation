@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-245-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-246-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/06/27] [Point Cloud Dataset Distillation](https://openreview.net/forum?id=QeYnKwFhsU) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
 + [2025/06/05] [OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942) (Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025) [:octocat:](https://github.com/VILA-Lab/OD3) [:book:](./citations/khatib2025od3.txt)
 + [2025/06/05] [Towards Universal Dataset Distillation via Task-Driven Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html) (Ding Qi et al., CVPR 2025) [:book:](./citations/qi2025unidd.txt)
 + [2025/06/05] [OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html) (Xiao Cui et al., CVPR 2025) [:book:](./citations/cui2025optical.txt)
@@ -525,6 +526,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="point" />
 
 ### Point Cloud
++ [Point Cloud Dataset Distillation](https://openreview.net/forum?id=QeYnKwFhsU) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
 + [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 
 ## Media Coverage
