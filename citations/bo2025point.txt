@@ -1,0 +1,6 @@
+@inproceedings{bo2025point,
+  title={Point Cloud Dataset Distillation},
+  author={Bo, Deyu and Wang, Xinchao},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2025}
+}
