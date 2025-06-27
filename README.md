@@ -30,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/05/28] [Taming Diffusion for Dataset Distillation with High Representativeness](https://arxiv.org/abs/2505.18399) (Lin Zhao et al., ICML 2025) [:octocat:](https://github.com/lin-zhao-resoLve/D3HR) [:book:](./citations/zhao2025d3hr.txt)
 + [2025/05/28] [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:book:](./citations/nguyen2025llm.txt)
 + [2025/05/23] [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://arxiv.org/abs/2505.13300) (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
-+ [2025/04/25] [Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 
 ## Contents
 - [Main](#main)
