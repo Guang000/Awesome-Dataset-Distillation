@@ -1,0 +1,6 @@
+@inproceedings{zou2025vlcp,
+  title={Dataset Distillation via Vision-Language Category Prototype},
+  author={Zou, Yawen and Li, Guang and Su, Duo and Wang, Zi and Yu, Jun and Zhang, Chao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
