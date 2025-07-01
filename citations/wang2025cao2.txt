@@ -1,0 +1,6 @@
+@inproceedings{wang2025cao2,
+  title={{CaO2}: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation},
+  author={Wang, Haoxuan and Zhao, Zhenghao and Wu, Junyi and Shang, Yuzhang and Liu, Gaowen and Yan, Yan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
