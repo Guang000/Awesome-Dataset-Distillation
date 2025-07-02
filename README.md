@@ -22,7 +22,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ## Latest Updates
 + [2025/07/01] [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou et al., ICCV 2025) [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) [:book:](./citations/zou2025vlcp.txt)
 + [2025/07/01] [CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2506.22637) (Haoxuan Wang et al., ICCV 2025) [:octocat:](https://github.com/hatchetProject/CaO2) [:book:](./citations/wang2025cao2.txt)
-+ [2025/06/27] [Point Cloud Dataset Distillation](https://openreview.net/forum?id=QeYnKwFhsU) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
++ [2025/06/27] [Point Cloud Dataset Distillation](https://openreview.net/forum?id=Us8v5tDOFd) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
 + [2025/06/05] [OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942) (Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025) [:octocat:](https://github.com/VILA-Lab/OD3) [:book:](./citations/khatib2025od3.txt)
 + [2025/06/05] [Towards Universal Dataset Distillation via Task-Driven Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html) (Ding Qi et al., CVPR 2025) [:book:](./citations/qi2025unidd.txt)
 + [2025/06/05] [OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html) (Xiao Cui et al., CVPR 2025) [:book:](./citations/cui2025optical.txt)
@@ -528,7 +528,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Point Cloud
 + [Point Cloud Dataset Distillation](https://openreview.net/forum?id=QeYnKwFhsU) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
-+ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
++ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://openreview.net/forum?id=Us8v5tDOFd) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
