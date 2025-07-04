@@ -1,5 +1,7 @@
 // navi_abbr
 let dic = null
+let cite_root = "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/"
+let cite_suffix = ".txt"
 
 function initialize(data){
     dic = data
@@ -141,8 +143,9 @@ function aPaper(paper, container){
     }else {
         n_space += 1;
     }
+    // 大概是这个样子
     if (paper['cite']){
-        btn_html += `<a href=${paper.cite}>
+        btn_html += `<a href=${cite_root}${paper.cite}${cite_suffix}>
                             <span class="essay-button surface">
                             <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px">
                             <path d="M0 0h24v24H0V0z" fill="none"/><path d="M18.62 18h-5.24l2-4H13V6h8v7.24L18.62 18zm-2-2h.76L19 12.76V8h-4v4h3.62l-2 4zm-8 2H3.38l2-4H3V6h8v7.24L8.62 18zm-2-2h.76L9 12.76V8H5v4h3.62l-2 4z"/>

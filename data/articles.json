@@ -6,7 +6,7 @@
         "author": "Tongzhou Wang et al., 2018",
         "github": "https://github.com/SsnL/dataset-distillation",
         "url": "https://arxiv.org/abs/1811.10959",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2018datasetdistillation.txt",
+        "cite": "wang2018datasetdistillation",
         "website": "https://ssnl.github.io/dataset_distillation/"
       }
     ],
@@ -16,7 +16,7 @@
         "author": "Dougal Maclaurin et al., ICML 2015",
         "github": "https://github.com/HIPS/hypergrad",
         "url": "https://arxiv.org/abs/1502.03492",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maclaurin2015gradient.txt",
+        "cite": "maclaurin2015gradient",
         "website": null
       }
     ],
@@ -26,7 +26,7 @@
         "author": "Bo Zhao et al., ICLR 2021",
         "github": "https://github.com/VICO-UoE/DatasetCondensation",
         "url": "https://arxiv.org/abs/2006.05929",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2021datasetcondensation.txt",
+        "cite": "zhao2021datasetcondensation",
         "website": null
       },
       {
@@ -34,7 +34,7 @@
         "author": "Bo Zhao et al., ICML 2021",
         "github": "https://github.com/VICO-UoE/DatasetCondensation",
         "url": "https://arxiv.org/abs/2102.08259",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2021differentiatble.txt",
+        "cite": "zhao2021differentiatble",
         "website": null
       },
       {
@@ -42,7 +42,7 @@
         "author": "George Cazenavette et al., CVPR 2022",
         "github": "https://github.com/georgecazenavette/mtt-distillation",
         "url": "https://arxiv.org/abs/2203.11932",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cazenavette2022dataset.txt",
+        "cite": "cazenavette2022dataset",
         "website": "https://georgecazenavette.github.io/mtt-distillation/"
       },
       {
@@ -50,7 +50,7 @@
         "author": "Saehyung Lee et al., ICML 2022",
         "github": "https://github.com/saehyung-lee/dcc",
         "url": "https://arxiv.org/abs/2202.02916",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2022dataset.txt",
+        "cite": "lee2022dataset",
         "website": null
       },
       {
@@ -58,7 +58,7 @@
         "author": "Seungjae Shin & Heesun Bae et al., AISTATS 2023",
         "github": "https://github.com/SJShin-AI/LCMat",
         "url": "https://arxiv.org/abs/2303.04449",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2023lcmat.txt",
+        "cite": "shin2023lcmat",
         "website": null
       },
       {
@@ -66,7 +66,7 @@
         "author": "Jiawei Du & Yidi Jiang et al., CVPR 2023",
         "github": "https://github.com/AngusDujw/FTD-distillation",
         "url": "https://arxiv.org/abs/2211.11004",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2023minimizing.txt",
+        "cite": "du2023minimizing",
         "website": null
       },
       {
@@ -74,7 +74,7 @@
         "author": "Justin Cui et al., ICML 2023",
         "github": "https://github.com/justincui03/tesla",
         "url": "https://arxiv.org/abs/2211.10586",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2022scaling.txt",
+        "cite": "cui2022scaling",
         "website": null
       },
       {
@@ -82,7 +82,7 @@
         "author": "Jiawei Du et al., NeurIPS 2023",
         "github": "https://github.com/shqii1j/seqmatch",
         "url": "https://arxiv.org/abs/2311.01570",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2023seqmatch.txt",
+        "cite": "du2023seqmatch",
         "website": null
       },
       {
@@ -90,7 +90,7 @@
         "author": "Ziyao Guo & Kai Wang et al., ICLR 2024",
         "github": "https://github.com/GzyAftermath/DATM",
         "url": "https://arxiv.org/abs/2310.05773",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/guo2024datm.txt",
+        "cite": "guo2024datm",
         "website": "https://gzyaftermath.github.io/DATM/"
       },
       {
@@ -98,7 +98,7 @@
         "author": "Yongmin Lee et al., ICML 2024",
         "github": "https://github.com/Yongalls/SelMatch",
         "url": "https://arxiv.org/abs/2406.18561",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2024selmatch.txt",
+        "cite": "lee2024selmatch",
         "website": null
       },
       {
@@ -106,7 +106,7 @@
         "author": "Dai Liu et al., ECCV 2024",
         "github": "https://github.com/NiaLiu/ATT",
         "url": "https://arxiv.org/abs/2407.14245",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024att.txt",
+        "cite": "liu2024att",
         "website": null
       },
       {
@@ -114,7 +114,7 @@
         "author": "Shaolei Yang et al., ECCV 2024",
         "github": "https://github.com/slyang2021/NSD",
         "url": "https://arxiv.org/abs/2408.16236",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2024nsd.txt",
+        "cite": "yang2024nsd",
         "website": null
       },
       {
@@ -122,7 +122,7 @@
         "author": "Zekai Li & Ziyao Guo et al., 2024",
         "github": "https://github.com/NUS-HPC-AI-Lab/PAD",
         "url": "https://arxiv.org/abs/2408.03360",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024pad.txt",
+        "cite": "li2024pad",
         "website": null
       },
       {
@@ -130,7 +130,7 @@
         "author": "Wenliang Zhong et al., CVPR 2025",
         "github": "https://github.com/Zhong0x29a/MCT",
         "url": "https://arxiv.org/abs/2406.19827",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025mct.txt",
+        "cite": "zhong2025mct",
         "website": null
       },
       {
@@ -138,7 +138,7 @@
         "author": "Kai Wang & Zekai Li et al., CVPR 2025",
         "github": "https://github.com/NUS-HPC-AI-Lab/EDF",
         "url": "https://arxiv.org/abs/2410.17193",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025edf.txt",
+        "cite": "wang2025edf",
         "website": null
       }
     ],
@@ -148,7 +148,7 @@
         "author": "Kai Wang & Bo Zhao et al., CVPR 2022",
         "github": "https://github.com/kaiwang960112/cafe",
         "url": "https://arxiv.org/abs/2203.01531",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2022cafe.txt",
+        "cite": "wang2022cafe",
         "website": null
       },
       {
@@ -156,7 +156,7 @@
         "author": "Bo Zhao et al., WACV 2023",
         "github": "https://github.com/VICO-UoE/DatasetCondensation",
         "url": "https://arxiv.org/abs/2110.04181",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2023distribution.txt",
+        "cite": "zhao2023distribution",
         "website": null
       },
       {
@@ -164,7 +164,7 @@
         "author": "Ganlong Zhao et al., CVPR 2023",
         "github": "https://github.com/uitrbn/IDM",
         "url": "https://arxiv.org/abs/2307.09742",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2023idm.txt",
+        "cite": "zhao2023idm",
         "website": null
       },
       {
@@ -172,7 +172,7 @@
         "author": "Ahmad Sajedi & Samir Khaki et al., ICCV 2023",
         "github": "https://github.com/DataDistillation/DataDAM",
         "url": "https://arxiv.org/abs/2310.00093",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sajedi2023datadam.txt",
+        "cite": "sajedi2023datadam",
         "website": "https://datadistillation.github.io/DataDAM/"
       },
       {
@@ -180,7 +180,7 @@
         "author": "Haoyang Liu et al., 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2311.18531",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023wasserstein.txt",
+        "cite": "liu2023wasserstein",
         "website": null
       },
       {
@@ -188,7 +188,7 @@
         "author": "Hansong Zhang & Shikun Li et al., AAAI 2024",
         "github": "https://github.com/Hansong-Zhang/M3D",
         "url": "https://arxiv.org/abs/2312.15927",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024m3d.txt",
+        "cite": "zhang2024m3d",
         "website": null
       },
       {
@@ -196,7 +196,7 @@
         "author": "Wenxiao Deng et al., CVPR 2024",
         "github": "https://github.com/VincenDen/IID",
         "url": "https://arxiv.org/abs/2404.00563",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/deng2024iid.txt",
+        "cite": "deng2024iid",
         "website": null
       },
       {
@@ -204,7 +204,7 @@
         "author": "Wei Wei et al., CVPR 2024 Workshop",
         "github": null,
         "url": "https://openaccess.thecvf.com/content/CVPR2024W/DDCV/html/Wei_Dataset_Condensation_with_Latent_Quantile_Matching_CVPRW_2024_paper.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wei2024lqm.txt",
+        "cite": "wei2024lqm",
         "website": null
       },
       {
@@ -212,7 +212,7 @@
         "author": "Hansong Zhang et al., IJCAI 2024",
         "github": "https://github.com/Hansong-Zhang/DANCE",
         "url": "https://arxiv.org/abs/2406.01063",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024dance.txt",
+        "cite": "zhang2024dance",
         "website": null
       },
       {
@@ -220,7 +220,7 @@
         "author": "Hongcheng Li et al., MM 2024",
         "github": "https://github.com/Li-Hongcheng/DSDM",
         "url": "https://dl.acm.org/doi/10.1145/3664647.3680900",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024dsdm.txt",
+        "cite": "li2024dsdm",
         "website": null
       },
       {
@@ -228,7 +228,7 @@
         "author": "Shaobo Wang et al., CVPR 2025",
         "github": "https://github.com/gszfwsb/NCFM",
         "url": "https://arxiv.org/abs/2502.20653",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025ncfm.txt",
+        "cite": "wang2025ncfm",
         "website": null
       },
       {
@@ -236,7 +236,7 @@
         "author": "Xiao Cui et al., CVPR 2025",
         "github": null,
         "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025optical.txt",
+        "cite": "cui2025optical",
         "website": null
       },
       {
@@ -244,7 +244,7 @@
         "author": "Wenyuan Li & Guang Li et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2505.24623",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt",
+        "cite": "li2025hdd",
         "website": null
       }
     ],
@@ -254,7 +254,7 @@
         "author": "Timothy Nguyen et al., ICLR 2021",
         "github": "https://github.com/google/neural-tangents",
         "url": "https://arxiv.org/abs/2011.00050",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2021kip.txt",
+        "cite": "nguyen2021kip",
         "website": null
       },
       {
@@ -262,7 +262,7 @@
         "author": "Timothy Nguyen et al., NeurIPS 2021",
         "github": "https://github.com/google/neural-tangents",
         "url": "https://arxiv.org/abs/2107.13034",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2021kipimprovedresults.txt",
+        "cite": "nguyen2021kipimprovedresults",
         "website": null
       },
       {
@@ -270,7 +270,7 @@
         "author": "Yongchao Zhou et al., NeurIPS 2022",
         "github": "https://github.com/yongchao97/FRePo",
         "url": "https://arxiv.org/abs/2206.00719",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2022dataset.txt",
+        "cite": "zhou2022dataset",
         "website": "https://sites.google.com/view/frepo"
       },
       {
@@ -278,7 +278,7 @@
         "author": "Noel Loo et al., NeurIPS 2022",
         "github": "https://github.com/yolky/RFAD",
         "url": "https://arxiv.org/abs/2210.12067",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2022efficient.txt",
+        "cite": "loo2022efficient",
         "website": null
       },
       {
@@ -286,7 +286,7 @@
         "author": "Noel Loo et al., ICML 2023",
         "github": "https://github.com/yolky/RCIG",
         "url": "https://arxiv.org/abs/2302.06755",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2023dataset.txt",
+        "cite": "loo2023dataset",
         "website": null
       },
       {
@@ -294,7 +294,7 @@
         "author": "Yilan Chen et al., NeurIPS 2024",
         "github": null,
         "url": "https://openreview.net/forum?id=WI2VpcBdnd",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024krr.txt",
+        "cite": "chen2024krr",
         "website": null
       }
     ],
@@ -304,7 +304,7 @@
         "author": "Jang-Hyun Kim et al., ICML 2022",
         "github": "https://github.com/snu-mllab/efficient-dataset-condensation",
         "url": "https://arxiv.org/abs/2205.14959",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kim2022dataset.txt",
+        "cite": "kim2022dataset",
         "website": null
       },
       {
@@ -312,14 +312,14 @@
         "author": "Zhiwei Deng et al., NeurIPS 2022",
         "github": "https://github.com/princetonvisualai/RememberThePast-DatasetDistillation",
         "url": "https://arxiv.org/abs/2206.02916",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/deng2022remember.txt",
+        "cite": "deng2022remember",
         "website": null
       },
       {
         "title": "On Divergence Measures for Bayesian Pseudocoresets",
         "author": "Balhae Kim et al., NeurIPS 2022",
         "github": "https://github.com/balhaekim/bpc-divergences",
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kim2022divergence.txt",
+        "url": "kim2022divergence",
         "cite": "https://arxiv.org/abs/2210.06205",
         "website": null
       },
@@ -328,7 +328,7 @@
         "author": "Songhua Liu et al., NeurIPS 2022",
         "github": "https://github.com/Huage001/DatasetFactorization",
         "url": "https://arxiv.org/abs/2210.16774",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2022dataset.txt",
+        "cite": "liu2022dataset",
         "website": null
       },
       {
@@ -336,14 +336,14 @@
         "author": "Parsa Nooralinejad et al., 2022",
         "github": "https://github.com/UCDvision/PRANC",
         "url": "https://arxiv.org/abs/2206.08464",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nooralinejad2022pranc.txt",
+        "cite": "nooralinejad2022pranc",
         "website": null
       },
       {
         "title": "Dataset Condensation with Latent Space Knowledge Factorization and Sharing",
         "author": "Hae Beom Lee & Dong Bok Lee et al., 2022",
         "github": null,
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2022kfs.txt",
+        "url": "lee2022kfs",
         "cite": "https://arxiv.org/abs/2208.10494",
         "website": null
       },
@@ -352,7 +352,7 @@
         "author": "Songhua Liu et al., CVPR 2023",
         "github": null,
         "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Slimmable_Dataset_Condensation_CVPR_2023_paper.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023slimmable.txt",
+        "cite": "liu2023slimmable",
         "website": null
       },
       {
@@ -360,7 +360,7 @@
         "author": "Songhua Liu et al., ICCV 2023",
         "github": null,
         "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Few-Shot_Dataset_Distillation_via_Translative_Pre-Training_ICCV_2023_paper.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023fewshot.txt",
+        "cite": "liu2023fewshot",
         "website": null
       },
       {
@@ -368,7 +368,7 @@
         "author": "Songhua Liu et al., NeurIPS 2023",
         "github": null,
         "url": "https://openreview.net/forum?id=D9CMRR5Lof",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023mgdd.txt",
+        "cite": "liu2023mgdd",
         "website": null
       },
       {
@@ -376,7 +376,7 @@
         "author": "Xing Wei & Anjia Cao et al., NeurIPS 2023",
         "github": "https://github.com/MIV-XJTU/SPEED",
         "url": "https://openreview.net/forum?id=ZIfhYAE2xg",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wei2023sparse.txt",
+        "cite": "wei2023sparse",
         "website": null
       },
       {
@@ -384,7 +384,7 @@
         "author": "Donghyeok Shin & Seungjae Shin et al., NeurIPS 2023",
         "github": "https://github.com/sdh0818/FreD",
         "url": "https://arxiv.org/abs/2311.08819",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2023fred.txt",
+        "cite": "shin2023fred",
         "website": null
       },
       {
@@ -392,7 +392,7 @@
         "author": "Haizhong Zheng et al., ECCV 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2310.07506",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2024hmn.txt",
+        "cite": "zheng2024hmn",
         "website": null
       },
       {
@@ -400,7 +400,7 @@
         "author": "Byunggwan Son et al., ECCV 2024",
         "github": "https://github.com/cvlab-yonsei/FYI",
         "url": "https://arxiv.org/abs/2407.08113",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/son2024fyi.txt",
+        "cite": "son2024fyi",
         "website": "https://cvlab.yonsei.ac.kr/projects/FYI/"
       },
       {
@@ -408,7 +408,7 @@
         "author": "Bowen Yuan et al., NeurIPS 2024",
         "github": "https://github.com/KeViNYuAn0314/AutoPalette",
         "url": "https://arxiv.org/abs/2411.11329",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yuan2024color.txt",
+        "cite": "yuan2024color",
         "website": null
       },
       {
@@ -416,7 +416,7 @@
         "author": "Donghyeok Shin et al., ICLR 2025",
         "github": "https://github.com/aailab-kaist/DDiF",
         "url": "https://arxiv.org/abs/2503.04835",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shin2025ddif.txt",
+        "cite": "shin2025ddif",
         "website": null
       }
     ],
@@ -429,7 +429,7 @@
         "author": "https://github.com/vico-uoe/it-gan",
         "github": "Bo Zhao et al., NeurIPS 2022 Workshop",
         "url": "https://arxiv.org/abs/2204.07513",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2022synthesizing.txt",
+        "cite": "zhao2022synthesizing",
         "website": null
       },
       {
@@ -437,7 +437,7 @@
         "author": "George Cazenavette et al., CVPR 2023",
         "github": "https://github.com/georgecazenavette/glad",
         "url": "https://arxiv.org/abs/2305.01649",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cazenavette2023glad.txt",
+        "cite": "cazenavette2023glad",
         "website": "https://georgecazenavette.github.io/glad/"
       },
       {
@@ -445,7 +445,7 @@
         "author": "Kai Wang & Jianyang Gu et al., 2023",
         "github": "https://github.com/vimar-gu/DiM",
         "url": "https://arxiv.org/abs/2303.04707",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023dim.txt",
+        "cite": "wang2023dim",
         "website": null
       },
       {
@@ -453,7 +453,7 @@
         "author": "Junhao Zhang et al., 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2309.07698",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2023dc.txt",
+        "cite": "zhang2023dc",
         "website": null
       },
       {
@@ -461,7 +461,7 @@
         "author": "Ahmad Sajedi & Samir Khaki et al., ECCV 2024",
         "github": null,
         "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sajedi2024data.txt",
+        "cite": "sajedi2024data",
         "website": null
       },
       {
@@ -469,7 +469,7 @@
         "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
         "github": "https://github.com/ndhg1213/H-GLaD",
         "url": "https://arxiv.org/abs/2406.05704",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025hglad.txt",
+        "cite": "zhong2025hglad",
         "website": null
       }
     ],
@@ -479,7 +479,7 @@
         "author": "Jianyang Gu et al., CVPR 2024",
         "github": "https://github.com/vimar-gu/MinimaxDiffusion",
         "url": "https://arxiv.org/abs/2311.15529",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gu2024efficient.txt",
+        "cite": "gu2024efficient",
         "website": null
       },
       {
@@ -487,7 +487,7 @@
         "author": "Duo Su & Junjie Hou et al., CVPR 2024",
         "github": "https://github.com/suduo94/D4M",
         "url": "https://arxiv.org/abs/2407.15138",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/su2024d4m.txt",
+        "cite": "su2024d4m",
         "website": "https://junjie31.github.io/D4M/"
       },
       {
@@ -495,7 +495,7 @@
         "author": "Longzhen Li & Guang Li et al., CVPR 2024 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2404.17732",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024generative.txt",
+        "cite": "li2024generative",
         "website": null
       },
       {
@@ -503,7 +503,7 @@
         "author": "Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop",
         "github": "https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model",
         "url": "https://arxiv.org/abs/2408.08610",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/su2024diffusion.txt",
+        "cite": "su2024diffusion",
         "website": null
       },
       {
@@ -511,7 +511,7 @@
         "author": "Brian B. Moser & Federico Raue et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2403.03881",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/moser2024ld3m.txt",
+        "cite": "moser2024ld3m",
         "website": null
       },
       {
@@ -519,7 +519,7 @@
         "author": "Mingyang Chen et al., ICLR 2025",
         "github": "https://github.com/mchen725/DD_IGD",
         "url": "https://openreview.net/forum?id=0whx8MhysK",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025igd.txt",
+        "cite": "chen2025igd",
         "website": null
       },
       {
@@ -527,7 +527,7 @@
         "author": "Lin Zhao et al., ICML 2025",
         "github": "https://github.com/lin-zhao-resoLve/D3HR",
         "url": "https://arxiv.org/abs/2505.18399",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025d3hr.txt",
+        "cite": "zhao2025d3hr",
         "website": null
       },
       {
@@ -535,7 +535,7 @@
         "author": "Jeffrey A. Chan-Santiago et al., ICML 2025",
         "github": "https://github.com/jachansantiago/mode_guidance/",
         "url": "https://arxiv.org/abs/2505.18963",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
+        "cite": "chan-santiago2025mgd3",
         "website": "https://jachansantiago.com/mode-guided-distillation/"
       },
       {
@@ -543,7 +543,7 @@
         "author": "Haoxuan Wang et al., ICCV 2025",
         "github": "https://github.com/hatchetProject/CaO2",
         "url": "https://arxiv.org/abs/2506.22637",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025cao2.txt",
+        "cite": "wang2025cao2",
         "website": null
       },
       {
@@ -551,7 +551,7 @@
         "author": "Yawen Zou et al., ICCV 2025",
         "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
         "url": "https://arxiv.org/abs/2506.23580",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zou2025vlcp.txt",
+        "cite": "zou2025vlcp",
         "website": null
       }
     ],
@@ -561,7 +561,7 @@
         "author": "Lei Zhang & Jie Zhang et al., CVPR 2023",
         "github": "https://github.com/ncsu-dk-lab/Acc-DD",
         "url": "https://arxiv.org/abs/2212.06152",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2023accelerating.txt",
+        "cite": "zhang2023accelerating",
         "website": null
       },
       {
@@ -569,7 +569,7 @@
         "author": "Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023",
         "github": "https://github.com/lyq312318224/DREAM",
         "url": "https://arxiv.org/abs/2302.14416",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream.txt",
+        "cite": "liu2023dream",
         "website": null
       },
       {
@@ -577,7 +577,7 @@
         "author": "Yang He et al., NeurIPS 2023",
         "github": "https://github.com/he-y/you-only-condense-once",
         "url": "https://arxiv.org/abs/2310.14019",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2023yoco.txt",
+        "cite": "he2023yoco",
         "website": null
       },
       {
@@ -585,14 +585,14 @@
         "author": "Yuzhang Shang et al., NeurIPS 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2312.16627",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2023mim4dd.txt",
+        "cite": "shang2023mim4dd",
         "website": null
       },
       {
         "title": "Can Pre-Trained Models Assist in Dataset Distillation?",
         "author": "Yao Lu et al., 2023",
         "github": "https://github.com/yaolu-zjut/DDInterpreter",
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2023pre.txt",
+        "url": "lu2023pre",
         "cite": "https://arxiv.org/abs/2310.03295",
         "website": null
       },
@@ -601,7 +601,7 @@
         "author": "Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023",
         "github": "https://github.com/lyq312318224/DREAM",
         "url": "https://arxiv.org/abs/2310.15052",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023dream+.txt",
+        "cite": "liu2023dream+",
         "website": null
       },
       {
@@ -609,7 +609,7 @@
         "author": "Yuxuan Duan et al., 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2311.15547",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/duan2023latent.txt",
+        "cite": "duan2023latent",
         "website": null
       },
       {
@@ -617,7 +617,7 @@
         "author": "Xuxi Chen & Yu Yang et al., ICLR 2024",
         "github": "https://github.com/VITA-Group/ProgressiveDD",
         "url": "https://arxiv.org/abs/2310.06982",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024vodka.txt",
+        "cite": "chen2024vodka",
         "website": null
       },
       {
@@ -625,7 +625,7 @@
         "author": "Yunzhen Feng et al., ICLR 2024",
         "github": "https://github.com/fengyzpku/Simple_Dataset_Distillation",
         "url": "https://arxiv.org/abs/2311.07025",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yunzhen2024embarassingly.txt",
+        "cite": "yunzhen2024embarassingly",
         "website": null
       },
       {
@@ -633,7 +633,7 @@
         "author": "Yang He et al., ICLR 2024",
         "github": "https://github.com/he-y/Multisize-Dataset-Condensation",
         "url": "https://arxiv.org/abs/2403.06075",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/he2024mdc.txt",
+        "cite": "he2024mdc",
         "website": null
       },
       {
@@ -641,7 +641,7 @@
         "author": "Noel Loo & Alaa Maalouf et al., ICML 2024",
         "github": "https://github.com/yolky/d3s_distillation",
         "url": "https://openreview.net/forum?id=0FWPKHMCSc",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2024d3s.txt",
+        "cite": "loo2024d3s",
         "website": null
       },
       {
@@ -649,7 +649,7 @@
         "author": "Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation",
         "github": "Yue Xu et al., ECCV 2024",
         "url": "https://arxiv.org/abs/2305.18381",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024distill.txt",
+        "cite": "xu2024distill",
         "website": null
       },
       {
@@ -657,7 +657,7 @@
         "author": "Jun-Yeong Moon et al., ECCV 2024",
         "github": "https://github.com/khu-agi/hmdc",
         "url": "https://arxiv.org/abs/2409.14538",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/moon2024hmdc.txt",
+        "cite": "moon2024hmdc",
         "website": null
       },
       {
@@ -665,7 +665,7 @@
         "author": "Ruonan Yu et al., ECCV 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2410.07579",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2024teddy.txt",
+        "cite": "yu2024teddy",
         "website": null
       },
       {
@@ -673,7 +673,7 @@
         "author": "Zheng Zhou et al., 2024",
         "github": "https://github.com/zhouzhengqd/BACON",
         "url": "https://arxiv.org/abs/2406.01112",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024bacon.txt",
+        "cite": "zhou2024bacon",
         "website": null
       },
       {
@@ -681,7 +681,7 @@
         "author": "Xinhao Zhong et al., ICLR 2025",
         "github": "https://github.com/ndhg1213/CMIDD",
         "url": "https://arxiv.org/abs/2412.09945",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025cmi.txt",
+        "cite": "zhong2025cmi",
         "website": null
       },
       {
@@ -689,7 +689,7 @@
         "author": "Yanda Chen & Gongwei Chen et al., CVPR 2025",
         "github": "https://github.com/CYDaaa30/CCFS",
         "url": "https://arxiv.org/abs/2503.18872",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2025ccfs.txt",
+        "cite": "chen2025ccfs",
         "website": null
       }
     ],
@@ -699,7 +699,7 @@
         "author": "Jonathan Lorraine et al., AISTATS 2020",
         "github": "https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation",
         "url": "https://arxiv.org/abs/1911.02590",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lorraine2020optimizing.txt",
+        "cite": "lorraine2020optimizing",
         "website": null
       },
       {
@@ -707,7 +707,7 @@
         "author": "Paul Vicol et al., ICML 2022",
         "github": null,
         "url": "https://proceedings.mlr.press/v162/vicol22a.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vicol2022implicit.txt",
+        "cite": "vicol2022implicit",
         "website": null
       },
       {
@@ -715,7 +715,7 @@
         "author": "Alaa Maalouf & Murad Tukan et al., NeurIPS 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2305.14113",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maalouf2023size.txt",
+        "cite": "maalouf2023size",
         "website": null
       },
       {
@@ -723,7 +723,7 @@
         "author": "Zachary Izzo et al., NeurIPS 2023 Workshop",
         "github": null,
         "url": "https://openreview.net/forum?id=dq5QGXGxoJ",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/izzo2023theo.txt",
+        "cite": "izzo2023theo",
         "website": null
       },
       {
@@ -731,7 +731,7 @@
         "author": "William Yang et al., ICML 2024",
         "github": "https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning",
         "url": "https://arxiv.org/abs/2406.04284",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2024learning.txt",
+        "cite": "yang2024learning",
         "website": null
       },
       {
@@ -739,7 +739,7 @@
         "author": "Justin Cui et al., ICML 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2406.06609",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2024bias.txt",
+        "cite": "cui2024bias",
         "website": null
       },
       {
@@ -747,7 +747,7 @@
         "author": "Vyacheslav Kungurtsev et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2409.01410",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kungurtsev2024first.txt",
+        "cite": "kungurtsev2024first",
         "website": null
       },
       {
@@ -755,7 +755,7 @@
         "author": "Shaobo Wang et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2408.12483",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024samples.txt",
+        "cite": "wang2024samples",
         "website": null
       },
       {
@@ -763,7 +763,7 @@
         "author": "Hongye Tan et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2501.07681",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tan2025optimal.txt",
+        "cite": "tan2025optimal",
         "website": null
       }
     ],
@@ -773,7 +773,7 @@
         "author": "Ondrej Bohdal et al., NeurIPS 2020 Workshop",
         "github": "https://github.com/ondrejbohdal/label-distillation",
         "url": "https://arxiv.org/abs/2006.08572",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/bohdal2020flexible.txt",
+        "cite": "bohdal2020flexible",
         "website": null
       },
       {
@@ -781,7 +781,7 @@
         "author": "Ilia Sucholutsky et al., IJCNN 2021",
         "github": "https://github.com/ilia10000/dataset-distillation",
         "url": "https://arxiv.org/abs/1910.02551",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sucholutsky2021soft.txt",
+        "cite": "sucholutsky2021soft",
         "website": null
       },
       {
@@ -789,7 +789,7 @@
         "author": "Tian Qin et al., NeurIPS 2024",
         "github": "https://github.com/sunnytqin/no-distillation",
         "url": "https://arxiv.org/abs/2406.10485",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qin2024label.txt",
+        "cite": "qin2024label",
         "website": null
       },
       {
@@ -797,7 +797,7 @@
         "author": "Lingao Xiao et al., NeurIPS 2024",
         "github": "https://github.com/he-y/soft-label-pruning-for-dataset-distillation",
         "url": "https://arxiv.org/abs/2410.15919",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xiao2024soft.txt",
+        "cite": "xiao2024soft",
         "website": null
       },
       {
@@ -805,7 +805,7 @@
         "author": "Shaobo Wang et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2410.01611",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024drupi.txt",
+        "cite": "wang2024drupi",
         "website": null
       },
       {
@@ -813,7 +813,7 @@
         "author": "Seoungyoon Kang & Youngsun Lim et al., WACV 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2409.16239",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kang2024label.txt",
+        "cite": "kang2024label",
         "website": null
       },
       {
@@ -821,7 +821,7 @@
         "author": "Xinyi Shang & Peng Sun et al., ICLR 2025",
         "github": "https://github.com/LINs-lab/GIFT",
         "url": "https://arxiv.org/abs/2405.14736",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shang2025gift.txt",
+        "cite": "shang2025gift",
         "website": null
       }
     ],
@@ -831,7 +831,7 @@
         "author": "Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023",
         "github": "https://github.com/magic-research/Dataset_Quantization",
         "url": "https://arxiv.org/abs/2308.10524",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2023dataset.txt",
+        "cite": "zhou2023dataset",
         "website": null
       },
       {
@@ -839,7 +839,7 @@
         "author": "Zhenghao Zhao et al., ECCV 2024",
         "github": "https://github.com/ichbill/DQAS",
         "url": "https://arxiv.org/abs/2407.07268",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2024dqas.txt",
+        "cite": "zhao2024dqas",
         "website": null
       },
       {
@@ -847,7 +847,7 @@
         "author": "Muquan Li et al., AAAI 2025",
         "github": "https://github.com/SLGSP/ADQ",
         "url": "https://www.arxiv.org/abs/2412.16895",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025adq.txt",
+        "cite": "li2025adq",
         "website": null
       }
     ],
@@ -857,7 +857,7 @@
         "author": "Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023",
         "github": "https://github.com/VILA-Lab/SRe2L/tree/main/SRe2L",
         "url": "https://arxiv.org/abs/2306.13092",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2023sre2l.txt",
+        "cite": "yin2023sre2l",
         "website": "https://zeyuanyin.github.io/projects/SRe2L/"
       },
       {
@@ -865,7 +865,7 @@
         "author": "Zeyuan Yin et al., TMLR 2024",
         "github": "https://github.com/VILA-Lab/SRe2L/tree/main/CDA",
         "url": "https://arxiv.org/abs/2311.18838",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yin2024cda.txt",
+        "cite": "yin2024cda",
         "website": null
       },
       {
@@ -873,7 +873,7 @@
         "author": "Shitong Shao et al., CVPR 2024",
         "github": "https://github.com/shaoshitong/G_VBSM_Dataset_Condensation",
         "url": "https://arxiv.org/abs/2311.17950",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024gvbsm.txt",
+        "cite": "shao2024gvbsm",
         "website": null
       },
       {
@@ -881,7 +881,7 @@
         "author": "Peng Sun et al., CVPR 2024",
         "github": "https://github.com/LINs-lab/RDED",
         "url": "https://arxiv.org/abs/2312.03526",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rded.txt",
+        "cite": "sun2024rded",
         "website": null
       },
       {
@@ -889,7 +889,7 @@
         "author": "Peng Sun et al., ICLR 2024 Workshop",
         "github": null,
         "url": "https://openreview.net/forum?id=2SnmKd1JK4",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024lic.txt",
+        "cite": "sun2024lic",
         "website": null
       },
       {
@@ -897,14 +897,14 @@
         "author": "Shitong Shao et al., NeurIPS 2024",
         "github": "https://github.com/shaoshitong/EDC",
         "url": "https://arxiv.org/abs/2404.13733",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shao2024edc.txt",
+        "cite": "shao2024edc",
         "website": null
       },
       {
         "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment",
         "author": "Jiawei Du et al., NeurIPS 2024",
         "github": "https://github.com/AngusDujw/Diversity-Driven-Synthesis",
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/du2024diversity.txt",
+        "url": "du2024diversity",
         "cite": "https://arxiv.org/abs/2409.17612",
         "website": null
       },
@@ -913,7 +913,7 @@
         "author": "Zhiheng Ma & Anjia Cao et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2405.09150",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ma2024cudd.txt",
+        "cite": "ma2024cudd",
         "website": null
       },
       {
@@ -921,7 +921,7 @@
         "author": "Xin Zhang et al., ICLR 2025",
         "github": "https://github.com/zhangxin-xd/UFC",
         "url": "https://arxiv.org/abs/2408.06927",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025infer.txt",
+        "cite": "zhang2025infer",
         "website": null
       },
       {
@@ -929,7 +929,7 @@
         "author": "Minh-Tuan Tran et al., CVPR 2025",
         "github": "https://github.com/tmtuan1307/NRR-DD",
         "url": "https://arxiv.org/abs/2503.18267",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tran2025nrrdd.txt",
+        "cite": "tran2025nrrdd",
         "website": null
       },
       {
@@ -937,7 +937,7 @@
         "author": "Zhiqiang Shen & Ammar Sherif et al., CVPR 2025",
         "github": "https://github.com/VILA-Lab/DELT",
         "url": "https://arxiv.org/abs/2411.19946",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/shen2025delt.txt",
+        "cite": "shen2025delt",
         "website": null
       },
       {
@@ -945,7 +945,7 @@
         "author": "Youbin Hu et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2501.06405",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2025focusdd.txt",
+        "cite": "hu2025focusdd",
         "website": null
       },
       {
@@ -953,7 +953,7 @@
         "author": "Jiacheng Cui et al., 2025",
         "github": "https://github.com/Jiacheng8/CV-DD",
         "url": "https://arxiv.org/abs/2501.07575",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025cvdd.txt",
+        "cite": "cui2025cvdd",
         "website": null
       }
     ],
@@ -963,7 +963,7 @@
         "author": "Xindi Wu et al., TMLR 2024",
         "github": "https://github.com/princetonvisualai/multimodal_dataset_distillation",
         "url": "https://arxiv.org/abs/2308.07545",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2024multi.txt",
+        "cite": "wu2024multi",
         "website": "https://princetonvisualai.github.io/multimodal_dataset_distillation/"
       },
       {
@@ -971,7 +971,7 @@
         "author": "Yue Xu et al., ICML 2024",
         "github": "https://github.com/silicx/LoRS_Distill",
         "url": "https://arxiv.org/abs/2406.03793",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024lors.txt",
+        "cite": "xu2024lors",
         "website": null
       },
       {
@@ -979,7 +979,7 @@
         "author": "Saksham Singh Kushwaha et al., TMLR 2024",
         "github": "https://github.com/sakshamsingh1/AVDD",
         "url": "https://openreview.net/forum?id=IJlbuSrXmk",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kush2024avdd.txt",
+        "cite": "kush2024avdd",
         "website": null
       },
       {
@@ -987,7 +987,7 @@
         "author": "Xin Zhang et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2505.14705",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025mdd.txt",
+        "cite": "zhang2025mdd",
         "website": null
       }
     ],
@@ -997,7 +997,7 @@
         "author": "Self-Supervised Dataset Distillation for Transfer Learning",
         "github": "https://github.com/db-Lee/selfsup_dd",
         "url": "https://arxiv.org/abs/2310.06511",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lee2024self.txt",
+        "cite": "lee2024self",
         "website": null
       },
       {
@@ -1005,7 +1005,7 @@
         "author": "Peng Sun et al., NeurIPS 2024",
         "github": "https://github.com/LINs-lab/ReLA",
         "url": "https://arxiv.org/abs/2405.14669",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024rela.txt",
+        "cite": "sun2024rela",
         "website": null
       },
       {
@@ -1013,7 +1013,7 @@
         "author": "Muxin Zhou et al., 2024",
         "github": "https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/",
         "url": "https://arxiv.org/abs/2404.07976",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024self.txt",
+        "cite": "zhou2024self",
         "website": null
       },
       {
@@ -1021,7 +1021,7 @@
         "author": "Siddharth Joshi et al., ICLR 2025",
         "github": "https://github.com/jiayini1119/MKDT",
         "url": "https://arxiv.org/abs/2410.02116",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/joshi2025kd.txt",
+        "cite": "joshi2025kd",
         "website": null
       },
       {
@@ -1029,7 +1029,7 @@
         "author": "Sheng-Feng Yu et al., ICLR 2025",
         "github": null,
         "url": "https://openreview.net/forum?id=2RfWRKwxYh",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2025self.txt",
+        "cite": "yu2025self",
         "website": null
       }
     ],
@@ -1039,7 +1039,7 @@
         "author": "Ding Qi et al., CVPR 2025",
         "github": null,
         "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2025unidd.txt",
+        "cite": "qi2025unidd",
         "website": null
       }
     ],
@@ -1049,7 +1049,7 @@
         "author": "Justin Cui et al., NeurIPS 2022",
         "github": "https://github.com/justincui03/dc_benchmark",
         "url": "https://arxiv.org/abs/2207.09639",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2022dc.txt",
+        "cite": "cui2022dc",
         "website": "https://dc-bench.github.io/"
       },
       {
@@ -1057,7 +1057,7 @@
         "author": "Zongxiong Chen & Jiahui Geng et al., 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2305.03355",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2023study.txt",
+        "cite": "chen2023study",
         "website": null
       },
       {
@@ -1065,7 +1065,7 @@
         "author": "Yifan Wu et al., TIP 2025",
         "github": "https://github.com/FredWU-HUST/DD-RobustBench",
         "url": "https://arxiv.org/abs/2403.13322",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2025robust.txt",
+        "cite": "wu2025robust",
         "website": null
       },
       {
@@ -1073,7 +1073,7 @@
         "author": "Zheng Zhou et al., 2024",
         "github": "https://github.com/zhouzhengqd/BEARD/",
         "url": "https://arxiv.org/abs/2411.09265",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024beard.txt",
+        "cite": "zhou2024beard",
         "website": "https://beard-leaderboard.github.io/"
       }
     ],
@@ -1083,7 +1083,7 @@
         "author": "Noveen Sachdeva et al., TMLR 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2301.04272",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sachdeva2023survey.txt",
+        "cite": "sachdeva2023survey",
         "website": null
       },
       {
@@ -1091,7 +1091,7 @@
         "author": "Jiahui Geng & Zongxiong Chen et al., IJCAI 2023",
         "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
         "url": "https://arxiv.org/abs/2305.01975",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/geng2023survey.txt",
+        "cite": "geng2023survey",
         "website": null
       },
       {
@@ -1099,7 +1099,7 @@
         "author": "Shiye Lei et al., TPAMI 2023",
         "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
         "url": "https://arxiv.org/abs/2301.05603",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nooralinejad2022pranc.txt",
+        "cite": "nooralinejad2022pranc",
         "website": null
       },
       {
@@ -1107,7 +1107,7 @@
         "author": "Ruonan Yu & Songhua Liu et al., TPAMI 2023",
         "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
         "url": "https://arxiv.org/abs/2301.07014",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2023review.txt",
+        "cite": "yu2023review",
         "website": null
       },
       {
@@ -1115,7 +1115,7 @@
         "author": "Ping Liu et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2502.05673",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2025survey.txt",
+        "cite": "liu2025survey",
         "website": null
       }
     ],
@@ -1125,7 +1125,7 @@
         "author": "Bo Zhao, The University of Edinburgh 2023",
         "github": null,
         "url": "https://era.ed.ac.uk/handle/1842/39756",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2023thesis.txt",
+        "cite": "zhao2023thesis",
         "website": null
       }
     ],
@@ -1155,7 +1155,7 @@
         "author": "Zekai Li & Xinhao Zhong et al., 2025",
         "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
         "url": "https://arxiv.org/abs/2505.13300",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
+        "cite": "li2025ranking",
         "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
       }
     ]
@@ -1167,7 +1167,7 @@
         "author": "Wojciech Masarczyk et al., CVPR 2020 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2004.14046",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/masarczyk2020reducing.txt",
+        "cite": "masarczyk2020reducing",
         "website": null
       },
       {
@@ -1175,7 +1175,7 @@
         "author": "Felix Wiewel et al., IJCNN 2021",
         "github": "https://github.com/FelixWiewel/CCMCL",
         "url": "https://arxiv.org/abs/2102.09890",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wiewel2021soft.txt",
+        "cite": "wiewel2021soft",
         "website": null
       },
       {
@@ -1183,7 +1183,7 @@
         "author": "Andrea Rosasco et al., IJCAI 2021 Workshop",
         "github": "https://github.com/andrearosasco/DistilledReplay",
         "url": "https://arxiv.org/abs/2103.15851",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/rosasco2021distilled.txt",
+        "cite": "rosasco2021distilled",
         "website": null
       },
       {
@@ -1191,7 +1191,7 @@
         "author": "Mattia Sangermano et al., IJCNN 2022",
         "github": "https://github.com/MattiaSangermano/OLCGM",
         "url": "https://arxiv.org/abs/2206.11849",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sangermano2022sample.txt",
+        "cite": "sangermano2022sample",
         "website": null
       },
       {
@@ -1199,7 +1199,7 @@
         "author": "Enneng Yang et al., NeurIPS 2023",
         "github": "https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin",
         "url": "https://openreview.net/forum?id=Murj6wcjRw",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2023efficient.txt",
+        "cite": "yang2023efficient",
         "website": null
       },
       {
@@ -1207,7 +1207,7 @@
         "author": "Jianyang Gu et al., AAAI 2024",
         "github": "https://github.com/vimar-gu/SSD",
         "url": "https://arxiv.org/abs/2305.16645",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gu2024ssd.txt",
+        "cite": "gu2024ssd",
         "website": null
       }
     ],
@@ -1217,7 +1217,7 @@
         "author": "Tian Dong et al., ICML 2022",
         "github": null,
         "url": "https://arxiv.org/abs/2206.00240",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/dong2022privacy.txt",
+        "cite": "dong2022privacy",
         "website": null
       },
       {
@@ -1225,7 +1225,7 @@
         "author": "Private Set Generation with Discriminative Information",
         "github": "Dingfan Chen et al., NeurIPS 2022",
         "url": "https://arxiv.org/abs/2211.04446",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2022privacy.txt",
+        "cite": "chen2022privacy",
         "website": null
       },
       {
@@ -1233,7 +1233,7 @@
         "author": "Nicholas Carlini et al., 2022",
         "github": null,
         "url": "https://arxiv.org/abs/2209.14987",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/carlini2022no.txt",
+        "cite": "carlini2022no",
         "website": null
       },
       {
@@ -1241,7 +1241,7 @@
         "author": "https://github.com/liuyugeng/baadd",
         "github": "Yugeng Liu et al., NDSS 2023",
         "url": "https://arxiv.org/abs/2301.01197",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023backdoor.txt",
+        "cite": "liu2023backdoor",
         "website": null
       },
       {
@@ -1249,7 +1249,7 @@
         "author": "Margarita Vinaroz et al., 2023",
         "github": "https://github.com/dpclip/dpclip",
         "url": "https://arxiv.org/abs/2301.13389",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vinaroz2023dpkip.txt",
+        "cite": "vinaroz2023dpkip",
         "website": null
       },
       {
@@ -1257,14 +1257,14 @@
         "author": "Noel Loo et al., ICLR 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2302.01428",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/loo2024attack.txt",
+        "cite": "loo2024attack",
         "website": null
       },
       {
         "title": "Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective",
         "author": "Ming-Yu Chung et al., ICLR 2024",
         "github": null,
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chung2024backdoor.txt",
+        "url": "chung2024backdoor",
         "cite": "https://arxiv.org/abs/2311.16646",
         "website": null
       },
@@ -1273,7 +1273,7 @@
         "author": "Zheng et al., NDSS 2024 Workshop",
         "github": null,
         "url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-542/",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2024differentially.txt",
+        "cite": "zheng2024differentially",
         "website": null
       },
       {
@@ -1281,7 +1281,7 @@
         "author": "Ze Chai et al., ICC 2024",
         "github": null,
         "url": "https://ieeexplore.ieee.org/abstract/document/10622462?casa_token=tHyZ-Pz7DpUAAAAA:vmCYI4cUcKzMluUsASHhIhr0CvBkjzBR-0N7REVj7aFN5hT5TinQTpSEsE0Bo3Fl8auh52Fipm_v",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chai2024backdoor.txt",
+        "cite": "chai2024backdoor",
         "website": null
       }
     ],
@@ -1291,7 +1291,7 @@
         "author": "Guang Li et al., ICIP 2020",
         "github": "https://github.com/Guang000/dataset-distillation",
         "url": "https://arxiv.org/abs/2104.02857",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2020soft.txt",
+        "cite": "li2020soft",
         "website": null
       },
       {
@@ -1299,7 +1299,7 @@
         "author": "Guang Li et al., CMPB 2022",
         "github": "https://github.com/Guang000/dataset-distillation",
         "url": "https://arxiv.org/abs/2209.14635",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2022compressed.txt",
+        "cite": "li2022compressed",
         "website": null
       },
       {
@@ -1307,7 +1307,7 @@
         "author": "Guang Li et al., AAAI 2023 Workshop",
         "github": "https://github.com/Guang000/mtt-distillation",
         "url": "https://r2hcai.github.io/AAAI-23/pages/accepted-papers.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2023sharing.txt",
+        "cite": "li2023sharing",
         "website": null
       },
       {
@@ -1315,7 +1315,7 @@
         "author": "Yuchen Tian & Jiacheng Wang et al., MICCAI 2023 Workshop",
         "github": null,
         "url": "https://link.springer.com/chapter/10.1007/978-3-031-47401-9_2",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tian2023gdd.txt",
+        "cite": "tian2023gdd",
         "website": null
       },
       {
@@ -1323,7 +1323,7 @@
         "author": "Guang Li et al., NN 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2401.15863",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024iadd.txt",
+        "cite": "li2024iadd",
         "website": null
       },
       {
@@ -1331,7 +1331,7 @@
         "author": "Zhe Li et al., MICCAI 2024",
         "github": "https://github.com/ZheLi2020/InfoDist",
         "url": "https://arxiv.org/abs/2406.13536",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024infodist.txt",
+        "cite": "li2024infodist",
         "website": null
       },
       {
@@ -1339,7 +1339,7 @@
         "author": "Renuga Kanagavelu et al., MICCAI 2024",
         "github": null,
         "url": "https://link.springer.com/chapter/10.1007/978-3-031-72390-2_61",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/kanagavelu2024medsynth.txt",
+        "cite": "kanagavelu2024medsynth",
         "website": null
       },
       {
@@ -1347,7 +1347,7 @@
         "author": "Zhen Yu et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2403.13469",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yu2024progressive.txt",
+        "cite": "yu2024progressive",
         "website": null
       },
       {
@@ -1355,7 +1355,7 @@
         "author": "Muyang Li et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2407.14429",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2024medical.txt",
+        "cite": "li2024medical",
         "website": null
       },
       {
@@ -1363,7 +1363,7 @@
         "author": "Cong Cong et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2408.09709",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cong2024dataset.txt",
+        "cite": "cong2024dataset",
         "website": null
       }
     ],
@@ -1373,7 +1373,7 @@
         "author": "Jack Goetz et al., 2020",
         "github": null,
         "url": "https://arxiv.org/abs/2008.04489",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/goetz2020federated.txt",
+        "cite": "goetz2020federated",
         "website": null
       },
       {
@@ -1381,7 +1381,7 @@
         "author": "Yanlin Zhou et al., 2020",
         "github": null,
         "url": "https://arxiv.org/abs/2009.07999",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2020distilled.txt",
+        "cite": "zhou2020distilled",
         "website": null
       },
       {
@@ -1389,7 +1389,7 @@
         "author": "Jie Zhang & Chen Chen et al., NeurIPS 2022",
         "github": "https://github.com/zj-jayzhang/DENSE",
         "url": "https://arxiv.org/abs/2112.12371",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2022dense.txt",
+        "cite": "zhang2022dense",
         "website": null
       },
       {
@@ -1397,7 +1397,7 @@
         "author": "Shengyuan Hu et al., 2022",
         "github": null,
         "url": "https://arxiv.org/abs/2204.01273",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hu2022fedsynth.txt",
+        "cite": "hu2022fedsynth",
         "website": null
       },
       {
@@ -1405,7 +1405,7 @@
         "author": "Ping Liu et al., ICLR 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2209.14851",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023meta.txt",
+        "cite": "liu2023meta",
         "website": null
       },
       {
@@ -1413,7 +1413,7 @@
         "author": "Renjie Pi et al., CVPR 2023",
         "github": "https://github.com/pipilurj/dynafed",
         "url": "https://arxiv.org/abs/2211.10878",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/pi2023dynafed.txt",
+        "cite": "pi2023dynafed",
         "website": null
       },
       {
@@ -1421,7 +1421,7 @@
         "author": "Yuanhao Xiong & Ruochen Wang et al., CVPR 2023",
         "github": "https://github.com/anonymifish/fed-distribution-matching",
         "url": "https://arxiv.org/abs/2207.09653",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xiong2023feddm.txt",
+        "cite": "xiong2023feddm",
         "website": null
       },
       {
@@ -1429,7 +1429,7 @@
         "author": "Rui Song et al., IJCNN 2023",
         "github": "https://github.com/rruisong/fedd3",
         "url": "https://arxiv.org/abs/2208.11311",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/song2023federated.txt",
+        "cite": "song2023federated",
         "website": null
       },
       {
@@ -1437,7 +1437,7 @@
         "author": "Hui-Po Wang et al., 2023",
         "github": "https://github.com/a514514772/fedlap-dp",
         "url": "https://arxiv.org/abs/2302.01068",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023fed.txt",
+        "cite": "wang2023fed",
         "website": null
       },
       {
@@ -1445,7 +1445,7 @@
         "author": "Chun-Yin Huang et al., 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2303.02278",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/huang2023federated.txt",
+        "cite": "huang2023federated",
         "website": null
       },
       {
@@ -1453,7 +1453,7 @@
         "author": "Yuan Wang et al., CVPR 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2404.18962",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024fed.txt",
+        "cite": "wang2024fed",
         "website": null
       },
       {
@@ -1461,7 +1461,7 @@
         "author": "Chun-Yin Huang et al., ICML 2024",
         "github": "https://github.com/ubc-tea/DESA",
         "url": "https://arxiv.org/abs/2405.11525",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/huang2024desa.txt",
+        "cite": "huang2024desa",
         "website": null
       },
       {
@@ -1469,7 +1469,7 @@
         "author": "Xingwang Wang et al., IJCNN 2024",
         "github": "https://github.com/JLUssh/DCFL",
         "url": "https://ieeexplore.ieee.org/document/10650791",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2024dcfl.txt",
+        "cite": "wang2024dcfl",
         "website": null
       },
       {
@@ -1477,7 +1477,7 @@
         "author": "Yuqi Jia & Saeed Vahidian et al., ECCV 2024",
         "github": "https://github.com/FedDG23/FedDG-main",
         "url": "https://arxiv.org/abs/2312.01537",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jia2024feddg.txt",
+        "cite": "jia2024feddg",
         "website": null
       },
       {
@@ -1485,7 +1485,7 @@
         "author": "William Holland et al., ECAI 2024",
         "github": "https://github.com/rayneholland/CollabDM",
         "url": "https://arxiv.org/abs/2408.02266",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/holland2024one.txt",
+        "cite": "holland2024one",
         "website": null
       },
       {
@@ -1493,7 +1493,7 @@
         "author": "Guochen Yan et al., AAAI 2025",
         "github": "https://github.com/Youth-49/FedVCK_2024",
         "url": "https://arxiv.org/abs/2412.18557",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yan2025fedvck.txt",
+        "cite": "yan2025fedvck",
         "website": null
       }
     ],
@@ -1503,7 +1503,7 @@
         "author": "Wei Jin et al., ICLR 2022",
         "github": "https://github.com/HIPS/hypergrad",
         "url": "https://arxiv.org/abs/2110.07580",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jin2022graph.txt",
+        "cite": "jin2022graph",
         "website": null
       },
       {
@@ -1511,7 +1511,7 @@
         "author": "Wei Jin et al., KDD 2022",
         "github": "https://github.com/amazon-research/DosCond",
         "url": "https://arxiv.org/abs/2206.07746",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/jin2022condensing.txt",
+        "cite": "jin2022condensing",
         "website": null
       },
       {
@@ -1519,7 +1519,7 @@
         "author": "Mengyang Liu et al., 2022",
         "github": null,
         "url": "https://arxiv.org/abs/2206.13697",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2022graph.txt",
+        "cite": "liu2022graph",
         "website": null
       },
       {
@@ -1527,7 +1527,7 @@
         "author": "Zhe Xu et al., KDD 2023",
         "github": "https://github.com/pricexu/KIDD",
         "url": "https://dl.acm.org/doi/10.1145/3580305.3599398",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2023kidd.txt",
+        "cite": "xu2023kidd",
         "website": null
       },
       {
@@ -1535,7 +1535,7 @@
         "author": "Xin Zheng et al., NeurIPS 2023",
         "github": "https://github.com/amanda-zheng/sfgc",
         "url": "https://arxiv.org/abs/2306.02664",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zheng2023sfgc.txt",
+        "cite": "zheng2023sfgc",
         "website": null
       },
       {
@@ -1543,7 +1543,7 @@
         "author": "Beining Yang & Kai Wang et al., NeurIPS 2023",
         "github": "https://github.com/RingBDStack/SGDD",
         "url": "https://arxiv.org/abs/2310.09192",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yang2023sgdd.txt",
+        "cite": "yang2023sgdd",
         "website": null
       },
       {
@@ -1551,7 +1551,7 @@
         "author": "Yilun Liu et al., ICDM 2023",
         "github": "https://github.com/superallen13/CaT-CGL",
         "url": "https://arxiv.org/abs/2309.09455",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2023cat.txt",
+        "cite": "liu2023cat",
         "website": null
       },
       {
@@ -1559,7 +1559,7 @@
         "author": "Mridul Gupta & Sahil Manchanda et al., ICLR 2024",
         "github": "https://github.com/frigategnn/Mirage",
         "url": "https://arxiv.org/abs/2310.09486",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gupta2024mirage.txt",
+        "cite": "gupta2024mirage",
         "website": null
       },
       {
@@ -1567,7 +1567,7 @@
         "author": "Yang Liu & Deyu Bo et al., ICML 2024",
         "github": "https://github.com/liuyang-tian/GDEM",
         "url": "https://arxiv.org/abs/2310.09202",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024gdem.txt",
+        "cite": "liu2024gdem",
         "website": null
       },
       {
@@ -1575,7 +1575,7 @@
         "author": "Yuchen Zhang & Tianle Zhang & Kai Wang et al., ICML 2024",
         "github": "https://github.com/nus-hpc-ai-lab/geom",
         "url": "https://arxiv.org/abs/2402.05011",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024geom.txt",
+        "cite": "zhang2024geom",
         "website": null
       },
       {
@@ -1583,7 +1583,7 @@
         "author": "Zhanyu Liu & Chaolv Zeng et al., KDD 2024",
         "github": "https://github.com/zclzcl0223/GCSR",
         "url": "https://arxiv.org/abs/2403.07294",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024gcsr.txt",
+        "cite": "liu2024gcsr",
         "website": null
       },
       {
@@ -1591,7 +1591,7 @@
         "author": "Tianle Zhang & Yuchen Zhang & Kai Wang et al., 2024",
         "github": "https://github.com/nus-hpc-ai-lab/ctrl",
         "url": "https://arxiv.org/abs/2402.04924",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024ctrl.txt",
+        "cite": "zhang2024ctrl",
         "website": null
       }
     ],
@@ -1601,14 +1601,14 @@
         "author": "Mohammad Hashemi et al., IJCAI 2024",
         "github": "https://github.com/Emory-Melody/awesome-graph-reduction",
         "url": "https://arxiv.org/abs/2402.03358",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/hashemi2024awesome.txt",
+        "cite": "hashemi2024awesome",
         "website": null
       },
       {
         "title": "A Survey on Graph Condensation",
         "author": "Hongjia Xu et al., 2024",
         "github": "https://github.com/Frostland12138/Awesome-Graph-Condensation",
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xu2024survey.txt",
+        "url": "xu2024survey",
         "cite": "https://arxiv.org/abs/2402.02000",
         "website": null
       },
@@ -1617,7 +1617,7 @@
         "author": "Xinyi Gao et al., TKDE 2025",
         "github": "https://github.com/xygaog/graph-condensation-papers",
         "url": "https://arxiv.org/abs/2401.11720",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gao2025graph.txt",
+        "cite": "gao2025graph",
         "website": null
       }
     ],
@@ -1627,7 +1627,7 @@
         "author": "Qingyun Sun & Ziying Chen et al., 2024",
         "github": "https://github.com/RingBDStack/GC-Bench",
         "url": "https://arxiv.org/abs/2407.00615",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sun2024gcbench.txt",
+        "cite": "sun2024gcbench",
         "website": null
       },
       {
@@ -1635,7 +1635,7 @@
         "author": "Yilun Liu et al., 2024",
         "github": "https://github.com/superallen13/GCondenser",
         "url": "https://arxiv.org/abs/2405.14246",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024gcondenser.txt",
+        "cite": "liu2024gcondenser",
         "website": null
       },
       {
@@ -1643,7 +1643,7 @@
         "author": "Shengbo Gong & Juntong Ni et al., 2024",
         "github": "https://github.com/Emory-Melody/GraphSlim",
         "url": "https://arxiv.org/abs/2406.16715",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/gong2024graphslim.txt",
+        "cite": "gong2024graphslim",
         "website": null
       }
     ],
@@ -1652,7 +1652,7 @@
         "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data",
         "author": "Felipe Petroski Such et al., ICML 2020",
         "github": null,
-        "url": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/such2020generative.txt",
+        "url": "such2020generative",
         "cite": "https://arxiv.org/abs/1912.07768",
         "website": null
       },
@@ -1661,7 +1661,7 @@
         "author": "Dmitry Medvedev et al., AIST 2021",
         "github": "https://github.com/dm-medvedev/efficientdistillation",
         "url": "https://arxiv.org/abs/2203.08559",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/medvedev2021tabular.txt",
+        "cite": "medvedev2021tabular",
         "website": null
       },
       {
@@ -1669,7 +1669,7 @@
         "author": "Mucong Ding et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2405.17535",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2024hcdc.txt",
+        "cite": "ding2024hcdc",
         "website": null
       }
     ],
@@ -1679,7 +1679,7 @@
         "author": "George Cazenavette et al., CVPR 2022 Workshop",
         "github": "https://github.com/georgecazenavette/mtt-distillation",
         "url": "https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cazenavette2022textures.txt",
+        "cite": "cazenavette2022textures",
         "website": "https://georgecazenavette.github.io/mtt-distillation/"
       },
       {
@@ -1687,7 +1687,7 @@
         "author": "Yulan Chen et al., ICIP 2022",
         "github": null,
         "url": "https://ieeexplore.ieee.org/document/9897234",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2022fashion.txt",
+        "cite": "chen2022fashion",
         "website": null
       },
       {
@@ -1695,7 +1695,7 @@
         "author": "Haowen Guan et al., NeurIPS 2023 Workshop",
         "github": "https://github.com/HaowenGuan/Galaxy-Dataset-Distillation",
         "url": "https://arxiv.org/abs/2311.17967",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/guan2023galaxy.txt",
+        "cite": "guan2023galaxy",
         "website": null
       }
     ],
@@ -1705,7 +1705,7 @@
         "author": "Noveen Sachdeva et al., NeurIPS 2022",
         "github": "https://github.com/noveens/distill_cf",
         "url": "https://arxiv.org/abs/2206.02626",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sachdeva2022data.txt",
+        "cite": "sachdeva2022data",
         "website": null
       },
       {
@@ -1713,7 +1713,7 @@
         "author": "Chen Wang et al., RecSys 2023",
         "github": null,
         "url": "https://dl.acm.org/doi/10.1145/3604915.3608769",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023cgm.txt",
+        "cite": "wang2023cgm",
         "website": null
       },
       {
@@ -1721,7 +1721,7 @@
         "author": "Jiaqing Zhang et al., WWW 2025",
         "github": "https://github.com/USTC-StarTeam/TD3",
         "url": "https://arxiv.org/abs/2502.02854",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025td3.txt",
+        "cite": "zhang2025td3",
         "website": null
       }
     ],
@@ -1731,7 +1731,7 @@
         "author": "Can Chen et al., NeurIPS 2022",
         "github": "https://github.com/ggchen1997/bdi",
         "url": "https://arxiv.org/abs/2209.07507",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2022bidirectional.txt",
+        "cite": "chen2022bidirectional",
         "website": null
       },
       {
@@ -1739,7 +1739,7 @@
         "author": "Can Chen et al., ICML 2023",
         "github": "https://github.com/GGchen1997/BIB-ICML2023-Submission",
         "url": "https://arxiv.org/abs/2301.02931",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2023bidirectional.txt",
+        "cite": "chen2023bidirectional",
         "website": null
       }
     ],
@@ -1749,7 +1749,7 @@
         "author": "Nikolaos Tsilivis et al., ICML 2022 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2207.11727",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tsilivis2022robust.txt",
+        "cite": "tsilivis2022robust",
         "website": null
       },
       {
@@ -1757,7 +1757,7 @@
         "author": "Yihan Wu et al., 2022",
         "github": null,
         "url": "https://arxiv.org/abs/2211.10752",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wu2022towards.txt",
+        "cite": "wu2022towards",
         "website": null
       },
       {
@@ -1765,7 +1765,7 @@
         "author": "Dongyao Zhu et al., ICCV 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2307.12463",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhu2023calibration.txt",
+        "cite": "zhu2023calibration",
         "website": null
       },
       {
@@ -1773,7 +1773,7 @@
         "author": "Shijie Ma et al., PR 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2307.09165",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ma2024trustworthy.txt",
+        "cite": "ma2024trustworthy",
         "website": null
       },
       {
@@ -1781,7 +1781,7 @@
         "author": "Eric Xue et al., AAAI 2025",
         "github": "https://github.com/yumozi/GUARD",
         "url": "https://arxiv.org/abs/2403.10045",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/xue2025robust.txt",
+        "cite": "xue2025robust",
         "website": null
       },
       {
@@ -1789,7 +1789,7 @@
         "author": "Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025",
         "github": "https://github.com/Mming11/RobustDatasetDistillation",
         "url": "https://arxiv.org/abs/2402.04676",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/vahidian2025group.txt",
+        "cite": "vahidian2025group",
         "website": null
       }
     ],
@@ -1799,7 +1799,7 @@
         "author": "Qizhang Feng et al., NeurIPS 2023",
         "github": null,
         "url": "https://openreview.net/forum?id=xW0ayZxPWs",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023fair.txt",
+        "cite": "feng2023fair",
         "website": null
       },
       {
@@ -1807,7 +1807,7 @@
         "author": "Qihang Zhou et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2411.19623",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhou2024fair.txt",
+        "cite": "zhou2024fair",
         "website": null
       }
     ],
@@ -1817,7 +1817,7 @@
         "author": "Yongqi Li et al., 2021",
         "github": null,
         "url": "https://arxiv.org/abs/2104.08448",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2021text.txt",
+        "cite": "li2021text",
         "website": null
       },
       {
@@ -1825,7 +1825,7 @@
         "author": "Aru Maekawa et al., ACL 2023",
         "github": "https://github.com/arumaekawa/dataset-distillation-with-attention-labels",
         "url": "https://aclanthology.org/2023.acl-short.12/",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maekawa2023text.txt",
+        "cite": "maekawa2023text",
         "website": null
       },
       {
@@ -1833,7 +1833,7 @@
         "author": "Aru Maekawa et al., NAACL 2024",
         "github": "https://github.com/arumaekawa/DiLM",
         "url": "https://arxiv.org/abs/2404.00264",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/maekawa2024dilm.txt",
+        "cite": "maekawa2024dilm",
         "website": null
       },
       {
@@ -1841,7 +1841,7 @@
         "author": "Yefan Tao et al., EMNLP 2024",
         "github": null,
         "url": "https://aclanthology.org/2024.findings-emnlp.733/",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/tao2024textual.txt",
+        "cite": "tao2024textual",
         "website": null
       },
       {
@@ -1849,7 +1849,7 @@
         "author": "Huimin Lu et al., ICLR 2025",
         "github": "https://github.com/EminLU/UniDetox",
         "url": "https://arxiv.org/abs/2504.20500",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lu2025llm.txt",
+        "cite": "lu2025llm",
         "website": null
       },
       {
@@ -1857,7 +1857,7 @@
         "author": "Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2501.15108",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cai2025llm.txt",
+        "cite": "cai2025llm",
         "website": null
       },
       {
@@ -1865,7 +1865,7 @@
         "author": "Dang Nguyen & Zeman Li et al., ICML 2025",
         "github": "https://github.com/BigML-CS-UCLA/GRADMM",
         "url": "https://arxiv.org/abs/2502.17607",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2025llm.txt",
+        "cite": "nguyen2025llm",
         "website": null
       }
     ],
@@ -1875,7 +1875,7 @@
         "author": "Ziyu Wang & Yue Xu et al., CVPR 2024",
         "github": "https://github.com/yuz1wan/video_distillation",
         "url": "https://arxiv.org/abs/2312.00362",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2023dancing.txt",
+        "cite": "wang2023dancing",
         "website": null
       },
       {
@@ -1883,7 +1883,7 @@
         "author": "Yinjie Zhao et al., 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2412.00111",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2024video.txt",
+        "cite": "zhao2024video",
         "website": null
       },
       {
@@ -1891,7 +1891,7 @@
         "author": "Yang Chen et al., 2024",
         "github": "https://github.com/MCG-NJU/Video-DC",
         "url": "https://arxiv.org/abs/2412.21197",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chen2024video.txt",
+        "cite": "chen2024video",
         "website": null
       },
       {
@@ -1899,7 +1899,7 @@
         "author": "Guodong Ding et al., CVPR 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2503.14112",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2025video.txt",
+        "cite": "ding2025video",
         "website": null
       },
       {
@@ -1907,7 +1907,7 @@
         "author": "Ning Li et al., CVPR 2025 Workshop",
         "github": "https://github.com/liningresearch/Latent_Video_Dataset_Distillation",
         "url": "https://arxiv.org/abs/2504.17132",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025latent.txt",
+        "cite": "li2025latent",
         "website": null
       }
     ],
@@ -1917,7 +1917,7 @@
         "author": "Dmitry Medvedev et al., AIST 2020",
         "github": "https://github.com/dm-medvedev/dataset-distillation",
         "url": "https://arxiv.org/abs/2010.09839",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/medvedev2020tabular.txt",
+        "cite": "medvedev2020tabular",
         "website": null
       }
     ],
@@ -1927,7 +1927,7 @@
         "author": "Tao Feng & Jie Zhang et al., 2023",
         "github": null,
         "url": "https://arxiv.org/abs/2305.18076",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/feng2023hash.txt",
+        "cite": "feng2023hash",
         "website": null
       }
     ],
@@ -1937,7 +1937,7 @@
         "author": "Montesuma et al., ICASSP 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2309.07666",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/montesuma2024multi.txt",
+        "cite": "montesuma2024multi",
         "website": null
       }
     ],
@@ -1947,7 +1947,7 @@
         "author": "Haiyu Zhang et al., AAAI 2024",
         "github": null,
         "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28534",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2024super.txt",
+        "cite": "zhang2024super",
         "website": null
       }
     ],
@@ -1957,7 +1957,7 @@
         "author": "Zhanyu Liu et al., KDD 2024",
         "github": "https://github.com/zhyliu00/TimeSeriesCond",
         "url": "https://arxiv.org/abs/2403.07245",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/liu2024time.txt",
+        "cite": "liu2024time",
         "website": null
       },
       {
@@ -1965,7 +1965,7 @@
         "author": "Jianrong Ding & Zhanyu Liu et al., NeurIPS 2024",
         "github": "https://github.com/RafaDD/CondTSF",
         "url": "https://arxiv.org/abs/2406.02131",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ding2024time.txt",
+        "cite": "ding2024time",
         "website": null
       },
       {
@@ -1973,7 +1973,7 @@
         "author": "Hao Miao et al., VLDB 2025",
         "github": "https://github.com/uestc-liuzq/STdistillation",
         "url": "https://arxiv.org/abs/2410.20905",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/miao2025timedc.txt",
+        "cite": "miao2025timedc",
         "website": null
       }
     ],
@@ -1983,7 +1983,7 @@
         "author": "Fabian Ritter-Gutierrez et al., Interspeech 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2406.02963",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/fabian2024speech.txt",
+        "cite": "fabian2024speech",
         "website": null
       }
     ],
@@ -1993,7 +1993,7 @@
         "author": "Jingwen Ye et al., CVPR 2024",
         "github": null,
         "url": "https://arxiv.org/abs/2404.14006",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/ye2024datamodel.txt",
+        "cite": "ye2024datamodel",
         "website": null
       },
       {
@@ -2001,7 +2001,7 @@
         "author": "Junaid Iqbal Khan, 2024",
         "github": "https://github.com/algebraicdianuj/DC_U",
         "url": "https://arxiv.org/abs/2402.00195",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/khan2024unlearning.txt",
+        "cite": "khan2024unlearning",
         "website": null
       }
     ],
@@ -2011,7 +2011,7 @@
         "author": "Andrei Lupu et al., ICLR 2024",
         "github": "https://github.com/flairox/behaviour-distillation",
         "url": "https://arxiv.org/abs/2406.15042",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lupu2024bd.txt",
+        "cite": "lupu2024bd",
         "website": null
       },
       {
@@ -2019,7 +2019,7 @@
         "author": "Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop",
         "github": "https://github.com/ggflow123/DDRL",
         "url": "https://arxiv.org/abs/2407.20299",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/light2024rl.txt",
+        "cite": "light2024rl",
         "website": "https://datasetdistillation4rl.github.io/"
       },
       {
@@ -2027,7 +2027,7 @@
         "author": "Shiye Lei et al., NeurIPS 2024",
         "github": "https://github.com/LeavesLei/OBD",
         "url": "https://arxiv.org/abs/2410.22728",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/lei2024obl.txt",
+        "cite": "lei2024obl",
         "website": null
       }
     ],
@@ -2037,7 +2037,7 @@
         "author": "Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025",
         "github": "https://github.com/ichbill/LTDD",
         "url": "https://arxiv.org/abs/2408.14506",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025long.txt",
+        "cite": "zhao2025long",
         "website": null
       }
     ],
@@ -2047,7 +2047,7 @@
         "author": "Lechao Cheng et al., 2024",
         "github": "https://github.com/Kciiiman/DD_LNL",
         "url": "https://arxiv.org/abs/2411.11924",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cheng2024noisy.txt",
+        "cite": "cheng2024noisy",
         "website": null
       }
     ],
@@ -2057,7 +2057,7 @@
         "author": "Ding Qi et al., NeurIPS 2024",
         "github": null,
         "url": "https://openreview.net/forum?id=m8MElyzuwp",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2024dcod.txt",
+        "cite": "qi2024dcod",
         "website": null
       },
       {
@@ -2065,7 +2065,7 @@
         "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025",
         "github": "https://github.com/VILA-Lab/OD3",
         "url": "https://arxiv.org/abs/2506.01942",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/khatib2025od3.txt",
+        "cite": "khatib2025od3",
         "website": null
       }
     ],
@@ -2075,7 +2075,7 @@
         "author": "Deyu Bo et al., ICML 2025",
         "github": null,
         "url": "https://openreview.net/forum?id=Us8v5tDOFd",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/bo2025point.txt",
+        "cite": "bo2025point",
         "website": null
       },
       {
@@ -2083,7 +2083,7 @@
         "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2503.22154",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yim2025point.txt",
+        "cite": "yim2025point",
         "website": null
       }
     ]

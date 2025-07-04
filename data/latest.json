@@ -1,11 +1,11 @@
 {
-  "": [
+  "2025/07/01": [
     {
       "title": "Dataset Distillation via Vision-Language Category Prototype",
       "author": "Yawen Zou et al., ICCV 2025",
       "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
       "url": "https://arxiv.org/abs/2506.23580",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zou2025vlcp.txt",
+      "cite": "zou2025vlcp",
       "website": null
     },
     {
@@ -13,43 +13,53 @@
       "author": "Haoxuan Wang et al., ICCV 2025",
       "github": "https://github.com/hatchetProject/CaO2",
       "url": "https://arxiv.org/abs/2506.22637",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025cao2.txt",
+      "cite": "wang2025cao2",
       "website": null
-    },
+    }
+  ],
+  "2025/06/27": [
     {
       "title": "Point Cloud Dataset Distillation",
       "author": "Deyu Bo et al., ICML 2025",
       "github": null,
       "url": "https://openreview.net/forum?id=Us8v5tDOFd",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/bo2025point.txt",
+      "cite": "bo2025point",
       "website": null
     }
   ],
   "2025/06/05": [
     {
+      "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
+      "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025",
+      "github": "https://github.com/VILA-Lab/OD3",
+      "url": "https://arxiv.org/abs/2506.01942",
+      "cite": "khatib2025od3",
+      "website": null
+    },
+    {
       "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
       "author": "Ding Qi et al., CVPR 2025",
       "github": null,
       "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/qi2025unidd.txt",
+      "cite": "qi2025unidd",
       "website": null
-    }
-    ,{
+    },
+    {
       "title": "OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation",
       "author": "Xiao Cui et al., CVPR 2025",
       "github": null,
       "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/cui2025optical.txt",
+      "cite": "cui2025optical",
       "website": null
     }
   ],
-  "2025/06/02":[
+  "2025/06/02": [
     {
       "title": "Hyperbolic Dataset Distillation",
       "author": "Wenyuan Li & Guang Li et al., 2025",
       "github": null,
       "url": "https://arxiv.org/abs/2505.24623",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt",
+      "cite": "li2025hdd",
       "website": null
     },
     {
@@ -57,17 +67,17 @@
       "author": "Xin Zhang et al., 2025",
       "github": null,
       "url": "https://arxiv.org/abs/2505.14705",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhang2025mdd.txt",
+      "cite": "zhang2025mdd",
       "website": null
     }
   ],
-  "2025/05/28":[
+  "2025/05/28": [
     {
       "title": "MGD3: Mode-Guided Dataset Distillation using Diffusion Models",
       "author": "Jeffrey A. Chan-Santiago et al., ICML 2025",
       "github": "https://github.com/jachansantiago/mode_guidance/",
       "url": "https://arxiv.org/abs/2505.18963",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
+      "cite": "chan-santiago2025mgd3",
       "website": "https://jachansantiago.com/mode-guided-distillation/"
     },
     {
@@ -75,7 +85,7 @@
       "author": "Lin Zhao et al., ICML 2025",
       "github": "https://github.com/lin-zhao-resoLve/D3HR",
       "url": "https://arxiv.org/abs/2505.18399",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025d3hr.txt",
+      "cite": "zhao2025d3hr",
       "website": null
     }
   ]
