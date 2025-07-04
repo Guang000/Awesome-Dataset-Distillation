@@ -53,7 +53,7 @@ function mainPapers(data, container, counter=null){
             // 带_的是小标题
             if (section.includes("_")){
                 if(dic[section]){
-                    li_section.innerHTML = `<h5 class="section-subtitle title-large on-background-text" id=${section}>${dic[section]}</h5>`;
+                    li_section.innerHTML = `<h4 class="section-subtitle title-medium on-background-text" id=${section}>&nbsp;&nbsp;&nbsp;&nbsp;${dic[section]}</h4>`;
                 }
             }else{
                 if(dic[section]){

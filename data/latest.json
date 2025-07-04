@@ -1,4 +1,30 @@
 {
+  "": [
+    {
+      "title": "Dataset Distillation via Vision-Language Category Prototype",
+      "author": "Yawen Zou et al., ICCV 2025",
+      "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
+      "url": "https://arxiv.org/abs/2506.23580",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zou2025vlcp.txt",
+      "website": null
+    },
+    {
+      "title": "CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
+      "author": "Haoxuan Wang et al., ICCV 2025",
+      "github": "https://github.com/hatchetProject/CaO2",
+      "url": "https://arxiv.org/abs/2506.22637",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025cao2.txt",
+      "website": null
+    },
+    {
+      "title": "Point Cloud Dataset Distillation",
+      "author": "Deyu Bo et al., ICML 2025",
+      "github": null,
+      "url": "https://openreview.net/forum?id=Us8v5tDOFd",
+      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/bo2025point.txt",
+      "website": null
+    }
+  ],
   "2025/06/05": [
     {
       "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
@@ -50,34 +76,6 @@
       "github": "https://github.com/lin-zhao-resoLve/D3HR",
       "url": "https://arxiv.org/abs/2505.18399",
       "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhao2025d3hr.txt",
-      "website": null
-    },
-    {
-      "title": "Synthetic Text Generation for Training Large Language Models via Gradient Matching",
-      "author": "Dang Nguyen & Zeman Li et al., ICML 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2502.17607",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2025llm.txt",
-      "website": null
-    }
-  ],
-  "2025/05/23":[
-    {
-      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
-      "author": "Zekai Li & Xinhao Zhong et al., 2025",
-      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
-      "url": "https://arxiv.org/abs/2505.13300",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025ranking.txt",
-      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
-    }
-  ],
-  "2025/04/25": [
-    {
-      "title": "Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds",
-      "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2503.22154",
-      "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/yim2025point.txt",
       "website": null
     }
   ]

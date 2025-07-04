@@ -421,6 +421,9 @@
       }
     ],
     "generative": [
+
+    ],
+    "_gan": [
       {
         "title": "Synthesizing Informative Training Samples with GAN",
         "author": "https://github.com/vico-uoe/it-gan",
@@ -454,6 +457,24 @@
         "website": null
       },
       {
+        "title": "Data-to-Model Distillation: Data-Efficient Learning Framework",
+        "author": "Ahmad Sajedi & Samir Khaki et al., ECCV 2024",
+        "github": null,
+        "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sajedi2024data.txt",
+        "website": null
+      },
+      {
+        "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
+        "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
+        "github": "https://github.com/ndhg1213/H-GLaD",
+        "url": "https://arxiv.org/abs/2406.05704",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025hglad.txt",
+        "website": null
+      }
+    ],
+    "_diffusion": [
+      {
         "title": "Efficient Dataset Distillation via Minimax Diffusion",
         "author": "Jianyang Gu et al., CVPR 2024",
         "github": "https://github.com/vimar-gu/MinimaxDiffusion",
@@ -478,17 +499,9 @@
         "website": null
       },
       {
-        "title": "Data-to-Model Distillation: Data-Efficient Learning Framework",
-        "author": "Ahmad Sajedi & Samir Khaki et al., ECCV 2024",
-        "github": null,
-        "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/sajedi2024data.txt",
-        "website": null
-      },
-      {
-        "title": "https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model",
-        "author": "Generative Dataset Distillation Based on Diffusion Models",
-        "github": "Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop",
+        "title": "Generative Dataset Distillation Based on Diffusion Models",
+        "author": "Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop",
+        "github": "https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model",
         "url": "https://arxiv.org/abs/2408.08610",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/su2024diffusion.txt",
         "website": null
@@ -510,14 +523,6 @@
         "website": null
       },
       {
-        "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
-        "author": "Xinhao Zhong & Hao Fang et al., CVPR 2025",
-        "github": "https://github.com/ndhg1213/H-GLaD",
-        "url": "https://arxiv.org/abs/2406.05704",
-        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zhong2025hglad.txt",
-        "website": null
-      },
-      {
         "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
         "author": "Lin Zhao et al., ICML 2025",
         "github": "https://github.com/lin-zhao-resoLve/D3HR",
@@ -532,6 +537,22 @@
         "url": "https://arxiv.org/abs/2505.18963",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/chan-santiago2025mgd3.txt",
         "website": "https://jachansantiago.com/mode-guided-distillation/"
+      },
+      {
+        "title": "CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
+        "author": "Haoxuan Wang et al., ICCV 2025",
+        "github": "https://github.com/hatchetProject/CaO2",
+        "url": "https://arxiv.org/abs/2506.22637",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/wang2025cao2.txt",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation via Vision-Language Category Prototype",
+        "author": "Yawen Zou et al., ICCV 2025",
+        "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
+        "url": "https://arxiv.org/abs/2506.23580",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/zou2025vlcp.txt",
+        "website": null
       }
     ],
     "better-optimization": [
@@ -1842,7 +1863,7 @@
       {
         "title": "Synthetic Text Generation for Training Large Language Models via Gradient Matching",
         "author": "Dang Nguyen & Zeman Li et al., ICML 2025",
-        "github": null,
+        "github": "https://github.com/BigML-CS-UCLA/GRADMM",
         "url": "https://arxiv.org/abs/2502.17607",
         "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/nguyen2025llm.txt",
         "website": null
@@ -2049,6 +2070,14 @@
       }
     ],
     "point": [
+      {
+        "title": "Point Cloud Dataset Distillation",
+        "author": "Deyu Bo et al., ICML 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=Us8v5tDOFd",
+        "cite": "https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/bo2025point.txt",
+        "website": null
+      },
       {
         "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
         "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
