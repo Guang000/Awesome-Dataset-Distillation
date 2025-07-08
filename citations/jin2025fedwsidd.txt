@@ -1,0 +1,6 @@
+@inproceedings{jin2025fedwsidd,
+  title={{FedWSIDD}: Federated Whole Slide Image Classification via Dataset Distillation},
+  author={Jin, Haolong and Liu, Shenglin and Cong, Cong and Feng, Qingmin and Liu, Yongzhi and Huang, Lina and Hu, Yingzi},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+  year={2025}
+}
