@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-249-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-250-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -30,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/06/05] [OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html) (Xiao Cui et al., CVPR 2025) [:book:](./citations/cui2025optical.txt)
 + [2025/06/02] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025hdd.txt)
 + [2025/06/02] [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., 2025) [:book:](./citations/zhang2025mdd.txt)
-+ [2025/05/28] [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe_with_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) [:book:](./citations/chan-santiago2025mgd3.txt)
 
 ## Contents
 - [Main](#main)
