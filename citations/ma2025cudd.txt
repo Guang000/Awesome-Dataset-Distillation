@@ -2,6 +2,5 @@
   title={Curriculum dataset distillation},
   author={Ma, Zhiheng and Cao, Anjia and Yang, Funing and Gong, Yihong and Wei, Xing},
   journal={IEEE Transactions on Image Processing},
-  year={2025},
-  publisher={IEEE}
+  year={2025}
 }
