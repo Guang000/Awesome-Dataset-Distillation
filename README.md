@@ -246,7 +246,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Enhancing Dataset Distillation via Non-Critical Region Refinement](https://arxiv.org/abs/2503.18267) (Minh-Tuan Tran et al., CVPR 2025) [:octocat:](https://github.com/tmtuan1307/NRR-DD) [:book:](./citations/tran2025nrrdd.txt)
 + [FocusDD: Real-World Scene Infusion for Robust Dataset Distillation](https://arxiv.org/abs/2501.06405) (Youbin Hu et al., 2025) [:book:](./citations/hu2025focusdd.txt)
 + [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) [:book:](./citations/cui2025cvdd.txt)
-+ [Curriculum Dataset Distillation](https://ieeexplore.ieee.org/abstract/document/11063689) (Zhiheng Ma & Anjia Cao et al., 2024) [:octocat:](https://github.com/MIV-XJTU/CUDD)  [:book:](./citations/ma2025cudd.txt)
++ [Curriculum Dataset Distillation](https://ieeexplore.ieee.org/abstract/document/11063689) (Zhiheng Ma & Anjia Cao et al., IEEE Transactions on Image Processing, 2025) [:octocat:](https://github.com/MIV-XJTU/CUDD)  [:book:](./citations/ma2025cudd.txt)
 
 <a name="multi" />
 
