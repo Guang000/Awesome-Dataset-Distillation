@@ -1,6 +1,0 @@
-@article{ma2024cudd,
-  title={Curriculum Dataset Distillation},
-  author={Ma, Zhiheng and Cao, Anjia and Yang, Funing and Wei, Xing},
-  journal={arXiv preprint arXiv:2405.09150},
-  year={2024}
-}
