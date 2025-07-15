@@ -1,6 +1,0 @@
-@article{liu2023wasserstein,
-  title={Dataset Distillation via the Wasserstein Metric}, 
-  author={Liu, Haoyang and Li, Yijiang and Xing, Tiancheng and Dalal, Vibhu and Li, Luwei and He, Jingrui and Wang, Haohan},
-  journal={arXiv preprint arXiv:2311.18531},
-  year={2023}
-}

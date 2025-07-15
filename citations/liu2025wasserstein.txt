@@ -1,0 +1,6 @@
+@inproceedings{liu2025wasserstein,
+  title={Dataset Distillation via the Wasserstein Metric}, 
+  author={Liu, Haoyang and Li, Yijiang and Xing, Tiancheng and Wang, Peiran and Dalal, Vibhu and Li, Luwei and He, Jingrui and Wang, Haohan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
