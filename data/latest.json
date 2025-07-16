@@ -1,13 +1,41 @@
 {
-  "2025/07/01": [
+  "2025/07/16": [
     {
-      "title": "Dataset Distillation via Vision-Language Category Prototype",
-      "author": "Yawen Zou et al., ICCV 2025",
-      "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
-      "url": "https://arxiv.org/abs/2506.23580",
-      "cite": "zou2025vlcp",
+      "title": "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
+      "author": "Ruonan Yu et al., ICCV 2025",
+      "github": "https://github.com/LINs-lab/GIFT",
+      "url": "https://arxiv.org/abs/2408.08201",
+      "cite": "yu2025helio",
       "website": null
     },
+    {
+      "title": "Dataset Distillation with Feature Matching through the Wasserstein Metric",
+      "author": "Haoyang Liu et al., ICCV 2025",
+      "github": "https://github.com/Liu-Hy/WMDD",
+      "url": "https://arxiv.org/abs/2311.18531",
+      "cite": "liu2025wasserstein",
+      "website": "https://liu-hy.github.io/WMDD/"
+    }
+  ],
+  "2025/07/08": [
+    {
+      "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
+      "author": "Linfeng Ye et al., 2025",
+      "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
+      "url": "https://arxiv.org/abs/2507.04619",
+      "cite": "ye2025igds",
+      "website": null
+    },
+    {
+      "title": "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
+      "author": "Haolong Jin et al., MICCAI 2025",
+      "github": "https://github.com/f1oNae/FedWSIDD",
+      "url": "https://arxiv.org/abs/2506.15365",
+      "cite": "jin2025fedwsidd",
+      "website": null
+    }
+  ],
+  "2025/07/01": [
     {
       "title": "CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
       "author": "Haoxuan Wang et al., ICCV 2025",
@@ -60,32 +88,6 @@
       "github": null,
       "url": "https://arxiv.org/abs/2505.24623",
       "cite": "li2025hdd",
-      "website": null
-    },
-    {
-      "title": "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation",
-      "author": "Xin Zhang et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2505.14705",
-      "cite": "zhang2025mdd",
-      "website": null
-    }
-  ],
-  "2025/05/28": [
-    {
-      "title": "MGD3: Mode-Guided Dataset Distillation using Diffusion Models",
-      "author": "Jeffrey A. Chan-Santiago et al., ICML 2025",
-      "github": "https://github.com/jachansantiago/mode_guidance/",
-      "url": "https://arxiv.org/abs/2505.18963",
-      "cite": "chan-santiago2025mgd3",
-      "website": "https://jachansantiago.com/mode-guided-distillation/"
-    },
-    {
-      "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
-      "author": "Lin Zhao et al., ICML 2025",
-      "github": "https://github.com/lin-zhao-resoLve/D3HR",
-      "url": "https://arxiv.org/abs/2505.18399",
-      "cite": "zhao2025d3hr",
       "website": null
     }
   ]

@@ -176,14 +176,6 @@
         "website": "https://datadistillation.github.io/DataDAM/"
       },
       {
-        "title": "Dataset Distillation via the Wasserstein Metric",
-        "author": "Haoyang Liu et al., 2023",
-        "github": null,
-        "url": "https://arxiv.org/abs/2311.18531",
-        "cite": "liu2023wasserstein",
-        "website": null
-      },
-      {
         "title": "M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy",
         "author": "Hansong Zhang & Shikun Li et al., AAAI 2024",
         "github": "https://github.com/Hansong-Zhang/M3D",
@@ -238,6 +230,14 @@
         "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html",
         "cite": "cui2025optical",
         "website": null
+      },
+      {
+        "title": "Dataset Distillation with Feature Matching through the Wasserstein Metric",
+        "author": "Haoyang Liu et al., ICCV 2025",
+        "github": "https://github.com/Liu-Hy/WMDD",
+        "url": "https://arxiv.org/abs/2311.18531",
+        "cite": "liu2025wasserstein",
+        "website": "https://liu-hy.github.io/WMDD/"
       },
       {
         "title": "Hyperbolic Dataset Distillation",
@@ -553,6 +553,14 @@
         "url": "https://arxiv.org/abs/2506.23580",
         "cite": "zou2025vlcp",
         "website": null
+      },
+      {
+        "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
+        "author": "Linfeng Ye et al., 2025",
+        "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
+        "url": "https://arxiv.org/abs/2507.04619",
+        "cite": "ye2025igds",
+        "website": null
       }
     ],
     "better-optimization": [
@@ -823,6 +831,14 @@
         "url": "https://arxiv.org/abs/2405.14736",
         "cite": "shang2025gift",
         "website": null
+      },
+      {
+        "title": "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
+        "author": "Ruonan Yu et al., ICCV 2025",
+        "github": "https://github.com/LINs-lab/GIFT",
+        "url": "https://arxiv.org/abs/2408.08201",
+        "cite": "yu2025helio",
+        "website": null
       }
     ],
     "quantization": [
@@ -909,14 +925,6 @@
         "website": null
       },
       {
-        "title": "Curriculum Dataset Distillation",
-        "author": "Zhiheng Ma & Anjia Cao et al., 2024",
-        "github": null,
-        "url": "https://arxiv.org/abs/2405.09150",
-        "cite": "ma2024cudd",
-        "website": null
-      },
-      {
         "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
         "author": "Xin Zhang et al., ICLR 2025",
         "github": "https://github.com/zhangxin-xd/UFC",
@@ -938,6 +946,14 @@
         "github": "https://github.com/VILA-Lab/DELT",
         "url": "https://arxiv.org/abs/2411.19946",
         "cite": "shen2025delt",
+        "website": null
+      },
+      {
+        "title": "Curriculum Dataset Distillation",
+        "author": "Zhiheng Ma & Anjia Cao et al., TIP 2025",
+        "github": "https://github.com/MIV-XJTU/CUDD",
+        "url": "https://arxiv.org/abs/2405.09150",
+        "cite": "ma2025cudd",
         "website": null
       },
       {
@@ -1364,6 +1380,14 @@
         "github": null,
         "url": "https://arxiv.org/abs/2408.09709",
         "cite": "cong2024dataset",
+        "website": null
+      },
+      {
+        "title": "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
+        "author": "Haolong Jin et al., MICCAI 2025",
+        "github": "https://github.com/f1oNae/FedWSIDD",
+        "url": "https://arxiv.org/abs/2506.15365",
+        "cite": "jin2025fedwsidd",
         "website": null
       }
     ],
