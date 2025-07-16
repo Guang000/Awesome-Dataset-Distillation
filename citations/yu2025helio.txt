@@ -1,0 +1,6 @@
+@inproceedings{yu2025helio,
+  title={Heavy Labels Out! Dataset Distillation with Label Space Lightening}, 
+  author={Yu, Ruonan and Liu, Songhua and Chen, Zigeng and Ye, Jingwen and Wang, Xinchao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
