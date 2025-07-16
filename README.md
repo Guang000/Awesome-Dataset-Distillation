@@ -21,7 +21,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + [2025/07/16] [Heavy Labels Out! Dataset Distillation with Label Space Lightening](https://arxiv.org/abs/2408.08201) (Ruonan Yu et al., ICCV 2025) [:book:](./citations/yu2025helio.txt)
-+ [2025/07/16] [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
++ [2025/07/16] [Dataset Distillation with Feature Matching through the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
 + [2025/07/08] [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye et al., 2025) [:book:](./citations/ye2025igds.txt)
 + [2025/07/08] [FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation](https://arxiv.org/abs/2506.15365) (Haolong Jin et al., MICCAI 2025) [:octocat:](https://github.com/f1oNae/FedWSIDD) [:book:](./citations/jin2025fedwsidd.txt)
 + [2025/07/01] [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou et al., ICCV 2025) [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) [:book:](./citations/zou2025vlcp.txt)
@@ -122,7 +122,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Diversified Semantic Distribution Matching for Dataset Distillation](https://dl.acm.org/doi/10.1145/3664647.3680900) (Hongcheng Li et al., MM 2024) [:octocat:](https://github.com/Li-Hongcheng/DSDM) [:book:](./citations/li2024dsdm.txt)
 + [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
 + [OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html) (Xiao Cui et al., CVPR 2025) [:book:](./citations/cui2025optical.txt)
-+ [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
++ [Dataset Distillation with Feature Matching through the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
 + [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025hdd.txt)
  
 <a name="kernel" />
