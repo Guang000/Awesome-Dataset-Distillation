@@ -557,7 +557,7 @@
       {
         "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
         "author": "Linfeng Ye et al., 2025",
-        "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
+        "github": null,
         "url": "https://arxiv.org/abs/2507.04619",
         "cite": "ye2025igds",
         "website": null
@@ -835,7 +835,7 @@
       {
         "title": "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
         "author": "Ruonan Yu et al., ICCV 2025",
-        "github": "https://github.com/LINs-lab/GIFT",
+        "github": null,
         "url": "https://arxiv.org/abs/2408.08201",
         "cite": "yu2025helio",
         "website": null
