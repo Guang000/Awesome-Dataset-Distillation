@@ -177,6 +177,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe_with_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) [:book:](./citations/chan-santiago2025mgd3.txt)
 + [CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2506.22637) (Haoxuan Wang et al., ICCV 2025) [:octocat:](https://github.com/hatchetProject/CaO2) [:book:](./citations/wang2025cao2.txt)
 + [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou et al., ICCV 2025) [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) [:book:](./citations/zou2025vlcp.txt)
++ [Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling](https://arxiv.org/abs/2507.03331) (Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) [:octocat:](https://github.com/SumomoTaku/DiffGuideSamp) [:book:](./citations/li2025diff.txt)
 + [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye et al., 2025) [:book:](./citations/ye2025igds.txt)
 
 
