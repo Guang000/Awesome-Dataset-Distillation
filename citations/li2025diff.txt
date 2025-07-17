@@ -1,0 +1,6 @@
+@inproceedings{li2025diff,
+  title={Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling}, 
+  author={Li, Mingzhuo and Li, Guang and Mao, Jiafeng and Ye, Linfeng and Ogawa, Takahiro and Haseyama, Miki},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Workshop},
+  year={2025}
+}
