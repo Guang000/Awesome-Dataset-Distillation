@@ -1,0 +1,7 @@
+@inproceedings{li2025generative,
+  title={Generative Dataset Distillation Based on Self-knowledge Distillation},
+  author={Li, Longzhen and Li, Guang and Togo, Ren and Maeda, Keisuke and Ogawa, Takahiro and Haseyama, Miki},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2025}
+}
