@@ -1,0 +1,6 @@
+@inproceedings{bao2025ruo,
+  title={Dataset Distillation as Data Compression: A Rate-Utility Perspective}, 
+  author={Bao, Youneng and Liu, Yiping and Chen, Zhuo and Liang, Yongsheng and Li, Mu and Ma, Kede},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
