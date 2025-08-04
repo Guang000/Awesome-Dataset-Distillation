@@ -2,8 +2,6 @@ import pandas as pd
 import json
 from datetime import datetime
 
-from pandas.core.interchange.dataframe_protocol import DataFrame
-
 
 def main():
     # obtain all articles
@@ -14,13 +12,16 @@ def main():
         for arr_articles in data_all[key1].values():
             df_section = pd.DataFrame(arr_articles)
             df_all = pd.concat([df_all, df_section], ignore_index=True) if df_all is not None else df_section
-
-    # fecth latest articles
+    head_df = df_all.head()
+    with open("data/test.json", "w", encoding="utf-8") as f:
+        json.dump(head_df, f, ensure_ascii=False, indent=2)
+    # fetch latest articles
     list_latest = pd.read_json("./data/latest_names.jsonl", lines=True)
     titles = list_latest["title"]
     data_latest = df_all.loc[df_all["cite"].isin(titles)]
 
     # change df to dict, adding date
+    # e.g. "2000/01/01": [dict_article1, dict_article2]
     dict_latest = {}
     for date in list(dict.fromkeys(list_latest["date"])):
         names = list_latest.loc[list_latest["date"] == date]["title"]
@@ -30,7 +31,7 @@ def main():
             df = data_latest.loc[data_latest["cite"] == name]
             articles.append(df.iloc[0].to_dict())
         dict_latest[date]=articles
-
+    print(dict_latest)
     # save to file
     with open("data/latest.json", "w", encoding="utf-8") as f:
         json.dump(dict_latest, f, ensure_ascii=False, indent=2)

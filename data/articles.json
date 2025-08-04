@@ -38,6 +38,14 @@
         "website": null
       },
       {
+        "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
+        "url": "https://arxiv.org/abs/2507.05914",
+        "author": "Sheng-Feng Yu et al., ICLR 2025",
+        "github": null,
+        "cite": "yu2025self",
+        "website": null
+      },
+      {
         "title": "Dataset Distillation by Matching Training Trajectories",
         "author": "George Cazenavette et al., CVPR 2022",
         "github": "https://github.com/georgecazenavette/mtt-distillation",
@@ -1068,7 +1076,7 @@
         "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
         "author": "Sheng-Feng Yu et al., ICLR 2025",
         "github": null,
-        "url": "https://arxiv.org/abs/2507.21455",
+        "url": "https://arxiv.org/abs/2507.05914",
         "cite": "yu2025self",
         "website": null
       }

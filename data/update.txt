@@ -1,0 +1,3 @@
+shin2025ddif-*-[Dataset Distillation as Data Compression: A ate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe_with_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) [:book:](./citations/bao2025ruo.txt)
+sajedi2024data-*-[Generative Dataset Distillation Based on Self-knowledge Distillation](https://arxiv.org/abs/2501.04202) (Longzhen Li & Guang Li et al., ICASSP 2025) [:book:](./citations/li2025generative.txt)
+*yu2025self-*-[Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://arxiv.org/abs/2507.05914) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
