@@ -1,4 +1,14 @@
 {
+  "2025/07/25": [
+    {
+      "title": "Dataset Distillation as Data Compression: A Rate-Utility Perspective",
+      "author": "Youneng Bao & Yiping Liu et al., ICCV 2025",
+      "github": "https://github.com/nouise/DD-RUO",
+      "url": "https://arxiv.org/abs/2507.17221",
+      "cite": "bao2025ruo",
+      "website": "https://nouise.github.io/DD-RUO/"
+    }
+  ],
   "2025/07/16": [
     {
       "title": "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
@@ -20,7 +30,7 @@
   "2025/07/08": [
     {
       "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
-      "author": "Linfeng Ye et al., 2025",
+      "author": "Linfeng Ye & Guang Li et al., 2025",
       "github": null,
       "url": "https://arxiv.org/abs/2507.04619",
       "cite": "ye2025igds",
@@ -38,7 +48,7 @@
   "2025/07/01": [
     {
       "title": "Dataset Distillation via Vision-Language Category Prototype",
-      "author": "Yawen Zou et al., ICCV 2025",
+      "author": "Yawen Zou & Guang Li et al., ICCV 2025",
       "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
       "url": "https://arxiv.org/abs/2506.23580",
       "cite": "zou2025vlcp",
@@ -78,14 +88,6 @@
       "github": null,
       "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
       "cite": "qi2025unidd",
-      "website": null
-    },
-    {
-      "title": "OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation",
-      "author": "Xiao Cui et al., CVPR 2025",
-      "github": null,
-      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html",
-      "cite": "cui2025optical",
       "website": null
     }
   ]

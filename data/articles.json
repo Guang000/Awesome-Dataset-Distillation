@@ -418,6 +418,14 @@
         "url": "https://arxiv.org/abs/2503.04835",
         "cite": "shin2025ddif",
         "website": null
+      },
+      {
+        "title": "Dataset Distillation as Data Compression: A Rate-Utility Perspective",
+        "author": "Youneng Bao & Yiping Liu et al., ICCV 2025",
+        "github": "https://github.com/nouise/DD-RUO",
+        "url": "https://arxiv.org/abs/2507.17221",
+        "cite": "bao2025ruo",
+        "website": "https://nouise.github.io/DD-RUO/"
       }
     ],
     "generative": [
@@ -462,6 +470,14 @@
         "github": null,
         "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6020_ECCV_2024_paper.php",
         "cite": "sajedi2024data",
+        "website": null
+      },
+      {
+        "title": "Generative Dataset Distillation Based on Self-knowledge Distillation",
+        "author": "Longzhen Li & Guang Li et al., ICASSP 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2501.04202",
+        "cite": "li2025generative",
         "website": null
       },
       {
@@ -1052,7 +1068,7 @@
         "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
         "author": "Sheng-Feng Yu et al., ICLR 2025",
         "github": null,
-        "url": "https://openreview.net/forum?id=2RfWRKwxYh",
+        "url": "https://arxiv.org/abs/2507.05914",
         "cite": "yu2025self",
         "website": null
       }
