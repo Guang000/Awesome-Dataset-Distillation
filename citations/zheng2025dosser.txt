@@ -1,0 +1,6 @@
+@inproceedings{zheng2025dosser,
+  title={Improving Noise Efficiency in Privacy-preserving Dataset Distillation}, 
+  author={Zheng, Runkai and Dasu, Vishnu Asutosh and Wang, Yinong Oliver and Wang, Haohan and Torre, Fernando De la},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
