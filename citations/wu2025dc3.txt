@@ -1,0 +1,6 @@
+@article{wu2025dc3,
+  title={Dataset Condensation with Color Compensation},
+  author={Wu, Huyu and Su, Duo and Hou, Junjie and Li, Guang},
+  journal={arXiv preprint arXiv:2508.01139},
+  year={2025}
+}
