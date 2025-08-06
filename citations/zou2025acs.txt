@@ -1,6 +1,6 @@
 @inproceedings{zou2025acs,
     title={Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling}, 
-    author={Lexiao Zou and Gongwei Chen and Yanda Chen and Miao Zhang},
-    year={2025},
+    author={Zou, Lexiao and Chen, Gongwei and Chen, Yanda and Zhang, Miao},
     booktitle={Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)},
+    year={2025},
 }
