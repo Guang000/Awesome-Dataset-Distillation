@@ -593,6 +593,22 @@
         "url": "https://arxiv.org/abs/2507.04619",
         "cite": "ye2025igds",
         "website": null
+      },
+      {
+        "title": "Dataset Condensation with Color Compensation",
+        "author": "Huyu Wu et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2508.01139",
+        "cite": "wu2025dc3",
+        "website": null
+      },
+      {
+        "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
+        "author": "Lexiao Zou et al., ICME 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2508.01264",
+        "cite": "zou2025acs",
+        "website": null
       }
     ],
     "better-optimization": [
@@ -1330,6 +1346,14 @@
         "github": null,
         "url": "https://ieeexplore.ieee.org/abstract/document/10622462?casa_token=tHyZ-Pz7DpUAAAAA:vmCYI4cUcKzMluUsASHhIhr0CvBkjzBR-0N7REVj7aFN5hT5TinQTpSEsE0Bo3Fl8auh52Fipm_v",
         "cite": "chai2024backdoor",
+        "website": null
+      },
+      {
+        "title": "Improving Noise Efficiency in Privacy-preserving Dataset Distillation",
+        "author": "Runkai Zheng et al., ICCV 2025",
+        "github": "https://github.com/humansensinglab/Dosser ",
+        "url": "https://arxiv.org/abs/2508.01749",
+        "cite": "zheng2025dosser",
         "website": null
       }
     ],

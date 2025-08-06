@@ -12,9 +12,6 @@ def main():
         for arr_articles in data_all[key1].values():
             df_section = pd.DataFrame(arr_articles)
             df_all = pd.concat([df_all, df_section], ignore_index=True) if df_all is not None else df_section
-    head_df = df_all.head()
-    with open("data/test.json", "w", encoding="utf-8") as f:
-        json.dump(head_df, f, ensure_ascii=False, indent=2)
     # fetch latest articles
     list_latest = pd.read_json("./data/latest_names.jsonl", lines=True)
     titles = list_latest["title"]
@@ -31,7 +28,7 @@ def main():
             df = data_latest.loc[data_latest["cite"] == name]
             articles.append(df.iloc[0].to_dict())
         dict_latest[date]=articles
-    print(dict_latest)
+#     print(dict_latest)
     # save to file
     with open("data/latest.json", "w", encoding="utf-8") as f:
         json.dump(dict_latest, f, ensure_ascii=False, indent=2)

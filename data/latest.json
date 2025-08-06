@@ -1,4 +1,32 @@
 {
+  "2025/08/06": [
+    {
+      "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
+      "author": "Lexiao Zou et al., ICME 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2508.01264",
+      "cite": "zou2025acs",
+      "website": null
+    }
+  ],
+  "2025/08/05": [
+    {
+      "title": "Dataset Condensation with Color Compensation",
+      "author": "Huyu Wu et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2508.01139",
+      "cite": "wu2025dc3",
+      "website": null
+    },
+    {
+      "title": "Improving Noise Efficiency in Privacy-preserving Dataset Distillation",
+      "author": "Runkai Zheng et al., ICCV 2025",
+      "github": "https://github.com/humansensinglab/Dosser ",
+      "url": "https://arxiv.org/abs/2508.01749",
+      "cite": "zheng2025dosser",
+      "website": null
+    }
+  ],
   "2025/07/25": [
     {
       "title": "Dataset Distillation as Data Compression: A Rate-Utility Perspective",
@@ -60,34 +88,6 @@
       "github": "https://github.com/hatchetProject/CaO2",
       "url": "https://arxiv.org/abs/2506.22637",
       "cite": "wang2025cao2",
-      "website": null
-    }
-  ],
-  "2025/06/27": [
-    {
-      "title": "Point Cloud Dataset Distillation",
-      "author": "Deyu Bo et al., ICML 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=Us8v5tDOFd",
-      "cite": "bo2025point",
-      "website": null
-    }
-  ],
-  "2025/06/05": [
-    {
-      "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
-      "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025",
-      "github": "https://github.com/VILA-Lab/OD3",
-      "url": "https://arxiv.org/abs/2506.01942",
-      "cite": "khatib2025od3",
-      "website": null
-    },
-    {
-      "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
-      "author": "Ding Qi et al., CVPR 2025",
-      "github": null,
-      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
-      "cite": "qi2025unidd",
       "website": null
     }
   ]

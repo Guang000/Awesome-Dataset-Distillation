@@ -1,3 +1,3 @@
-shin2025ddif-*-[Dataset Distillation as Data Compression: A ate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe_with_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) [:book:](./citations/bao2025ruo.txt)
-sajedi2024data-*-[Generative Dataset Distillation Based on Self-knowledge Distillation](https://arxiv.org/abs/2501.04202) (Longzhen Li & Guang Li et al., ICASSP 2025) [:book:](./citations/li2025generative.txt)
-*yu2025self-*-[Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://arxiv.org/abs/2507.05914) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
+ye2025igds-*-[Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., 2025) [:book:](./citations/wu2025dc3.txt)
+chai2024backdoor-*-[Improving Noise Efficiency in Privacy-preserving Dataset Distillation](https://arxiv.org/abs/2508.01749) (Runkai Zheng et al., ICCV 2025) [:octocat:](https://github.com/humansensinglab/Dosser) [:book:](./citations/zheng2025dosser.txt)
+wu2025dc3-*-[Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling](https://arxiv.org/abs/2508.01264) (Lexiao Zou et al., ICME 2025) [:book:](./citations/zou2025acs.txt)
