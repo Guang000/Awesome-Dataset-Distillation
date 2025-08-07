@@ -2,5 +2,5 @@
     title={Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling}, 
     author={Zou, Lexiao and Chen, Gongwei and Chen, Yanda and Zhang, Miao},
     booktitle={Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)},
-    year={2025},
+    year={2025}
 }
