@@ -38,14 +38,6 @@
         "website": null
       },
       {
-        "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
-        "url": "https://arxiv.org/abs/2507.05914",
-        "author": "Sheng-Feng Yu et al., ICLR 2025",
-        "github": null,
-        "cite": "yu2025self",
-        "website": null
-      },
-      {
         "title": "Dataset Distillation by Matching Training Trajectories",
         "author": "George Cazenavette et al., CVPR 2022",
         "github": "https://github.com/georgecazenavette/mtt-distillation",
@@ -442,8 +434,8 @@
     "_gan": [
       {
         "title": "Synthesizing Informative Training Samples with GAN",
-        "author": "https://github.com/vico-uoe/it-gan",
-        "github": "Bo Zhao et al., NeurIPS 2022 Workshop",
+        "author": "Bo Zhao et al., NeurIPS 2022 Workshop",
+        "github": "https://github.com/vico-uoe/it-gan",
         "url": "https://arxiv.org/abs/2204.07513",
         "cite": "zhao2022synthesizing",
         "website": null
@@ -470,6 +462,14 @@
         "github": null,
         "url": "https://arxiv.org/abs/2309.07698",
         "cite": "zhang2023dc",
+        "website": null
+      },
+      {
+        "title": "Generative Dataset Distillation: Balancing Global Structure and Local Details",
+        "author": "Longzhen Li & Guang Li et al., CVPR 2024 Workshop",
+        "github": null,
+        "url": "https://arxiv.org/abs/2404.17732",
+        "cite": "li2024generative",
         "website": null
       },
       {
@@ -513,14 +513,6 @@
         "url": "https://arxiv.org/abs/2407.15138",
         "cite": "su2024d4m",
         "website": "https://junjie31.github.io/D4M/"
-      },
-      {
-        "title": "Generative Dataset Distillation: Balancing Global Structure and Local Details",
-        "author": "Longzhen Li & Guang Li et al., CVPR 2024 Workshop",
-        "github": null,
-        "url": "https://arxiv.org/abs/2404.17732",
-        "cite": "li2024generative",
-        "website": null
       },
       {
         "title": "Generative Dataset Distillation Based on Diffusion Models",
@@ -1285,9 +1277,9 @@
         "website": null
       },
       {
-        "title": "https://github.com/DingfanChen/Private-Set",
-        "author": "Private Set Generation with Discriminative Information",
-        "github": "Dingfan Chen et al., NeurIPS 2022",
+        "title": "Private Set Generation with Discriminative Information",
+        "author": "Dingfan Chen et al., NeurIPS 2022",
+        "github": "https://github.com/DingfanChen/Private-Set",
         "url": "https://arxiv.org/abs/2211.04446",
         "cite": "chen2022privacy",
         "website": null
