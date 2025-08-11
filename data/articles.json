@@ -597,10 +597,10 @@
       {
         "title": "Dataset Condensation with Color Compensation",
         "author": "Huyu Wu et al., 2025",
-        "github": null,
+        "github": "https://github.com/528why/Dataset-Condensation-with-Color-Compensation",
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
-        "website": null
+        "website": "https://528why.github.io/DC3-Page/"
       },
       {
         "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
