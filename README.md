@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/08/19] [ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck](https://openreview.net/forum?id=agtwOsnLUB) (Zheng Zhou et al., ICML 2025) [:globe_with_meridians:](https://zhouzhengqd.github.io/rome.page/) [:octocat:](https://github.com/zhouzhengqd/ROME) [:book:](./citations/zhou2025rome.txt)
 + [2025/08/19] [Distilling Reinforcement Learning into Single-Batch Datasets](https://arxiv.org/abs/2508.09283) (Connor Wilhelm et al., ECAI 2025) [:book:](./citations/wilhelm2025rl.txt)
 + [2025/08/06] [Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling](https://arxiv.org/abs/2508.01264) (Lexiao Zou et al., ICME 2025) [:book:](./citations/zou2025acs.txt)
 + [2025/08/05] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
@@ -444,6 +445,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Towards Trustworthy Dataset Distillation](https://arxiv.org/abs/2307.09165) (Shijie Ma et al., PR 2024) [:octocat:](https://github.com/mashijie1028/TrustDD/)  [:book:](./citations/ma2024trustworthy.txt)
 + [Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., AAAI 2025) [:octocat:](https://github.com/yumozi/GUARD) [:book:](./citations/xue2025robust.txt)
 + [Group Distributionally Robust Dataset Distillation with Risk Minimization](https://arxiv.org/abs/2402.04676) (Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025) [:octocat:](https://github.com/Mming11/RobustDatasetDistillation) [:book:](./citations/vahidian2025group.txt)
++ [ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck](https://openreview.net/forum?id=agtwOsnLUB) (Zheng Zhou et al., ICML 2025) [:globe_with_meridians:](https://zhouzhengqd.github.io/rome.page/) [:octocat:](https://github.com/zhouzhengqd/ROME) [:book:](./citations/zhou2025rome.txt)
 
 <a name="fairness" />
 
