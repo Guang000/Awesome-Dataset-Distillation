@@ -1,6 +1,6 @@
 @inproceedings{wilhelm2025rl,
   title={Distilling Reinforcement Learning into Single-Batch Datasets},
   author={Wilhelm, Connor and Ventura, Dan},
-  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  booktitle={Proceedings of the European Conference on Artificial Intelligence (ECAI)},
   year={2025}
 }
