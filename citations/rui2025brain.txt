@@ -1,0 +1,6 @@
+@inproceedings{rui2025brain,
+  title={Multi-modal Vision Pre-training for Medical Image Analysis},
+  author={Rui, Shaohao and Chen, Lingzhi and Tang, Zhenyu and Wang, Lilong and Liu, Mianxin and Zhang, Shaoting and Wang, Xiaosong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
+}
