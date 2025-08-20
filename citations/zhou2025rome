@@ -1,0 +1,6 @@
+@inproceedings{zhou2025rome,
+  title={ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck},
+  author={Zhou, Zheng and Feng, Wenquan and Zhang, Qiaosheng and Lyu, Shuchang and Zhao, Qi and Cheng, Guangliang},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2025}
+}
