@@ -555,6 +555,14 @@
         "website": "https://jachansantiago.com/mode-guided-distillation/"
       },
       {
+        "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
+        "author": "Lexiao Zou et al., ICME 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2508.01264",
+        "cite": "zou2025acs",
+        "website": null
+      },
+      {
         "title": "CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
         "author": "Haoxuan Wang et al., ICCV 2025",
         "github": "https://github.com/hatchetProject/CaO2",
@@ -593,14 +601,6 @@
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
         "website": "https://528why.github.io/DC3-Page/"
-      },
-      {
-        "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
-        "author": "Lexiao Zou et al., ICME 2025",
-        "github": null,
-        "url": "https://arxiv.org/abs/2508.01264",
-        "cite": "zou2025acs",
-        "website": null
       }
     ],
     "better-optimization": [
