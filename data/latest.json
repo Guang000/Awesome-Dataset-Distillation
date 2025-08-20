@@ -1,4 +1,32 @@
 {
+  "2025/08/20": [
+    {
+      "title": "Multi-modal Vision Pre-training for Medical Image Analysis",
+      "author": "Shaohao Rui & Lingzhi Chen et al., CVPR 2025",
+      "github": "https://github.com/openmedlab/BrainMVP ",
+      "url": "https://arxiv.org/abs/2410.10604",
+      "cite": "rui2025brain",
+      "website": null
+    },
+    {
+      "title": "ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck",
+      "author": "Zheng Zhou et al., ICML 2025",
+      "github": "https://github.com/zhouzhengqd/ROME ",
+      "url": "https://openreview.net/forum?id=agtwOsnLUB",
+      "cite": "zhou2025rome",
+      "website": "https://zhouzhengqd.github.io/rome.page/ "
+    }
+  ],
+  "2025/08/19": [
+    {
+      "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
+      "author": "Connor Wilhelm et al., ECAI 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2508.09283",
+      "cite": "wilhelm2025rl",
+      "website": null
+    }
+  ],
   "2025/08/06": [
     {
       "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
@@ -62,32 +90,6 @@
       "github": null,
       "url": "https://arxiv.org/abs/2507.04619",
       "cite": "ye2025igds",
-      "website": null
-    },
-    {
-      "title": "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
-      "author": "Haolong Jin et al., MICCAI 2025",
-      "github": "https://github.com/f1oNae/FedWSIDD",
-      "url": "https://arxiv.org/abs/2506.15365",
-      "cite": "jin2025fedwsidd",
-      "website": null
-    }
-  ],
-  "2025/07/01": [
-    {
-      "title": "Dataset Distillation via Vision-Language Category Prototype",
-      "author": "Yawen Zou & Guang Li et al., ICCV 2025",
-      "github": "https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/",
-      "url": "https://arxiv.org/abs/2506.23580",
-      "cite": "zou2025vlcp",
-      "website": null
-    },
-    {
-      "title": "CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
-      "author": "Haoxuan Wang et al., ICCV 2025",
-      "github": "https://github.com/hatchetProject/CaO2",
-      "url": "https://arxiv.org/abs/2506.22637",
-      "cite": "wang2025cao2",
       "website": null
     }
   ]

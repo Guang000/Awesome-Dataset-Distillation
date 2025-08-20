@@ -1431,6 +1431,14 @@
         "website": null
       },
       {
+        "title": "Multi-modal Vision Pre-training for Medical Image Analysis",
+        "author": "Shaohao Rui & Lingzhi Chen et al., CVPR 2025",
+        "github": "https://github.com/openmedlab/BrainMVP ",
+        "url": "https://arxiv.org/abs/2410.10604",
+        "cite": "rui2025brain",
+        "website": null
+      },
+      {
         "title": "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
         "author": "Haolong Jin et al., MICCAI 2025",
         "github": "https://github.com/f1oNae/FedWSIDD",
@@ -1863,6 +1871,14 @@
         "url": "https://arxiv.org/abs/2402.04676",
         "cite": "vahidian2025group",
         "website": null
+      },
+      {
+        "title": "ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck",
+        "author": "Zheng Zhou et al., ICML 2025",
+        "github": "https://github.com/zhouzhengqd/ROME ",
+        "url": "https://openreview.net/forum?id=agtwOsnLUB",
+        "cite": "zhou2025rome",
+        "website": "https://zhouzhengqd.github.io/rome.page/ "
       }
     ],
     "fairness": [
@@ -2100,6 +2116,14 @@
         "github": "https://github.com/LeavesLei/OBD",
         "url": "https://arxiv.org/abs/2410.22728",
         "cite": "lei2024obl",
+        "website": null
+      },
+      {
+        "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
+        "author": "Connor Wilhelm et al., ECAI 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2508.09283",
+        "cite": "wilhelm2025rl",
         "website": null
       }
     ],
