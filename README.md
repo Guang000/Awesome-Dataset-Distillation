@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-258-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-259-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2025/08/19] [ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck](https://openreview.net/forum?id=agtwOsnLUB) (Zheng Zhou et al., ICML 2025) [:globe_with_meridians:](https://zhouzhengqd.github.io/rome.page/) [:octocat:](https://github.com/zhouzhengqd/ROME) [:book:](./citations/zhou2025rome.txt)
++ [2025/08/20] [ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck](https://openreview.net/forum?id=agtwOsnLUB) (Zheng Zhou et al., ICML 2025) [:globe_with_meridians:](https://zhouzhengqd.github.io/rome.page/) [:octocat:](https://github.com/zhouzhengqd/ROME) [:book:](./citations/zhou2025rome.txt)
 + [2025/08/19] [Distilling Reinforcement Learning into Single-Batch Datasets](https://arxiv.org/abs/2508.09283) (Connor Wilhelm et al., ECAI 2025) [:book:](./citations/wilhelm2025rl.txt)
 + [2025/08/06] [Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling](https://arxiv.org/abs/2508.01264) (Lexiao Zou et al., ICME 2025) [:book:](./citations/zou2025acs.txt)
 + [2025/08/05] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
@@ -30,7 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/07/16] [Dataset Distillation with Feature Matching through the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
 + [2025/07/08] [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye & Guang Li et al., 2025) [:book:](./citations/ye2025igds.txt)
 + [2025/07/08] [FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation](https://arxiv.org/abs/2506.15365) (Haolong Jin et al., MICCAI 2025) [:octocat:](https://github.com/f1oNae/FedWSIDD) [:book:](./citations/jin2025fedwsidd.txt)
-+ [2025/07/01] [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou & Guang Li et al., ICCV 2025) [:globe_with_meridians:](https://zou-yawen.github.io/DD_via_vision-language) [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) [:book:](./citations/zou2025vlcp.txt)
 
 ## Contents
 - [Main](#main)
