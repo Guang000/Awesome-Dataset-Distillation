@@ -1,4 +1,4 @@
-@article{ding2025video,
+@inproceedings{ding2025video,
   title={Condensing Action Segmentation Datasets via Generative Network Inversion}, 
   author={Ding, Guodong and Chen, Rongyu and Yao, Angela},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
