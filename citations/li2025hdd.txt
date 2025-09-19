@@ -1,6 +1,6 @@
-@article{li2025hdd,
+@inproceedings{li2025hdd,
   title={Hyperbolic Dataset Distillation},
   author={Li, Wenyuan and Li, Guang and Maeda, Keisuke and Ogawa, Takahiro and Haseyama, Miki},
-  journal={arXiv preprint arXiv:2505.24623},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2025}
 }
