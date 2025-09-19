@@ -1,4 +1,4 @@
-@article{tran2025nrrdd,
+@inproceedings{tran2025nrrdd,
   title={Enhancing Dataset Distillation via Non-Critical Region Refinement}, 
   author={Tran, Minh-Tuan and Le, Trung and Le, Xuan-May and Do, Thanh-Toan and Phung, Dinh},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
