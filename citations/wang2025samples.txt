@@ -1,6 +1,6 @@
-@article{wang2024samples,
+@inproceedings{wang2025samples,
   title={{Not All Samples Should Be Utilized Equally}: Towards Understanding and Improving Dataset Distillation}, 
   author={Wang, Shaobo and Yang, Yantai and Wang, Qilong and Li, Kaixin and Zhang, Linfeng and Yan, Junchi},
-  journal={arXiv preprint arXiv:2408.03360},
-  year={2024}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
+  year={2025}
 }
