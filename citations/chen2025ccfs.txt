@@ -1,4 +1,4 @@
-@article{chen2025ccfs,
+@inproceedings{chen2025ccfs,
   title={Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation}, 
   author={Chen, Yanda and Chen, Gongwei and Zhang, Miao and Guan, Weili and Nie, Liqiang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
