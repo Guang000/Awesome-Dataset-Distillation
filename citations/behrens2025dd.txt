@@ -1,0 +1,6 @@
+@article{behrens2025dd,
+  title={Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge},
+  author={Behrens, Freya and Zdeborová, Lenka},
+  journal={arXiv preprint arXiv:2506.14457},
+  year={2025}
+}
