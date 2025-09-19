@@ -1,0 +1,6 @@
+@inproceedings{cui2025fadrm,
+  title={{FADRM}: Fast and Accurate Data Residual Matching for Dataset Distillation},
+  author={Cui, Jiacheng and Bi, Xinyue and Luo, Yaxin and Zhao, Xiaohan and Liu, Jiacheng and Shen, Zhiqiang},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
