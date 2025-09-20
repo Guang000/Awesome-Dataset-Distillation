@@ -1,6 +1,6 @@
 @inproceedings{xue2025robust,
   title={Towards Adversarially Robust Dataset Distillation by Curvature Regularization}, 
-  author={Xue, Eric and Li, Yijiang and Liu, Haoyang and Shen, Yifan and Wang, Haohan},
+  author={Xue, Eric and Li, Yijiang and Liu, Haoyang and Wang, Peiran and Shen, Yifan and Wang, Haohan},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   year={2025}
 }
