@@ -23,12 +23,13 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/09/19] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:book:](./citations/li2025hdd.txt)
 + [2025/09/19] [FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](https://arxiv.org/abs/2506.24125) (Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) [:octocat:](https://github.com/Jiacheng8/FADRM) [:book:](./citations/cui2025fadrm.txt)
 + [2025/09/19] [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
++ [2025/09/19] [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
++ [2025/09/19] [Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., AAAI 2025) [:globe_with_meridians:](https://yumozi.github.io/GUARD/) [:octocat:](https://github.com/yumozi/GUARD) [:book:](./citations/xue2025robust.txt)
 + [2025/08/20] [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604) (Shaohao Rui & Lingzhi Chen et al., CVPR 2025) [:octocat:](https://github.com/openmedlab/BrainMVP) [:book:](./citations/rui2025brain.txt)
 + [2025/08/05] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 + [2025/08/05] [Improving Noise Efficiency in Privacy-preserving Dataset Distillation](https://arxiv.org/abs/2508.01749) (Runkai Zheng et al., ICCV 2025) [:octocat:](https://github.com/humansensinglab/Dosser) [:book:](./citations/zheng2025dosser.txt)
 + [2025/07/25] [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe_with_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) [:book:](./citations/bao2025ruo.txt)
 + [2025/07/16] [Heavy Labels Out! Dataset Distillation with Label Space Lightening](https://arxiv.org/abs/2408.08201) (Ruonan Yu et al., ICCV 2025) [:book:](./citations/yu2025helio.txt)
-+ [2025/07/16] [Dataset Distillation with Feature Matching through the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
 + [2025/07/08] [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye & Guang Li et al., 2025) [:book:](./citations/ye2025igds.txt)
 
 ## Contents
@@ -122,7 +123,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Diversified Semantic Distribution Matching for Dataset Distillation](https://dl.acm.org/doi/10.1145/3664647.3680900) (Hongcheng Li et al., MM 2024) [:octocat:](https://github.com/Li-Hongcheng/DSDM) [:book:](./citations/li2024dsdm.txt)
 + [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
 + [OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html) (Xiao Cui et al., CVPR 2025) [:book:](./citations/cui2025optical.txt)
-+ [Dataset Distillation with Feature Matching through the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
++ [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
 + [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:book:](./citations/li2025hdd.txt)
  
 <a name="kernel" />
@@ -437,7 +438,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Towards Robust Dataset Learning](https://arxiv.org/abs/2211.10752) (Yihan Wu et al., 2022) [:book:](./citations/wu2022towards.txt)
 + [Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463) (Dongyao Zhu et al., ICCV 2023) [:book:](./citations/zhu2023calibration.txt)
 + [Towards Trustworthy Dataset Distillation](https://arxiv.org/abs/2307.09165) (Shijie Ma et al., PR 2024) [:octocat:](https://github.com/mashijie1028/TrustDD/)  [:book:](./citations/ma2024trustworthy.txt)
-+ [Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., AAAI 2025) [:octocat:](https://github.com/yumozi/GUARD) [:book:](./citations/xue2025robust.txt)
++ [Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., AAAI 2025) [:globe_with_meridians:](https://yumozi.github.io/GUARD/) [:octocat:](https://github.com/yumozi/GUARD) [:book:](./citations/xue2025robust.txt)
 + [Group Distributionally Robust Dataset Distillation with Risk Minimization](https://arxiv.org/abs/2402.04676) (Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025) [:octocat:](https://github.com/Mming11/RobustDatasetDistillation) [:book:](./citations/vahidian2025group.txt)
 + [ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck](https://openreview.net/forum?id=agtwOsnLUB) (Zheng Zhou et al., ICML 2025) [:globe_with_meridians:](https://zhouzhengqd.github.io/rome.page/) [:octocat:](https://github.com/zhouzhengqd/ROME) [:book:](./citations/zhou2025rome.txt)
 
