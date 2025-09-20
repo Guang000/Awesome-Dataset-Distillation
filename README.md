@@ -46,7 +46,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Decoupled Distillation](#decouple)
   - [Multimodal Distillation](#multi)
   - [Self-Supervised Distillation](#self)
-  - [Universal Distillation](#uni)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
   - [Ph.D. Thesis](#thesis)
@@ -79,6 +78,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Learning with Noisy Labels](#noisy)
   - [Object Detection](#detection)
   - [Point Cloud](#point)
+  - [Universal Distillation](#uni)
 <a name="main" />
 
 ## Main
@@ -271,12 +271,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
 + [Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks](https://arxiv.org/abs/2410.02116) (Siddharth Joshi et al., ICLR 2025) [:octocat:](https://github.com/jiayini1119/MKDT) [:book:](./citations/joshi2025kd.txt)
 + [Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://arxiv.org/abs/2507.21455) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
-
-<a name="uni" />
-
-### Universal Distillation
-
-+ [Towards Universal Dataset Distillation via Task-Driven Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html) (Ding Qi et al., CVPR 2025) [:book:](./citations/qi2025unidd.txt)
 
 <a name="benchmark" />
 
@@ -541,6 +535,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Point Cloud
 + [Point Cloud Dataset Distillation](https://openreview.net/forum?id=Us8v5tDOFd) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
 + [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
+
+<a name="uni" />
+
+### Universal Distillation
+
++ [Towards Universal Dataset Distillation via Task-Driven Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html) (Ding Qi et al., CVPR 2025) [:book:](./citations/qi2025unidd.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
