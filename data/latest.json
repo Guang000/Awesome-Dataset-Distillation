@@ -1,4 +1,38 @@
 {
+  "2025/09/19": [
+    {
+      "title": "Hyperbolic Dataset Distillation",
+      "author": "Wenyuan Li & Guang Li et al., NeurIPS 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2505.24623",
+      "cite": "li2025hdd",
+      "website": null
+    },
+    {
+      "title": "FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation",
+      "author": "Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025",
+      "github": "https://github.com/Jiacheng8/FADRM ",
+      "url": "https://arxiv.org/abs/2506.24125",
+      "cite": "cui2025fadrm",
+      "website": null
+    },
+    {
+      "title": "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation",
+      "author": "Xin Zhang et al., NeurIPS 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2505.14705",
+      "cite": "zhang2025mdd",
+      "website": null
+    },
+    {
+      "title": "Dataset Distillation via the Wasserstein Metric",
+      "author": "Haoyang Liu et al., ICCV 2025",
+      "github": "https://github.com/Liu-Hy/WMDD ",
+      "url": "https://arxiv.org/abs/2311.18531",
+      "cite": "liu2025wasserstein",
+      "website": "https://liu-hy.github.io/WMDD/ "
+    }
+  ],
   "2025/08/20": [
     {
       "title": "Multi-modal Vision Pre-training for Medical Image Analysis",
@@ -6,34 +40,6 @@
       "github": "https://github.com/openmedlab/BrainMVP ",
       "url": "https://arxiv.org/abs/2410.10604",
       "cite": "rui2025brain",
-      "website": null
-    },
-    {
-      "title": "ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck",
-      "author": "Zheng Zhou et al., ICML 2025",
-      "github": "https://github.com/zhouzhengqd/ROME ",
-      "url": "https://openreview.net/forum?id=agtwOsnLUB",
-      "cite": "zhou2025rome",
-      "website": "https://zhouzhengqd.github.io/rome.page/ "
-    }
-  ],
-  "2025/08/19": [
-    {
-      "title": "Distilling Reinforcement Learning into Single-Batch Datasets",
-      "author": "Connor Wilhelm et al., ECAI 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2508.09283",
-      "cite": "wilhelm2025rl",
-      "website": null
-    }
-  ],
-  "2025/08/06": [
-    {
-      "title": "Enhancing Diffusion-based Dataset Distillation via Adversary-Guided Curriculum Sampling",
-      "author": "Lexiao Zou et al., ICME 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2508.01264",
-      "cite": "zou2025acs",
       "website": null
     }
   ],
@@ -73,14 +79,6 @@
       "url": "https://arxiv.org/abs/2408.08201",
       "cite": "yu2025helio",
       "website": null
-    },
-    {
-      "title": "Dataset Distillation with Feature Matching through the Wasserstein Metric",
-      "author": "Haoyang Liu et al., ICCV 2025",
-      "github": "https://github.com/Liu-Hy/WMDD",
-      "url": "https://arxiv.org/abs/2311.18531",
-      "cite": "liu2025wasserstein",
-      "website": "https://liu-hy.github.io/WMDD/"
     }
   ],
   "2025/07/08": [

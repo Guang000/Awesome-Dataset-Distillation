@@ -17,7 +17,6 @@
   "multimodal": "Multimodal Distillation",
   "self": "Self-Supervised Distillation",
   "benchmark": "Benchmark",
-  "uni": "Universal Distillation",
   "survey": "Survey",
   "phd": "Ph.D. Thesis",
   "workshop": "Workshop",
@@ -50,5 +49,6 @@
   "long": "Long-Tail",
   "noisy": "Learning with Noisy Labels",
   "object": "Object Detection",
-  "point": "Point Cloud"
+  "point": "Point Cloud",
+  "uni": "Universal Distillation"
 }

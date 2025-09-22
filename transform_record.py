@@ -6,6 +6,9 @@ def main():
     for record in records:
         location = record.split('-*-')[0]
         record = record.split('-*-')[1].replace(')', '')
+        if not record.startswith('['):
+            print(f"{location}\n{record}\n")
+            continue
         couples = record.split('[')
         parts0 = couples[1].split('(')
         dict_record = {"title": parts0[0][:-1], "author": parts0[2].strip(), "github": None,

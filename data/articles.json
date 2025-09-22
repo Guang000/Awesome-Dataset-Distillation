@@ -232,16 +232,16 @@
         "website": null
       },
       {
-        "title": "Dataset Distillation with Feature Matching through the Wasserstein Metric",
+        "title": "Dataset Distillation via the Wasserstein Metric",
         "author": "Haoyang Liu et al., ICCV 2025",
-        "github": "https://github.com/Liu-Hy/WMDD",
+        "github": "https://github.com/Liu-Hy/WMDD ",
         "url": "https://arxiv.org/abs/2311.18531",
         "cite": "liu2025wasserstein",
-        "website": "https://liu-hy.github.io/WMDD/"
+        "website": "https://liu-hy.github.io/WMDD/ "
       },
       {
         "title": "Hyperbolic Dataset Distillation",
-        "author": "Wenyuan Li & Guang Li et al., 2025",
+        "author": "Wenyuan Li & Guang Li et al., NeurIPS 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2505.24623",
         "cite": "li2025hdd",
@@ -739,6 +739,22 @@
         "url": "https://arxiv.org/abs/2503.18872",
         "cite": "chen2025ccfs",
         "website": null
+      },
+      {
+        "title": "Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation",
+        "author": "Shaobo Wang et al., 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2408.12483",
+        "cite": "wang2024samples",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation as Pushforward Optimal Quantization",
+        "author": "Hongye Tan et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2501.07681",
+        "cite": "tan2025optimal",
+        "website": null
       }
     ],
     "better-understanding": [
@@ -799,19 +815,11 @@
         "website": null
       },
       {
-        "title": "Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation",
-        "author": "Shaobo Wang et al., 2024",
+        "title": "Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge",
+        "author": "Freya Behrens et al., 2025",
         "github": null,
-        "url": "https://arxiv.org/abs/2408.12483",
-        "cite": "wang2024samples",
-        "website": null
-      },
-      {
-        "title": "Dataset Distillation as Pushforward Optimal Quantization",
-        "author": "Hongye Tan et al., 2025",
-        "github": null,
-        "url": "https://arxiv.org/abs/2501.07681",
-        "cite": "tan2025optimal",
+        "url": "https://arxiv.org/abs/2506.14457",
+        "cite": "behrens2025dd",
         "website": null
       }
     ],
@@ -997,6 +1005,14 @@
         "website": null
       },
       {
+        "title": "FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation",
+        "author": "Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025",
+        "github": "https://github.com/Jiacheng8/FADRM ",
+        "url": "https://arxiv.org/abs/2506.24125",
+        "cite": "cui2025fadrm",
+        "website": null
+      },
+      {
         "title": "FocusDD: Real-World Scene Infusion for Robust Dataset Distillation",
         "author": "Youbin Hu et al., 2025",
         "github": null,
@@ -1040,7 +1056,7 @@
       },
       {
         "title": "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation",
-        "author": "Xin Zhang et al., 2025",
+        "author": "Xin Zhang et al., NeurIPS 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2505.14705",
         "cite": "zhang2025mdd",
@@ -1859,10 +1875,10 @@
       {
         "title": "Towards Adversarially Robust Dataset Distillation by Curvature Regularization",
         "author": "Eric Xue et al., AAAI 2025",
-        "github": "https://github.com/yumozi/GUARD",
+        "github": "https://github.com/yumozi/GUARD ",
         "url": "https://arxiv.org/abs/2403.10045",
         "cite": "xue2025robust",
-        "website": null
+        "website": "https://yumozi.github.io/GUARD/ "
       },
       {
         "title": "Group Distributionally Robust Dataset Distillation with Risk Minimization",
