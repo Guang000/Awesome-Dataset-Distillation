@@ -1,0 +1,6 @@
+@inproceedings{zhao2025edge,
+  title={Efficient Multimodal Dataset Distillation via Generative Models},
+  author={Zhao,　Zhenghao and Wang, Haoxuan and Wu, Junyi and Shang, Yuzhang and Liu, Gaowen and Yan, Yan},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
