@@ -21,6 +21,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + [2025/09/22] [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
++ [2025/09/22] [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
++ [2025/09/22] [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:book:](./citations/zhou2025fair.txt)
 + [2025/09/19] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:book:](./citations/li2025hdd.txt)
 + [2025/09/19] [FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](https://arxiv.org/abs/2506.24125) (Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) [:octocat:](https://github.com/Jiacheng8/FADRM) [:book:](./citations/cui2025fadrm.txt)
 + [2025/09/19] [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
@@ -28,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/08/20] [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604) (Shaohao Rui & Lingzhi Chen et al., CVPR 2025) [:octocat:](https://github.com/openmedlab/BrainMVP) [:book:](./citations/rui2025brain.txt)
 + [2025/08/05] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 + [2025/08/05] [Improving Noise Efficiency in Privacy-preserving Dataset Distillation](https://arxiv.org/abs/2508.01749) (Runkai Zheng et al., ICCV 2025) [:octocat:](https://github.com/humansensinglab/Dosser) [:book:](./citations/zheng2025dosser.txt)
-+ [2025/07/25] [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe_with_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) [:book:](./citations/bao2025ruo.txt)
-+ [2025/07/16] [Heavy Labels Out! Dataset Distillation with Label Space Lightening](https://arxiv.org/abs/2408.08201) (Ruonan Yu et al., ICCV 2025) [:book:](./citations/yu2025helio.txt)
 
 ## Contents
 - [Main](#main)
@@ -446,7 +446,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Fairness
 + [Fair Graph Distillation](https://openreview.net/forum?id=xW0ayZxPWs) (Qizhang Feng et al., NeurIPS 2023) [:book:](./citations/feng2023fair.txt)
-+ [FairDD: Fair Dataset Distillation via Synchronized Matching](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., 2024) [:book:](./citations/zhou2024fair.txt)
++ [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:book:](./citations/zhou2025fair.txt)
 
 
 <a name="text" />
@@ -535,7 +535,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Point Cloud
 + [Point Cloud Dataset Distillation](https://openreview.net/forum?id=Us8v5tDOFd) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
-+ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., 2025) [:book:](./citations/yim2025point.txt)
++ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
 
 <a name="uni" />
 
