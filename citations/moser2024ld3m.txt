@@ -1,6 +1,0 @@
-@article{moser2024ld3m,
-  title={Latent Dataset Distillation with Diffusion Models},
-  author={Moser, Brian B. and Raue, Federico and Palacio, Sebastian and Frolov, Stanislav and Dengel, Andreas},
-  journal={arXiv preprint arXiv:2403.03881},
-  year={2024}
-}

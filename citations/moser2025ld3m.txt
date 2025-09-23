@@ -1,0 +1,6 @@
+@article{moser2025ld3m,
+  title={Unlocking Dataset Distillation with Diffusion Models},
+  author={Moser, Brian B. and Raue, Federico and Palacio, Sebastian and Frolov, Stanislav and Dengel, Andreas},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
