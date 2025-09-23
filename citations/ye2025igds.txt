@@ -1,6 +1,6 @@
-@article{ye2025igds,
+@inproceedings{ye2025igds,
   title={Information-Guided Diffusion Sampling for Dataset Distillation},
   author={Ye, Linfeng and Hamidi, Shayan Mohajer and Li, Guang and Ogawa, Takahiro and Haseyama, Miki and Plataniotis, Konstantinos N.},
-  journal={arXiv preprint arXiv:2506.01942},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
   year={2025}
 }
