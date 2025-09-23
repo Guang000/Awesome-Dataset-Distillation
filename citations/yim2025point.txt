@@ -1,6 +1,6 @@
-@article{yim2025point,
+@inproceedings{yim2025point,
   title={Dataset Distillation of 3D Point Clouds via Distribution Matching},
   author={Yim, Jae-Young and Kim, Dongwook and Sim, Jae-Young},
-  journal={arXiv preprint arXiv:2503.22154},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2025}
 }
