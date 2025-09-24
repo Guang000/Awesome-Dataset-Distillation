@@ -588,7 +588,7 @@
       },
       {
         "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
-        "author": "Linfeng Ye & Guang Li et al.,\u3000NeurIPS 2025 Workshop",
+        "author": "Linfeng Ye & Guang Li et al., NeurIPS 2025 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2507.04619",
         "cite": "ye2025igds",
@@ -693,9 +693,9 @@
         "website": null
       },
       {
-        "title": "https://github.com/silicx/GoldFromOres",
-        "author": "Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation",
-        "github": "Yue Xu et al., ECCV 2024",
+        "title": "Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation",
+        "author": "Yue Xu et al., ECCV 2024",
+        "github": "https://github.com/silicx/GoldFromOres",
         "url": "https://arxiv.org/abs/2305.18381",
         "cite": "xu2024distill",
         "website": null
@@ -742,10 +742,10 @@
       },
       {
         "title": "Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation",
-        "author": "Shaobo Wang et al., 2024",
+        "author": "Shaobo Wang et al., CVPR 2025 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2408.12483",
-        "cite": "wang2024samples",
+        "cite": "wang2025samples",
         "website": null
       },
       {
@@ -1073,8 +1073,8 @@
     ],
     "self": [
       {
-        "title": "Dong Bok Lee & Seanie Lee et al., ICLR 2024",
-        "author": "Self-Supervised Dataset Distillation for Transfer Learning",
+        "title": "Self-Supervised Dataset Distillation for Transfer Learning",
+        "author": "Dong Bok Lee & Seanie Lee et al., ICLR 2024",
         "github": "https://github.com/db-Lee/selfsup_dd",
         "url": "https://arxiv.org/abs/2310.06511",
         "cite": "lee2024self",
@@ -1113,16 +1113,6 @@
         "website": null
       }
     ],
-    "uni": [
-      {
-        "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
-        "author": "Ding Qi et al., CVPR 2025",
-        "github": null,
-        "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
-        "cite": "qi2025unidd",
-        "website": null
-      }
-    ],
     "benchmark": [
       {
         "title": "DC-BENCH: Dataset Condensation Benchmark",
@@ -1141,6 +1131,14 @@
         "website": null
       },
       {
+        "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
+        "author": "Zheng Zhou et al., 2024",
+        "github": "https://github.com/zhouzhengqd/BEARD/",
+        "url": "https://arxiv.org/abs/2411.09265",
+        "cite": "zhou2024beard",
+        "website": "https://beard-leaderboard.github.io/"
+      },
+      {
         "title": "DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation",
         "author": "Yifan Wu et al., TIP 2025",
         "github": "https://github.com/FredWU-HUST/DD-RobustBench",
@@ -1149,12 +1147,12 @@
         "website": null
       },
       {
-        "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
-        "author": "Zheng Zhou et al., 2024",
-        "github": "https://github.com/zhouzhengqd/BEARD/",
-        "url": "https://arxiv.org/abs/2411.09265",
-        "cite": "zhou2024beard",
-        "website": "https://beard-leaderboard.github.io/"
+        "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+        "author": "Zekai Li & Xinhao Zhong et al., 2025",
+        "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
+        "url": "https://arxiv.org/abs/2505.13300",
+        "cite": "li2025ranking",
+        "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
       }
     ],
     "survey": [
@@ -1227,16 +1225,6 @@
         "url": null,
         "cite": null,
         "website": "https://www.dd-challenge.com/"
-      }
-    ],
-    "ranking": [
-      {
-        "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
-        "author": "Zekai Li & Xinhao Zhong et al., 2025",
-        "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
-        "url": "https://arxiv.org/abs/2505.13300",
-        "cite": "li2025ranking",
-        "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
       }
     ]
   },
@@ -2204,6 +2192,16 @@
         "github": null,
         "url": "https://arxiv.org/abs/2503.22154",
         "cite": "yim2025point",
+        "website": null
+      }
+    ],
+    "uni": [
+      {
+        "title": "Towards Universal Dataset Distillation via Task-Driven Diffusion",
+        "author": "Ding Qi et al., CVPR 2025",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
+        "cite": "qi2025unidd",
         "website": null
       }
     ]
