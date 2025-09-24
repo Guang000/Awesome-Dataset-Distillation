@@ -1,7 +1,6 @@
-xue2025robust-*-[Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., AAAI 2025) [:globe_with_meridians:](https://yumozi.github.io/GUARD/) [:octocat:](https://github.com/yumozi/GUARD) [:book:](./citations/xue2025robust.txt)
-liu2025wasserstein-*-[Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
-posChan->chen2025ccfs-*-wang2025samples, tan2025optimal
-tan2025optimal-*-[Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., 2025) [:book:](./citations/behrens2025dd.txt)
-ma2025cudd-*-[FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](https://arxiv.org/abs/2506.24125) (Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) [:octocat:](https://github.com/Jiacheng8/FADRM) [:book:](./citations/cui2025fadrm.txt)
-zhang2025mdd-*-[Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
-li2025hdd-*-[Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:book:](./citations/li2025hdd.txt)
+zhang2025mdd-*-[Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
+ye2025igds-*-[Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye & Guang Li et al.,　NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
+zhou2024fair-*-[FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:book:](./citations/zhou2025fair.txt)
+yim2025point-*-[Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
+li2025diff-*-[Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:book:](./citations/moser2025ld3m.txt)
+moser2024ld3m-*-delete

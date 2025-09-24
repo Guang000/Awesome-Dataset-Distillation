@@ -523,14 +523,6 @@
         "website": null
       },
       {
-        "title": "Latent Dataset Distillation with Diffusion Models",
-        "author": "Brian B. Moser & Federico Raue et al., 2024",
-        "github": null,
-        "url": "https://arxiv.org/abs/2403.03881",
-        "cite": "moser2024ld3m",
-        "website": null
-      },
-      {
         "title": "Influence-Guided Diffusion for Dataset Distillation",
         "author": "Mingyang Chen et al., ICLR 2025",
         "github": "https://github.com/mchen725/DD_IGD",
@@ -587,8 +579,16 @@
         "website": null
       },
       {
+        "title": "Unlocking Dataset Distillation with Diffusion Models",
+        "author": "Brian B. Moser & Federico Raue et al., NeurIPS 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2403.03881",
+        "cite": "moser2025ld3m",
+        "website": null
+      },
+      {
         "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
-        "author": "Linfeng Ye & Guang Li et al., 2025",
+        "author": "Linfeng Ye & Guang Li et al.,\u3000NeurIPS 2025 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2507.04619",
         "cite": "ye2025igds",
@@ -1060,6 +1060,14 @@
         "github": null,
         "url": "https://arxiv.org/abs/2505.14705",
         "cite": "zhang2025mdd",
+        "website": null
+      },
+      {
+        "title": "Efficient Multimodal Dataset Distillation via Generative Models",
+        "author": "Zhenghao Zhao et al., NeurIPS 2025",
+        "github": "https://github.com/ichbill/EDGE ",
+        "url": "https://arxiv.org/abs/2509.15472",
+        "cite": "zhao2025edge",
         "website": null
       }
     ],
@@ -1907,11 +1915,11 @@
         "website": null
       },
       {
-        "title": "FairDD: Fair Dataset Distillation via Synchronized Matching",
-        "author": "Qihang Zhou et al., 2024",
+        "title": "FairDD: Fair Dataset Distillation",
+        "author": "Qihang Zhou et al., NeurIPS 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2411.19623",
-        "cite": "zhou2024fair",
+        "cite": "zhou2025fair",
         "website": null
       }
     ],
@@ -2192,7 +2200,7 @@
       },
       {
         "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
-        "author": "Jae-Young Yim & Dongwook Kim et al., 2025",
+        "author": "Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2503.22154",
         "cite": "yim2025point",

@@ -1,4 +1,38 @@
 {
+  "2025/09/22": [
+    {
+      "title": "Efficient Multimodal Dataset Distillation via Generative Models",
+      "author": "Zhenghao Zhao et al., NeurIPS 2025",
+      "github": "https://github.com/ichbill/EDGE ",
+      "url": "https://arxiv.org/abs/2509.15472",
+      "cite": "zhao2025edge",
+      "website": null
+    },
+    {
+      "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
+      "author": "Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2503.22154",
+      "cite": "yim2025point",
+      "website": null
+    },
+    {
+      "title": "FairDD: Fair Dataset Distillation",
+      "author": "Qihang Zhou et al., NeurIPS 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2411.19623",
+      "cite": "zhou2025fair",
+      "website": null
+    },
+    {
+      "title": "Unlocking Dataset Distillation with Diffusion Models",
+      "author": "Brian B. Moser & Federico Raue et al., NeurIPS 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2403.03881",
+      "cite": "moser2025ld3m",
+      "website": null
+    }
+  ],
   "2025/09/19": [
     {
       "title": "Hyperbolic Dataset Distillation",
@@ -23,24 +57,6 @@
       "url": "https://arxiv.org/abs/2505.14705",
       "cite": "zhang2025mdd",
       "website": null
-    },
-    {
-      "title": "Dataset Distillation via the Wasserstein Metric",
-      "author": "Haoyang Liu et al., ICCV 2025",
-      "github": "https://github.com/Liu-Hy/WMDD ",
-      "url": "https://arxiv.org/abs/2311.18531",
-      "cite": "liu2025wasserstein",
-      "website": "https://liu-hy.github.io/WMDD/ "
-    }
-  ],
-  "2025/08/20": [
-    {
-      "title": "Multi-modal Vision Pre-training for Medical Image Analysis",
-      "author": "Shaohao Rui & Lingzhi Chen et al., CVPR 2025",
-      "github": "https://github.com/openmedlab/BrainMVP ",
-      "url": "https://arxiv.org/abs/2410.10604",
-      "cite": "rui2025brain",
-      "website": null
     }
   ],
   "2025/08/05": [
@@ -53,41 +69,19 @@
       "website": "https://528why.github.io/DC3-Page/"
     },
     {
+      "title": "Dataset Distillation via the Wasserstein Metric",
+      "author": "Haoyang Liu et al., ICCV 2025",
+      "github": "https://github.com/Liu-Hy/WMDD ",
+      "url": "https://arxiv.org/abs/2311.18531",
+      "cite": "liu2025wasserstein",
+      "website": "https://liu-hy.github.io/WMDD/ "
+    },
+    {
       "title": "Improving Noise Efficiency in Privacy-preserving Dataset Distillation",
       "author": "Runkai Zheng et al., ICCV 2025",
       "github": "https://github.com/humansensinglab/Dosser ",
       "url": "https://arxiv.org/abs/2508.01749",
       "cite": "zheng2025dosser",
-      "website": null
-    }
-  ],
-  "2025/07/25": [
-    {
-      "title": "Dataset Distillation as Data Compression: A Rate-Utility Perspective",
-      "author": "Youneng Bao & Yiping Liu et al., ICCV 2025",
-      "github": "https://github.com/nouise/DD-RUO",
-      "url": "https://arxiv.org/abs/2507.17221",
-      "cite": "bao2025ruo",
-      "website": "https://nouise.github.io/DD-RUO/"
-    }
-  ],
-  "2025/07/16": [
-    {
-      "title": "Heavy Labels Out! Dataset Distillation with Label Space Lightening",
-      "author": "Ruonan Yu et al., ICCV 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2408.08201",
-      "cite": "yu2025helio",
-      "website": null
-    }
-  ],
-  "2025/07/08": [
-    {
-      "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
-      "author": "Linfeng Ye & Guang Li et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2507.04619",
-      "cite": "ye2025igds",
       "website": null
     }
   ]
