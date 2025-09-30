@@ -1,0 +1,6 @@
+@inproceedings{dong2025hop,
+  title={High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation},
+  author={Dong, Le and Bian, Jinghao and Hou, Jingyang and Hu, Jingliang and Shi, Yilei and Dong, Weisheng and Zhu, Xiaoxiang and Mou, Lichao},
+  booktitle={Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+  year={2025}
+}
