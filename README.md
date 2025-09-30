@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-263-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-264-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/09/30] [High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation](https://arxiv.org/abs/2509.24177) (Le Dong et al., MICCAI 2025) [:octocat:](https://github.com/Bian-jh/HoP-TM) [:book:](./citations/dong2025hop.txt)
 + [2025/09/22] [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
 + [2025/09/22] [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
 + [2025/09/22] [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:book:](./citations/zhou2025fair.txt)
@@ -348,6 +349,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation for Histopathology Image Classification](https://arxiv.org/abs/2408.09709) (Cong Cong et al., 2024) [:book:](./citations/cong2024dataset.txt)
 + [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604) (Shaohao Rui & Lingzhi Chen et al., CVPR 2025) [:octocat:](https://github.com/openmedlab/BrainMVP) [:book:](./citations/rui2025brain.txt)
 + [FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation](https://arxiv.org/abs/2506.15365) (Haolong Jin et al., MICCAI 2025) [:octocat:](https://github.com/f1oNae/FedWSIDD) [:book:](./citations/jin2025fedwsidd.txt)
++ [High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation](https://arxiv.org/abs/2509.24177) (Le Dong et al., MICCAI 2025) [:octocat:](https://github.com/Bian-jh/HoP-TM) [:book:](./citations/dong2025hop.txt)
 
 <a name="fed" />
 
