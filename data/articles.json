@@ -1457,6 +1457,14 @@
         "url": "https://arxiv.org/abs/2506.15365",
         "cite": "jin2025fedwsidd",
         "website": null
+      },
+      {
+        "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation",
+        "author": "Le Dong et al., MICCAI 2025",
+        "github": "https://github.com/Bian-jh/HoP-TM ",
+        "url": "https://arxiv.org/abs/2509.24177",
+        "cite": "dong2025hop",
+        "website": null
       }
     ],
     "federated": [

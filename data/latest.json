@@ -1,4 +1,14 @@
 {
+  "2025/09/30": [
+    {
+      "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation",
+      "author": "Le Dong et al., MICCAI 2025",
+      "github": "https://github.com/Bian-jh/HoP-TM ",
+      "url": "https://arxiv.org/abs/2509.24177",
+      "cite": "dong2025hop",
+      "website": null
+    }
+  ],
   "2025/09/22": [
     {
       "title": "Efficient Multimodal Dataset Distillation via Generative Models",
@@ -75,14 +85,6 @@
       "url": "https://arxiv.org/abs/2311.18531",
       "cite": "liu2025wasserstein",
       "website": "https://liu-hy.github.io/WMDD/ "
-    },
-    {
-      "title": "Improving Noise Efficiency in Privacy-preserving Dataset Distillation",
-      "author": "Runkai Zheng et al., ICCV 2025",
-      "github": "https://github.com/humansensinglab/Dosser ",
-      "url": "https://arxiv.org/abs/2508.01749",
-      "cite": "zheng2025dosser",
-      "website": null
     }
   ]
 }
