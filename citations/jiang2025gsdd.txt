@@ -1,0 +1,6 @@
+@article{jiang2025gsdd,
+  title={Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation},
+  author={Jiang, Chenyang and Li, Zhengcen and Zhao, Hang and Shan, Qiben and Wu, Shaocong and Su, Jingyong},
+  journal={arXiv preprint arXiv:2509.26219},
+  year={2025}
+}
