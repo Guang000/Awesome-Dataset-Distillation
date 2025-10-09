@@ -153,7 +153,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Color-Oriented Redundancy Reduction in Dataset Distillation](https://arxiv.org/abs/2411.11329) (Bowen Yuan et al., NeurIPS 2024) [:octocat:](https://github.com/KeViNYuAn0314/AutoPalette) [:book:](./citations/yuan2024color.txt)
 + [Distilling Dataset into Neural Field](https://arxiv.org/abs/2503.04835) (Donghyeok Shin et al., ICLR 2025) [:octocat:](https://github.com/aailab-kaist/DDiF) [:book:](./citations/shin2025ddif.txt)
 + [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe_with_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) [:book:](./citations/bao2025ruo.txt)
-+ [2025/10/09] [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) [:book:](./citations/jiang2025gsdd.txt)
++ [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) [:book:](./citations/jiang2025gsdd.txt)
 
 <a name="generative" />
 
