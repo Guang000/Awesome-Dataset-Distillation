@@ -1,0 +1,6 @@
+@inproceedings{li2025bptt,
+  title={Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation},
+  author={Li, Muquan and Gou, Hang and Zhang, Dongyang and Liang, Shuang and Xie, Xiurui and Ouyang, Deqiang and Qin, Ke},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
