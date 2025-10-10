@@ -1,4 +1,22 @@
 {
+  "2025/10/09": [
+    {
+      "title": "Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation",
+      "author": "Chenyang Jiang et al., 2025",
+      "github": "https://github.com/j-cyoung/GSDatasetDistillation ",
+      "url": "https://arxiv.org/abs/2509.26219",
+      "cite": "jiang2025gsdd",
+      "website": null
+    },
+    {
+      "title": "Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation",
+      "author": "Muquan Li et al., NeurIPS 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2510.04838",
+      "cite": "li2025bptt",
+      "website": null
+    }
+  ],
   "2025/09/30": [
     {
       "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation",
@@ -67,24 +85,6 @@
       "url": "https://arxiv.org/abs/2505.14705",
       "cite": "zhang2025mdd",
       "website": null
-    }
-  ],
-  "2025/08/05": [
-    {
-      "title": "Dataset Condensation with Color Compensation",
-      "author": "Huyu Wu et al., 2025",
-      "github": "https://github.com/528why/Dataset-Condensation-with-Color-Compensation",
-      "url": "https://arxiv.org/abs/2508.01139",
-      "cite": "wu2025dc3",
-      "website": "https://528why.github.io/DC3-Page/"
-    },
-    {
-      "title": "Dataset Distillation via the Wasserstein Metric",
-      "author": "Haoyang Liu et al., ICCV 2025",
-      "github": "https://github.com/Liu-Hy/WMDD ",
-      "url": "https://arxiv.org/abs/2311.18531",
-      "cite": "liu2025wasserstein",
-      "website": "https://liu-hy.github.io/WMDD/ "
     }
   ]
 }
