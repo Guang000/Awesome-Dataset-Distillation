@@ -1,0 +1,6 @@
+@inproceedings{li2025deda,
+  title={Diversity-Enhanced Distribution Alignment for Dataset Distillation}, 
+  author={Li, Hongcheng and Zhou, Yucan and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
