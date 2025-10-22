@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-266-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-268-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -21,6 +21,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + [2025/10/22] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
++ [2025/10/22] [Robust Dataset Condensation using Supervised Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Robust_Dataset_Condensation_using_Supervised_Contrastive_Learning_ICCV_2025_paper.html) (Nicole Hee-Yeon Kim et al., ICCV 2025) [:octocat:](https://github.com/DISL-Lab/RDC-ICCV2025) [:book:](./citations/kim2025rdc.txt)
++ [2025/10/22] [Diversity-Enhanced Distribution Alignment for Dataset Distillation](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Diversity-Enhanced_Distribution_Alignment_for_Dataset_Distillation_ICCV_2025_paper.html) (Hongcheng Li et al., ICCV 2025) [:book:](./citations/li2025deda.txt)
 + [2025/10/09] [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) [:book:](./citations/jiang2025gsdd.txt)
 + [2025/10/09] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:globe_with_meridians:](https://guang000.github.io/HDD-Webpage/) [:octocat:](https://github.com/Guang000/HDD) [:book:](./citations/li2025hdd.txt)
 + [2025/10/09] [Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation](https://arxiv.org/abs/2510.04838) (Muquan Li et al., NeurIPS 2025) [:book:](./citations/li2025bptt.txt)
@@ -122,6 +124,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) [:book:](./citations/wang2025ncfm.txt)
 + [OPTICAL: Leveraging Optimal Transport for Contribution Allocation in Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_OPTICAL_Leveraging_Optimal_Transport_for_Contribution_Allocation_in_Dataset_Distillation_CVPR_2025_paper.html) (Xiao Cui et al., CVPR 2025) [:book:](./citations/cui2025optical.txt)
 + [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
++ [Diversity-Enhanced Distribution Alignment for Dataset Distillation](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Diversity-Enhanced_Distribution_Alignment_for_Dataset_Distillation_ICCV_2025_paper.html) (Hongcheng Li et al., ICCV 2025) [:book:](./citations/li2025deda.txt)
 + [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:globe_with_meridians:](https://guang000.github.io/HDD-Webpage/) [:octocat:](https://github.com/Guang000/HDD) [:book:](./citations/li2025hdd.txt)
  
 <a name="kernel" />
@@ -522,6 +525,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Learning with Noisy Labels
 + [Dataset Distillers Are Good Label Denoisers In the Wild](https://arxiv.org/abs/2411.11924) (Lechao Cheng et al., 2024) [:octocat:](https://github.com/Kciiiman/DD_LNL) [:book:](./citations/cheng2024noisy.txt)
++ [Robust Dataset Condensation using Supervised Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Robust_Dataset_Condensation_using_Supervised_Contrastive_Learning_ICCV_2025_paper.html) (Nicole Hee-Yeon Kim et al., ICCV 2025) [:octocat:](https://github.com/DISL-Lab/RDC-ICCV2025) [:book:](./citations/kim2025rdc.txt)
 
 <a name="detection" />
 
