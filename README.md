@@ -447,8 +447,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Fairness
 + [Fair Graph Distillation](https://openreview.net/forum?id=xW0ayZxPWs) (Qizhang Feng et al., NeurIPS 2023) [:book:](./citations/feng2023fair.txt)
-+ [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:book:](./citations/zhou2025fair.txt)
-
++ [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:octocat:](https://github.com/zqhang/FairDD) [:book:](./citations/zhou2025fair.txt)
 
 <a name="text" />
 
