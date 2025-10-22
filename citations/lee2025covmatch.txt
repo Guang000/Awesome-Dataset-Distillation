@@ -1,0 +1,6 @@
+@inproceedings{lee2025covmatch,
+  title={CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder},
+  author={Lee, Yongmin and Chung, Hye Won},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
