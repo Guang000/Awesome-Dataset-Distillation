@@ -28,8 +28,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/10/09] [Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation](https://arxiv.org/abs/2510.04838) (Muquan Li et al., NeurIPS 2025) [:book:](./citations/li2025bptt.txt)
 + [2025/09/22] [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
 + [2025/09/22] [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
-+ [2025/09/22] [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:book:](./citations/zhou2025fair.txt)
-+ [2025/09/22] [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:book:](./citations/moser2025ld3m.txt)
++ [2025/09/22] [FairDD: Fair Dataset Distillation](https://arxiv.org/abs/2411.19623) (Qihang Zhou et al., NeurIPS 2025) [:octocat:](https://github.com/zqhang/FairDD) [:book:](./citations/zhou2025fair.txt)
++ [2025/09/22] [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:octocat:](https://github.com/Brian-Moser/prune_and_distill) [:book:](./citations/moser2025ld3m.txt)
 + [2025/09/19] [FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](https://arxiv.org/abs/2506.24125) (Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) [:octocat:](https://github.com/Jiacheng8/FADRM) [:book:](./citations/cui2025fadrm.txt)
 + [2025/09/19] [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
 
@@ -182,7 +182,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2506.22637) (Haoxuan Wang et al., ICCV 2025) [:octocat:](https://github.com/hatchetProject/CaO2) [:book:](./citations/wang2025cao2.txt)
 + [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou & Guang Li et al., ICCV 2025) [:globe_with_meridians:](https://zou-yawen.github.io/DD_via_vision-language)  [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) [:book:](./citations/zou2025vlcp.txt)
 + [Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling](https://arxiv.org/abs/2507.03331) (Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) [:octocat:](https://github.com/SumomoTaku/DiffGuideSamp) [:book:](./citations/li2025diff.txt)
-+ [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:book:](./citations/moser2025ld3m.txt)
++ [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:octocat:](https://github.com/Brian-Moser/prune_and_distill) [:book:](./citations/moser2025ld3m.txt)
 + [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye & Guang Li et al., NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
 + [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 
