@@ -1,0 +1,6 @@
+@inproceedings{kim2025rdc,
+  title={Robust Dataset Condensation using Supervised Contrastive Learning}, 
+  author={Kim, Nicole Hee-Yeon and Song, Hwanjun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
+}
