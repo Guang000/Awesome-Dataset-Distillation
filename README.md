@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
++ [2025/10/22] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 + [2025/10/09] [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) [:book:](./citations/jiang2025gsdd.txt)
 + [2025/10/09] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:globe_with_meridians:](https://guang000.github.io/HDD-Webpage/) [:octocat:](https://github.com/Guang000/HDD) [:book:](./citations/li2025hdd.txt)
 + [2025/10/09] [Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation](https://arxiv.org/abs/2510.04838) (Muquan Li et al., NeurIPS 2025) [:book:](./citations/li2025bptt.txt)
