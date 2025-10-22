@@ -269,6 +269,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Audio-Visual Dataset Distillation](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [:octocat:](https://github.com/sakshamsingh1/AVDD) [:book:](./citations/kush2024avdd.txt)
 + [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
 + [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
++ [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) [:book:](./citations/lee2025covmatch.txt)
 
 <a name="self" />
 
