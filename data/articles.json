@@ -240,12 +240,20 @@
         "website": "https://liu-hy.github.io/WMDD/ "
       },
       {
+        "title": "Diversity-Enhanced Distribution Alignment for Dataset Distillation",
+        "author": "Hongcheng Li et al., ICCV 2025",
+        "github": null,
+        "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Li_Diversity-Enhanced_Distribution_Alignment_for_Dataset_Distillation_ICCV_2025_paper.html",
+        "cite": "li2025deda",
+        "website": null
+      },
+      {
         "title": "Hyperbolic Dataset Distillation",
         "author": "Wenyuan Li & Guang Li et al., NeurIPS 2025",
-        "github": null,
+        "github": "https://github.com/Guang000/HDD ",
         "url": "https://arxiv.org/abs/2505.24623",
         "cite": "li2025hdd",
-        "website": null
+        "website": "https://guang000.github.io/HDD-Webpage/ "
       }
     ],
     "kernel": [
@@ -590,7 +598,7 @@
       {
         "title": "Unlocking Dataset Distillation with Diffusion Models",
         "author": "Brian B. Moser & Federico Raue et al., NeurIPS 2025",
-        "github": null,
+        "github": "https://github.com/Brian-Moser/prune_and_distill",
         "url": "https://arxiv.org/abs/2403.03881",
         "cite": "moser2025ld3m",
         "website": null
@@ -605,11 +613,19 @@
       },
       {
         "title": "Dataset Condensation with Color Compensation",
-        "author": "Huyu Wu et al., 2025",
-        "github": "https://github.com/528why/Dataset-Condensation-with-Color-Compensation",
+        "author": "Huyu Wu et al., TMLR 2025",
+        "github": "https://github.com/528why/Dataset-Condensation-with-Color-Compensation ",
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
-        "website": "https://528why.github.io/DC3-Page/"
+        "website": "https://528why.github.io/DC3-Page/ "
+      },
+      {
+        "title": "CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder",
+        "author": "Yongmin Lee et al., NeurIPS 2025",
+        "github": "https://github.com/Yongalls/CovMatch ",
+        "url": "https://arxiv.org/abs/2510.18583",
+        "cite": "lee2025covmatch",
+        "website": null
       }
     ],
     "better-optimization": [
@@ -1085,6 +1101,14 @@
         "github": "https://github.com/ichbill/EDGE ",
         "url": "https://arxiv.org/abs/2509.15472",
         "cite": "zhao2025edge",
+        "website": null
+      },
+      {
+        "title": "CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder",
+        "author": "Yongmin Lee et al., NeurIPS 2025",
+        "github": "https://github.com/Yongalls/CovMatch ",
+        "url": "https://arxiv.org/abs/2510.18583",
+        "cite": "lee2025covmatch",
         "website": null
       }
     ],
@@ -1930,12 +1954,12 @@
       {
         "title": "FairDD: Fair Dataset Distillation",
         "author": "Qihang Zhou et al., NeurIPS 2025",
-        "github": null,
+        "github": "https://github.com/zqhang/FairDD ",
         "url": "https://arxiv.org/abs/2411.19623",
         "cite": "zhou2025fair",
         "website": null
       }
-    ],
+        ],
     "text-application": [
       {
         "title": "Data Distillation for Text Classification",
@@ -2181,6 +2205,14 @@
         "github": "https://github.com/Kciiiman/DD_LNL",
         "url": "https://arxiv.org/abs/2411.11924",
         "cite": "cheng2024noisy",
+        "website": null
+      },
+      {
+        "title": "Robust Dataset Condensation using Supervised Contrastive Learning",
+        "author": "Nicole Hee-Yeon Kim et al., ICCV 2025",
+        "github": "https://github.com/DISL-Lab/RDC-ICCV2025 ",
+        "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Robust_Dataset_Condensation_using_Supervised_Contrastive_Learning_ICCV_2025_paper.html",
+        "cite": "kim2025rdc",
         "website": null
       }
     ],
