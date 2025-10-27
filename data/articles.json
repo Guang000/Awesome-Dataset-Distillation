@@ -618,14 +618,6 @@
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
         "website": "https://528why.github.io/DC3-Page/ "
-      },
-      {
-        "title": "CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder",
-        "author": "Yongmin Lee et al., NeurIPS 2025",
-        "github": "https://github.com/Yongalls/CovMatch ",
-        "url": "https://arxiv.org/abs/2510.18583",
-        "cite": "lee2025covmatch",
-        "website": null
       }
     ],
     "better-optimization": [
