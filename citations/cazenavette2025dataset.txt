@@ -1,0 +1,6 @@
+@inproceedings{cazenavette2025dataset,
+  title={Dataset Distillation for Pre-Trained Self-Supervised Vision Models},
+  author={Cazenavette, George and Torralba, Antonio and Sitzmann, Vincent},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
