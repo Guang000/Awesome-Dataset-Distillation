@@ -1,0 +1,6 @@
+@inproceedings{jiang2025long,
+  title={Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation},
+  author={Jiang, Chenyang and Zhao, Hang and Zhang, Xinyu and Li, Zhengcen and Shan, Qiben and Wu, Shaocong and Su, Jingyong},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
