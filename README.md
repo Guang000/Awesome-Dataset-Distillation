@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-269-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-270-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/11/20] [DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/abs/2511.09876) (Shuo Shi et al., AAAI 2026) [:book:](./citations/shi2026dpgeng.txt)
 + [2025/10/22] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 + [2025/10/22] [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) [:book:](./citations/lee2025covmatch.txt)
 + [2025/10/22] [Robust Dataset Condensation using Supervised Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Robust_Dataset_Condensation_using_Supervised_Contrastive_Learning_ICCV_2025_paper.html) (Nicole Hee-Yeon Kim et al., ICCV 2025) [:octocat:](https://github.com/DISL-Lab/RDC-ICCV2025) [:book:](./citations/kim2025rdc.txt)
@@ -340,6 +341,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Differentially Private Dataset Condensation](https://www.ndss-symposium.org/ndss-paper/auto-draft-542/) (Zheng et al., NDSS 2024 Workshop) [:book:](./citations/zheng2024differentially.txt)
 + [Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning](https://ieeexplore.ieee.org/abstract/document/10622462?casa_token=tHyZ-Pz7DpUAAAAA:vmCYI4cUcKzMluUsASHhIhr0CvBkjzBR-0N7REVj7aFN5hT5TinQTpSEsE0Bo3Fl8auh52Fipm_v) (Ze Chai et al., ICC 2024) [:book:](./citations/chai2024backdoor.txt)
 + [Improving Noise Efficiency in Privacy-preserving Dataset Distillation](https://arxiv.org/abs/2508.01749) (Runkai Zheng et al., ICCV 2025) [:octocat:](https://github.com/humansensinglab/Dosser) [:book:](./citations/zheng2025dosser.txt)
++ [DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/abs/2511.09876) (Shuo Shi et al., AAAI 2026) [:book:](./citations/shi2026dpgeng.txt)
 
 <a name="medical" />
 
@@ -370,7 +372,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning](https://arxiv.org/abs/2207.09653) (Yuanhao Xiong & Ruochen Wang et al., CVPR 2023) [:octocat:](https://github.com/anonymifish/fed-distribution-matching) [:book:](./citations/xiong2023feddm.txt)
 + [Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments](https://arxiv.org/abs/2208.11311) (Rui Song et al., IJCNN 2023) [:octocat:](https://github.com/rruisong/fedd3) [:book:](./citations/song2023federated.txt)
 + [FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations](https://arxiv.org/abs/2302.01068) (Hui-Po Wang et al., 2023) [:octocat:](https://github.com/a514514772/fedlap-dp) [:book:](./citations/wang2023fed.txt)
-+ [Federated Virtual Learning on Heterogeneous Data with Local-global Distillation](https://arxiv.org/abs/2303.02278) (Chun-Yin Huang et al., 2023) [:book:](./citations/huang2023federated.txt)
++ [Federated Learning on Virtual Heterogeneous Data with Local-global Distillation](https://arxiv.org/abs/2303.02278) (Chun-Yin Huang et al., TMLR 2024) [:octocat:](https://github.com/ubc-tea/FedLGD) [:book:](./citations/huang2024federated.txt)
 + [An Aggregation-Free Federated Learning for Tackling Data Heterogeneity](https://arxiv.org/abs/2404.18962) (Yuan Wang et al., CVPR 2024) [:book:](./citations/wang2024fed.txt)
 + [Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors](https://arxiv.org/abs/2405.11525) (Chun-Yin Huang et al., ICML 2024) [:octocat:](https://github.com/ubc-tea/DESA) [:book:](./citations/huang2024desa.txt)
 + [DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning](https://ieeexplore.ieee.org/document/10650791) (Xingwang Wang et al., IJCNN 2024) [:octocat:](https://github.com/JLUssh/DCFL) [:book:](./citations/wang2024dcfl.txt)
