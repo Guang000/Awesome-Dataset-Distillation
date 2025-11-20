@@ -1392,6 +1392,14 @@
         "url": "https://arxiv.org/abs/2508.01749",
         "cite": "zheng2025dosser",
         "website": null
+      },
+      {
+        "title": "DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data",
+        "author": "Shuo Shi et al., AAAI 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2511.09876",
+        "cite": "shi2026dpgeng",
+        "website": null
       }
     ],
     "medical": [
@@ -1574,11 +1582,11 @@
         "website": null
       },
       {
-        "title": "Federated Virtual Learning on Heterogeneous Data with Local-global Distillation",
-        "author": "Chun-Yin Huang et al., 2023",
-        "github": null,
+        "title": "Federated Learning on Virtual Heterogeneous Data with Local-global Distillation",
+        "author": "Chun-Yin Huang et al., TMLR 2024",
+        "github": "https://github.com/ubc-tea/FedLGD ",
         "url": "https://arxiv.org/abs/2303.02278",
-        "cite": "huang2023federated",
+        "cite": "huang2024federated",
         "website": null
       },
       {

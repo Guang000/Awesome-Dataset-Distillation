@@ -1,4 +1,14 @@
 {
+  "2025/11/20": [
+    {
+      "title": "DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data",
+      "author": "Shuo Shi et al., AAAI 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2511.09876",
+      "cite": "shi2026dpgeng",
+      "website": null
+    }
+  ],
   "2025/10/22": [
     {
       "title": "Dataset Condensation with Color Compensation",
