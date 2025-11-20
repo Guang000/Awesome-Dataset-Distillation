@@ -1,0 +1,6 @@
+@inproceedings{cui2025ot,
+  title={Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation},
+  author={Cui, Xiao and Qin, Yulei and Zhou, Wengang and Li, Hongsheng and Li, Houqiang},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
