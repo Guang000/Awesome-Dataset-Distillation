@@ -1,0 +1,6 @@
+@inproceedings{shi2026dpgeng,
+  title={{DP-GENG}: Differentially Private Dataset Distillation Guided by DP-Generated Data},
+  author={Shi, Shuo and Zhang, Jinghuai and Jiang, Shijie and Zhou, Chunyi and Li, Yuyuan and Zhu, Mengying and Wu, Yangyang and Du, Tianyu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
