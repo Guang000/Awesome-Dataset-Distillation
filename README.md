@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2025/11/20] [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://openreview.net/forum?id=GbRVlyVOqH) (George Cazenavette et al., NeurIPS 2025) [:book:](./citations/cazenavette2025dataset.txt)
++ [2025/11/20] [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://openreview.net/forum?id=GbRVlyVOqH) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 + [2025/11/20] [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://openreview.net/forum?id=jb4EvgxOXD) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
 + [2025/11/20] [Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation](https://openreview.net/forum?id=x7EjzpW5XC) (Chenyang Jiang et al., NeurIPS 2025) [:book:](./citations/jiang2025long.txt)
 + [2025/11/20] [SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation](https://openreview.net/forum?id=YWE9na9Jai) (He Yang & Dongyi Lv et al., NeurIPS 2025) [:book:](./citations/yang2025sneakdoor.txt)
