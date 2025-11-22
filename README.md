@@ -277,7 +277,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) [:book:](./citations/zhou2024self.txt)
 + [Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks](https://arxiv.org/abs/2410.02116) (Siddharth Joshi et al., ICLR 2025) [:octocat:](https://github.com/jiayini1119/MKDT) [:book:](./citations/joshi2025kd.txt)
 + [Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation](https://arxiv.org/abs/2507.21455) (Sheng-Feng Yu et al., ICLR 2025) [:book:](./citations/yu2025self.txt)
-+ [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://openreview.net/forum?id=GbRVlyVOqH) (George Cazenavette et al., NeurIPS 2025) [:book:](./citations/cazenavette2025dataset.txt)
++ [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://openreview.net/forum?id=GbRVlyVOqH) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 
 <a name="benchmark" />
 
