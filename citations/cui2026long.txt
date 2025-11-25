@@ -1,0 +1,6 @@
+@inproceedings{cui2026long,
+  title={Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling},
+  author={Cui, Xiao and Qin, Yulei and Li, Xinyue and Zhou, Wengang and Li, Hongsheng and Li, Houqiang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
