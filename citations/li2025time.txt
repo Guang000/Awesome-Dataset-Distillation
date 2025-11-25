@@ -1,0 +1,6 @@
+@article{li2025time,
+  title={DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting},
+  author={Li, Yuqi and Ding, Kuiye and Yang, Chuanguang and Wang, Hao and Wang, Haoxuan and Duan, Huiran and Liu, Junming and Tian, Yingli},
+  journal={arXiv preprint arXiv:2511.16175},
+  year={2025}
+}
