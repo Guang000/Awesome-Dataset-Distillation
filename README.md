@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-274-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-278-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,16 +20,16 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/11/25] [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
++ [2025/11/25] [DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715) (Yuqi Li & Kuiye Ding et al., 2025) [:book:](./citations/li2025time.txt)
++ [2025/11/25] [Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation](https://arxiv.org/abs/2511.12095) (Shuhan Ye et al., 2025) [:book:](./citations/ye2025snn.txt)
++ [2025/11/25] [Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling](https://arxiv.org/abs/2511.18858) (Xiao Cui et al., AAAI 2026) [:book:](./citations/cui2026long.txt)
 + [2025/11/20] [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 + [2025/11/20] [Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation](https://arxiv.org/abs/2511.17914) (Chenyang Jiang et al., NeurIPS 2025) [:octocat:](https://github.com/j-cyoung/ADSA_DD) [:book:](./citations/jiang2025long.txt)
 + [2025/11/20] [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://openreview.net/forum?id=jb4EvgxOXD) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
 + [2025/11/20] [SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation](https://openreview.net/forum?id=YWE9na9Jai) (He Yang & Dongyi Lv et al., NeurIPS 2025) [:book:](./citations/yang2025sneakdoor.txt)
 + [2025/11/20] [DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/abs/2511.09876) (Shuo Shi et al., AAAI 2026) [:book:](./citations/shi2026dpgeng.txt)
 + [2025/10/22] [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
-+ [2025/10/22] [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) [:book:](./citations/lee2025covmatch.txt)
-+ [2025/10/22] [Robust Dataset Condensation using Supervised Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Robust_Dataset_Condensation_using_Supervised_Contrastive_Learning_ICCV_2025_paper.html) (Nicole Hee-Yeon Kim et al., ICCV 2025) [:octocat:](https://github.com/DISL-Lab/RDC-ICCV2025) [:book:](./citations/kim2025rdc.txt)
-+ [2025/10/22] [Diversity-Enhanced Distribution Alignment for Dataset Distillation](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Diversity-Enhanced_Distribution_Alignment_for_Dataset_Distillation_ICCV_2025_paper.html) (Hongcheng Li et al., ICCV 2025) [:book:](./citations/li2025deda.txt)
-+ [2025/10/09] [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:globe_with_meridians:](https://guang000.github.io/HDD-Webpage/) [:octocat:](https://github.com/Guang000/HDD) [:book:](./citations/li2025hdd.txt)
 
 ## Contents
 - [Main](#main)
@@ -78,6 +78,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Object Detection](#detection)
   - [Point Cloud](#point)
   - [Universal Distillation](#uni)
+  - [Spiking Neural Network](#snn)
 <a name="main" />
 
 ## Main
@@ -268,6 +269,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
 + [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
 + [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) [:book:](./citations/lee2025covmatch.txt)
++ [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
 
 <a name="self" />
 
@@ -498,6 +500,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245) (Zhanyu Liu et al., KDD 2024) [:octocat:](https://github.com/zhyliu00/TimeSeriesCond) [:book:](./citations/liu2024time.txt)
 + [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) (Jianrong Ding & Zhanyu Liu et al., NeurIPS 2024) [:octocat:](https://github.com/RafaDD/CondTSF) [:book:](./citations/ding2024time.txt)
 + [Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching](https://arxiv.org/abs/2410.20905) (Hao Miao et al., VLDB 2025) [:octocat:](https://github.com/uestc-liuzq/STdistillation) [:book:](./citations/miao2025timedc.txt)
++ [DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715) (Yuqi Li & Kuiye Ding et al., 2025) [:book:](./citations/li2025time.txt)
 
 <a name="speech" />
 
@@ -523,6 +526,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Long-Tail
 + [Distilling Long-tailed Datasets](https://arxiv.org/abs/2408.14506) (Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) [:octocat:](https://github.com/ichbill/LTDD) [:book:](./citations/zhao2025long.txt)
 + [Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation](https://arxiv.org/abs/2511.17914) (Chenyang Jiang et al., NeurIPS 2025) [:octocat:](https://github.com/j-cyoung/ADSA_DD) [:book:](./citations/jiang2025long.txt)
++ [Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling](https://arxiv.org/abs/2511.18858) (Xiao Cui et al., AAAI 2026) [:book:](./citations/cui2026long.txt)
 
 <a name="noisy" />
 
@@ -547,6 +551,10 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Universal Distillation
 
 + [Towards Universal Dataset Distillation via Task-Driven Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html) (Ding Qi et al., CVPR 2025) [:book:](./citations/qi2025unidd.txt)
+
+### Spiking Neural Network
+
++ [Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation](https://arxiv.org/abs/2511.12095) (Shuhan Ye et al., 2025) [:book:](./citations/ye2025snn.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
