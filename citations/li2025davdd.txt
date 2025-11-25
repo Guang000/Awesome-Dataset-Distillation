@@ -1,0 +1,6 @@
+@article{li2025davdd,
+  title={Decoupled Audio-Visual Dataset Distillation},
+  author={Li, Wenyuan and Li, Guang and Maeda, Keisuke and Ogawa, Takahiro and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2511.17890},
+  year={2025}
+}
