@@ -1,0 +1,6 @@
+@article{ye2025snn,
+  title={Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation},
+  author={Ye, Shuhan and Yu, Yi and Zhang, Qixin and Kong, Chenqi and Wu, Qiangqiang and Wang, Kun and Jiang, Xudong},
+  journal={arXiv preprint arXiv:2511.12095},
+  year={2025}
+}
