@@ -1,0 +1,6 @@
+@article{xu2025low,
+  title={Low-Level Dataset Distillation for Medical Image Enhancement},
+  author={Xu, Fengzhi and Yang, Ziyuan and Sun, Mengyu and Zhou, Joey Tianyi and Zhang, Yi},
+  journal={arXiv preprint arXiv:2511.13106},
+  year={2025}
+}
