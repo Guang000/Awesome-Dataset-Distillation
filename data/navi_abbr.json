@@ -49,5 +49,6 @@
   "noisy": "Learning with Noisy Labels",
   "object": "Object Detection",
   "point": "Point Cloud",
-  "uni": "Universal Distillation"
+  "uni": "Universal Distillation",
+  "snn": "Spiking Neural Network"
 }

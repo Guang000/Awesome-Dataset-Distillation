@@ -618,6 +618,14 @@
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
         "website": "https://528why.github.io/DC3-Page/ "
+      },
+      {
+        "title": "Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation",
+        "author": "Xiao Cui et al., NeurIPS 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=jb4EvgxOXD",
+        "cite": "cui2025ot",
+        "website": null
       }
     ],
     "better-optimization": [
@@ -1102,6 +1110,14 @@
         "url": "https://arxiv.org/abs/2510.18583",
         "cite": "lee2025covmatch",
         "website": null
+      },
+      {
+        "title": "Decoupled Audio-Visual Dataset Distillation",
+        "author": "Wenyuan Li & Guang Li et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2511.17890",
+        "cite": "li2025davdd",
+        "website": null
       }
     ],
     "self": [
@@ -1144,6 +1160,14 @@
         "url": "https://arxiv.org/abs/2507.05914",
         "cite": "yu2025self",
         "website": null
+      },
+      {
+        "title": "Dataset Distillation for Pre-Trained Self-Supervised Vision Models",
+        "author": "George Cazenavette et al., NeurIPS 2025",
+        "github": "https://github.com/GeorgeCazenavette/linear-gradient-matching ",
+        "url": "https://arxiv.org/abs/2511.16674",
+        "cite": "cazenavette2025dataset",
+        "website": "https://linear-gradient-matching.github.io/ "
       }
     ],
     "benchmark": [
@@ -1394,6 +1418,14 @@
         "website": null
       },
       {
+        "title": "SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation",
+        "author": "He Yang & Dongyi Lv et al., NeurIPS 2025",
+        "github": null,
+        "url": "https://openreview.net/forum?id=YWE9na9Jai",
+        "cite": "yang2025sneakdoor",
+        "website": null
+      },
+      {
         "title": "DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data",
         "author": "Shuo Shi et al., AAAI 2026",
         "github": null,
@@ -1505,6 +1537,14 @@
         "github": "https://github.com/Bian-jh/HoP-TM ",
         "url": "https://arxiv.org/abs/2509.24177",
         "cite": "dong2025hop",
+        "website": null
+      },
+      {
+        "title": "Low-Level Dataset Distillation for Medical Image Enhancemen",
+        "author": "Fengzhi Xu et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2511.13106",
+        "cite": "xu2025low",
         "website": null
       }
     ],
@@ -2124,6 +2164,14 @@
         "url": "https://arxiv.org/abs/2410.20905",
         "cite": "miao2025timedc",
         "website": null
+      },
+      {
+        "title": "DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting",
+        "author": "Yuqi Li & Kuiye Ding et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2511.16715",
+        "cite": "li2025time",
+        "website": null
       }
     ],
     "speech": [
@@ -2196,6 +2244,22 @@
         "url": "https://arxiv.org/abs/2408.14506",
         "cite": "zhao2025long",
         "website": null
+      },
+      {
+        "title": "Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation",
+        "author": "Chenyang Jiang et al., NeurIPS 2025",
+        "github": "https://github.com/j-cyoung/ADSA_DD ",
+        "url": "https://arxiv.org/abs/2511.17914",
+        "cite": "jiang2025long",
+        "website": null
+      },
+      {
+        "title": "Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling",
+        "author": "Xiao Cui et al., AAAI 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2511.18858",
+        "cite": "cui2026long",
+        "website": null
       }
     ],
     "noisy": [
@@ -2259,6 +2323,16 @@
         "github": null,
         "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Towards_Universal_Dataset_Distillation_via_Task-Driven_Diffusion_CVPR_2025_paper.html",
         "cite": "qi2025unidd",
+        "website": null
+      }
+    ],
+    "snn": [
+      {
+        "title": "Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation",
+        "author": "Shuhan Ye et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2511.12095",
+        "cite": "ye2025snn",
         "website": null
       }
     ]

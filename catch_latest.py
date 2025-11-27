@@ -26,6 +26,9 @@ def main():
         articles = []
         for name in names:
             df = data_latest.loc[data_latest["cite"] == name]
+            if len(df) == 0:
+                print(f"{name} not found in articles")
+                exit()
             articles.append(df.iloc[0].to_dict())
         dict_latest[date]=articles
 #     print(dict_latest)
