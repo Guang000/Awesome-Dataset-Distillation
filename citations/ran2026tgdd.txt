@@ -1,0 +1,6 @@
+@inproceedings{ran2026tgdd,
+  title={{TGDD}: Trajectory Guided Dataset Distillation with Balanced Distribution},
+  author={Ran, Fengli and Pu, Xiao and Liu, Bo and Bi, Xiuli and Xiao, Bin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
