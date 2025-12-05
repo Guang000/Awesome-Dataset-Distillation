@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-279-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-280-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/12/05] [TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution](https://arxiv.org/abs/2512.02469) (Fengli Ran et al., AAAI 2026) [:octocat:](https://github.com/FlyFinley/TGDD) [:book:](./citations/ran2026tgdd.txt)
 + [2025/11/25] [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
 + [2025/11/25] [DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715) (Yuqi Li & Kuiye Ding et al., 2025) [:book:](./citations/li2025time.txt)
 + [2025/11/25] [Low-Level Dataset Distillation for Medical Image Enhancemen](https://arxiv.org/abs/2511.13106) (Fengzhi Xu et al., 2025) [:book:](./citations/xu2025low.txt)
@@ -29,7 +30,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/11/20] [Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation](https://arxiv.org/abs/2511.17914) (Chenyang Jiang et al., NeurIPS 2025) [:octocat:](https://github.com/j-cyoung/ADSA_DD) [:book:](./citations/jiang2025long.txt)
 + [2025/11/20] [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://arxiv.org/abs/2512.00308) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
 + [2025/11/20] [SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation](https://openreview.net/forum?id=YWE9na9Jai) (He Yang & Dongyi Lv et al., NeurIPS 2025) [:book:](./citations/yang2025sneakdoor.txt)
-+ [2025/11/20] [DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/abs/2511.09876) (Shuo Shi et al., AAAI 2026) [:book:](./citations/shi2026dpgeng.txt)
+
 
 ## Contents
 - [Main](#main)
@@ -125,6 +126,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe_with_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) [:book:](./citations/liu2025wasserstein.txt)
 + [Diversity-Enhanced Distribution Alignment for Dataset Distillation](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Diversity-Enhanced_Distribution_Alignment_for_Dataset_Distillation_ICCV_2025_paper.html) (Hongcheng Li et al., ICCV 2025) [:book:](./citations/li2025deda.txt)
 + [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623) (Wenyuan Li & Guang Li et al., NeurIPS 2025) [:globe_with_meridians:](https://guang000.github.io/HDD-Webpage/) [:octocat:](https://github.com/Guang000/HDD) [:book:](./citations/li2025hdd.txt)
++ [TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution](https://arxiv.org/abs/2512.02469) (Fengli Ran et al., AAAI 2026) [:octocat:](https://github.com/FlyFinley/TGDD) [:book:](./citations/ran2026tgdd.txt)
  
 <a name="kernel" />
 
