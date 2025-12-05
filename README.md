@@ -27,7 +27,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/11/25] [Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling](https://arxiv.org/abs/2511.18858) (Xiao Cui et al., AAAI 2026) [:book:](./citations/cui2026long.txt)
 + [2025/11/20] [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 + [2025/11/20] [Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation](https://arxiv.org/abs/2511.17914) (Chenyang Jiang et al., NeurIPS 2025) [:octocat:](https://github.com/j-cyoung/ADSA_DD) [:book:](./citations/jiang2025long.txt)
-+ [2025/11/20] [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://openreview.net/forum?id=jb4EvgxOXD) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
++ [2025/11/20] [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://arxiv.org/abs/2512.00308) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
 + [2025/11/20] [SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation](https://openreview.net/forum?id=YWE9na9Jai) (He Yang & Dongyi Lv et al., NeurIPS 2025) [:book:](./citations/yang2025sneakdoor.txt)
 + [2025/11/20] [DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/abs/2511.09876) (Shuo Shi et al., AAAI 2026) [:book:](./citations/shi2026dpgeng.txt)
 
@@ -184,7 +184,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:octocat:](https://github.com/Brian-Moser/prune_and_distill) [:book:](./citations/moser2025ld3m.txt)
 + [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye & Guang Li et al., NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
 + [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
-+ [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://openreview.net/forum?id=jb4EvgxOXD) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
++ [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://arxiv.org/abs/2512.00308) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
 
 <a name="optimization" />
 
