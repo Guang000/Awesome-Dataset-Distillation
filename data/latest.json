@@ -1,4 +1,14 @@
 {
+  "2025/12/05": [
+    {
+      "title": "TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution",
+      "author": "Fengli Ran et al., AAAI 2026",
+      "github": "https://github.com/FlyFinley/TGDD ",
+      "url": "https://arxiv.org/abs/2512.02469",
+      "cite": "ran2026tgdd",
+      "website": null
+    }
+  ],
   "2025/11/25": [
     {
       "title": "Decoupled Audio-Visual Dataset Distillation",
@@ -62,7 +72,7 @@
       "title": "Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation",
       "author": "Xiao Cui et al., NeurIPS 2025",
       "github": null,
-      "url": "https://openreview.net/forum?id=jb4EvgxOXD",
+      "url": "https://arxiv.org/abs/2512.00308",
       "cite": "cui2025ot",
       "website": null
     },
@@ -72,14 +82,6 @@
       "github": null,
       "url": "https://openreview.net/forum?id=YWE9na9Jai",
       "cite": "yang2025sneakdoor",
-      "website": null
-    },
-    {
-      "title": "DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data",
-      "author": "Shuo Shi et al., AAAI 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2511.09876",
-      "cite": "shi2026dpgeng",
       "website": null
     }
   ]

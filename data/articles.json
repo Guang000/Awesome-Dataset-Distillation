@@ -254,6 +254,14 @@
         "url": "https://arxiv.org/abs/2505.24623",
         "cite": "li2025hdd",
         "website": "https://guang000.github.io/HDD-Webpage/ "
+      },
+      {
+        "title": "TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution",
+        "author": "Fengli Ran et al., AAAI 2026",
+        "github": "https://github.com/FlyFinley/TGDD ",
+        "url": "https://arxiv.org/abs/2512.02469",
+        "cite": "ran2026tgdd",
+        "website": null
       }
     ],
     "kernel": [
@@ -605,7 +613,7 @@
       },
       {
         "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
-        "author": "Linfeng Ye & Guang Li et al., NeurIPS 2025 Workshop",
+        "author": "Linfeng Ye et al., NeurIPS 2025 Workshop",
         "github": null,
         "url": "https://arxiv.org/abs/2507.04619",
         "cite": "ye2025igds",
@@ -623,7 +631,7 @@
         "title": "Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation",
         "author": "Xiao Cui et al., NeurIPS 2025",
         "github": null,
-        "url": "https://openreview.net/forum?id=jb4EvgxOXD",
+        "url": "https://arxiv.org/abs/2512.00308",
         "cite": "cui2025ot",
         "website": null
       }
