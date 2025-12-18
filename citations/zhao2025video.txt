@@ -1,0 +1,6 @@
+@article{zhao2025video,
+  title={Distill Video Datasets into Images},
+  author={Zhao, Zhenghao and Wang, Haoxuan and Wang, Kai and Shang, Yuzhang and Hong, Yuan and Yan, Yan},
+  journal={arXiv preprint arXiv:2512.14621},
+  year={2025}
+}
