@@ -1,0 +1,6 @@
+@inproceedings{tang2026eeg,
+  title={{EEG-DLite}: Dataset Distillation for Efficient Large EEG Model Training},
+  author={Tang, Yuting and Jiang, Weibang and Li, Shanglin and Li, Yong and Liu, Chenyu and Zhou, Xinliang and Ding, Yi and Guan, Cuntai},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
