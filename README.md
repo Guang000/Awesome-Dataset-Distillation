@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-280-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-282-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2025/12/18] [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
++ [2025/12/18] [EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training](https://arxiv.org/abs/2512.12210) (Yuting Tang et al., AAAI 2026) [:octocat:](https://github.com/t170815518/EEG-DLite) [:book:](./citations/tang2026eeg.txt)
 + [2025/12/05] [TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution](https://arxiv.org/abs/2512.02469) (Fengli Ran et al., AAAI 2026) [:octocat:](https://github.com/FlyFinley/TGDD) [:book:](./citations/ran2026tgdd.txt)
 + [2025/11/25] [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
 + [2025/11/25] [DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715) (Yuqi Li & Kuiye Ding et al., 2025) [:book:](./citations/li2025time.txt)
@@ -28,9 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2025/11/25] [Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling](https://arxiv.org/abs/2511.18858) (Xiao Cui et al., AAAI 2026) [:book:](./citations/cui2026long.txt)
 + [2025/11/20] [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 + [2025/11/20] [Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation](https://arxiv.org/abs/2511.17914) (Chenyang Jiang et al., NeurIPS 2025) [:octocat:](https://github.com/j-cyoung/ADSA_DD) [:book:](./citations/jiang2025long.txt)
-+ [2025/11/20] [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://arxiv.org/abs/2512.00308) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
-+ [2025/11/20] [SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation](https://openreview.net/forum?id=YWE9na9Jai) (He Yang & Dongyi Lv et al., NeurIPS 2025) [:book:](./citations/yang2025sneakdoor.txt)
-
 
 ## Contents
 - [Main](#main)
@@ -80,6 +79,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Point Cloud](#point)
   - [Universal Distillation](#uni)
   - [Spiking Neural Network](#snn)
+  - [EEG](#eeg)
 <a name="main" />
 
 ## Main
@@ -476,6 +476,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [A Large-Scale Study on Video Action Dataset Condensation](https://arxiv.org/abs/2412.21197) (Yang Chen et al., 2024) [:octocat:](https://github.com/MCG-NJU/Video-DC) [:book:](./citations/chen2024video.txt)
 + [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
 + [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:octocat:](https://github.com/liningresearch/Latent_Video_Dataset_Distillation) [:book:](./citations/li2025latent.txt)
++ [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
 
 <a name="tabular" />
 
@@ -560,6 +561,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Spiking Neural Network
 
 + [Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation](https://arxiv.org/abs/2511.12095) (Shuhan Ye et al., 2025) [:book:](./citations/ye2025snn.txt)
+
+<a name="eeg" />
+
+### EEG
+
++ [EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training](https://arxiv.org/abs/2512.12210) (Yuting Tang et al., AAAI 2026) [:octocat:](https://github.com/t170815518/EEG-DLite) [:book:](./citations/tang2026eeg.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
