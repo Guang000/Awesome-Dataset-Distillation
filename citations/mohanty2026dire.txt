@@ -1,0 +1,6 @@
+@inproceedings{mohanty2026dire,
+  title={DiRe: Diversity-promoting Regularization for Dataset Condensation},
+  author={Mohanty, Saumyaranjan and Reddy, Aravind and Mopuri, Konda Reddy},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2026}
+}
