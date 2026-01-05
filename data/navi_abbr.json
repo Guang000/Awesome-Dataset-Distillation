@@ -50,5 +50,6 @@
   "object": "Object Detection",
   "point": "Point Cloud",
   "uni": "Universal Distillation",
-  "snn": "Spiking Neural Network"
+  "snn": "Spiking Neural Network",
+  "eeg": "EEG"
 }

@@ -1,4 +1,32 @@
 {
+  "2025/12/22": [
+    {
+      "title": "DiRe: Diversity-promoting Regularization for Dataset Condensation",
+      "author": "Saumyaranjan Mohanty et al., WACV 2026",
+      "github": "https://github.com/DIL-IITH/DiRe ",
+      "url": "https://arxiv.org/abs/2512.13083",
+      "cite": "mohanty2026dire",
+      "website": null
+    }
+  ],
+  "2025/12/18": [
+    {
+      "title": "Distill Video Datasets into Images",
+      "author": "Zhenghao Zhao et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2512.14621",
+      "cite": "zhao2025video",
+      "website": null
+    },
+    {
+      "title": "EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training",
+      "author": "Yuting Tang et al., AAAI 2026",
+      "github": "https://github.com/t170815518/EEG-DLite ",
+      "url": "https://arxiv.org/abs/2512.12210",
+      "cite": "tang2026eeg",
+      "website": null
+    }
+  ],
   "2025/12/05": [
     {
       "title": "TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution",
@@ -59,30 +87,6 @@
       "url": "https://arxiv.org/abs/2511.16674",
       "cite": "cazenavette2025dataset",
       "website": "https://linear-gradient-matching.github.io/ "
-    },
-    {
-      "title": "Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation",
-      "author": "Chenyang Jiang et al., NeurIPS 2025",
-      "github": "https://github.com/j-cyoung/ADSA_DD ",
-      "url": "https://arxiv.org/abs/2511.17914",
-      "cite": "jiang2025long",
-      "website": null
-    },
-    {
-      "title": "Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation",
-      "author": "Xiao Cui et al., NeurIPS 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2512.00308",
-      "cite": "cui2025ot",
-      "website": null
-    },
-    {
-      "title": "SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation",
-      "author": "He Yang & Dongyi Lv et al., NeurIPS 2025",
-      "github": null,
-      "url": "https://openreview.net/forum?id=YWE9na9Jai",
-      "cite": "yang2025sneakdoor",
-      "website": null
     }
   ]
 }

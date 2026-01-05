@@ -612,6 +612,14 @@
         "website": null
       },
       {
+        "title": "Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation",
+        "author": "Xiao Cui et al., NeurIPS 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2512.00308",
+        "cite": "cui2025ot",
+        "website": null
+      },
+      {
         "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
         "author": "Linfeng Ye et al., NeurIPS 2025 Workshop",
         "github": null,
@@ -626,14 +634,6 @@
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
         "website": "https://528why.github.io/DC3-Page/ "
-      },
-      {
-        "title": "Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation",
-        "author": "Xiao Cui et al., NeurIPS 2025",
-        "github": null,
-        "url": "https://arxiv.org/abs/2512.00308",
-        "cite": "cui2025ot",
-        "website": null
       }
     ],
     "better-optimization": [
@@ -1067,6 +1067,14 @@
         "github": "https://github.com/Jiacheng8/CV-DD",
         "url": "https://arxiv.org/abs/2501.07575",
         "cite": "cui2025cvdd",
+        "website": null
+      },
+      {
+        "title": "DiRe: Diversity-promoting Regularization for Dataset Condensation",
+        "author": "Saumyaranjan Mohanty et al., WACV 2026",
+        "github": "https://github.com/DIL-IITH/DiRe ",
+        "url": "https://arxiv.org/abs/2512.13083",
+        "cite": "mohanty2026dire",
         "website": null
       }
     ],
@@ -2106,6 +2114,14 @@
         "url": "https://arxiv.org/abs/2504.17132",
         "cite": "li2025latent",
         "website": null
+      },
+      {
+        "title": "Distill Video Datasets into Images",
+        "author": "Zhenghao Zhao et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2512.14621",
+        "cite": "zhao2025video",
+        "website": null
       }
     ],
     "tabular": [
@@ -2341,6 +2357,16 @@
         "github": null,
         "url": "https://arxiv.org/abs/2511.12095",
         "cite": "ye2025snn",
+        "website": null
+      }
+    ],
+    "eeg": [
+      {
+        "title": "EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training",
+        "author": "Yuting Tang et al., AAAI 2026",
+        "github": "https://github.com/t170815518/EEG-DLite ",
+        "url": "https://arxiv.org/abs/2512.12210",
+        "cite": "tang2026eeg",
         "website": null
       }
     ]
