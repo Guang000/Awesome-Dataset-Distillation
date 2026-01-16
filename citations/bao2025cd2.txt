@@ -1,0 +1,6 @@
+@inproceedings{bao2025cd2,
+  title={{CD2}: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning},
+  author={Bao, Kexin and Zhang, Daichi and Zhang, Hansong and Li, Yong and Yue, Yutao and Ge, Shiming},
+  booktitle={Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  year={2025}
+}
