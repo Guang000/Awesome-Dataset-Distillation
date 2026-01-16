@@ -1,0 +1,6 @@
+@article{chen2025discrepancy,
+  title={A Discrepancy-Based Perspective on Dataset Condensation},
+  author={Chen, Tong and Selvan, Raghavendra},
+  journal={arXiv preprint arXiv:2509.10367},
+  year={2025}
+}
