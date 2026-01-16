@@ -185,7 +185,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling](https://arxiv.org/abs/2507.03331) (Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) [:octocat:](https://github.com/SumomoTaku/DiffGuideSamp) [:book:](./citations/li2025diff.txt)
 + [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:octocat:](https://github.com/Brian-Moser/prune_and_distill) [:book:](./citations/moser2025ld3m.txt)
 + [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://arxiv.org/abs/2512.00308) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
-+ [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye et al., NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
 + [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 
 <a name="optimization" />
@@ -223,6 +222,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) [:book:](./citations/yang2024learning.txt)
 + [Mitigating Bias in Dataset Distillation](https://arxiv.org/abs/2406.06609) (Justin Cui et al., ICML 2024) [:book:](./citations/cui2024bias.txt)
 + [Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning](https://arxiv.org/abs/2409.01410) (Vyacheslav Kungurtsev et al., 2024) [:book:](./citations/kungurtsev2024first.txt)
++ [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye et al., NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
 + [Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., 2025) [:book:](./citations/behrens2025dd.txt)
 + [A Discrepancy-Based Perspective on Dataset Condensation](https://arxiv.org/abs/2509.10367) (Tong Chen et al., 2025) [:book:](./citations/chen2025discrepancy.txt)
 
