@@ -1,4 +1,22 @@
 {
+  "2026/01/16": [
+    {
+      "title": "CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning",
+      "author": "Kexin Bao et al., IJCAI 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2601.08519",
+      "cite": "bao2025cd2",
+      "website": null
+    },
+    {
+      "title": "A Discrepancy-Based Perspective on Dataset Condensation",
+      "author": "Tong Chen et al., 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2509.10367",
+      "cite": "chen2025discrepancy",
+      "website": null
+    }
+  ],
   "2025/12/22": [
     {
       "title": "DiRe: Diversity-promoting Regularization for Dataset Condensation",
@@ -69,24 +87,6 @@
       "url": "https://arxiv.org/abs/2511.12095",
       "cite": "ye2025snn",
       "website": null
-    },
-    {
-      "title": "Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling",
-      "author": "Xiao Cui et al., AAAI 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2511.18858",
-      "cite": "cui2026long",
-      "website": null
-    }
-  ],
-  "2025/11/20": [
-    {
-      "title": "Dataset Distillation for Pre-Trained Self-Supervised Vision Models",
-      "author": "George Cazenavette et al., NeurIPS 2025",
-      "github": "https://github.com/GeorgeCazenavette/linear-gradient-matching ",
-      "url": "https://arxiv.org/abs/2511.16674",
-      "cite": "cazenavette2025dataset",
-      "website": "https://linear-gradient-matching.github.io/ "
     }
   ]
 }

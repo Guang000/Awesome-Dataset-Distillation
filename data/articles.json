@@ -620,14 +620,6 @@
         "website": null
       },
       {
-        "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
-        "author": "Linfeng Ye et al., NeurIPS 2025 Workshop",
-        "github": null,
-        "url": "https://arxiv.org/abs/2507.04619",
-        "cite": "ye2025igds",
-        "website": null
-      },
-      {
         "title": "Dataset Condensation with Color Compensation",
         "author": "Huyu Wu et al., TMLR 2025",
         "github": "https://github.com/528why/Dataset-Condensation-with-Color-Compensation ",
@@ -856,11 +848,27 @@
         "website": null
       },
       {
+        "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
+        "author": "Linfeng Ye et al., NeurIPS 2025 Workshop",
+        "github": null,
+        "url": "https://arxiv.org/abs/2507.04619",
+        "cite": "ye2025igds",
+        "website": null
+      },
+      {
         "title": "Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge",
         "author": "Freya Behrens et al., 2025",
         "github": null,
         "url": "https://arxiv.org/abs/2506.14457",
         "cite": "behrens2025dd",
+        "website": null
+      },
+      {
+        "title": "A Discrepancy-Based Perspective on Dataset Condensation",
+        "author": "Tong Chen et al., 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2509.10367",
+        "cite": "chen2025discrepancy",
         "website": null
       }
     ],
@@ -1349,6 +1357,14 @@
         "github": "https://github.com/vimar-gu/SSD",
         "url": "https://arxiv.org/abs/2305.16645",
         "cite": "gu2024ssd",
+        "website": null
+      },
+      {
+        "title": "CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning",
+        "author": "Kexin Bao et al., IJCAI 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2601.08519",
+        "cite": "bao2025cd2",
         "website": null
       }
     ],
