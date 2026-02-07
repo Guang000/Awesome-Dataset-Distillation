@@ -80,6 +80,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Universal Distillation](#uni)
   - [Spiking Neural Network](#snn)
   - [EEG](#eeg)
+  - [Finance](#finance)
+  - [Music](#music)
+  - [Remote Sensing](#rs)
 <a name="main" />
 
 ## Main
@@ -186,6 +189,10 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Unlocking Dataset Distillation with Diffusion Models](https://arxiv.org/abs/2403.03881) (Brian B. Moser & Federico Raue et al., NeurIPS 2025) [:octocat:](https://github.com/Brian-Moser/prune_and_distill) [:book:](./citations/moser2025ld3m.txt)
 + [Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation](https://arxiv.org/abs/2512.00308) (Xiao Cui et al., NeurIPS 2025) [:book:](./citations/cui2025ot.txt)
 + [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
++ [Diffusion Models as Dataset Distillation Priors](https://arxiv.org/abs/2510.17421) (Duo Su et al., ICLR 2026) [:book:](./citations/su2026dap.txt)
+
+#### Flow
++ [Path-Guided Flow Matching for Dataset Distillation](https://arxiv.org/abs/2602.05616) (Xuhui Li et al., 2026) [:book:](./citations/li2026flow.txt)
 
 <a name="optimization" />
 
@@ -263,6 +270,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [FocusDD: Real-World Scene Infusion for Robust Dataset Distillation](https://arxiv.org/abs/2501.06405) (Youbin Hu et al., 2025) [:book:](./citations/hu2025focusdd.txt)
 + [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) [:book:](./citations/cui2025cvdd.txt)
 + [DiRe: Diversity-promoting Regularization for Dataset Condensation](https://arxiv.org/abs/2512.13083) (Saumyaranjan Mohanty et al., WACV 2026) [:octocat:](https://github.com/DIL-IITH/DiRe) [:book:](./citations/mohanty2026dire.txt)
++ [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
 
 <a name="multi" />
 
@@ -294,6 +302,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., 2024) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2024beard.txt)
 + [DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation](https://arxiv.org/abs/2403.13322) (Yifan Wu et al., TIP 2025) [:octocat:](https://github.com/FredWU-HUST/DD-RobustBench) [:book:](./citations/wu2025robust.txt)
 + [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://arxiv.org/abs/2505.13300) (Zekai Li & Xinhao Zhong et al., 2025) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
++ [Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation](https://arxiv.org/abs/2509.19743) (Xinhao Zhong et al., ICLR 2026) [:book:](./citations/zhong2026rd3.txt)
 
 <a name="survey" />
 
@@ -570,6 +579,24 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### EEG
 
 + [EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training](https://arxiv.org/abs/2512.12210) (Yuting Tang et al., AAAI 2026) [:octocat:](https://github.com/t170815518/EEG-DLite) [:book:](./citations/tang2026eeg.txt)
+
+<a name="finance" />
+
+### Finance
+
++ [Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation](https://arxiv.org/abs/2512.21866) (Yiming Qian et al., ICAIFW 2025) [:book:](./citations/qian2025finance.txt)
+
+<a name="music" />
+
+### Music
+
++ [ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models](https://arxiv.org/abs/2601.14157) (Bruno Sienkiewicz et al., 2026) [:book:](./citations/sienkiewicz2026music.txt)
+
+<a name="rs" />
+
+### Remote Sensing
+
++ [Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion](https://arxiv.org/abs/2601.15829) (Yonghao Xu et al., 2026) [:book:](./citations/xu2026rs.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
