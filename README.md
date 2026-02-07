@@ -20,16 +20,16 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/02/07] [Path-Guided Flow Matching for Dataset Distillation](https://arxiv.org/abs/2602.05616) (Xuhui Li et al., 2026) [:book:](./citations/li2026flow.txt)
++ [2026/02/07] [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
++ [2026/02/07] [Diffusion Models as Dataset Distillation Priors](https://arxiv.org/abs/2510.17421) (Duo Su et al., ICLR 2026) [:book:](./citations/su2026dap.txt)
++ [2026/02/07] [Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation](https://arxiv.org/abs/2509.19743) (Xinhao Zhong et al., ICLR 2026) [:book:](./citations/zhong2026rd3.txt)
++ [2026/02/07] [Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion](https://arxiv.org/abs/2601.15829) (Yonghao Xu et al., 2026) [:book:](./citations/xu2026rs.txt)
++ [2026/02/07] [ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models](https://arxiv.org/abs/2601.14157) (Bruno Sienkiewicz et al., 2026) [:book:](./citations/sienkiewicz2026music.txt)
++ [2026/02/07] [Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation](https://arxiv.org/abs/2512.21866) (Yiming Qian et al., ICAIFW 2025) [:book:](./citations/qian2025finance.txt)
 + [2025/12/22] [DiRe: Diversity-promoting Regularization for Dataset Condensation](https://arxiv.org/abs/2512.13083) (Saumyaranjan Mohanty et al., WACV 2026) [:octocat:](https://github.com/DIL-IITH/DiRe) [:book:](./citations/mohanty2026dire.txt)
 + [2025/12/18] [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
 + [2025/12/18] [EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training](https://arxiv.org/abs/2512.12210) (Yuting Tang et al., AAAI 2026) [:octocat:](https://github.com/t170815518/EEG-DLite) [:book:](./citations/tang2026eeg.txt)
-+ [2025/12/05] [TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution](https://arxiv.org/abs/2512.02469) (Fengli Ran et al., AAAI 2026) [:octocat:](https://github.com/FlyFinley/TGDD) [:book:](./citations/ran2026tgdd.txt)
-+ [2025/11/25] [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
-+ [2025/11/25] [DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715) (Yuqi Li & Kuiye Ding et al., 2025) [:book:](./citations/li2025time.txt)
-+ [2025/11/25] [Low-Level Dataset Distillation for Medical Image Enhancemen](https://arxiv.org/abs/2511.13106) (Fengzhi Xu et al., 2025) [:book:](./citations/xu2025low.txt)
-+ [2025/11/25] [Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation](https://arxiv.org/abs/2511.12095) (Shuhan Ye et al., 2025) [:book:](./citations/ye2025snn.txt)
-+ [2025/11/25] [Rethinking Long-tailed Dataset Distillation: A Uni-Level Framework with Unbiased Recovery and Relabeling](https://arxiv.org/abs/2511.18858) (Xiao Cui et al., AAAI 2026) [:book:](./citations/cui2026long.txt)
-+ [2025/11/20] [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 
 ## Contents
 - [Main](#main)
