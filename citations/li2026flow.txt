@@ -1,0 +1,6 @@
+@article{li2026flow,
+  title={Path-Guided Flow Matching for Dataset Distillation},
+  author={Li, Xuhui and Luo, Zhengquan and Liu, Xiwei and Yu, Yongqiang and Xu, Zhiqiang},
+  journal={arXiv preprint arXiv:2602.05616},
+  year={2026}
+}
