@@ -1,0 +1,6 @@
+@article{xu2026rs,
+  title={Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion},
+  author={Xu, Yonghao and Ghamisi, Pedram and Weng, Qihao},
+  journal={arXiv preprint arXiv:2601.15829},
+  year={2026}
+}
