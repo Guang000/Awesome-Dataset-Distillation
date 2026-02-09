@@ -1,0 +1,6 @@
+@inproceedings{tan2026optimal,
+  title={Dataset Distillation as Pushforward Optimal Quantization},
+  author={Tan, HongYe and Slade, Emma},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
