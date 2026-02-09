@@ -554,7 +554,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Object Detection
 + [Fetch and Forge: Efficient Dataset Condensation for Object Detection](https://openreview.net/forum?id=m8MElyzuwp) (Ding Qi et al., NeurIPS 2024) [:book:](./citations/qi2024dcod.txt)
-+ [OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942) (Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026) [:octocat:](https://github.com/VILA-Lab/OD3) [:book:](./citations/khatib2025od3.txt)
++ [OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942) (Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026) [:octocat:](https://github.com/VILA-Lab/OD3) [:book:](./citations/khatib2026od3.txt)
 
 <a name="point" />
 
