@@ -1,0 +1,6 @@
+@inproceedings{wang2026infoutil,
+  title={Grounding and Enhancing Informativeness and Utility in Dataset Distillation},
+  author={Wang, Shaobo and Yang, Yantai and Chen, Guo and Li, Peiru and Li, Kaixin and Zhou, Yufa and Chen, Zhaorun and Zhang, Linfeng},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
