@@ -1,0 +1,6 @@
+@article{sienkiewicz2026music,
+  title={ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models},
+  author={Sienkiewicz, Bruno and Neumann, Łukasz and Modrzejewski, Mateusz},
+  journal={arXiv preprint arXiv:2601.14157},
+  year={2026}
+}
