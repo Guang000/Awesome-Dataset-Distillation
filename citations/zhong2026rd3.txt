@@ -1,0 +1,6 @@
+@inproceedings{zhong2026rd3,
+  title={Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation},
+  author={Zhong, Xinhao and Sun, Shuoyang and Gu, Xulin and Zhu, Chenyang and Chen, Bin and Wang, Yaowei},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
