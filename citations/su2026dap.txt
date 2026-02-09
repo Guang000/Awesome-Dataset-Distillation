@@ -1,0 +1,6 @@
+@inproceedings{su2026dap,
+  title={Diffusion Models as Dataset Distillation Priors},
+  author={Su, Duo and Wu, Huyu and Chen, Huanran and Shi, Yiming and Wang, Yuzhu and Ye, Xi and Zhu, Jun},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
