@@ -1,0 +1,6 @@
+@inproceedings{qian2025finance,
+  title={Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation},
+  author={Qian, Yiming and Neumann, Thorsten and Huang, Xueyining and Hardoon, David and Gao, Fei and Liu, Yong and Goh, Siow Mong Rick},
+  booktitle={Proceedings of the ACM International Conference on AI in Finance (ICAIF), Workshop},
+  year={2025}
+}
