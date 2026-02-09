@@ -24,12 +24,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/02/07] [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
 + [2026/02/07] [Diffusion Models as Dataset Distillation Priors](https://arxiv.org/abs/2510.17421) (Duo Su et al., ICLR 2026) [:book:](./citations/su2026dap.txt)
 + [2026/02/07] [Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation](https://arxiv.org/abs/2509.19743) (Xinhao Zhong et al., ICLR 2026) [:book:](./citations/zhong2026rd3.txt)
++ [2026/02/07] [Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681) (Hongye Tan et al., ICLR 2026) [:book:](./citations/tan2026optimal.txt)
 + [2026/02/07] [Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion](https://arxiv.org/abs/2601.15829) (Yonghao Xu et al., 2026) [:book:](./citations/xu2026rs.txt)
 + [2026/02/07] [ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models](https://arxiv.org/abs/2601.14157) (Bruno Sienkiewicz et al., 2026) [:book:](./citations/sienkiewicz2026music.txt)
 + [2026/02/07] [Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation](https://arxiv.org/abs/2512.21866) (Yiming Qian et al., ICAIFW 2025) [:book:](./citations/qian2025finance.txt)
 + [2025/12/22] [DiRe: Diversity-promoting Regularization for Dataset Condensation](https://arxiv.org/abs/2512.13083) (Saumyaranjan Mohanty et al., WACV 2026) [:octocat:](https://github.com/DIL-IITH/DiRe) [:book:](./citations/mohanty2026dire.txt)
 + [2025/12/18] [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
-+ [2025/12/18] [EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training](https://arxiv.org/abs/2512.12210) (Yuting Tang et al., AAAI 2026) [:octocat:](https://github.com/t170815518/EEG-DLite) [:book:](./citations/tang2026eeg.txt)
 
 ## Contents
 - [Main](#main)
@@ -216,7 +216,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation](https://arxiv.org/abs/2503.18872) (Yanda Chen & Gongwei Chen et al., CVPR 2025) [:octocat:](https://github.com/CYDaaa30/CCFS) [:book:](./citations/chen2025ccfs.txt)
 + [Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation](https://arxiv.org/abs/2408.12483) (Shaobo Wang et al., CVPR 2025 Workshop) [:book:](./citations/wang2025samples.txt)
 + [Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation](https://arxiv.org/abs/2510.04838) (Muquan Li et al., NeurIPS 2025) [:book:](./citations/li2025bptt.txt)
-+ [Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681) (Hongye Tan et al., 2025) [:book:](./citations/tan2025optimal.txt)
++ [Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681) (Hongye Tan et al., ICLR 2026) [:book:](./citations/tan2026optimal.txt)
 
 
 <a name="understanding" />
