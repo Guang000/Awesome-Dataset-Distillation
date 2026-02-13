@@ -1,19 +1,77 @@
 {
-  "2026/01/16": [
+  "2026/02/09": [
     {
-      "title": "CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning",
-      "author": "Kexin Bao et al., IJCAI 2025",
+      "title": "Grounding and Enhancing Informativeness and Utility in Dataset Distillation",
+      "author": "Shaobo Wang et al., ICLR 2026",
       "github": null,
-      "url": "https://arxiv.org/abs/2601.08519",
-      "cite": "bao2025cd2",
+      "url": "https://arxiv.org/abs/2601.21296",
+      "cite": "wang2026infoutil",
       "website": null
     },
     {
-      "title": "A Discrepancy-Based Perspective on Dataset Condensation",
-      "author": "Tong Chen et al., 2025",
+      "title": "Diffusion Models as Dataset Distillation Priors",
+      "author": "Duo Su et al., ICLR 2026",
       "github": null,
-      "url": "https://arxiv.org/abs/2509.10367",
-      "cite": "chen2025discrepancy",
+      "url": "https://arxiv.org/abs/2510.17421",
+      "cite": "su2026dap",
+      "website": null
+    },
+    {
+      "title": "Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation",
+      "author": "Xinhao Zhong et al., ICLR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2509.19743",
+      "cite": "zhong2026rd3",
+      "website": null
+    },
+    {
+      "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
+      "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026",
+      "github": "https://github.com/VILA-Lab/OD3 ",
+      "url": "https://arxiv.org/abs/2506.01942",
+      "cite": "khatib2026od3",
+      "website": null
+    },
+    {
+      "title": "Dataset Distillation as Pushforward Optimal Quantization",
+      "author": "Hongye Tan et al., ICLR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2501.07681",
+      "cite": "tan2026optimal",
+      "website": null
+    }
+  ],
+  "2026/02/07": [
+    {
+      "title": "Path-Guided Flow Matching for Dataset Distillation",
+      "author": "Xuhui Li et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2602.05616",
+      "cite": "li2026flow",
+      "website": null
+    },
+    {
+      "title": "Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion",
+      "author": "Yonghao Xu et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2601.15829",
+      "cite": "xu2026rs",
+      "website": null
+    },
+    {
+      "title": "ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models",
+      "author": "Bruno Sienkiewicz et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2601.14157",
+      "cite": "sienkiewicz2026music",
+      "website": null
+    },
+    {
+      "title": "Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation",
+      "author": "Yiming Qian et al., ICAIFW 2025",
+      "github": null,
+      "url": "https://arxiv.org/abs/2512.21866",
+      "cite": "qian2025finance",
       "website": null
     }
   ],
@@ -24,68 +82,6 @@
       "github": "https://github.com/DIL-IITH/DiRe ",
       "url": "https://arxiv.org/abs/2512.13083",
       "cite": "mohanty2026dire",
-      "website": null
-    }
-  ],
-  "2025/12/18": [
-    {
-      "title": "Distill Video Datasets into Images",
-      "author": "Zhenghao Zhao et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2512.14621",
-      "cite": "zhao2025video",
-      "website": null
-    },
-    {
-      "title": "EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training",
-      "author": "Yuting Tang et al., AAAI 2026",
-      "github": "https://github.com/t170815518/EEG-DLite ",
-      "url": "https://arxiv.org/abs/2512.12210",
-      "cite": "tang2026eeg",
-      "website": null
-    }
-  ],
-  "2025/12/05": [
-    {
-      "title": "TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution",
-      "author": "Fengli Ran et al., AAAI 2026",
-      "github": "https://github.com/FlyFinley/TGDD ",
-      "url": "https://arxiv.org/abs/2512.02469",
-      "cite": "ran2026tgdd",
-      "website": null
-    }
-  ],
-  "2025/11/25": [
-    {
-      "title": "Decoupled Audio-Visual Dataset Distillation",
-      "author": "Wenyuan Li & Guang Li et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2511.17890",
-      "cite": "li2025davdd",
-      "website": null
-    },
-    {
-      "title": "DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting",
-      "author": "Yuqi Li & Kuiye Ding et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2511.16715",
-      "cite": "li2025time",
-      "website": null
-    },
-    {
-      "title": "Low-Level Dataset Distillation for Medical Image Enhancemen",
-      "author": "Fengzhi Xu et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2511.13106",
-      "cite": "xu2025low",
-      "website": null
-    },
-    {
-      "title": "Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation",
-      "author": "Shuhan Ye et al., 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2511.12095",
-      "cite": "ye2025snn",
       "website": null
     }
   ]

@@ -626,6 +626,24 @@
         "url": "https://arxiv.org/abs/2508.01139",
         "cite": "wu2025dc3",
         "website": "https://528why.github.io/DC3-Page/ "
+      },
+      {
+        "title": "Diffusion Models as Dataset Distillation Priors",
+        "author": "Duo Su et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2510.17421",
+        "cite": "su2026dap",
+        "website": null
+      }
+    ],
+    "_flow": [
+      {
+        "title": "Path-Guided Flow Matching for Dataset Distillation",
+        "author": "Xuhui Li et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2602.05616",
+        "cite": "li2026flow",
+        "website": null
       }
     ],
     "better-optimization": [
@@ -783,12 +801,13 @@
       },
       {
         "title": "Dataset Distillation as Pushforward Optimal Quantization",
-        "author": "Hongye Tan et al., 2025",
+        "author": "Hongye Tan et al., ICLR 2026",
         "github": null,
         "url": "https://arxiv.org/abs/2501.07681",
-        "cite": "tan2025optimal",
+        "cite": "tan2026optimal",
         "website": null
       }
+
     ],
     "better-understanding": [
       {
@@ -1084,7 +1103,16 @@
         "url": "https://arxiv.org/abs/2512.13083",
         "cite": "mohanty2026dire",
         "website": null
+      },
+      {
+        "title": "Grounding and Enhancing Informativeness and Utility in Dataset Distillation",
+        "author": "Shaobo Wang et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2601.21296",
+        "cite": "wang2026infoutil",
+        "website": null
       }
+
     ],
     "multimodal": [
       {
@@ -1234,7 +1262,16 @@
         "url": "https://arxiv.org/abs/2505.13300",
         "cite": "li2025ranking",
         "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
+      },
+      {
+        "title": "Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation",
+        "author": "Xinhao Zhong et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2509.19743",
+        "cite": "zhong2026rd3",
+        "website": null
       }
+
     ],
     "survey": [
       {
@@ -2331,10 +2368,10 @@
       },
       {
         "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
-        "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., 2025",
-        "github": "https://github.com/VILA-Lab/OD3",
+        "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026",
+        "github": "https://github.com/VILA-Lab/OD3 ",
         "url": "https://arxiv.org/abs/2506.01942",
-        "cite": "khatib2025od3",
+        "cite": "khatib2026od3",
         "website": null
       }
     ],
@@ -2383,6 +2420,36 @@
         "github": "https://github.com/t170815518/EEG-DLite ",
         "url": "https://arxiv.org/abs/2512.12210",
         "cite": "tang2026eeg",
+        "website": null
+      }
+    ],
+    "finance": [
+      {
+        "title": "Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation",
+        "author": "Yiming Qian et al., ICAIFW 2025",
+        "github": null,
+        "url": "https://arxiv.org/abs/2512.21866",
+        "cite": "qian2025finance",
+        "website": null
+      }
+    ],
+    "music": [
+      {
+        "title": "ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models",
+        "author": "Bruno Sienkiewicz et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2601.14157",
+        "cite": "sienkiewicz2026music",
+        "website": null
+      }
+    ],
+    "rs": [
+      {
+        "title": "Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion",
+        "author": "Yonghao Xu et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2601.15829",
+        "cite": "xu2026rs",
         "website": null
       }
     ]

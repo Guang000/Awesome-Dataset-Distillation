@@ -9,6 +9,7 @@
   "generative": "Generative Distillation",
   "_gan": "GAN",
   "_diffusion": "Diffusion",
+  "_flow": "Flow",
   "better-optimization": "Better Optimization",
   "better-understanding": "Better Understanding",
   "label": "Label Distillation",
@@ -51,5 +52,8 @@
   "point": "Point Cloud",
   "uni": "Universal Distillation",
   "snn": "Spiking Neural Network",
-  "eeg": "EEG"
+  "eeg": "EEG",
+  "finance": "Finance",
+  "music": "Music",
+  "rs": "Remote Sensing"
 }
