@@ -1,0 +1,6 @@
+@inproceedings{yu2026dcq,
+  title={Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression},
+  author={Yu, Chenyue and Xiao, Lingao and Deng, Jinhong and Tsang, Ivor W. and He, Yang},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
