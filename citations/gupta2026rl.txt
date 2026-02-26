@@ -1,0 +1,6 @@
+@inproceedings{gupta2026rl,
+  title={Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets},
+  author={Gupta, Aaryan and Saket, Rishi and Raghuveer, Aravindan},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
