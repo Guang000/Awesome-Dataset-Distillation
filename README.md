@@ -22,7 +22,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ## Latest Updates
 + [2026/02/26] [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
 + [2026/02/26] [CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation](https://arxiv.org/abs/2512.03844) (Letian Zhou et al., ICLR 2026) [:octocat:](https://github.com/zzzlt422/CoDA) [:book:](./citations/zhou2026coda.txt)
-+ [2026/02/26] [Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536) (Aaryan Gupta et al., ICLR 2026) [:book:](./citations/gupta202rl.txt)
++ [2026/02/26] [Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536) (Aaryan Gupta et al., ICLR 2026) [:book:](./citations/gupta2026rl.txt)
 + [2026/02/26] [Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., ICLR 2026) [:book:](./citations/behrens2026soft.txt)
 + [2026/02/26] [Understanding Dataset Distillation via Spectral Filtering](https://arxiv.org/abs/2503.01212) (Deyu Bo et al., ICLR 2026) [:book:](./citations/bo2026unidd.txt)
 + [2026/02/09] [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
@@ -540,7 +540,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation for Offline Reinforcement Learning](https://arxiv.org/abs/2407.20299) (Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop) [:globe_with_meridians:](https://datasetdistillation4rl.github.io/) [:octocat:](https://github.com/ggflow123/DDRL) [:book:](./citations/light2024rl.txt)
 + [Offline Behavior Distillation](https://arxiv.org/abs/2410.22728) (Shiye Lei et al., NeurIPS 2024) [:octocat:](https://github.com/LeavesLei/OBD) [:book:](./citations/lei2024obl.txt)
 + [Distilling Reinforcement Learning into Single-Batch Datasets](https://arxiv.org/abs/2508.09283) (Connor Wilhelm et al., ECAI 2025) [:book:](./citations/wilhelm2025rl.txt)
-+ [Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536) (Aaryan Gupta et al., ICLR 2026) [:book:](./citations/gupta202rl.txt)
++ [Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536) (Aaryan Gupta et al., ICLR 2026) [:book:](./citations/gupta2026rl.txt)
 
 <a name="long" />
 
