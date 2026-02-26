@@ -1,0 +1,6 @@
+@inproceedings{bo2026unidd,
+  title={Understanding Dataset Distillation via Spectral Filtering},
+  author={Bo, Deyu and Liu, Songhua and Wang, Xinchao},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
