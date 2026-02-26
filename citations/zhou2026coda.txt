@@ -1,0 +1,6 @@
+@inproceedings{zhou2026coda,
+  title={CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation},
+  author={Zhou, Letian and Liu, Songhua and Wang, Xinchao},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
