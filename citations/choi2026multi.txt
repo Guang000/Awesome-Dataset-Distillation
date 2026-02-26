@@ -1,0 +1,6 @@
+@inproceedings{choi2026multi,
+  title={Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis},
+  author={Choi, Junhyeok and Mo, Sangwoo and Chae, Minwoo},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
