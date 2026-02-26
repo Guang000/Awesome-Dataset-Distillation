@@ -1,5 +1,5 @@
 @inproceedings{behrens2026soft,
-  title={Dataset distillation for memorized data: Soft labels can leak held-out teacher knowledge},
+  title={Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge},
   author={Behrens, Freya and Zdeborová, Lenka},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
   year={2026}
