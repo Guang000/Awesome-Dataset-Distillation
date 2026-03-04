@@ -1,4 +1,54 @@
 {
+  "2026/02/26": [
+    {
+      "title": "Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression",
+      "author": "Chenyue Yu et al., ICLR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2602.20650",
+      "cite": "yu2026dcq",
+      "website": null
+    },
+    {
+      "title": "Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis",
+      "author": "Junhyeok Choi et al., ICLR 2026",
+      "github": "https://github.com/junhyeok9712/PDS ",
+      "url": "https://arxiv.org/abs/2602.19756",
+      "cite": "choi2026multi",
+      "website": null
+    },
+    {
+      "title": "CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation",
+      "author": "Letian Zhou et al., ICLR 2026",
+      "github": "https://github.com/zzzlt422/CoDA ",
+      "url": "https://arxiv.org/abs/2512.03844",
+      "cite": "zhou2026coda",
+      "website": null
+    },
+    {
+      "title": "Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets",
+      "author": "Aaryan Gupta et al., ICLR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2512.00536",
+      "cite": "gupta2026rl",
+      "website": null
+    },
+    {
+      "title": "Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge",
+      "author": "Freya Behrens et al., ICLR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2506.14457",
+      "cite": "behrens2026soft",
+      "website": null
+    },
+    {
+      "title": "Understanding Dataset Distillation via Spectral Filtering",
+      "author": "Deyu Bo et al., ICLR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2503.01212",
+      "cite": "bo2026unidd",
+      "website": null
+    }
+  ],
   "2026/02/09": [
     {
       "title": "Grounding and Enhancing Informativeness and Utility in Dataset Distillation",
@@ -38,50 +88,6 @@
       "github": null,
       "url": "https://arxiv.org/abs/2501.07681",
       "cite": "tan2026optimal",
-      "website": null
-    }
-  ],
-  "2026/02/07": [
-    {
-      "title": "Path-Guided Flow Matching for Dataset Distillation",
-      "author": "Xuhui Li et al., 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2602.05616",
-      "cite": "li2026flow",
-      "website": null
-    },
-    {
-      "title": "Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion",
-      "author": "Yonghao Xu et al., 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2601.15829",
-      "cite": "xu2026rs",
-      "website": null
-    },
-    {
-      "title": "ConceptCaps: a Distilled Concept Dataset for Interpretability in Music Models",
-      "author": "Bruno Sienkiewicz et al., 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2601.14157",
-      "cite": "sienkiewicz2026music",
-      "website": null
-    },
-    {
-      "title": "Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation",
-      "author": "Yiming Qian et al., ICAIFW 2025",
-      "github": null,
-      "url": "https://arxiv.org/abs/2512.21866",
-      "cite": "qian2025finance",
-      "website": null
-    }
-  ],
-  "2025/12/22": [
-    {
-      "title": "DiRe: Diversity-promoting Regularization for Dataset Condensation",
-      "author": "Saumyaranjan Mohanty et al., WACV 2026",
-      "github": "https://github.com/DIL-IITH/DiRe ",
-      "url": "https://arxiv.org/abs/2512.13083",
-      "cite": "mohanty2026dire",
       "website": null
     }
   ]

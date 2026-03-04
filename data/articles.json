@@ -634,7 +634,16 @@
         "url": "https://arxiv.org/abs/2510.17421",
         "cite": "su2026dap",
         "website": null
+      },
+      {
+        "title": "CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation",
+        "author": "Letian Zhou et al., ICLR 2026",
+        "github": "https://github.com/zzzlt422/CoDA ",
+        "url": "https://arxiv.org/abs/2512.03844",
+        "cite": "zhou2026coda",
+        "website": null
       }
+
     ],
     "_flow": [
       {
@@ -889,7 +898,24 @@
         "url": "https://arxiv.org/abs/2509.10367",
         "cite": "chen2025discrepancy",
         "website": null
+      },
+      {
+        "title": "Understanding Dataset Distillation via Spectral Filtering",
+        "author": "Deyu Bo et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2503.01212",
+        "cite": "bo2026unidd",
+        "website": null
+      },
+      {
+        "title": "Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge",
+        "author": "Freya Behrens et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2506.14457",
+        "cite": "behrens2026soft",
+        "website": null
       }
+
     ],
     "label": [
       {
@@ -980,6 +1006,14 @@
         "github": null,
         "url": "https://www.arxiv.org/abs/2412.16895",
         "cite": "li2025adq",
+        "website": null
+      },
+      {
+        "title": "Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression",
+        "author": "Chenyue Yu et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2602.20650",
+        "cite": "yu2026dcq",
         "website": null
       }
     ],
@@ -1170,7 +1204,16 @@
         "url": "https://arxiv.org/abs/2511.17890",
         "cite": "li2025davdd",
         "website": null
+      },
+      {
+        "title": "Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis",
+        "author": "Junhyeok Choi et al., ICLR 2026",
+        "github": "https://github.com/junhyeok9712/PDS ",
+        "url": "https://arxiv.org/abs/2602.19756",
+        "cite": "choi2026multi",
+        "website": null
       }
+
     ],
     "self": [
       {
@@ -2311,7 +2354,16 @@
         "url": "https://arxiv.org/abs/2508.09283",
         "cite": "wilhelm2025rl",
         "website": null
+      },
+      {
+        "title": "Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets",
+        "author": "Aaryan Gupta et al., ICLR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2512.00536",
+        "cite": "gupta2026rl",
+        "website": null
       }
+
     ],
     "long": [
       {
