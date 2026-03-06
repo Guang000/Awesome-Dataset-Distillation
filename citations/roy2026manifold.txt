@@ -1,0 +1,6 @@
+@inproceedings{roy2026manifoldgd,
+  title={ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation},
+  author={Roy, Ayush and Lee, Wei-Yang Alex and Chakraborty, Rudrasis and Lokhande, Vishnu Suresh},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
