@@ -1,0 +1,6 @@
+@inproceedings{yang2026unirain,
+  title={UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization},
+  author={Yang, Qianfeng and Guan, Qiyuan and Chen, Xiang and Jin, Jiyu and Jin, Guiyue and Dong, Jiangxin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
