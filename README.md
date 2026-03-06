@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-298-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-301-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,7 +20,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2026/03/06] [arXiv:2602.23295](https://arxiv.org/abs/2602.23295) (CVPR 2026)
++ [2026/03/06] [UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967) (Qianfeng Yang et al., CVPR 2026) [:octocat:](https://github.com/QianfengY/UniRain) [:book:](./citations/yang2026unirain.txt)
++ [2026/03/06] [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](https://arxiv.org/abs/2602.24144) (Muquan Li et al., CVPR 2026) [:book:](./citations/li2026reta.txt)
++ [2026/03/06] [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2602.23295) (Ayush Roy et al., CVPR 2026) [:octocat:](https://github.com/AyushRoy2001/ManifoldGD) [:book:](./citations/roy2026manifold.txt)
 + [2026/02/26] [Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression](https://arxiv.org/abs/2602.20650) (Chenyue Yu et al., ICLR 2026) [:book:](./citations/yu2026dcq.txt)
 + [2026/02/26] [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
 + [2026/02/26] [CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation](https://arxiv.org/abs/2512.03844) (Letian Zhou et al., ICLR 2026) [:octocat:](https://github.com/zzzlt422/CoDA) [:book:](./citations/zhou2026coda.txt)
@@ -85,6 +87,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Finance](#finance)
   - [Music](#music)
   - [Remote Sensing](#rs)
+  - [Deraining](#dr)
 <a name="main" />
 
 ## Main
@@ -193,6 +196,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Condensation with Color Compensation](https://arxiv.org/abs/2508.01139) (Huyu Wu et al., TMLR 2025) [:globe_with_meridians:](https://528why.github.io/DC3-Page/) [:octocat:](https://github.com/528why/Dataset-Condensation-with-Color-Compensation) [:book:](./citations/wu2025dc3.txt)
 + [Diffusion Models as Dataset Distillation Priors](https://arxiv.org/abs/2510.17421) (Duo Su et al., ICLR 2026) [:book:](./citations/su2026dap.txt)
 + [CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation](https://arxiv.org/abs/2512.03844) (Letian Zhou et al., ICLR 2026) [:octocat:](https://github.com/zzzlt422/CoDA) [:book:](./citations/zhou2026coda.txt)
++ [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2602.23295) (Ayush Roy et al., CVPR 2026) [:octocat:](https://github.com/AyushRoy2001/ManifoldGD) [:book:](./citations/roy2026manifold.txt)
 
 #### Flow
 + [Path-Guided Flow Matching for Dataset Distillation](https://arxiv.org/abs/2602.05616) (Xuhui Li et al., 2026) [:book:](./citations/li2026flow.txt)
@@ -277,6 +281,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) [:book:](./citations/cui2025cvdd.txt)
 + [DiRe: Diversity-promoting Regularization for Dataset Condensation](https://arxiv.org/abs/2512.13083) (Saumyaranjan Mohanty et al., WACV 2026) [:octocat:](https://github.com/DIL-IITH/DiRe) [:book:](./citations/mohanty2026dire.txt)
 + [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
++ [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](https://arxiv.org/abs/2602.24144) (Muquan Li et al., CVPR 2026) [:book:](./citations/li2026reta.txt)
 
 <a name="multi" />
 
@@ -605,6 +610,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Remote Sensing
 
 + [Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion](https://arxiv.org/abs/2601.15829) (Yonghao Xu et al., 2026) [:book:](./citations/xu2026rs.txt)
+
+<a name="dr" />
+
+### Deraining
+
++ [UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967) (Qianfeng Yang et al., CVPR 2026) [:octocat:](https://github.com/QianfengY/UniRain) [:book:](./citations/yang2026unirain.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
