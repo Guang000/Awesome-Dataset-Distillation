@@ -1,0 +1,6 @@
+@inproceedings{hong2026hdt,
+  title={Harmonic Dataset Distillation for Time Series Forecasting},
+  author={Hong, Seungha and Jang, Sanghwan and Kweon, Wonbin and Kim, Suyeon and Lee, Gyuseok and Yu, Hwanjo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
