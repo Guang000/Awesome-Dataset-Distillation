@@ -1,0 +1,6 @@
+@inproceedings{li2026fixed,
+  title={Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation},
+  author={Li, Muquan and Gou, Hang and Ma, Yingyi and Wang, Rongzheng and Qin, Ke and He, Tao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
