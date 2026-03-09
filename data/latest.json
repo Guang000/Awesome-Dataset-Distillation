@@ -1,4 +1,30 @@
 {
+  "2026/03/06": [
+    {
+      "title": "UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization",
+      "author": "Qianfeng Yang et al., CVPR 2026",
+      "github": "https://github.com/QianfengY/UniRain ",
+      "url": "https://arxiv.org/abs/2603.03967",
+      "cite": "yang2026unirain",
+      "website": null
+    },
+    {
+      "title": "Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation",
+      "author": "Muquan Li et al., CVPR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2602.24144",
+      "cite": "li2026reta",
+      "website": null
+    },
+    {
+      "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
+      "author": "Ayush Roy et al., CVPR 2026",
+      "github": "https://github.com/AyushRoy2001/ManifoldGD ",
+      "url": "https://arxiv.org/abs/2602.23295",
+      "cite": "roy2026manifold",
+      "website": null
+    }
+  ],
   "2026/02/26": [
     {
       "title": "Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression",

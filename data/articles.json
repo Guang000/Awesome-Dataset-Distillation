@@ -642,7 +642,16 @@
         "url": "https://arxiv.org/abs/2512.03844",
         "cite": "zhou2026coda",
         "website": null
+      },
+      {
+        "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
+        "author": "Ayush Roy et al., CVPR 2026",
+        "github": "https://github.com/AyushRoy2001/ManifoldGD ",
+        "url": "https://arxiv.org/abs/2602.23295",
+        "cite": "roy2026manifold",
+        "website": null
       }
+
 
     ],
     "_flow": [
@@ -1145,8 +1154,15 @@
         "url": "https://arxiv.org/abs/2601.21296",
         "cite": "wang2026infoutil",
         "website": null
+      },
+      {
+        "title": "Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation",
+        "author": "Muquan Li et al., CVPR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2602.24144",
+        "cite": "li2026reta",
+        "website": null
       }
-
     ],
     "multimodal": [
       {
@@ -2292,6 +2308,14 @@
         "url": "https://arxiv.org/abs/2511.16715",
         "cite": "li2025time",
         "website": null
+      },
+      {
+        "title": "Harmonic Dataset Distillation for Time Series Forecasting",
+        "author": "Seungha Hong et al., AAAI 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2603.03760",
+        "cite": "hong2026hdt",
+        "website": null
       }
     ],
     "speech": [
@@ -2502,6 +2526,16 @@
         "github": null,
         "url": "https://arxiv.org/abs/2601.15829",
         "cite": "xu2026rs",
+        "website": null
+      }
+    ],
+    "dr": [
+      {
+        "title": "UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization",
+        "author": "Qianfeng Yang et al., CVPR 2026",
+        "github": "https://github.com/QianfengY/UniRain ",
+        "url": "https://arxiv.org/abs/2603.03967",
+        "cite": "yang2026unirain",
         "website": null
       }
     ]

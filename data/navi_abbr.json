@@ -55,5 +55,6 @@
   "eeg": "EEG",
   "finance": "Finance",
   "music": "Music",
-  "rs": "Remote Sensing"
+  "rs": "Remote Sensing",
+  "dr": "Deraining"
 }
