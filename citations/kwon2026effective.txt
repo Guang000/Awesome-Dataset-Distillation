@@ -1,0 +1,6 @@
+@article{kwon2026effective,
+  title={Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression},
+  author={Kwon, Taehyung and Choi, Yeonje and Kim, Yeongho and Shin, Kijung},
+  journal={arXiv preprint arXiv:2603.10410},
+  year={2026}
+}
