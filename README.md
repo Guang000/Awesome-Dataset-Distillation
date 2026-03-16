@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-305-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-306-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -32,12 +32,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/02/26] [CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation](https://arxiv.org/abs/2512.03844) (Letian Zhou et al., ICLR 2026) [:octocat:](https://github.com/zzzlt422/CoDA) [:book:](./citations/zhou2026coda.txt)
 + [2026/02/26] [Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets](https://arxiv.org/abs/2512.00536) (Aaryan Gupta et al., ICLR 2026) [:book:](./citations/gupta2026rl.txt)
 + [2026/02/26] [Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., ICLR 2026) [:book:](./citations/behrens2026soft.txt)
-+ [2026/02/26] [Understanding Dataset Distillation via Spectral Filtering](https://arxiv.org/abs/2503.01212) (Deyu Bo et al., ICLR 2026) [:book:](./citations/bo2026unidd.txt)
-+ [2026/02/09] [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
-+ [2026/02/09] [Diffusion Models as Dataset Distillation Priors](https://arxiv.org/abs/2510.17421) (Duo Su et al., ICLR 2026) [:book:](./citations/su2026dap.txt)
-+ [2026/02/09] [Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation](https://arxiv.org/abs/2509.19743) (Xinhao Zhong et al., ICLR 2026) [:book:](./citations/zhong2026rd3.txt)
-+ [2026/02/09] [OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942) (Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026) [:octocat:](https://github.com/VILA-Lab/OD3) [:book:](./citations/khatib2026od3.txt)
-+ [2026/02/09] [Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681) (Hongye Tan et al., ICLR 2026) [:book:](./citations/tan2026optimal.txt)
 
 ## Contents
 - [Main](#main)
@@ -536,6 +530,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching](https://arxiv.org/abs/2410.20905) (Hao Miao et al., VLDB 2025) [:octocat:](https://github.com/uestc-liuzq/STdistillation) [:book:](./citations/miao2025timedc.txt)
 + [DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715) (Yuqi Li & Kuiye Ding et al., 2025) [:book:](./citations/li2025time.txt)
 + [Harmonic Dataset Distillation for Time Series Forecasting](https://arxiv.org/abs/2603.03760) (Seungha Hong et al., AAAI 2026) [:book:](./citations/hong2026hdt.txt)
++ [Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785) (Yuqi Li & Kuiye Ding et al., ICASSP 2026) [:octocat:](https://github.com/itsnotacie/DistilTS-ICASSP2026) [:book:](./citations/li2026distilts.txt)
 + [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) (Taehyung Kwon & Yeonje Choi et al., ICDE 2026) [:octocat:](https://github.com/kbrother/STemDist) [:book:](./citations/kwon2026effective.txt)
 
 <a name="speech" />
