@@ -1,6 +1,6 @@
 @inproceedings{li2026distilts,
   title={Distilling Time Series Foundation Models for Efficient Forecasting},
-  author={Li, Yuqi and Liu, Nan and Xie, Yu and Li, Jian and Chen, Ming and Wen, Qingsong},
+  author={Li, Yuqi and Ding, Kuiye and Yang, Chuanguang and Chen, Szu-Yu and Tian, Yingli},
   booktitle={Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year={2026}
 }
