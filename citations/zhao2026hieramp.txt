@@ -1,0 +1,6 @@
+@inproceedings{zhao2026hieramp,
+  title={HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation},
+  author={Zhao, Lin and Jiang, Xinru and Xiao, Xi and Fan, Qihui and Lu, Lei and Wang, Yanzhi and Lin, Xue and Camps, Octavia and Zhao, Pu and Gu, Jianyang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
