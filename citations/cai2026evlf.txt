@@ -1,0 +1,6 @@
+@inproceedings{cai2026evlf,
+  title={EVLF: Early Vision-Language Fusion for Generative Dataset Distillation},
+  author={Cai, Wenqi and Zou, Yawen and Li, Guang and Gu, Chunzhi and Zhang, Chao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
