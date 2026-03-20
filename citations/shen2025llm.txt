@@ -1,0 +1,7 @@
+@inproceedings{shen2025llm,
+  title={CondenseLM: LLMs-driven Text Dataset Condensation via Reward Matching},
+  author={Shen, Cheng and Ong, Yew-Soon and Zhou, Joey Tianyi},
+  booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={1237–-1252},
+  year={2025}
+}
