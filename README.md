@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-306-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-307-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -493,6 +493,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation](https://arxiv.org/abs/2504.20500) (Huimin Lu et al., ICLR 2025) [:octocat:](https://github.com/EminLU/UniDetox) [:book:](./citations/lu2025llm.txt)
 + [Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training](https://arxiv.org/abs/2501.15108) (Xunxin Cai & Chengrui Wang & Qingqing Long et al., DASFAA 2025) [:book:](./citations/cai2025llm.txt)
 + [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:octocat:](https://github.com/BigML-CS-UCLA/GRADMM) [:book:](./citations/nguyen2025llm.txt)
++ [CondenseLM: LLMs-driven Text Dataset Condensation via Reward Matching](https://aclanthology.org/2025.emnlp-main.65/) (Cheng Shen et al., EMNLP 2025) [:octocat:](https://github.com/cs6331/CondenseLM/) [:book:](./citations/shen2025llm.txt)
 
 <a name="video" />
 
