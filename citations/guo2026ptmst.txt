@@ -1,0 +1,6 @@
+@inproceedings{guo2026ptmst,
+  title={Multimodal Dataset Distillation via Phased Teacher Models},
+  author={Guo, Shengbin and Zhao, Hang and Yang, Senqiao and Jiang, Chenyang and Cheng, Yuhang and Peng, Xiangru and Shao, Rui and Tian, Zhuotao},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
