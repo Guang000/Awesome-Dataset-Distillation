@@ -1,0 +1,6 @@
+@inproceedings{yang2026pd,
+  title={Poisoned Distillation: Injecting Backdoors into Distilled Datasets Without Raw Data Access},
+  author={Yang, Ziyuan and Yan, Ming and Zhang, Yi and Zhou, Joey Tianyi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
