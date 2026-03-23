@@ -1,0 +1,6 @@
+@inproceedings{kim2026pointmorph,
+  title={Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing},
+  author={Kim, Dongwook and Yim, Jae-Young and Sim, Jae-Young},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
