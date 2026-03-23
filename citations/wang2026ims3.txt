@@ -1,0 +1,6 @@
+@inproceedings{wang2026ims3,
+  title={{IMS3}: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation},
+  author={Wang, Chenru and Chen, Yunyi and Yang, Zijun and Zhou, Joey Tianyi and Zhang, Chi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
