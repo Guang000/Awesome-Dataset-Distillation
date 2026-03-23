@@ -1,0 +1,6 @@
+@inproceedings{min2026imagebinddc,
+  title={ImageBindDC: Compressing Multi-modal Data with ImageBind-based Condensation},
+  author={Min, Yue and Wang, Shaobo and Li, Jiaze and Niu, Tianle and Fan, Junxin and Miao, Yongliang and Yang, Lijin and Zhang, Linfeng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
