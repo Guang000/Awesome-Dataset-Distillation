@@ -1,0 +1,6 @@
+@inproceedings{qi2026amd,
+  title={Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation},
+  author={Qi, Ding and Li, Jian and Dou, Shuguang and Song, Zifan and Gao, Junyao and Wang, Yabiao and Wang, Chengjie and Zhao, Cairong},
+  booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2026}
+}
