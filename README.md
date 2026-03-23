@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-310-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-313-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -27,9 +27,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/03/06] [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](https://arxiv.org/abs/2602.24144) (Muquan Li et al., CVPR 2026) [:book:](./citations/li2026reta.txt)
 + [2026/03/06] [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2602.23295) (Ayush Roy et al., CVPR 2026) [:octocat:](https://github.com/AyushRoy2001/ManifoldGD) [:book:](./citations/roy2026manifold.txt)
 + [2026/03/06] [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) (Taehyung Kwon & Yeonje Choi et al., ICDE 2026) [:octocat:](https://github.com/kbrother/STemDist) [:book:](./citations/kwon2026effective.txt)
-+ [2026/02/26] [Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression](https://arxiv.org/abs/2602.20650) (Chenyue Yu et al., ICLR 2026) [:book:](./citations/yu2026dcq.txt)
++ [2026/02/26] [Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation](https://openreview.net/forum?id=XcsaCHaoJh) (Minyoung Oh et al., ICLR 2026) [:octocat:](https://github.com/myoh97/DIDD-ASU) [:book:](./citations/oh2026asu.txt)
++ [2026/02/26] [Multimodal Dataset Distillation via Phased Teacher Models](https://openreview.net/forum?id=Me4AON8160) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) [:book:](./citations/guo2026ptmst.txt)
 + [2026/02/26] [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
-+ [2026/02/26] [CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation](https://arxiv.org/abs/2512.03844) (Letian Zhou et al., ICLR 2026) [:octocat:](https://github.com/zzzlt422/CoDA) [:book:](./citations/zhou2026coda.txt)
 
 ## Contents
 - [Main](#main)
@@ -237,7 +237,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Mitigating Bias in Dataset Distillation](https://arxiv.org/abs/2406.06609) (Justin Cui et al., ICML 2024) [:book:](./citations/cui2024bias.txt)
 + [Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning](https://arxiv.org/abs/2409.01410) (Vyacheslav Kungurtsev et al., 2024) [:book:](./citations/kungurtsev2024first.txt)
 + [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye et al., NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
-+ [Dataset Distillation for Memorized Data: Soft Labels Can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., 2025) [:book:](./citations/behrens2025dd.txt)
 + [A Discrepancy-Based Perspective on Dataset Condensation](https://arxiv.org/abs/2509.10367) (Tong Chen et al., 2025) [:book:](./citations/chen2025discrepancy.txt)
 + [Understanding Dataset Distillation via Spectral Filtering](https://arxiv.org/abs/2503.01212) (Deyu Bo et al., ICLR 2026) [:book:](./citations/bo2026unidd.txt)
 + [Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., ICLR 2026) [:book:](./citations/behrens2026soft.txt)
@@ -295,6 +294,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
 + [ImageBindDC: Compressing Multi-modal Data with ImageBind-based Condensation](https://arxiv.org/abs/2511.08263) (Yue Min & Shaobo Wang et al., AAAI 2026) [:book:](./citations/min2026imagebinddc.txt)
 + [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
++ [Multimodal Dataset Distillation via Phased Teacher Models](https://openreview.net/forum?id=Me4AON8160) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) [:book:](./citations/guo2026ptmst.txt)
++ [Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation](https://openreview.net/forum?id=7SgSMKM2KF) (Ding Qi et al., ICLR 2026) [:book:](./citations/qi2026amd.txt)
 
 <a name="self" />
 
@@ -354,6 +355,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/forum?id=Murj6wcjRw) (Enneng Yang et al., NeurIPS 2023) [:octocat:](https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin) [:book:](./citations/yang2023efficient.txt)
 + [Summarizing Stream Data for Memory-Restricted Online Continual Learning](https://arxiv.org/abs/2305.16645) (Jianyang Gu et al., AAAI 2024) [:octocat:](https://github.com/vimar-gu/SSD) [:book:](./citations/gu2024ssd.txt)
 + [CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2601.08519) (Kexin Bao et al., IJCAI 2025) [:book:](./citations/bao2025cd2.txt)
++ [Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation](https://openreview.net/forum?id=XcsaCHaoJh) (Minyoung Oh et al., ICLR 2026) [:octocat:](https://github.com/myoh97/DIDD-ASU) [:book:](./citations/oh2026asu.txt)
 
 <a name="privacy" />
 
@@ -580,6 +582,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Point Cloud
 + [Point Cloud Dataset Distillation](https://openreview.net/forum?id=Us8v5tDOFd) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
 + [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
++ [Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing](https://openreview.net/forum?id=Qe7dKZOtWM) (Dongwook Kim & Jae-Young Yim et al., ICLR 2026) [:book:](./citations/kim2026pointmorph.txt)
 
 <a name="uni" />
 
