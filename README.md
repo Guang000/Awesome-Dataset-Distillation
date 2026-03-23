@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-308-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-310-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,7 +20,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-
 + [2026/03/23] [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2603.13960) (Chenru Wang & Yunyi Chen et al., CVPR 2026) [:book:](./citations/wang2026ims3.txt)
 + [2026/03/16] [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) (Taehyung Kwon & Yeonje Choi et al., ICDE 2026) [:octocat:](https://github.com/kbrother/STemDist) [:book:](./citations/kwon2026effective.txt)
 + [2026/03/16] [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](https://arxiv.org/abs/2603.07476) (Wenqi Cai et al., CVPR 2026) [:globe_with_meridians:](https://wenqi-cai297.github.io/earlyfusion-HP/) [:octocat:](https://github.com/wenqi-cai297/earlyfusion-for-dd/) [:book:](./citations/cai2026evlf.txt)
@@ -296,6 +295,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) [:book:](./citations/zhao2025edge.txt)
 + [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) [:book:](./citations/lee2025covmatch.txt)
 + [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/abs/2511.17890) (Wenyuan Li & Guang Li et al., 2025) [:book:](./citations/li2025davdd.txt)
++ [ImageBindDC: Compressing Multi-modal Data with ImageBind-based Condensation](https://arxiv.org/abs/2511.08263) (Yue Min & Shaobo Wang et al., AAAI 2026) [:book:](./citations/min2026imagebinddc.txt)
 + [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
 
 <a name="self" />
@@ -371,6 +371,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Adaptive Backdoor Attacks Against Dataset Distillation for Federated Learning](https://ieeexplore.ieee.org/abstract/document/10622462?casa_token=tHyZ-Pz7DpUAAAAA:vmCYI4cUcKzMluUsASHhIhr0CvBkjzBR-0N7REVj7aFN5hT5TinQTpSEsE0Bo3Fl8auh52Fipm_v) (Ze Chai et al., ICC 2024) [:book:](./citations/chai2024backdoor.txt)
 + [Improving Noise Efficiency in Privacy-preserving Dataset Distillation](https://arxiv.org/abs/2508.01749) (Runkai Zheng et al., ICCV 2025) [:octocat:](https://github.com/humansensinglab/Dosser) [:book:](./citations/zheng2025dosser.txt)
 + [SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation](https://openreview.net/forum?id=YWE9na9Jai) (He Yang & Dongyi Lv et al., NeurIPS 2025) [:book:](./citations/yang2025sneakdoor.txt)
++ [Poisoned Distillation: Injecting Backdoors into Distilled Datasets Without Raw Data Access](https://arxiv.org/abs/2502.04229) (Ziyuan Yang et al., AAAI 2026) [:book:](./citations/yang2025darkdistillation.txt)
 + [DP-GENG: Differentially Private Dataset Distillation Guided by DP-Generated Data](https://arxiv.org/abs/2511.09876) (Shuo Shi et al., AAAI 2026) [:book:](./citations/shi2026dpgeng.txt)
 
 <a name="medical" />
