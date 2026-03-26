@@ -1,0 +1,6 @@
+@inproceedings{choi2026prism,
+  title={{PRISM}: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion},
+  author={Choi, Jaehyun and Hur, Jiwan and Han, Gyojin and Yu, Jaemyung and Kim, Junmo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
