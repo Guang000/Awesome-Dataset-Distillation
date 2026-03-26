@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-313-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-317-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,16 +20,16 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/03/16] [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
++ [2026/03/26] [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) [:book:](./citations/peng2026shapecond.txt)
 + [2026/03/23] [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2603.13960) (Chenru Wang & Yunyi Chen et al., CVPR 2026) [:book:](./citations/wang2026ims3.txt)
 + [2026/03/23] [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](https://arxiv.org/abs/2603.07476) (Wenqi Cai et al., CVPR 2026) [:globe_with_meridians:](https://wenqi-cai297.github.io/earlyfusion-HP/) [:octocat:](https://github.com/wenqi-cai297/earlyfusion-for-dd/) [:book:](./citations/cai2026evlf.txt)
 + [2026/03/23] [HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](https://arxiv.org/abs/2603.06932) (Lin Zhao & Xinru Jiang et al., CVPR 2026) [:octocat:](https://github.com/Oshikaka/HIERAMP) [:book:](./citations/zhao2026hieramp.txt)
 + [2026/03/06] [UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967) (Qianfeng Yang et al., CVPR 2026) [:octocat:](https://github.com/QianfengY/UniRain) [:book:](./citations/yang2026unirain.txt)
 + [2026/03/06] [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](https://arxiv.org/abs/2602.24144) (Muquan Li et al., CVPR 2026) [:book:](./citations/li2026reta.txt)
 + [2026/03/06] [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2602.23295) (Ayush Roy et al., CVPR 2026) [:octocat:](https://github.com/AyushRoy2001/ManifoldGD) [:book:](./citations/roy2026manifold.txt)
++ [2026/03/06] [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](https://arxiv.org/abs/2505.22564) (Jaehyun Choi et al., CVPR 2026) [:book:](./citations/choi2026prism.txt)
 + [2026/03/06] [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) (Taehyung Kwon & Yeonje Choi et al., ICDE 2026) [:octocat:](https://github.com/kbrother/STemDist) [:book:](./citations/kwon2026effective.txt)
-+ [2026/02/26] [Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation](https://openreview.net/forum?id=XcsaCHaoJh) (Minyoung Oh et al., ICLR 2026) [:octocat:](https://github.com/myoh97/DIDD-ASU) [:book:](./citations/oh2026asu.txt)
-+ [2026/02/26] [Multimodal Dataset Distillation via Phased Teacher Models](https://openreview.net/forum?id=Me4AON8160) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) [:book:](./citations/guo2026ptmst.txt)
-+ [2026/02/26] [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
 
 ## Contents
 - [Main](#main)
@@ -162,6 +162,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Distilling Dataset into Neural Field](https://arxiv.org/abs/2503.04835) (Donghyeok Shin et al., ICLR 2025) [:octocat:](https://github.com/aailab-kaist/DDiF) [:book:](./citations/shin2025ddif.txt)
 + [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe_with_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) [:book:](./citations/bao2025ruo.txt)
 + [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) [:book:](./citations/jiang2025gsdd.txt)
++ [Post Training Quantization for Efficient Dataset Condensation](https://arxiv.org/abs/2603.13346) (Linh-Tam Tran et al., AAAI 2026) [:book:](./citations/tran2026ptqdc.txt)
 
 <a name="generative" />
 
@@ -240,6 +241,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [A Discrepancy-Based Perspective on Dataset Condensation](https://arxiv.org/abs/2509.10367) (Tong Chen et al., 2025) [:book:](./citations/chen2025discrepancy.txt)
 + [Understanding Dataset Distillation via Spectral Filtering](https://arxiv.org/abs/2503.01212) (Deyu Bo et al., ICLR 2026) [:book:](./citations/bo2026unidd.txt)
 + [Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., ICLR 2026) [:book:](./citations/behrens2026soft.txt)
++ [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
 
 <a name="label" />
 
@@ -506,6 +508,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Condensing Action Segmentation Datasets via Generative Network Inversion](https://arxiv.org/abs/2503.14112) (Guodong Ding et al., CVPR 2025) [:book:](./citations/ding2025video.txt)
 + [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:octocat:](https://github.com/liningresearch/Latent_Video_Dataset_Distillation) [:book:](./citations/li2025latent.txt)
 + [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
++ [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](https://arxiv.org/abs/2505.22564) (Jaehyun Choi et al., CVPR 2026) [:book:](./citations/choi2026prism.txt)
 
 <a name="tabular" />
 
@@ -537,6 +540,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Harmonic Dataset Distillation for Time Series Forecasting](https://arxiv.org/abs/2603.03760) (Seungha Hong et al., AAAI 2026) [:book:](./citations/hong2026hdt.txt)
 + [Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785) (Yuqi Li & Kuiye Ding et al., ICASSP 2026) [:octocat:](https://github.com/itsnotacie/DistilTS-ICASSP2026) [:book:](./citations/li2026distilts.txt)
 + [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) (Taehyung Kwon & Yeonje Choi et al., ICDE 2026) [:octocat:](https://github.com/kbrother/STemDist) [:book:](./citations/kwon2026effective.txt)
++ [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) [:book:](./citations/peng2026shapecond.txt)
 
 <a name="speech" />
 
