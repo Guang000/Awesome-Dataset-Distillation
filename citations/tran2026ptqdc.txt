@@ -1,0 +1,6 @@
+@inproceedings{tran2026ptqdc,
+  title={Post Training Quantization for Efficient Dataset Condensation},
+  author={Tran, Linh-Tam and Bae, Sung-Ho},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2026}
+}
