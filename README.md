@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2026/03/16] [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
++ [2026/03/26] [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
 + [2026/03/26] [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) [:book:](./citations/peng2026shapecond.txt)
 + [2026/03/23] [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2603.13960) (Chenru Wang & Yunyi Chen et al., CVPR 2026) [:book:](./citations/wang2026ims3.txt)
 + [2026/03/23] [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](https://arxiv.org/abs/2603.07476) (Wenqi Cai et al., CVPR 2026) [:globe_with_meridians:](https://wenqi-cai297.github.io/earlyfusion-HP/) [:octocat:](https://github.com/wenqi-cai297/earlyfusion-for-dd/) [:book:](./citations/cai2026evlf.txt)
