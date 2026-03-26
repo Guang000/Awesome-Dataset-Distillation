@@ -1,0 +1,6 @@
+@article{kinoshita2026dataset,
+  title={Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks},
+  author={Kinoshita, Yuri and Nishikawa, Naoki and Toyoizumi, Taro},
+  journal={arXiv preprint arXiv:2603.14830},
+  year={2026}
+}
