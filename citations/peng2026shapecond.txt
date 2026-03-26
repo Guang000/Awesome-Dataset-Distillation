@@ -1,0 +1,6 @@
+@article{peng2026shapecond,
+  title={ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification},
+  author={Peng, Sijia and Xiong, Yun and Chen, Xi and Xie, Yi and Li, Guanzhi and Yu, Yanwei and Zhu, Yangyong and Shen, Zhiqiang},
+  journal={arXiv preprint arXiv:2602.09008},
+  year={2026}
+}
