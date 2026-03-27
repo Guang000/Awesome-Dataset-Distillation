@@ -1,0 +1,6 @@
+@article{ma2026fd2,
+  title={FD2: A Dedicated Framework for Fine-Grained Dataset Distillation},
+  author={Ma, Hongxu and Li, Guang and Wang, Shijie and Zhou, Dongzhan and Sun, Baoli and Ogawa, Takahiro and Haseyama, Miki and Wang, Zhihui},
+  journal={arXiv preprint arXiv:2603.25144},
+  year={2026}
+}
