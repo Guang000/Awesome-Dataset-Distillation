@@ -1,0 +1,6 @@
+@article{zhang2026diet,
+  title={DIET: Learning to Distill Dataset Continually for Recommender Systems},
+  author={Zhang, Jiaqing and Wang, Hao and Yin, Mingjia and Chen, Bo and Jia, Qinglin and Zhou, Rui and Tang, Ruiming and Ma, ChaoYi and Chen, Enhong},
+  journal={arXiv preprint arXiv:2603.24958},
+  year={2026}
+}
