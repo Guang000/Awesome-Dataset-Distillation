@@ -1,0 +1,6 @@
+@article{moser2026prism,
+  title={{PRISM}: Diversifying Dataset Distillation by Decoupling Architectural Priors},
+  author={Moser, Brian B. and Sarode, Shalini and Raue, Federico and Frolov, Stanislav and Adamkiewicz, Krzysztof and Shanbhag, Arundhati and Folz, Joachim and Nauen, Tobias C. and Dengel, Andreas},
+  journal={Transactions on Machine Learning Research},
+  year={2026}
+}
