@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-319-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-320-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -24,6 +24,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/03/26] [DIET: Learning to Distill Dataset Continually for Recommender Systems](https://arxiv.org/abs/2603.24958) (Jiaqing Zhang et al., 2026) [:book:](./citations/zhang2026diet.txt)
 + [2026/03/26] [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
 + [2026/03/26] [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) [:book:](./citations/peng2026shapecond.txt)
++ [2026/03/26] [PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors](https://arxiv.org/abs/2511.09905) (Brian B. Moser et al., TMLR 2026) [:octocat:](https://github.com/Brian-Moser/prism) [:book:](./citations/moser2026prism.txt)
 + [2026/03/23] [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2603.13960) (Chenru Wang & Yunyi Chen et al., CVPR 2026) [:book:](./citations/wang2026ims3.txt)
 + [2026/03/23] [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](https://arxiv.org/abs/2603.07476) (Wenqi Cai et al., CVPR 2026) [:globe_with_meridians:](https://wenqi-cai297.github.io/earlyfusion-HP/) [:octocat:](https://github.com/wenqi-cai297/earlyfusion-for-dd/) [:book:](./citations/cai2026evlf.txt)
 + [2026/03/23] [HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](https://arxiv.org/abs/2603.06932) (Lin Zhao & Xinru Jiang et al., CVPR 2026) [:octocat:](https://github.com/Oshikaka/HIERAMP) [:book:](./citations/zhao2026hieramp.txt)
@@ -282,6 +283,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](https://arxiv.org/abs/2506.24125) (Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) [:octocat:](https://github.com/Jiacheng8/FADRM) [:book:](./citations/cui2025fadrm.txt)
 + [FocusDD: Real-World Scene Infusion for Robust Dataset Distillation](https://arxiv.org/abs/2501.06405) (Youbin Hu et al., 2025) [:book:](./citations/hu2025focusdd.txt)
 + [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) [:book:](./citations/cui2025cvdd.txt)
++ [PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors](https://arxiv.org/abs/2511.09905) (Brian B. Moser et al., TMLR 2026) [:octocat:](https://github.com/Brian-Moser/prism) [:book:](./citations/moser2026prism.txt)
 + [DiRe: Diversity-promoting Regularization for Dataset Condensation](https://arxiv.org/abs/2512.13083) (Saumyaranjan Mohanty et al., WACV 2026) [:octocat:](https://github.com/DIL-IITH/DiRe) [:book:](./citations/mohanty2026dire.txt)
 + [Grounding and Enhancing Informativeness and Utility in Dataset Distillation](https://arxiv.org/abs/2601.21296) (Shaobo Wang et al., ICLR 2026) [:book:](./citations/wang2026infoutil.txt)
 + [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](https://arxiv.org/abs/2602.24144) (Muquan Li et al., CVPR 2026) [:book:](./citations/li2026reta.txt)
