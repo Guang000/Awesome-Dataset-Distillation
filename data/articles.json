@@ -659,22 +659,21 @@
         "website": null
       },
       {
-        "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
-        "author": "Wenqi Cai et al., CVPR 2026",
-        "github": "https://github.com/wenqi-cai297/earlyfusion-for-dd/ ",
-        "url": "https://arxiv.org/abs/2603.07476",
-        "cite": "cai2026evlf",
-        "website": "https://wenqi-cai297.github.io/earlyfusion-HP/ "
-      },
-      {
         "title": "IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation",
         "author": "Chenru Wang & Yunyi Chen et al., CVPR 2026",
         "github": null,
         "url": "https://arxiv.org/abs/2603.13960",
         "cite": "wang2026ims3",
         "website": null
+      },
+      {
+        "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
+        "author": "Wenqi Cai et al., CVPR 2026",
+        "github": "https://github.com/wenqi-cai297/earlyfusion-for-dd/ ",
+        "url": "https://arxiv.org/abs/2603.07476",
+        "cite": "cai2026evlf",
+        "website": "https://wenqi-cai297.github.io/earlyfusion-HP/ "
       }
-
     ],
     "_var": [
       {
