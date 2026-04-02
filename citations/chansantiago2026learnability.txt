@@ -1,0 +1,6 @@
+@inproceedings{chansantiago2026learnability,
+  title={Learnability-Guided Diffusion for Dataset Distillation},
+  author={Chan-Santiago, Jeffrey A. and Shah, Mubarak},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
