@@ -1,4 +1,72 @@
 {
+  "2026/03/26": [
+    {
+      "title": "FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
+      "author": "Hongxu Ma & Guang Li et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2603.25144",
+      "cite": "ma2026fd2",
+      "website": null
+    },
+    {
+      "title": "DIET: Learning to Distill Dataset Continually for Recommender Systems",
+      "author": "Jiaqing Zhang et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2603.24958",
+      "cite": "zhang2026diet",
+      "website": null
+    },
+    {
+      "title": "Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks",
+      "author": "Yuri Kinoshita et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2603.14830",
+      "cite": "kinoshita2026lowdim",
+      "website": null
+    },
+    {
+      "title": "ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification",
+      "author": "Sijia Peng et al., 2026",
+      "github": "https://github.com/lunaaa95/ShapeCond ",
+      "url": "https://arxiv.org/abs/2602.09008",
+      "cite": "peng2026shapecond",
+      "website": null
+    },
+    {
+      "title": "PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors",
+      "author": "Brian B. Moser et al., TMLR 2026",
+      "github": "https://github.com/Brian-Moser/prism ",
+      "url": "https://arxiv.org/abs/2511.09905",
+      "cite": "moser2026prism",
+      "website": null
+    }
+  ],
+  "2026/03/23": [
+    {
+      "title": "IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation",
+      "author": "Chenru Wang & Yunyi Chen et al., CVPR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2603.13960",
+      "cite": "wang2026ims3",
+      "website": null
+    },
+    {
+      "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
+      "author": "Wenqi Cai et al., CVPR 2026",
+      "github": "https://github.com/wenqi-cai297/earlyfusion-for-dd/ ",
+      "url": "https://arxiv.org/abs/2603.07476",
+      "cite": "cai2026evlf",
+      "website": "https://wenqi-cai297.github.io/earlyfusion-HP/ "
+    },
+    {
+      "title": "HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation",
+      "author": "Lin Zhao & Xinru Jiang et al., CVPR 2026",
+      "github": "https://github.com/Oshikaka/HIERAMP ",
+      "url": "https://arxiv.org/abs/2603.06932",
+      "cite": "zhao2026hieramp",
+      "website": null
+    }
+  ],
   "2026/03/06": [
     {
       "title": "UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization",
@@ -23,16 +91,6 @@
       "url": "https://arxiv.org/abs/2602.23295",
       "cite": "roy2026manifold",
       "website": null
-    }
-  ],
-  "2026/02/26": [
-    {
-      "title": "Dataset Color Quantization: A Training-Oriented Framework for Dataset-Level Compression",
-      "author": "Chenyue Yu et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2602.20650",
-      "cite": "yu2026dcq",
-      "website": null
     },
     {
       "title": "Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis",
@@ -40,80 +98,6 @@
       "github": "https://github.com/junhyeok9712/PDS ",
       "url": "https://arxiv.org/abs/2602.19756",
       "cite": "choi2026multi",
-      "website": null
-    },
-    {
-      "title": "CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation",
-      "author": "Letian Zhou et al., ICLR 2026",
-      "github": "https://github.com/zzzlt422/CoDA ",
-      "url": "https://arxiv.org/abs/2512.03844",
-      "cite": "zhou2026coda",
-      "website": null
-    },
-    {
-      "title": "Algorithmic Guarantees for Distilling Supervised and Offline RL Datasets",
-      "author": "Aaryan Gupta et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2512.00536",
-      "cite": "gupta2026rl",
-      "website": null
-    },
-    {
-      "title": "Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge",
-      "author": "Freya Behrens et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2506.14457",
-      "cite": "behrens2026soft",
-      "website": null
-    },
-    {
-      "title": "Understanding Dataset Distillation via Spectral Filtering",
-      "author": "Deyu Bo et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2503.01212",
-      "cite": "bo2026unidd",
-      "website": null
-    }
-  ],
-  "2026/02/09": [
-    {
-      "title": "Grounding and Enhancing Informativeness and Utility in Dataset Distillation",
-      "author": "Shaobo Wang et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2601.21296",
-      "cite": "wang2026infoutil",
-      "website": null
-    },
-    {
-      "title": "Diffusion Models as Dataset Distillation Priors",
-      "author": "Duo Su et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2510.17421",
-      "cite": "su2026dap",
-      "website": null
-    },
-    {
-      "title": "Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation",
-      "author": "Xinhao Zhong et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2509.19743",
-      "cite": "zhong2026rd3",
-      "website": null
-    },
-    {
-      "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
-      "author": "Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026",
-      "github": "https://github.com/VILA-Lab/OD3 ",
-      "url": "https://arxiv.org/abs/2506.01942",
-      "cite": "khatib2026od3",
-      "website": null
-    },
-    {
-      "title": "Dataset Distillation as Pushforward Optimal Quantization",
-      "author": "Hongye Tan et al., ICLR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2501.07681",
-      "cite": "tan2026optimal",
       "website": null
     }
   ]

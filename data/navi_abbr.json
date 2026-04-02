@@ -56,5 +56,7 @@
   "finance": "Finance",
   "music": "Music",
   "rs": "Remote Sensing",
-  "dr": "Deraining"
+  "dr": "Deraining",
+  "_var": "VAR",
+  "fine": "Fine-grained"
 }
