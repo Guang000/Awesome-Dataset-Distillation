@@ -593,8 +593,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Point Cloud
 + [Point Cloud Dataset Distillation](https://openreview.net/forum?id=Us8v5tDOFd) (Deyu Bo et al., ICML 2025) [:book:](./citations/bo2025point.txt)
-+ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:book:](./citations/yim2025point.txt)
-+ [Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing](https://openreview.net/forum?id=Qe7dKZOtWM) (Dongwook Kim & Jae-Young Yim et al., ICLR 2026) [:book:](./citations/kim2026pointmorph.txt)
++ [Dataset Distillation of 3D Point Clouds via Distribution Matching](https://arxiv.org/abs/2503.22154) (Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) [:octocat:](https://github.com/donguk071/SADM) [:book:](./citations/yim2025point.txt)
++ [Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing](https://openreview.net/forum?id=Qe7dKZOtWM) (Dongwook Kim & Jae-Young Yim et al., ICLR 2026) [:octocat:](https://github.com/donguk071/3DDP) [:book:](./citations/kim2026pointmorph.txt)
 
 <a name="uni" />
 
