@@ -400,6 +400,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation](https://arxiv.org/abs/2506.15365) (Haolong Jin et al., MICCAI 2025) [:octocat:](https://github.com/f1oNae/FedWSIDD) [:book:](./citations/jin2025fedwsidd.txt)
 + [High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation](https://arxiv.org/abs/2509.24177) (Le Dong et al., MICCAI 2025) [:octocat:](https://github.com/Bian-jh/HoP-TM) [:book:](./citations/dong2025hop.txt)
 + [Low-Level Dataset Distillation for Medical Image Enhancemen](https://arxiv.org/abs/2511.13106) (Fengzhi Xu et al., 2025) [:book:](./citations/xu2025low.txt)
++ [Towards Data Quality-Aware Dataset Distillation in Bioimaging](https://www.scitepress.org/Papers/2026/143417/143417.pdf) (Capelo et al., BIOSTEC 2026) [:book:](./citations/capelo2026bioimaging.txt)
 
 <a name="fed" />
 
