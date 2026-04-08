@@ -1,12 +1,7 @@
-@conference{bioimaging26,
-author={Bárbara Capelo and Maria Russo and André Carreiro and Hugo Gamboa and Duarte Folgado},
-title={Towards Data Quality-Aware Dataset Distillation in Bioimaging},
-booktitle={Proceedings of the 19th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 2: BIOIMAGING},
-year={2026},
-pages={237-248},
-publisher={SciTePress},
-organization={INSTICC},
-doi={10.5220/0014341700004070},
-isbn={978-989-758-802-0},
-issn={2184-4305},
+@inproceedings{capelo2026bioimaging,
+  title={Towards Data Quality-Aware Dataset Distillation in Bioimaging},
+  author={Capelo, B{\'a}rbara and Russo, Maria and Carreiro, Andr{\'e} and Gamboa, Hugo and Folgado, Duarte},
+  booktitle={Proceedings of the International Joint Conference on Biomedical Engineering Systems and Technologies, Volume 2: BIOIMAGING},
+  year={2026},
+  pages={237--248}
 }
