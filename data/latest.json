@@ -1,4 +1,14 @@
 {
+  "2026/04/02": [
+    {
+      "title": "Learnability-Guided Diffusion for Dataset Distillation",
+      "author": "Jeffrey A. Chan-Santiago et al., CVPR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2604.00519",
+      "cite": "chansantiago2026learnability",
+      "website": "https://jachansantiago.com/learnability-guided-distillation/ "
+    }
+  ],
   "2026/03/26": [
     {
       "title": "FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",

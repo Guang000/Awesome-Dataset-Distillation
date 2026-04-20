@@ -673,7 +673,16 @@
         "url": "https://arxiv.org/abs/2603.07476",
         "cite": "cai2026evlf",
         "website": "https://wenqi-cai297.github.io/earlyfusion-HP/ "
+      },
+      {
+        "title": "Learnability-Guided Diffusion for Dataset Distillation",
+        "author": "Jeffrey A. Chan-Santiago et al., CVPR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2604.00519",
+        "cite": "chansantiago2026learnability",
+        "website": "https://jachansantiago.com/learnability-guided-distillation/ "
       }
+
     ],
     "_var": [
       {
@@ -1623,10 +1632,11 @@
         "title": "SNEAKDOOR: Stealthy Backdoor Attacks against Distribution Matching-based Dataset Condensation",
         "author": "He Yang & Dongyi Lv et al., NeurIPS 2025",
         "github": null,
-        "url": "https://openreview.net/forum?id=YWE9na9Jai",
+        "url": "https://arxiv.org/abs/2603.28824",
         "cite": "yang2025sneakdoor",
         "website": null
       },
+
       {
         "title": "Poisoned Distillation: Injecting Backdoors into Distilled Datasets Without Raw Data Access",
         "author": "Ziyuan Yang et al., AAAI 2026",
@@ -1756,7 +1766,16 @@
         "url": "https://arxiv.org/abs/2511.13106",
         "cite": "xu2025low",
         "website": null
+      },
+      {
+        "title": "Towards Data Quality-Aware Dataset Distillation in Bioimaging",
+        "author": "B\u00e1rbara Capelo et al., Bioimaging 2026",
+        "github": null,
+        "url": "https://www.scitepress.org/publishedPapers/2026/143417",
+        "cite": "capelo2026bioimaging",
+        "website": null
       }
+
     ],
     "federated": [
       {
@@ -2595,7 +2614,7 @@
       {
         "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
         "author": "Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025",
-        "github": null,
+        "github": "https://github.com/donguk071/SADM ",
         "url": "https://arxiv.org/abs/2503.22154",
         "cite": "yim2025point",
         "website": null
@@ -2603,12 +2622,11 @@
       {
         "title": "Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing",
         "author": "Dongwook Kim & Jae-Young Yim et al., ICLR 2026",
-        "github": null,
+        "github": "https://github.com/donguk071/3DDP ",
         "url": "https://openreview.net/forum?id=Qe7dKZOtWM",
         "cite": "kim2026pointmorph",
         "website": null
       }
-
     ],
     "uni": [
       {
