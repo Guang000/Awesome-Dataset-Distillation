@@ -1,0 +1,6 @@
+@article{xiao2026lpqld,
+  title={Soft Label Pruning and Quantization for Large-Scale Dataset Distillation},
+  author={Lingao Xiao and Yang He},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026}
+}
