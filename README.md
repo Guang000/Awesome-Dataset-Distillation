@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2026/04/22] [Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/LingaoX/LPQLD) [:book:](./citations/lingao2026lpqld.txt)
++ [2026/04/22] [Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation) [:book:](./citations/lingao2026lpqld.txt)
 + [2026/04/02] [Learnability-Guided Diffusion for Dataset Distillation](https://arxiv.org/abs/2604.00519) (Jeffrey A. Chan-Santiago et al., CVPR 2026) [:globe_with_meridians:](https://jachansantiago.com/learnability-guided-distillation/) [:book:](./citations/chansantiago2026learnability.txt)
 + [2026/03/26] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., 2026) [:book:](./citations/ma2026fd2.txt)
 + [2026/03/26] [DIET: Learning to Distill Dataset Continually for Recommender Systems](https://arxiv.org/abs/2603.24958) (Jiaqing Zhang et al., 2026) [:book:](./citations/zhang2026diet.txt)
@@ -261,7 +261,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Label-Augmented Dataset Distillation](https://arxiv.org/abs/2409.16239) (Seoungyoon Kang & Youngsun Lim et al., WACV 2025) [:book:](./citations/kang2024label.txt)
 + [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:octocat:](https://github.com/LINs-lab/GIFT) [:book:](./citations/shang2025gift.txt)
 + [Heavy Labels Out! Dataset Distillation with Label Space Lightening](https://arxiv.org/abs/2408.08201) (Ruonan Yu et al., ICCV 2025) [:book:](./citations/yu2025helio.txt)
-+ [Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/LingaoX/LPQLD) [:book:](./citations/lingao2026lpqld.txt)
++ [Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation) [:book:](./citations/lingao2026lpqld.txt)
 
 <a name="quant" />
 
