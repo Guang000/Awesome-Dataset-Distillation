@@ -1,0 +1,6 @@
+@inproceedings{dey2026rethinking,
+  title={Rethinking Dataset Distillation: Hard Truths about Soft Labels},
+  author={Dey, Priyam and Sahdev, Aditya and Bhati, Sunny and Mopuri, Konda Reddy and Babu, R. Venkatesh},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
