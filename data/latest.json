@@ -1,4 +1,24 @@
 {
+  "2026/04/24": [
+    {
+      "title": "Rethinking Dataset Distillation: Hard Truths about Soft Labels",
+      "author": "Priyam Dey & Aditya Sahdev et al., CVPR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2604.18811",
+      "cite": "dey2026hardtruths",
+      "website": null
+    }
+  ],
+  "2026/04/22": [
+    {
+      "title": "Soft Label Pruning and Quantization for Large-Scale Dataset Distillation",
+      "author": "Lingao Xiao et al., TPAMI 2026",
+      "github": "https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation ",
+      "url": "https://arxiv.org/abs/2604.18135",
+      "cite": "lingao2026lpqld",
+      "website": null
+    }
+  ],
   "2026/04/02": [
     {
       "title": "Learnability-Guided Diffusion for Dataset Distillation",
@@ -103,11 +123,11 @@
       "website": null
     },
     {
-      "title": "Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis",
-      "author": "Junhyeok Choi et al., ICLR 2026",
-      "github": "https://github.com/junhyeok9712/PDS ",
-      "url": "https://arxiv.org/abs/2602.19756",
-      "cite": "choi2026multi",
+      "title": "PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion",
+      "author": "Jaehyun Choi et al., CVPR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2505.22564",
+      "cite": "choi2026prism",
       "website": null
     }
   ]

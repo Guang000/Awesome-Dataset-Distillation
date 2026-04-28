@@ -963,7 +963,16 @@
         "url": "https://arxiv.org/abs/2603.14830",
         "cite": "kinoshita2026lowdim",
         "website": null
+      },
+      {
+        "title": "Rethinking Dataset Distillation: Hard Truths about Soft Labels",
+        "author": "Priyam Dey & Aditya Sahdev et al., CVPR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2604.18811",
+        "cite": "dey2026hardtruths",
+        "website": null
       }
+
 
     ],
     "label": [
@@ -1029,6 +1038,14 @@
         "github": null,
         "url": "https://arxiv.org/abs/2408.08201",
         "cite": "yu2025helio",
+        "website": null
+      },
+      {
+        "title": "Soft Label Pruning and Quantization for Large-Scale Dataset Distillation",
+        "author": "Lingao Xiao et al., TPAMI 2026",
+        "github": "https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation ",
+        "url": "https://arxiv.org/abs/2604.18135",
+        "cite": "lingao2026lpqld",
         "website": null
       }
     ],
