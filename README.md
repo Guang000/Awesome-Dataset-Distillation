@@ -250,7 +250,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Understanding Dataset Distillation via Spectral Filtering](https://arxiv.org/abs/2503.01212) (Deyu Bo et al., ICLR 2026) [:book:](./citations/bo2026unidd.txt)
 + [Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., ICLR 2026) [:book:](./citations/behrens2026soft.txt)
 + [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
-+ [2026/04/24] [Rethinking Dataset Distillation: Hard Truths about Soft Labels](https://arxiv.org/abs/2604.18811) (Priyam Dey & Aditya Sahdev et al., CVPR 2026) [:book:](./citations/dey2026hardtruths.txt)
++ [Rethinking Dataset Distillation: Hard Truths about Soft Labels](https://arxiv.org/abs/2604.18811) (Priyam Dey & Aditya Sahdev et al., CVPR 2026) [:book:](./citations/dey2026hardtruths.txt)
 
 <a name="label" />
 
