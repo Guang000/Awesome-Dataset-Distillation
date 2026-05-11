@@ -1,0 +1,6 @@
+@inproceedings{moslemi2026fairdd,
+  title={Fair Dataset Distillation via Cross-Group Barycenter Alignment},
+  author={Moslemi, Mohammad Hossein and Dashtbayaz, Nima Hosseini and Mei, Zhimin and Wang, Boyu and Ghaddar, Bissan},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
