@@ -1,0 +1,6 @@
+@inproceedings{wang2026dmgd,
+  title={DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models},
+  author={Wang, Qichao and Lu, Yunhong and Cao, Hengyuan and Zhang, Junyi and Zhang, Min},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
