@@ -1,2 +1,3 @@
-yu2025helio-*-[Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation) [:book:](./citations/lingao2026lpqld.txt)
-kinoshita2026lowdim-*-[Rethinking Dataset Distillation: Hard Truths about Soft Labels](https://arxiv.org/abs/2604.18811) (Priyam Dey & Aditya Sahdev et al., CVPR 2026) [:book:](./citations/dey2026hardtruths.txt)
+chansantiago2026learnability-*-[DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](https://arxiv.org/abs/2605.03877) (Qichao Wang et al., CVPR 2026) [:book:](./citations/wang2026dmgd.txt)
+cazenavette2025dataset-*-[Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models](https://arxiv.org/abs/2605.07194) (Bincheng Peng & Guang Li et al., 2026) [:book:](./citations/peng2026clpdd.txt)
+zhou2025fair-*-[Fair Dataset Distillation via Cross-Group Barycenter Alignment](https://arxiv.org/abs/2605.00185) (Mohammad Hossein Moslemi et al., ICML 2026) [:book:](./citations/moslemi2026fairdd.txt)

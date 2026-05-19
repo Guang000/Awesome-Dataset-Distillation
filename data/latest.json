@@ -1,5 +1,31 @@
 {
+  "2026/05/11": [
+    {
+      "title": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+      "author": "Bincheng Peng & Guang Li et al., 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2605.07194",
+      "cite": "peng2026clpdd",
+      "website": null
+    }
+  ],
   "2026/04/24": [
+    {
+      "title": "Fair Dataset Distillation via Cross-Group Barycenter Alignment",
+      "author": "Mohammad Hossein Moslemi et al., ICML 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2605.00185",
+      "cite": "moslemi2026fairdd",
+      "website": null
+    },
+    {
+      "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
+      "author": "Qichao Wang et al., CVPR 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2605.03877",
+      "cite": "wang2026dmgd",
+      "website": null
+    },
     {
       "title": "Rethinking Dataset Distillation: Hard Truths about Soft Labels",
       "author": "Priyam Dey & Aditya Sahdev et al., CVPR 2026",
@@ -60,74 +86,6 @@
       "github": "https://github.com/lunaaa95/ShapeCond ",
       "url": "https://arxiv.org/abs/2602.09008",
       "cite": "peng2026shapecond",
-      "website": null
-    },
-    {
-      "title": "PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors",
-      "author": "Brian B. Moser et al., TMLR 2026",
-      "github": "https://github.com/Brian-Moser/prism ",
-      "url": "https://arxiv.org/abs/2511.09905",
-      "cite": "moser2026prism",
-      "website": null
-    }
-  ],
-  "2026/03/23": [
-    {
-      "title": "IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation",
-      "author": "Chenru Wang & Yunyi Chen et al., CVPR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2603.13960",
-      "cite": "wang2026ims3",
-      "website": null
-    },
-    {
-      "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
-      "author": "Wenqi Cai et al., CVPR 2026",
-      "github": "https://github.com/wenqi-cai297/earlyfusion-for-dd/ ",
-      "url": "https://arxiv.org/abs/2603.07476",
-      "cite": "cai2026evlf",
-      "website": "https://wenqi-cai297.github.io/earlyfusion-HP/ "
-    },
-    {
-      "title": "HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation",
-      "author": "Lin Zhao & Xinru Jiang et al., CVPR 2026",
-      "github": "https://github.com/Oshikaka/HIERAMP ",
-      "url": "https://arxiv.org/abs/2603.06932",
-      "cite": "zhao2026hieramp",
-      "website": null
-    }
-  ],
-  "2026/03/06": [
-    {
-      "title": "UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization",
-      "author": "Qianfeng Yang et al., CVPR 2026",
-      "github": "https://github.com/QianfengY/UniRain ",
-      "url": "https://arxiv.org/abs/2603.03967",
-      "cite": "yang2026unirain",
-      "website": null
-    },
-    {
-      "title": "Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation",
-      "author": "Muquan Li et al., CVPR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2602.24144",
-      "cite": "li2026reta",
-      "website": null
-    },
-    {
-      "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
-      "author": "Ayush Roy et al., CVPR 2026",
-      "github": "https://github.com/AyushRoy2001/ManifoldGD ",
-      "url": "https://arxiv.org/abs/2602.23295",
-      "cite": "roy2026manifold",
-      "website": null
-    },
-    {
-      "title": "PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion",
-      "author": "Jaehyun Choi et al., CVPR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2505.22564",
-      "cite": "choi2026prism",
       "website": null
     }
   ]

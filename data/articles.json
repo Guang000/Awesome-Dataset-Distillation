@@ -681,6 +681,14 @@
         "url": "https://arxiv.org/abs/2604.00519",
         "cite": "chansantiago2026learnability",
         "website": "https://jachansantiago.com/learnability-guided-distillation/ "
+      },
+      {
+        "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
+        "author": "Qichao Wang et al., CVPR 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2605.03877",
+        "cite": "wang2026dmgd",
+        "website": null
       }
 
     ],
@@ -1371,6 +1379,14 @@
         "url": "https://arxiv.org/abs/2511.16674",
         "cite": "cazenavette2025dataset",
         "website": "https://linear-gradient-matching.github.io/ "
+      },
+      {
+        "title": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+        "author": "Bincheng Peng & Guang Li et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2605.07194",
+        "cite": "peng2026clpdd",
+        "website": null
       }
     ],
     "benchmark": [
@@ -2251,6 +2267,14 @@
         "github": "https://github.com/zqhang/FairDD ",
         "url": "https://arxiv.org/abs/2411.19623",
         "cite": "zhou2025fair",
+        "website": null
+      },
+      {
+        "title": "Fair Dataset Distillation via Cross-Group Barycenter Alignment",
+        "author": "Mohammad Hossein Moslemi et al., ICML 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2605.00185",
+        "cite": "moslemi2026fairdd",
         "website": null
       }
         ],
