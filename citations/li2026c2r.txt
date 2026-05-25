@@ -1,0 +1,6 @@
+@inproceedings{li2026c2r,
+  title={Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?},
+  author={Li, Muquan and Ma, Yingyi and Huang, Yihong and Gou, Hang and Qin, Ke and Li, Ming and Li, Yuan-Fang and He, Tao},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
