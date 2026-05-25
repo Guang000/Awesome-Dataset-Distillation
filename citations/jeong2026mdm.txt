@@ -1,0 +1,6 @@
+@inproceedings{jeong2026mdm,
+  title={Multimodal Distribution Matching for Vision-Language Dataset Distillation},
+  author={Jeong, Jongoh and Kwon, Hoyong and Kim, Minseok and Yoon, Kuk-Jin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
