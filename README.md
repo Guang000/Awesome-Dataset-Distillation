@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-327-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-329-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/05/25] [Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](https://arxiv.org/abs/2605.20606) (Muquan Li et al., ICML 2026) [:book:](./citations/li2026c2r.txt)
++ [2026/05/25] [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) [:book:](./citations/jeong2026mdm.txt)
 + [2026/05/11] [Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models](https://arxiv.org/abs/2605.07194) (Bincheng Peng & Guang Li et al., 2026) [:book:](./citations/peng2026clpdd.txt)
 + [2026/05/11] [Fair Dataset Distillation via Cross-Group Barycenter Alignment](https://arxiv.org/abs/2605.00185) (Mohammad Hossein Moslemi et al., ICML 2026) [:book:](./citations/moslemi2026fairdd.txt)
 + [2026/05/11] [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](https://arxiv.org/abs/2605.03877) (Qichao Wang et al., CVPR 2026) [:book:](./citations/wang2026dmgd.txt)
@@ -28,8 +30,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/04/02] [Learnability-Guided Diffusion for Dataset Distillation](https://arxiv.org/abs/2604.00519) (Jeffrey A. Chan-Santiago et al., CVPR 2026) [:globe_with_meridians:](https://jachansantiago.com/learnability-guided-distillation/) [:book:](./citations/chansantiago2026learnability.txt)
 + [2026/03/26] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., 2026) [:book:](./citations/ma2026fd2.txt)
 + [2026/03/26] [DIET: Learning to Distill Dataset Continually for Recommender Systems](https://arxiv.org/abs/2603.24958) (Jiaqing Zhang et al., 2026) [:book:](./citations/zhang2026diet.txt)
-+ [2026/03/26] [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
-+ [2026/03/26] [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) [:book:](./citations/peng2026shapecond.txt)
 
 ## Contents
 - [Main](#main)
@@ -305,6 +305,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) [:book:](./citations/choi2026multi.txt)
 + [Multimodal Dataset Distillation via Phased Teacher Models](https://arxiv.org/abs/2603.25388) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) [:book:](./citations/guo2026ptmst.txt)
 + [Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation](https://openreview.net/forum?id=7SgSMKM2KF) (Ding Qi et al., ICLR 2026) [:book:](./citations/qi2026amd.txt)
++ [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) [:book:](./citations/jeong2026mdm.txt)
 
 <a name="self" />
 
@@ -490,6 +491,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Towards Adversarially Robust Dataset Distillation by Curvature Regularization](https://arxiv.org/abs/2403.10045) (Eric Xue et al., AAAI 2025) [:globe_with_meridians:](https://yumozi.github.io/GUARD/) [:octocat:](https://github.com/yumozi/GUARD) [:book:](./citations/xue2025robust.txt)
 + [Group Distributionally Robust Dataset Distillation with Risk Minimization](https://arxiv.org/abs/2402.04676) (Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025) [:octocat:](https://github.com/Mming11/RobustDatasetDistillation) [:book:](./citations/vahidian2025group.txt)
 + [ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck](https://openreview.net/forum?id=agtwOsnLUB) (Zheng Zhou et al., ICML 2025) [:globe_with_meridians:](https://zhouzhengqd.github.io/rome.page/) [:octocat:](https://github.com/zhouzhengqd/ROME) [:book:](./citations/zhou2025rome.txt)
++ [Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](https://arxiv.org/abs/2605.20606) (Muquan Li et al., ICML 2026) [:book:](./citations/li2026c2r.txt)
 
 <a name="fairness" />
 
