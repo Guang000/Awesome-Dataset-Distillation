@@ -1326,10 +1326,15 @@
         "url": "https://openreview.net/forum?id=7SgSMKM2KF",
         "cite": "qi2026amd",
         "website": null
+      },
+      {
+        "title": "Multimodal Distribution Matching for Vision-Language Dataset Distillation",
+        "author": "Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026",
+        "github": "https://github.com/andyj1/mdm ",
+        "url": "https://arxiv.org/abs/2605.23482",
+        "cite": "jeong2026mdm",
+        "website": null
       }
-
-
-
     ],
     "self": [
       {
@@ -2250,6 +2255,14 @@
         "url": "https://openreview.net/forum?id=agtwOsnLUB",
         "cite": "zhou2025rome",
         "website": "https://zhouzhengqd.github.io/rome.page/ "
+      },
+      {
+        "title": "Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?",
+        "author": "Muquan Li et al., ICML 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2605.20606",
+        "cite": "li2026c2r",
+        "website": null
       }
     ],
     "fairness": [
