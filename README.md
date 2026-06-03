@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-329-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-331-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/06/03] [FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation](https://arxiv.org/abs/2605.30772) (Hung Vinh Tran et al., arXiv 2026) [:book:](./citations/tran2026foster.txt)
++ [2026/06/03] [D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., arXiv 2026) [:book:](./citations/zheng2026d3s2.txt)
 + [2026/05/25] [Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?](https://arxiv.org/abs/2605.20606) (Muquan Li et al., ICML 2026) [:book:](./citations/li2026c2r.txt)
 + [2026/05/25] [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) [:book:](./citations/jeong2026mdm.txt)
 + [2026/05/11] [Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models](https://arxiv.org/abs/2605.07194) (Bincheng Peng & Guang Li et al., 2026) [:book:](./citations/peng2026clpdd.txt)
@@ -27,9 +29,6 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/05/11] [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](https://arxiv.org/abs/2605.03877) (Qichao Wang et al., CVPR 2026) [:book:](./citations/wang2026dmgd.txt)
 + [2026/04/24] [Rethinking Dataset Distillation: Hard Truths about Soft Labels](https://arxiv.org/abs/2604.18811) (Priyam Dey & Aditya Sahdev et al., CVPR 2026) [:book:](./citations/dey2026hardtruths.txt)
 + [2026/04/22] [Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation) [:book:](./citations/lingao2026lpqld.txt)
-+ [2026/04/02] [Learnability-Guided Diffusion for Dataset Distillation](https://arxiv.org/abs/2604.00519) (Jeffrey A. Chan-Santiago et al., CVPR 2026) [:globe_with_meridians:](https://jachansantiago.com/learnability-guided-distillation/) [:book:](./citations/chansantiago2026learnability.txt)
-+ [2026/03/26] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., 2026) [:book:](./citations/ma2026fd2.txt)
-+ [2026/03/26] [DIET: Learning to Distill Dataset Continually for Recommender Systems](https://arxiv.org/abs/2603.24958) (Jiaqing Zhang et al., 2026) [:book:](./citations/zhang2026diet.txt)
 
 ## Contents
 - [Main](#main)
@@ -85,6 +84,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Remote Sensing](#rs)
   - [Deraining](#dr)
   - [Fine-Grained](#fine)
+  - [Semantic Segmentation](#segmentation)
 <a name="main" />
 
 ## Main
@@ -474,6 +474,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Gradient Matching for Categorical Data Distillation in CTR Prediction](https://dl.acm.org/doi/10.1145/3604915.3608769) (Chen Wang et al., RecSys 2023) [:book:](./citations/wang2023cgm.txt)
 + [TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation](https://arxiv.org/abs/2502.02854) (Jiaqing Zhang et al., WWW 2025) [:octocat:](https://github.com/USTC-StarTeam/TD3) [:book:](./citations/zhang2025td3.txt)
 + [DIET: Learning to Distill Dataset Continually for Recommender Systems](https://arxiv.org/abs/2603.24958) (Jiaqing Zhang et al., 2026) [:book:](./citations/zhang2026diet.txt)
++ [FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation](https://arxiv.org/abs/2605.30772) (Hung Vinh Tran et al., arXiv 2026) [:book:](./citations/tran2026foster.txt)
 
 <a name="blackbox" />
 
@@ -648,6 +649,12 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Fine-grained
 
 + [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., 2026) [:book:](./citations/ma2026fd2.txt)
+
+<a name="segmentation" />
+
+### Semantic Segmentation
+
++[D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., arXiv 2026) [:book:](./citations/zheng2026d3s2.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
