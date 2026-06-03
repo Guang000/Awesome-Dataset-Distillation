@@ -1,0 +1,6 @@
+@inproceedings{xia2026diver,
+  title={DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery},
+  author={Xia, Qianxin and Shu, Zhiyong and Jiang, Wenbo and Du, Jiawei and Wang, Jielei and Lu, Guoming},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
