@@ -1,0 +1,6 @@
+@article{zheng2026d3s2,
+  title={D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation},
+  author={Zheng, Wenjie and Hu, Haoji and Lu, Jiali and Zou, Xingze and Wang, Jing},
+  journal={arXiv preprint arXiv:2605.25022},
+  year={2026}
+}
