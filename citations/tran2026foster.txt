@@ -1,0 +1,6 @@
+@article{tran2026foster,
+  title={FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation},
+  author={Tran, Hung Vinh and Chen, Tong and Gao, Xinyi and Yu, Junliang and Monteil, Julien and Yin, Hongzhi},
+  journal={arXiv preprint arXiv:2605.30772},
+  year={2026}
+}
