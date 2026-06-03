@@ -654,7 +654,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Semantic Segmentation
 
-+[D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., arXiv 2026) [:book:](./citations/zheng2026d3s2.txt)
++ [D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., arXiv 2026) [:book:](./citations/zheng2026d3s2.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
