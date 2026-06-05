@@ -1,0 +1,8 @@
+@InProceedings{Shi_2026_CVPR,
+    author    = {Shi, Guanghui and Liang, Xuefeng and Wen, Qixiang},
+    title     = {Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {19634-19643}
+}
