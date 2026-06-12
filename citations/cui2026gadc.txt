@@ -1,0 +1,6 @@
+@inproceedings{cui2026gadc,
+  title={Geometry-Aware Dataset Condensation for Diffusion Model Training},
+  author={Cui, Xiao and Qin, Yulei and Zhu, Mo and Zhou, Wengang and Li, Hongsheng and Li, Houqiang},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
