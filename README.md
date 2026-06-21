@@ -652,7 +652,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Fine-grained
 
-+ [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., 2026) [:book:](./citations/ma2026fd2.txt)
++ [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:book:](./citations/ma2026fd2.txt)
 
 <a name="segmentation" />
 
