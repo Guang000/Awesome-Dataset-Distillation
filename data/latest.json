@@ -1,4 +1,48 @@
 {
+  "2026/06/12": [
+    {
+      "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
+      "author": "Xiao Cui et al., ICML 2026",
+      "github": "https://github.com/2018cx/GADC ",
+      "url": "https://arxiv.org/abs/2606.05883",
+      "cite": "cui2026gadc",
+      "website": null
+    },
+    {
+      "title": "Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution",
+      "author": "Guanghui Shi et al., CVPR 2026",
+      "github": "https://github.com/BeCarefulOfYournaoke/BPS ",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Balanced_Dataset_Distillation_via_Modeling_Multiple_Visual_Pattern_Distribution_CVPR_2026_paper.html",
+      "cite": "shi2026bps",
+      "website": null
+    }
+  ],
+  "2026/06/03": [
+    {
+      "title": "FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation",
+      "author": "Hung Vinh Tran et al., arXiv 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2605.30772",
+      "cite": "tran2026foster",
+      "website": null
+    },
+    {
+      "title": "D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation",
+      "author": "Wenjie Zheng et al., arXiv 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2605.25022",
+      "cite": "zheng2026d3s2",
+      "website": null
+    },
+    {
+      "title": "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery",
+      "author": "Qianxin Xia et al., ICML 2026",
+      "github": "https://github.com/einsteinxia/DIVER ",
+      "url": "https://arxiv.org/abs/2605.12649",
+      "cite": "xia2026diver",
+      "website": null
+    }
+  ],
   "2026/05/25": [
     {
       "title": "Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?",
@@ -76,7 +120,7 @@
   "2026/03/26": [
     {
       "title": "FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
-      "author": "Hongxu Ma & Guang Li et al., 2026",
+      "author": "Hongxu Ma & Guang Li et al., ECCV 2026",
       "github": null,
       "url": "https://arxiv.org/abs/2603.25144",
       "cite": "ma2026fd2",

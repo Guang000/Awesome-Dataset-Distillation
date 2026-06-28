@@ -58,5 +58,6 @@
   "rs": "Remote Sensing",
   "dr": "Deraining",
   "_var": "VAR",
-  "fine": "Fine-grained"
+  "fine": "Fine-grained",
+  "segmentation": "Semantic Segmentation"
 }
