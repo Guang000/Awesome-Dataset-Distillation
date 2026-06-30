@@ -1,0 +1,6 @@
+@inproceedings{jeong2026raha,
+  title     = {Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation},
+  author    = {Jeong, Jongoh and Lee, Sun-Kyung and Yoon, Kuk-Jin},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  year      = {2026}
+}

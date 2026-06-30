@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-334-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-335-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/06/30] [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al, ECCV 2026) [:octocat:](https://github.com/andyj1/raha) [:book:](./citations/jeong2026raha.txt)
 + [2026/06/12] [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) [:book:](./citations/cui2026gadc.txt)
 + [2026/06/12] [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Balanced_Dataset_Distillation_via_Modeling_Multiple_Visual_Pattern_Distribution_CVPR_2026_paper.html) (Guanghui Shi et al., CVPR 2026) [:octocat:](https://github.com/BeCarefulOfYournaoke/BPS) [:book:](./citations/shi2026bps.txt)
 + [2026/06/03] [FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation](https://arxiv.org/abs/2605.30772) (Hung Vinh Tran et al., arXiv 2026) [:book:](./citations/tran2026foster.txt)
@@ -310,6 +311,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Multimodal Dataset Distillation via Phased Teacher Models](https://arxiv.org/abs/2603.25388) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) [:book:](./citations/guo2026ptmst.txt)
 + [Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation](https://openreview.net/forum?id=7SgSMKM2KF) (Ding Qi et al., ICLR 2026) [:book:](./citations/qi2026amd.txt)
 + [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) [:book:](./citations/jeong2026mdm.txt)
++ [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al, ECCV 2026) [:octocat:](https://github.com/andyj1/raha) [:book:](./citations/jeong2026raha.txt)
 
 <a name="self" />
 
