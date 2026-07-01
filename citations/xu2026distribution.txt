@@ -1,0 +1,7 @@
+@inproceedings{xu2026distribution,
+  title={Mitigating the Distribution Shift of Diffusion-based Dataset Distillation},
+  author={Xu, Yue and Hu, Chenyu and An, Pengyu and Li, Yong-Lu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={33943--33952},
+  year={2026}
+}
