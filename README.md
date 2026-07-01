@@ -20,7 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
-+ [2026/07/01] [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mitigating_The_Distribution_Shift_of_Diffusion-based_Dataset_Distillation_CVPR_2026_paper.html) (Yue Xu et al., CVPR 2026) [:book:](./citations/xu2026distribution.txt)
++ [2026/07/01] [Mitigating the Distribution Shift of Diffusion-based Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mitigating_The_Distribution_Shift_of_Diffusion-based_Dataset_Distillation_CVPR_2026_paper.html) (Yue Xu et al., CVPR 2026) [:book:](./citations/xu2026distribution.txt)
 + [2026/07/01] [Dataset Distillation by Influence Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html) (Haoru Tan & Wang Wang et al., CVPR 2026) [:octocat:](https://github.com/hrtan/infmatch) [:book:](./citations/tan2026infmatch.txt)
 + [2026/07/01] [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Beyond_Soft_Label_Dataset_Distillation_via_Orthogonal_Gradient_Matching_CVPR_2026_paper.html) (Deyu Bo et al., CVPR 2026) [:book:](./citations/bo2026ogm.txt)
 + [2026/06/12] [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) [:book:](./citations/cui2026gadc.txt)
@@ -200,7 +200,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](https://arxiv.org/abs/2603.07476) (Wenqi Cai et al., CVPR 2026) [:globe_with_meridians:](https://wenqi-cai297.github.io/earlyfusion-HP/) [:octocat:](https://github.com/wenqi-cai297/earlyfusion-for-dd/) [:book:](./citations/cai2026evlf.txt)
 + [Learnability-Guided Diffusion for Dataset Distillation](https://arxiv.org/abs/2604.00519) (Jeffrey A. Chan-Santiago et al., CVPR 2026) [:globe_with_meridians:](https://jachansantiago.com/learnability-guided-distillation/) [:book:](./citations/chansantiago2026learnability.txt)
 + [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](https://arxiv.org/abs/2605.03877) (Qichao Wang et al., CVPR 2026) [:book:](./citations/wang2026dmgd.txt)
-+ [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mitigating_The_Distribution_Shift_of_Diffusion-based_Dataset_Distillation_CVPR_2026_paper.html) (Yue Xu et al., CVPR 2026) [:book:](./citations/xu2026distribution.txt)
++ [Mitigating the Distribution Shift of Diffusion-based Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mitigating_The_Distribution_Shift_of_Diffusion-based_Dataset_Distillation_CVPR_2026_paper.html) (Yue Xu et al., CVPR 2026) [:book:](./citations/xu2026distribution.txt)
 + [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) [:book:](./citations/cui2026gadc.txt)
 + [DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](https://arxiv.org/abs/2605.12649) (Qianxin Xia et al., ICML 2026) [:octocat:](https://github.com/einsteinxia/DIVER) [:book:](./citations/xia2026diver.txt)
 
