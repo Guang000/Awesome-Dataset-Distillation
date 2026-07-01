@@ -1,0 +1,9 @@
+@misc{mittal2026rethinkingdatasetdistillationclassification,
+  title={Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?},
+  author={Trisha Mittal and Akshay Mehra et al.},
+  year={2026},
+  eprint={2606.18209},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2606.18209}
+}
