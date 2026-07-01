@@ -1,0 +1,7 @@
+@inproceedings{bo2026ogm,
+  title={Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching},
+  author={Bo, Deyu and Wang, Xinchao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={5596--5605},
+  year={2026}
+}
