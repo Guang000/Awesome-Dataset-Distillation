@@ -1,0 +1,7 @@
+@inproceedings{tan2026infmatch,
+  title={Dataset Distillation by Influence Matching},
+  author={Tan, Haoru and Wang, Wang and Wu, Sitong and Wu, Xiuzhe and Sun, Yang-Tian and Chang, Chirui and Zhang, Shaofeng and Qi, Xiaojuan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages={19654--19664},
+  year={2026}
+}
