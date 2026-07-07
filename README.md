@@ -208,6 +208,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 #### VAR
 + [HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](https://arxiv.org/abs/2603.06932) (Lin Zhao & Xinru Jiang et al., CVPR 2026) [:octocat:](https://github.com/Oshikaka/HIERAMP) [:book:](./citations/zhao2026hieramp.txt)
++ [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](https://openreview.net/forum?id=5YvTHX0QS9) (Mingyu Wang et al., ICML 2026) [:book:](./citations/protovar2026.txt)
 
 #### Flow
 + [Path-Guided Flow Matching for Dataset Distillation](https://arxiv.org/abs/2602.05616) (Xuhui Li et al., 2026) [:book:](./citations/li2026flow.txt)
