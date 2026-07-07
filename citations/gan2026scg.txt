@@ -1,0 +1,6 @@
+@inproceedings{gan2026scg,
+  title={Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation},
+  author={Gan, Ziang and Zhu, Qi and Zhang, Libao},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
