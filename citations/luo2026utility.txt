@@ -1,0 +1,6 @@
+@inproceedings{luo2026utility,
+  title={Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws},
+  author={Luo, Zhengquan and Xu, Zhiqiang},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
