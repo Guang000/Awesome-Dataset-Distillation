@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-340-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-343-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -20,16 +20,16 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/07/07] [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](https://openreview.net/forum?id=5YvTHX0QS9) (Mingyu Wang et al., ICML 2026) [:book:](./citations/protovar2026.txt)
++ [2026/07/07] [Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws](https://openreview.net/forum?id=wbXPNPw5jW) (Zhengquan Luo et al., ICML 2026) [:book:](./citations/luo2026utility.txt)
++ [2026/07/07] [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/forum?id=Yh4dMR5mJ0) (Deyu Bo and Xinchao Wang, ICML 2026) [:octocat:](https://github.com/bdy9527/MMDD) [:book:](./citations/bo2026apm.txt)
 + [2026/07/07] [GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](https://arxiv.org/abs/2512.08317) (Xuhui Li et al., ICML 2026) [:book:](./citations/li2026geodm.txt)
 + [2026/07/07] [Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](https://openreview.net/forum?id=g4BWfkULIo) (Hang Ren et al., ICML 2026) [:book:](./citations/ren2026attention.txt)
 + [2026/07/07] [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://openreview.net/forum?id=onosLtwoiK) (Ziang Gan et al., ICML 2026) [:octocat:](https://github.com/tade1s/SCG) [:book:](./citations/gan2026scg.txt)
++ [2026/07/07] [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) [:book:](./citations/cui2026gadc.txt)
 + [2026/07/01] [Mitigating the Distribution Shift of Diffusion-based Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mitigating_The_Distribution_Shift_of_Diffusion-based_Dataset_Distillation_CVPR_2026_paper.html) (Yue Xu et al., CVPR 2026) [:book:](./citations/xu2026distribution.txt)
 + [2026/07/01] [Dataset Distillation by Influence Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html) (Haoru Tan & Wang Wang et al., CVPR 2026) [:octocat:](https://github.com/hrtan/infmatch) [:book:](./citations/tan2026infmatch.txt)
 + [2026/07/01] [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Beyond_Soft_Label_Dataset_Distillation_via_Orthogonal_Gradient_Matching_CVPR_2026_paper.html) (Deyu Bo et al., CVPR 2026) [:book:](./citations/bo2026ogm.txt)
-+ [2026/06/12] [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) [:book:](./citations/cui2026gadc.txt)
-+ [2026/06/12] [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Balanced_Dataset_Distillation_via_Modeling_Multiple_Visual_Pattern_Distribution_CVPR_2026_paper.html) (Guanghui Shi et al., CVPR 2026) [:octocat:](https://github.com/BeCarefulOfYournaoke/BPS) [:book:](./citations/shi2026bps.txt)
-+ [2026/06/03] [FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation](https://arxiv.org/abs/2605.30772) (Hung Vinh Tran et al., arXiv 2026) [:book:](./citations/tran2026foster.txt)
-+ [2026/06/03] [D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., arXiv 2026) [:book:](./citations/zheng2026d3s2.txt)
 
 ## Contents
 - [Main](#main)
@@ -254,6 +254,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation for Memorized Data: Soft Labels can Leak Held-Out Teacher Knowledge](https://arxiv.org/abs/2506.14457) (Freya Behrens et al., ICLR 2026) [:book:](./citations/behrens2026soft.txt)
 + [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](https://arxiv.org/abs/2603.14830) (Yuri Kinoshita et al., 2026) [:book:](./citations/kinoshita2026lowdim.txt)
 + [Rethinking Dataset Distillation: Hard Truths about Soft Labels](https://arxiv.org/abs/2604.18811) (Priyam Dey & Aditya Sahdev et al., CVPR 2026) [:book:](./citations/dey2026hardtruths.txt)
++ [Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws](https://openreview.net/forum?id=wbXPNPw5jW) (Zhengquan Luo et al., ICML 2026) [:book:](./citations/luo2026utility.txt)
 
 <a name="label" />
 
@@ -315,6 +316,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Multimodal Dataset Distillation via Phased Teacher Models](https://arxiv.org/abs/2603.25388) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) [:book:](./citations/guo2026ptmst.txt)
 + [Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation](https://openreview.net/forum?id=7SgSMKM2KF) (Ding Qi et al., ICLR 2026) [:book:](./citations/qi2026amd.txt)
 + [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) [:book:](./citations/jeong2026mdm.txt)
++ [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/forum?id=Yh4dMR5mJ0) (Deyu Bo and Xinchao Wang, ICML 2026) [:octocat:](https://github.com/bdy9527/MMDD) [:book:](./citations/bo2026apm.txt)
 
 <a name="self" />
 
