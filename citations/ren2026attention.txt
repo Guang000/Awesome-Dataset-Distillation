@@ -1,0 +1,6 @@
+@inproceedings{ren2026attention,
+  title={Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors},
+  author={Ren, Hang and Wang, Xin and Yue, Tong and Wen, Chen and Le, Junqing},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
+}
