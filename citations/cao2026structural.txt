@@ -1,0 +1,6 @@
+@inproceedings{cao2026structural,
+  title={Structural Assessment for Understanding and Guiding Dataset Distillation in Discrete Token Space},
+  author={Cao, Yue and Gu, Jianyang and Kungurtsev, Vyacheslav and Hu, Yu and Hamari, Jozsef and Liu, Zheng and Zardadi, Mohsen},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
