@@ -1,0 +1,6 @@
+@article{mittal2026rethinking,
+  title={Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?},
+  author={Mittal, Trisha and Mehra, Akshay and Kimball, Joshua},
+  journal={arXiv preprint arXiv:2606.18209},
+  year={2026}
+}
