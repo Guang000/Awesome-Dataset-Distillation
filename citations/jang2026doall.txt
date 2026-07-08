@@ -1,0 +1,6 @@
+@inproceedings{jang2026doall,
+  title={Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation},
+  author={Jang, Hyun-Kurl and Kim, Jihun and Kweon, Hyeokjun and Yoon, Kuk-Jin},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
