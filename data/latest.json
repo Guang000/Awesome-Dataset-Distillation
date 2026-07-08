@@ -1,5 +1,61 @@
 {
-  "2026/06/12": [
+  "2026/07/07": [
+    {
+      "title": "One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
+      "author": "Wei Shao et al., ICML 2026",
+      "github": "https://github.com/ZJU-DAILY/UniTSC ",
+      "url": "https://openreview.net/forum?id=i8FO7f2OYJ",
+      "cite": "shao2026unitsc",
+      "website": null
+    },
+    {
+      "title": "ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling",
+      "author": "Mingyu Wang et al., ICML 2026",
+      "github": null,
+      "url": "https://openreview.net/forum?id=5YvTHX0QS9",
+      "cite": "protovar2026",
+      "website": null
+    },
+    {
+      "title": "Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws",
+      "author": "Zhengquan Luo et al., ICML 2026",
+      "github": null,
+      "url": "https://openreview.net/forum?id=wbXPNPw5jW",
+      "cite": "luo2026utility",
+      "website": null
+    },
+    {
+      "title": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
+      "author": "Deyu Bo et al., ICML 2026",
+      "github": "https://github.com/bdy9527/MMDD ",
+      "url": "https://openreview.net/forum?id=Yh4dMR5mJ0",
+      "cite": "bo2026apm",
+      "website": null
+    },
+    {
+      "title": "GeoDM: Geometry-aware Distribution Matching for Dataset Distillation",
+      "author": "Xuhui Li et al., ICML 2026",
+      "github": null,
+      "url": "https://arxiv.org/abs/2512.08317",
+      "cite": "li2026geodm",
+      "website": null
+    },
+    {
+      "title": "Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors",
+      "author": "Hang Ren et al., ICML 2026",
+      "github": null,
+      "url": "https://openreview.net/forum?id=g4BWfkULIo",
+      "cite": "ren2026attention",
+      "website": null
+    },
+    {
+      "title": "Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
+      "author": "Ziang Gan et al., ICML 2026",
+      "github": "https://github.com/tade1s/SCG ",
+      "url": "https://openreview.net/forum?id=onosLtwoiK",
+      "cite": "gan2026scg",
+      "website": null
+    },
     {
       "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
       "author": "Xiao Cui et al., ICML 2026",
@@ -7,131 +63,23 @@
       "url": "https://arxiv.org/abs/2606.05883",
       "cite": "cui2026gadc",
       "website": null
-    },
-    {
-      "title": "Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution",
-      "author": "Guanghui Shi et al., CVPR 2026",
-      "github": "https://github.com/BeCarefulOfYournaoke/BPS ",
-      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Balanced_Dataset_Distillation_via_Modeling_Multiple_Visual_Pattern_Distribution_CVPR_2026_paper.html",
-      "cite": "shi2026bps",
-      "website": null
     }
   ],
-  "2026/06/03": [
+  "2026/07/01": [
     {
-      "title": "FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation",
-      "author": "Hung Vinh Tran et al., arXiv 2026",
+      "title": "Mitigating the Distribution Shift of Diffusion-based Dataset Distillation",
+      "author": "Yue Xu et al., CVPR 2026",
       "github": null,
-      "url": "https://arxiv.org/abs/2605.30772",
-      "cite": "tran2026foster",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Mitigating_The_Distribution_Shift_of_Diffusion-based_Dataset_Distillation_CVPR_2026_paper.html",
+      "cite": "xu2026distribution",
       "website": null
     },
     {
-      "title": "D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation",
-      "author": "Wenjie Zheng et al., arXiv 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2605.25022",
-      "cite": "zheng2026d3s2",
-      "website": null
-    },
-    {
-      "title": "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery",
-      "author": "Qianxin Xia et al., ICML 2026",
-      "github": "https://github.com/einsteinxia/DIVER ",
-      "url": "https://arxiv.org/abs/2605.12649",
-      "cite": "xia2026diver",
-      "website": null
-    }
-  ],
-  "2026/05/25": [
-    {
-      "title": "Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?",
-      "author": "Muquan Li et al., ICML 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2605.20606",
-      "cite": "li2026c2r",
-      "website": null
-    },
-    {
-      "title": "Multimodal Distribution Matching for Vision-Language Dataset Distillation",
-      "author": "Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026",
-      "github": "https://github.com/andyj1/mdm ",
-      "url": "https://arxiv.org/abs/2605.23482",
-      "cite": "jeong2026mdm",
-      "website": null
-    }
-  ],
-  "2026/05/11": [
-    {
-      "title": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
-      "author": "Bincheng Peng & Guang Li et al., 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2605.07194",
-      "cite": "peng2026clpdd",
-      "website": null
-    }
-  ],
-  "2026/04/24": [
-    {
-      "title": "Fair Dataset Distillation via Cross-Group Barycenter Alignment",
-      "author": "Mohammad Hossein Moslemi et al., ICML 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2605.00185",
-      "cite": "moslemi2026fairdd",
-      "website": null
-    },
-    {
-      "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
-      "author": "Qichao Wang et al., CVPR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2605.03877",
-      "cite": "wang2026dmgd",
-      "website": null
-    },
-    {
-      "title": "Rethinking Dataset Distillation: Hard Truths about Soft Labels",
-      "author": "Priyam Dey & Aditya Sahdev et al., CVPR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2604.18811",
-      "cite": "dey2026hardtruths",
-      "website": null
-    }
-  ],
-  "2026/04/22": [
-    {
-      "title": "Soft Label Pruning and Quantization for Large-Scale Dataset Distillation",
-      "author": "Lingao Xiao et al., TPAMI 2026",
-      "github": "https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation ",
-      "url": "https://arxiv.org/abs/2604.18135",
-      "cite": "lingao2026lpqld",
-      "website": null
-    }
-  ],
-  "2026/04/02": [
-    {
-      "title": "Learnability-Guided Diffusion for Dataset Distillation",
-      "author": "Jeffrey A. Chan-Santiago et al., CVPR 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2604.00519",
-      "cite": "chansantiago2026learnability",
-      "website": "https://jachansantiago.com/learnability-guided-distillation/ "
-    }
-  ],
-  "2026/03/26": [
-    {
-      "title": "FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
-      "author": "Hongxu Ma & Guang Li et al., ECCV 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2603.25144",
-      "cite": "ma2026fd2",
-      "website": null
-    },
-    {
-      "title": "DIET: Learning to Distill Dataset Continually for Recommender Systems",
-      "author": "Jiaqing Zhang et al., 2026",
-      "github": null,
-      "url": "https://arxiv.org/abs/2603.24958",
-      "cite": "zhang2026diet",
+      "title": "Dataset Distillation by Influence Matching",
+      "author": "Haoru Tan & Wang Wang et al., CVPR 2026",
+      "github": "https://github.com/hrtan/infmatch ",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html",
+      "cite": "tan2026infmatch",
       "website": null
     }
   ]
