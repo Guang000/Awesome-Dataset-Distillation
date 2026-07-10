@@ -254,7 +254,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) [:book:](./citations/yang2024learning.txt)
 + [Mitigating Bias in Dataset Distillation](https://arxiv.org/abs/2406.06609) (Justin Cui et al., ICML 2024) [:book:](./citations/cui2024bias.txt)
 + [Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning](https://arxiv.org/abs/2409.01410) (Vyacheslav Kungurtsev et al., 2024) [:book:](./citations/kungurtsev2024first.txt)
-+ [Flowing Datasets with Wasserstein over Wasserstein Gradient Flows](https://arxiv.org/abs/2506.07534) (Clément Bonet et al., ICML 2025) [:octocat:](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows) [:book:](./citations/bonet2025flowing.txt)
++ [Flowing Datasets with Wasserstein over Wasserstein Gradient Flows](https://arxiv.org/abs/2506.07534) (Clément Bonet & Christophe Vauthier et al., ICML 2025) [:octocat:](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows) [:book:](./citations/bonet2025flowing.txt)
 + [Information-Guided Diffusion Sampling for Dataset Distillation](https://arxiv.org/abs/2507.04619) (Linfeng Ye et al., NeurIPS 2025 Workshop) [:book:](./citations/ye2025igds.txt)
 + [A Discrepancy-Based Perspective on Dataset Condensation](https://arxiv.org/abs/2509.10367) (Tong Chen et al., 2025) [:book:](./citations/chen2025discrepancy.txt)
 + [Understanding Dataset Distillation via Spectral Filtering](https://arxiv.org/abs/2503.01212) (Deyu Bo et al., ICLR 2026) [:book:](./citations/bo2026unidd.txt)
