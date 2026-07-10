@@ -1,0 +1,6 @@
+@inproceedings{shang2026cim,
+  title={Condensing Large-Scale Datasets Directly with Minimal Information Loss},
+  author={Shang, Xinyi and Sun, Peng and Shi, Bei and Wang, Zixuan and Lin, Tao},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
