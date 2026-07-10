@@ -1,0 +1,7 @@
+@inproceedings{bonet2025flowing,
+  title={Flowing Datasets with {W}asserstein over {W}asserstein Gradient Flows},
+  author={Bonet, Cl{'e}ment and Vauthier, Christophe and Korba, Anna},
+  booktitle={Proceedings of the 42nd International Conference on Machine Learning (ICML)},
+  pages={4911--4967},
+  year={2025}
+}
