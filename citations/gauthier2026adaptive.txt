@@ -1,0 +1,6 @@
+@inproceedings{gauthier2026adaptive,
+  title={Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation},
+  author={Gauthier-Villars, Arth{\`e}me and Ding, Guodong and Yao, Angela},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
