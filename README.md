@@ -26,16 +26,13 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [2026/07/08] [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al., ECCV 2026) [:globe_with_meridians:](https://andyj1.github.io/raha/) [:octocat:](https://github.com/andyj1/raha) [:book:](./citations/jeong2026raha.txt)
 + [2026/07/08] [Structural Assessment for Understanding and Guiding Dataset Distillation in Discrete Token Space](https://arxiv.org/abs/2606.21705) (Yue Cao et al., ECCV 2026) [:book:](./citations/cao2026structural.txt)
 + [2026/07/08] [Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation](https://arxiv.org/abs/2606.20196) (Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) [:octocat:](https://github.com/blue-531/DOALL) [:book:](./citations/jang2026doall.txt)
-+ [2026/07/08] [Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](https://arxiv.org/abs/2606.18209) (Trisha Mittal & Akshay Mehra et al., 2026) [:book:](./citations/mittal2026rethinking.txt)
 + [2026/07/07] [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://arxiv.org/abs/2512.15647) (Jiacheng Cui et al., ICML 2026) [:octocat:](https://github.com/Jiacheng8/HALD) [:book:](./citations/cui2026hard.txt)
 + [2026/07/07] [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](https://openreview.net/forum?id=i8FO7f2OYJ) (Wei Shao et al., ICML 2026) [:octocat:](https://github.com/ZJU-DAILY/UniTSC) [:book:](./citations/shao2026unitsc.txt)
 + [2026/07/07] [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](https://openreview.net/forum?id=5YvTHX0QS9) (Mingyu Wang et al., ICML 2026) [:book:](./citations/protovar2026.txt)
 + [2026/07/07] [Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws](https://openreview.net/forum?id=wbXPNPw5jW) (Zhengquan Luo et al., ICML 2026) [:book:](./citations/luo2026utility.txt)
 + [2026/07/07] [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/forum?id=Yh4dMR5mJ0) (Deyu Bo et al., ICML 2026) [:octocat:](https://github.com/bdy9527/MMDD) [:book:](./citations/bo2026apm.txt)
-+ [2026/07/07] [GeoDM: Geometry-aware Distribution Matching for Dataset Distillation](https://arxiv.org/abs/2512.08317) (Xuhui Li et al., ICML 2026) [:book:](./citations/li2026geodm.txt)
 + [2026/07/07] [Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors](https://openreview.net/forum?id=g4BWfkULIo) (Hang Ren et al., ICML 2026) [:book:](./citations/ren2026attention.txt)
 + [2026/07/07] [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://openreview.net/forum?id=onosLtwoiK) (Ziang Gan et al., ICML 2026) [:octocat:](https://github.com/tade1s/SCG) [:book:](./citations/gan2026scg.txt)
-+ [2026/07/07] [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) [:book:](./citations/cui2026gadc.txt)
 
 ## Contents
 - [Main](#main)
