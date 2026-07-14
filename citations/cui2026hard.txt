@@ -1,6 +1,6 @@
-@article{cui2025hard,
+@inproceedings{cui2026hard,
   title={Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift},
   author={Cui, Jiacheng and Tong, Bingkui and Bi, Xinyue and Zhao, Xiaohan and Liu, Jiacheng and Shen, Zhiqiang},
-  journal={arXiv preprint arXiv:2512.15647},
-  year={2025}
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
+  year={2026}
 }
