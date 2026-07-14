@@ -21,6 +21,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Latest Updates
 + [2026/07/08] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:globe_with_meridians:](https://guang000.github.io/FD2-Webpage/) [:octocat:](https://github.com/Guang000/FD2) [:book:](./citations/ma2026fd2.txt)
++ [2026/07/08] [Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation](https://arxiv.org/abs/2607.09081) (Arthème Gauthier-Villars & Guodong Ding et al., ECCV 2026) [:book:](./citations/gauthier2026adaptive.txt)
 + [2026/07/08] [Condensing Large-Scale Datasets Directly with Minimal Information Loss](https://arxiv.org/abs/2607.00916) (Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) [:octocat:](https://github.com/LINs-lab/CIM) [:book:](./citations/shang2026cim.txt)
 + [2026/07/08] [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al., ECCV 2026) [:globe_with_meridians:](https://andyj1.github.io/raha/) [:octocat:](https://github.com/andyj1/raha) [:book:](./citations/jeong2026raha.txt)
 + [2026/07/08] [Structural Assessment for Understanding and Guiding Dataset Distillation in Discrete Token Space](https://arxiv.org/abs/2606.21705) (Yue Cao et al., ECCV 2026) [:book:](./citations/cao2026structural.txt)
@@ -548,6 +549,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Latent Video Dataset Distillation](https://arxiv.org/abs/2504.17132) (Ning Li et al., CVPR 2025 Workshop) [:octocat:](https://github.com/liningresearch/Latent_Video_Dataset_Distillation) [:book:](./citations/li2025latent.txt)
 + [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
 + [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](https://arxiv.org/abs/2505.22564) (Jaehyun Choi et al., CVPR 2026) [:book:](./citations/choi2026prism.txt)
++ [Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation](https://arxiv.org/abs/2607.09081) (Arthème Gauthier-Villars & Guodong Ding et al., ECCV 2026) [:book:](./citations/gauthier2026adaptive.txt)
 
 <a name="tabular" />
 
