@@ -20,6 +20,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + :book: `bibtex`
 
 ## Latest Updates
++ [2026/07/14] [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://arxiv.org/abs/2512.15647) (Jiacheng Cui et al., ICML 2026) [:book:](./citations/haldICML2026.txt)
 + [2026/07/08] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:globe_with_meridians:](https://guang000.github.io/FD2-Webpage/) [:octocat:](https://github.com/Guang000/FD2) [:book:](./citations/ma2026fd2.txt)
 + [2026/07/08] [Condensing Large-Scale Datasets Directly with Minimal Information Loss](https://arxiv.org/abs/2607.00916) (Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) [:octocat:](https://github.com/LINs-lab/CIM) [:book:](./citations/shang2026cim.txt)
 + [2026/07/08] [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al., ECCV 2026) [:globe_with_meridians:](https://andyj1.github.io/raha/) [:octocat:](https://github.com/andyj1/raha) [:book:](./citations/jeong2026raha.txt)
@@ -310,7 +311,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Balanced_Dataset_Distillation_via_Modeling_Multiple_Visual_Pattern_Distribution_CVPR_2026_paper.html) (Guanghui Shi et al., CVPR 2026) [:octocat:](https://github.com/BeCarefulOfYournaoke/BPS) [:book:](./citations/shi2026bps.txt)
 + [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Beyond_Soft_Label_Dataset_Distillation_via_Orthogonal_Gradient_Matching_CVPR_2026_paper.html) (Deyu Bo et al., CVPR 2026) [:book:](./citations/bo2026ogm.txt)
 + [Condensing Large-Scale Datasets Directly with Minimal Information Loss](https://arxiv.org/abs/2607.00916) (Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) [:octocat:](https://github.com/LINs-lab/CIM) [:book:](./citations/shang2026cim.txt)
-
++ [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift]([https://arxiv.org/abs/2506.24125](https://arxiv.org/abs/2512.15647)) (Jiacheng Cui et al., ICML 2026) [:octocat:](https://github.com/Jiacheng8/HALD) [:book:](./citations/haldICML2026.txt)
 <a name="multi" />
 
 ### Multimodal Distillation
