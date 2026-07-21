@@ -240,7 +240,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Not All Samples Should Be Utilized Equally: Towards Understanding and Improving Dataset Distillation](https://arxiv.org/abs/2408.12483) (Shaobo Wang et al., CVPR 2025 Workshop) [:book:](./citations/wang2025samples.txt)
 + [Beyond Random: Automatic Inner-loop Optimization in Dataset Distillation](https://arxiv.org/abs/2510.04838) (Muquan Li et al., NeurIPS 2025) [:book:](./citations/li2025bptt.txt)
 + [Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681) (Hongye Tan et al., ICLR 2026) [:book:](./citations/tan2026optimal.txt)
-+ [Dataset Distillation by Influence Matching](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html) (Haoru Tan & Wang Wang et al., CVPR 2026) [:octocat:](https://github.com/hrtan/infmatch) [:book:](./citations/tan2026infmatch.txt)
++ [Dataset Distillation by Influence Matching](https://arxiv.org/abs/2607.16859) (Haoru Tan & Wang Wang et al., CVPR 2026) [:octocat:](https://github.com/hrtan/infmatch) [:book:](./citations/tan2026infmatch.txt)
 
 
 <a name="understanding" />
