@@ -924,7 +924,7 @@
         "title": "Dataset Distillation by Influence Matching",
         "author": "Haoru Tan & Wang Wang et al., CVPR 2026",
         "github": "https://github.com/hrtan/infmatch ",
-        "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html",
+        "url": "https://arxiv.org/abs/2607.16859",
         "cite": "tan2026infmatch",
         "website": null
       }
@@ -987,6 +987,14 @@
         "website": null
       },
       {
+        "title": "Flowing Datasets with Wasserstein over Wasserstein Gradient Flows",
+        "author": "Cl\u00e9ment Bonet & Christophe Vauthier et al., ICML 2025",
+        "github": "https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows ",
+        "url": "https://arxiv.org/abs/2506.07534",
+        "cite": "bonet2025flowing",
+        "website": null
+      },
+      {
         "title": "Information-Guided Diffusion Sampling for Dataset Distillation",
         "author": "Linfeng Ye et al., NeurIPS 2025 Workshop",
         "github": null,
@@ -1019,14 +1027,6 @@
         "website": null
       },
       {
-        "title": "Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks",
-        "author": "Yuri Kinoshita et al., 2026",
-        "github": null,
-        "url": "https://arxiv.org/abs/2603.14830",
-        "cite": "kinoshita2026lowdim",
-        "website": null
-      },
-      {
         "title": "Rethinking Dataset Distillation: Hard Truths about Soft Labels",
         "author": "Priyam Dey & Aditya Sahdev et al., CVPR 2026",
         "github": null,
@@ -1035,11 +1035,35 @@
         "website": null
       },
       {
+        "title": "Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks",
+        "author": "Yuri Kinoshita et al., ICML 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2603.14830",
+        "cite": "kinoshita2026lowdim",
+        "website": null
+      },
+      {
         "title": "Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws",
         "author": "Zhengquan Luo et al., ICML 2026",
         "github": null,
         "url": "https://openreview.net/forum?id=wbXPNPw5jW",
         "cite": "luo2026utility",
+        "website": null
+      },
+      {
+        "title": "Structural Assessment for Understanding and Guiding Dataset Distillation in Discrete Token Space",
+        "author": "Yue Cao et al., ECCV 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2606.21705",
+        "cite": "cao2026structural",
+        "website": null
+      },
+      {
+        "title": "Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?",
+        "author": "Trisha Mittal & Akshay Mehra et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2606.18209",
+        "cite": "mittal2026rethinking",
         "website": null
       }
     ],
@@ -1311,6 +1335,22 @@
         "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Beyond_Soft_Label_Dataset_Distillation_via_Orthogonal_Gradient_Matching_CVPR_2026_paper.html",
         "cite": "bo2026ogm",
         "website": null
+      },
+      {
+        "title": "Condensing Large-Scale Datasets Directly with Minimal Information Loss",
+        "author": "Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026",
+        "github": "https://github.com/LINs-lab/CIM ",
+        "url": "https://arxiv.org/abs/2607.00916",
+        "cite": "shang2026cim",
+        "website": null
+      },
+      {
+        "title": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
+        "author": "Jiacheng Cui et al., ICML 2026",
+        "github": "https://github.com/Jiacheng8/HALD ",
+        "url": "https://arxiv.org/abs/2512.15647",
+        "cite": "cui2026hard",
+        "website": null
       }
     ],
     "multimodal": [
@@ -1418,6 +1458,14 @@
         "url": "https://openreview.net/forum?id=Yh4dMR5mJ0",
         "cite": "bo2026apm",
         "website": null
+      },
+      {
+        "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
+        "author": "Jongoh Jeong et al., ECCV 2026",
+        "github": "https://github.com/andyj1/raha ",
+        "url": "https://arxiv.org/abs/2606.29464",
+        "cite": "jeong2026raha",
+        "website": "https://andyj1.github.io/raha/ "
       }
     ],
     "self": [
@@ -2514,6 +2562,14 @@
         "url": "https://arxiv.org/abs/2505.22564",
         "cite": "choi2026prism",
         "website": null
+      },
+      {
+        "title": "Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation",
+        "author": "Arth\u00e8me Gauthier-Villars & Guodong Ding et al., ECCV 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2607.09081",
+        "cite": "gauthier2026adaptive",
+        "website": null
       }
     ],
     "tabular": [
@@ -2866,6 +2922,16 @@
         "github": null,
         "url": "https://arxiv.org/abs/2603.25144",
         "cite": "ma2026fd2",
+        "website": null
+      }
+    ],
+    "tta":[
+      {
+        "title": "Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
+        "author": "Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026",
+        "github": "https://github.com/blue-531/DOALL ",
+        "url": "https://arxiv.org/abs/2606.20196",
+        "cite": "jang2026doall",
         "website": null
       }
     ],

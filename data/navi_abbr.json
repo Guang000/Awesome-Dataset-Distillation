@@ -59,5 +59,6 @@
   "dr": "Deraining",
   "_var": "VAR",
   "fine": "Fine-grained",
+  "tta": "Test-Time Adaptation",
   "segmentation": "Semantic Segmentation"
 }

@@ -4,8 +4,15 @@ def main():
     with open("./data/update.txt", "r", encoding="utf-8") as f:
         records = [line.strip() for line in f]
     for record in records:
-        location = record.split('-*-')[0]
-        record = record.split('-*-')[1].replace(')', '')
+        if record == "":
+            continue
+        contents = record.split('-*-')
+        location = contents[0]
+        if len(contents) == 1:
+            print(location)
+            print("skip\n")
+            continue
+        record = contents[1].replace(')', '')
         if not record.startswith('['):
             print(f"{location}\n{record}\n")
             continue
