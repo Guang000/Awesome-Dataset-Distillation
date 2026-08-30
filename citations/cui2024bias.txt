@@ -1,6 +1,6 @@
 @inproceedings{cui2024bias,
   title={Mitigating Bias in Dataset Distillation}, 
-  author={Cui, Justin andn Wang, Ruoche and Xiong, Yuanhao and Hsieh, Cho-Jui},
+  author={Cui, Justin and Wang, Ruoche and Xiong, Yuanhao and Hsieh, Cho-Jui},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
   year={2024}
 }
