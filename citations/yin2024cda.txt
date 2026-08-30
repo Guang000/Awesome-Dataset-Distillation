@@ -1,5 +1,5 @@
 @article{yin2024cda,
-  title={Dataset Distillation in Large Data Era, 
+  title={Dataset Distillation in Large Data Era}, 
   author={Yin, Zeyuan and Shen, Zhiqiang},
   journal={Transactions on Machine Learning Research},
   year={2024}
