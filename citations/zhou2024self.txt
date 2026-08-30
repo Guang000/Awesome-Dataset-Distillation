@@ -1,5 +1,5 @@
 @article{zhou2024self,
-  title={https://arxiv.org/abs/2404.07976},
+  title={Self-supervised Dataset Distillation: A Good Compression Is All You Need},
   author={Zhou, Muxin and Yin, Zeyuan and Shao, Shitong and Shen, Zhiqiang},
   journal={arXiv preprint arXiv:2404.07976},
   year={2024}
