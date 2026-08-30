@@ -1,6 +1,6 @@
 @article{wang2024drupi,
   title={{DRUPI}: Dataset Reduction Using Privileged Information}, 
   author={Wang, Shaobo and Yang, Yantai and Zhang, Shuaiyu and Sun, Chenghao and Li, Weiya and Hu, Xuming and Zhang, Linfeng},
-  journal={arXiv preprint arXiv:2408.09709},
+  journal={arXiv preprint arXiv:2410.01611},
   year={2024}
 }
