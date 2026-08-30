@@ -1,5 +1,5 @@
 @inproceedings{shao2024edc,
-  title={Elucidating the Design Space of Dataset Condensation, 
+  title={Elucidating the Design Space of Dataset Condensation}, 
   author={Shao, Shitong and Zhou, Zikai and Chen, Huanran and Shen, Zhiqiang},
   booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
