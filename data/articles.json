@@ -343,8 +343,8 @@
         "title": "On Divergence Measures for Bayesian Pseudocoresets",
         "author": "Balhae Kim et al., NeurIPS 2022",
         "github": "https://github.com/balhaekim/bpc-divergences",
-        "url": "kim2022divergence",
-        "cite": "https://arxiv.org/abs/2210.06205",
+        "url": "https://arxiv.org/abs/2210.06205",
+        "cite": "kim2022divergence",
         "website": null
       },
       {
@@ -367,8 +367,8 @@
         "title": "Dataset Condensation with Latent Space Knowledge Factorization and Sharing",
         "author": "Hae Beom Lee & Dong Bok Lee et al., 2022",
         "github": null,
-        "url": "lee2022kfs",
-        "cite": "https://arxiv.org/abs/2208.10494",
+        "url": "https://arxiv.org/abs/2208.10494",
+        "cite": "lee2022kfs",
         "website": null
       },
       {
@@ -796,8 +796,8 @@
         "title": "Can Pre-Trained Models Assist in Dataset Distillation?",
         "author": "Yao Lu et al., 2023",
         "github": "https://github.com/yaolu-zjut/DDInterpreter",
-        "url": "lu2023pre",
-        "cite": "https://arxiv.org/abs/2310.03295",
+        "url": "https://arxiv.org/abs/2310.03295",
+        "cite": "lu2023pre",
         "website": null
       },
       {
@@ -1228,8 +1228,8 @@
         "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment",
         "author": "Jiawei Du et al., NeurIPS 2024",
         "github": "https://github.com/AngusDujw/Diversity-Driven-Synthesis",
-        "url": "du2024diversity",
-        "cite": "https://arxiv.org/abs/2409.17612",
+        "url": "https://arxiv.org/abs/2409.17612",
+        "cite": "du2024diversity",
         "website": null
       },
       {
@@ -1599,7 +1599,7 @@
         "author": "Shiye Lei et al., TPAMI 2023",
         "github": "https://github.com/Guang000/Awesome-Dataset-Distillation",
         "url": "https://arxiv.org/abs/2301.05603",
-        "cite": "nooralinejad2022pranc",
+        "cite": "lei2023survey",
         "website": null
       },
       {
@@ -1744,8 +1744,8 @@
       },
       {
         "title": "Backdoor Attacks Against Dataset Distillation",
-        "author": "https://github.com/liuyugeng/baadd",
-        "github": "Yugeng Liu et al., NDSS 2023",
+        "author": "Yugeng Liu et al., NDSS 2023",
+        "github": "https://github.com/liuyugeng/baadd",
         "url": "https://arxiv.org/abs/2301.01197",
         "cite": "liu2023backdoor",
         "website": null
@@ -1770,8 +1770,8 @@
         "title": "Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective",
         "author": "Ming-Yu Chung et al., ICLR 2024",
         "github": null,
-        "url": "chung2024backdoor",
-        "cite": "https://arxiv.org/abs/2311.16646",
+        "url": "https://arxiv.org/abs/2311.16646",
+        "cite": "chung2024backdoor",
         "website": null
       },
       {
@@ -2196,8 +2196,8 @@
         "title": "A Survey on Graph Condensation",
         "author": "Hongjia Xu et al., 2024",
         "github": "https://github.com/Frostland12138/Awesome-Graph-Condensation",
-        "url": "xu2024survey",
-        "cite": "https://arxiv.org/abs/2402.02000",
+        "url": "https://arxiv.org/abs/2402.02000",
+        "cite": "xu2024survey",
         "website": null
       },
       {
@@ -2240,8 +2240,8 @@
         "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data",
         "author": "Felipe Petroski Such et al., ICML 2020",
         "github": null,
-        "url": "such2020generative",
-        "cite": "https://arxiv.org/abs/1912.07768",
+        "url": "https://arxiv.org/abs/1912.07768",
+        "cite": "such2020generative",
         "website": null
       },
       {
