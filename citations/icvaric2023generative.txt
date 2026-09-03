@@ -1,0 +1,7 @@
+@mastersthesis{cicvaric2023generative,
+  title={Generative Dataset Distillation},
+  author={Cicvari{\'c}, Jovan},
+  school={University of T{\"u}bingen},
+  type={Master's thesis},
+  year={2023}
+}
