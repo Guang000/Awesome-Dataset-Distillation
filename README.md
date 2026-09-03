@@ -51,7 +51,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Self-Supervised Distillation](#self)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
-  - [Ph.D. Thesis](#thesis)
+  - [Thesis](#thesis)
   - [Workshop](#workshop)
   - [Challenge](#challenge)
 - [Applications](#applications)
@@ -364,7 +364,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 <a name="thesis" />
 
-### Ph.D. Thesis
+### Thesis
 + [Data-efficient Neural Network Training with Dataset Condensation](https://era.ed.ac.uk/handle/1842/39756) (Bo Zhao, The University of Edinburgh 2023) [:book:](./citations/zhao2023thesis.txt)
 + [Generative Dataset Distillation](https://jcicvaric.com/assets/Cicvaric2023.pdf) (Jovan Cicvarić, University of Tübingen 2023) [:book:](./citations/cicvaric2023generative.txt)
 
