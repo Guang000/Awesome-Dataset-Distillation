@@ -1,0 +1,7 @@
+@article{shang2025dataset,
+  title={Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions},
+  author={Shang, Xinyi and Sun, Peng and Shen, Zhiqiang and Lin, Tao and Xue, Jing-Hao},
+  journal={TechRxiv},
+  year={2025},
+  doi={10.36227/techrxiv.174785525.52679852}
+}
