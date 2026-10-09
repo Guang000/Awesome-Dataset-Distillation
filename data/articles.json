@@ -356,14 +356,6 @@
         "website": null
       },
       {
-        "title": "PRANC: Pseudo RAndom Networks for Compacting Deep Models",
-        "author": "Parsa Nooralinejad et al., 2022",
-        "github": "https://github.com/UCDvision/PRANC",
-        "url": "https://arxiv.org/abs/2206.08464",
-        "cite": "nooralinejad2022pranc",
-        "website": null
-      },
-      {
         "title": "Dataset Condensation with Latent Space Knowledge Factorization and Sharing",
         "author": "Hae Beom Lee & Dong Bok Lee et al., 2022",
         "github": null,
@@ -377,6 +369,14 @@
         "github": null,
         "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Slimmable_Dataset_Condensation_CVPR_2023_paper.html",
         "cite": "liu2023slimmable",
+        "website": null
+      },
+      {
+        "title": "PRANC: Pseudo RAndom Networks for Compacting Deep Models",
+        "author": "Parsa Nooralinejad et al., ICCV 2023",
+        "github": "https://github.com/UCDvision/PRANC ",
+        "url": "https://arxiv.org/abs/2206.08464",
+        "cite": "nooralinejad2023pranc",
         "website": null
       },
       {
@@ -803,9 +803,9 @@
       {
         "title": "DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching",
         "author": "Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023",
-        "github": "https://github.com/lyq312318224/DREAM",
+        "github": "https://github.com/lyq312318224/DREAM ",
         "url": "https://arxiv.org/abs/2310.15052",
-        "cite": "liu2023dream+",
+        "cite": "liu2023dreamplus",
         "website": null
       },
       {
@@ -1617,15 +1617,31 @@
         "url": "https://arxiv.org/abs/2502.05673",
         "cite": "liu2025survey",
         "website": null
+      },
+      {
+        "title": "Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions",
+        "author": "Xinyi Shang et al., 2025",
+        "github": null,
+        "url": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.174785525.52679852/v1",
+        "cite": "shang2025dataset",
+        "website": null
       }
     ],
-    "phd": [
+    "thesis": [
       {
         "title": "Data-efficient Neural Network Training with Dataset Condensation",
         "author": "Bo Zhao, The University of Edinburgh 2023",
         "github": null,
         "url": "https://era.ed.ac.uk/handle/1842/39756",
         "cite": "zhao2023thesis",
+        "website": null
+      },
+      {
+        "title": "Generative Dataset Distillation",
+        "author": "Jovan Cicvari\u0107, University of T\u00fcbingen 2023",
+        "github": null,
+        "url": "https://jcicvaric.com/assets/Cicvaric2023.pdf",
+        "cite": "cicvaric2023generative",
         "website": null
       }
     ],
