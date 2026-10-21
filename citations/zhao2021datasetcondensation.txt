@@ -1,6 +1,6 @@
 @inproceedings{zhao2021datasetcondensation,
   title={Dataset Condensation with Gradient Matching},
-  author={Zhao, Bo and Bilen, Hakan},
+  author={Zhao, Bo and Mopuriand, Konda Reddy and Bilen, Hakan},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
   year={2021}
 }
