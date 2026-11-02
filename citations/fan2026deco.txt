@@ -1,0 +1,6 @@
+@inproceedings{fan2026deco,
+  title={{DeCO}: Discriminative Evidence Composition for Fine-Grained Dataset Distillation},
+  author={Fan, Chuixuan and Li, Guang and Wang, Shijie and Zhou, Dongzhan and Sun, Baoli and Ogawa, Takahiro and Haseyama, Miki and Wang, Zhihui},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS), Workshop},
+  year={2026}
+}
