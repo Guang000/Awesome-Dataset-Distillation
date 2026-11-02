@@ -1,0 +1,7 @@
+@inproceedings{lee2024deep,
+  title={Deep Support Vectors},
+  author={Lee, Junhoo and Lee, Hyunho and Hwang, Kyomin and Kwak, Nojun},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2024},
+  url={https://arxiv.org/abs/2403.17329}
+}
