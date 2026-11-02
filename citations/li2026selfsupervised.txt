@@ -1,0 +1,6 @@
+@article{li2026selfsupervised,
+  title={Self-Supervised Representation-Guided Generative Dataset Distillation},
+  author={Li, Mingzhuo and Li, Guang and Ye, Linfeng and Mao, Jiafeng and Ogawa, Takahiro and Plataniotis, Konstantinos N. and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2608.03218},
+  year={2026}
+}
