@@ -1,0 +1,6 @@
+@article{li2026composition,
+  title={The Composition Gap in Dataset Distillation},
+  author={Li, Guang and Ogawa, Takahiro and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2609.34343},
+  year={2026}
+}
