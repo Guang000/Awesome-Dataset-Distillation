@@ -1,0 +1,6 @@
+@inproceedings{yu2026flashdd,
+  title={{Flash-DD}: An Ultra Parameter-Efficient Approach to Dataset Distillation},
+  author={Yu, Ruonan and Liu, Songhua and Wang, Xinchao},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
