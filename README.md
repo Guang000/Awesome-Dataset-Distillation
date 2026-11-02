@@ -686,7 +686,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 <a name="motion" />
 
 ### Human Motion
-+ [Latent Dataset Distillation for Human Motion Prediction](https://arxiv.org/abs/2609.26430) (Ge Tian et al., 2026) [:book:](./citations/tian2026latent.txt)
++ [Latent Dataset Distillation for Human Motion Prediction](https://arxiv.org/abs/2609.26430) (Ge Tian & Guang Li et al., 2026) [:book:](./citations/tian2026latent.txt)
 + [ProMoDD: Dataset Distillation for 3D Human Motion via Prototype-Conditioned Diffusion Models](https://arxiv.org/abs/2610.16134) (Yijin Wei et al., 2026) [:book:](./citations/wei2026promodd.txt)
 
 ## Media Coverage
