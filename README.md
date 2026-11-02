@@ -346,7 +346,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/abs/2411.09265) (Zheng Zhou et al., 2024) [:globe_with_meridians:](https://beard-leaderboard.github.io/) [:octocat:](https://github.com/zhouzhengqd/BEARD/) [:book:](./citations/zhou2024beard.txt)
 + [DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation](https://arxiv.org/abs/2403.13322) (Yifan Wu et al., TIP 2025) [:octocat:](https://github.com/FredWU-HUST/DD-RobustBench) [:book:](./citations/wu2025robust.txt)
 + [Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation](https://arxiv.org/abs/2509.19743) (Xinhao Zhong et al., ICLR 2026) [:book:](./citations/zhong2026rd3.txt)
-+ [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://arxiv.org/abs/2505.13300) (Zekai Li & Xinhao Zhong et al., NeurIPS 2026) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2025ranking.txt)
++ [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://arxiv.org/abs/2505.13300) (Zekai Li & Xinhao Zhong et al., NeurIPS 2026) [:globe_with_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) [:book:](./citations/li2026ranking.txt)
 
 <a name="survey" />
 
