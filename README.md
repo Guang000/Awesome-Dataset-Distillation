@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-368-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-370-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -261,6 +261,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws](https://openreview.net/forum?id=wbXPNPw5jW) (Zhengquan Luo et al., ICML 2026) [:book:](./citations/luo2026utility.txt)
 + [Structural Assessment for Understanding and Guiding Dataset Distillation in Discrete Token Space](https://arxiv.org/abs/2606.21705) (Yue Cao et al., ECCV 2026) [:book:](./citations/cao2026structural.txt)
 + [Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](https://arxiv.org/abs/2606.18209) (Trisha Mittal & Akshay Mehra et al., NeurIPS 2026) [:book:](./citations/mittal2026rethinking.txt)
++ [The Composition Gap in Dataset Distillation](https://arxiv.org/abs/2609.34343) (Guang Li et al., arXiv 2026) [:book:](./citations/li2026composition.txt)
 
 <a name="label" />
 
@@ -309,6 +310,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://arxiv.org/abs/2512.15647) (Jiacheng Cui et al., ICML 2026) [:octocat:](https://github.com/Jiacheng8/HALD) [:book:](./citations/cui2026hard.txt)
 + [Condensing Large-Scale Datasets Directly with Minimal Information Loss](https://arxiv.org/abs/2607.00916) (Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) [:octocat:](https://github.com/LINs-lab/CIM) [:book:](./citations/shang2026cim.txt)
 + [Flash-DD: An Ultra Parameter-Efficient Approach to Dataset Distillation](https://link.springer.com/chapter/10.1007/978-3-032-37086-0_30) (Ruonan Yu et al., ECCV 2026) [:book:](./citations/yu2026flashdd.txt)
++ [PSM: Dataset Distillation Based on Precise Statistical Matching by Difficulty](https://arxiv.org/abs/2609.34299) (Hongxu Ma & Guang Li et al., arXiv 2026) [:book:](./citations/ma2026psm.txt)
 
 <a name="multi" />
 
