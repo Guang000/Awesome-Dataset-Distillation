@@ -1,6 +1,6 @@
-@article{peng2026clpdd,
+@inproceedings{peng2026clpdd,
   title={Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models},
   author={Peng, Bincheng and Li, Guang and Liu, Ping and Ogawa, Takahiro and Haseyama, Miki},
-  journal={arXiv preprint arXiv:2605.07194},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
   year={2026}
 }
