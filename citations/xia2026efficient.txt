@@ -1,0 +1,6 @@
+@inproceedings{xia2026efficient,
+  title={Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching},
+  author={Xia, Qianxin and Du, Jiawei and Zhang, Yuhan and Zhang, Xin and He, Xuewan and Jiang, Wenbo and Wang, Jielei and Luo, Tao and Lu, Guoming},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2026}
+}
