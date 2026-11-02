@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-362-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-368-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -84,6 +84,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   - [Fine-Grained](#fine)
   - [Test-Time Adaptation](#tta)
   - [Semantic Segmentation](#segmentation)
+  - [Human Motion](#motion)
 <a name="main" />
 
 ## Main
@@ -340,6 +341,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe_with_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) [:book:](./citations/cazenavette2025dataset.txt)
 + [Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching](https://arxiv.org/abs/2602.05391) (Qianxin Xia et al., NeurIPS 2026) [:octocat:](https://github.com/einsteinxia/SFM) [:book:](./citations/xia2026efficient.txt)
 + [Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models](https://arxiv.org/abs/2605.07194) (Bincheng Peng & Guang Li et al., NeurIPS 2026) [:globe_with_meridians:](https://guang000.github.io/CLP-DD-Webpage/) [:octocat:](https://github.com/Guang000/CLP-DD) [:book:](./citations/peng2026clpdd.txt)
++ [Self-Supervised Representation-Guided Generative Dataset Distillation](https://arxiv.org/abs/2608.03218) (Mingzhuo Li & Guang Li et al., arXiv 2026) [:book:](./citations/li2026selfsupervised.txt)
 
 <a name="benchmark" />
 
@@ -548,6 +550,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Distill Video Datasets into Images](https://arxiv.org/abs/2512.14621) (Zhenghao Zhao et al., 2025) [:book:](./citations/zhao2025video.txt)
 + [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](https://arxiv.org/abs/2505.22564) (Jaehyun Choi et al., CVPR 2026) [:book:](./citations/choi2026prism.txt)
 + [Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation](https://arxiv.org/abs/2607.09081) (Arthème Gauthier-Villars & Guodong Ding et al., ECCV 2026) [:book:](./citations/gauthier2026adaptive.txt)
++ [Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending](https://arxiv.org/abs/2608.03269) (Chongle Ren & Guang Li et al., arXiv 2026) [:book:](./citations/ren2026efficient.txt)
 
 <a name="tabular" />
 
@@ -667,17 +670,24 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Fine-grained
 + [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:book:](./citations/ma2026fd2.txt)
++ [DeCO: Discriminative Evidence Composition for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2608.25480) (Chuixuan Fan & Guang Li et al., NeurIPS 2026 Workshop) [:book:](./citations/fan2026deco.txt)
 
-<a name="segmentation" />
+<a name="tta" />
 
 ### Test-Time Adaptation
 + [Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation](https://arxiv.org/abs/2606.20196) (Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) [:octocat:](https://github.com/blue-531/DOALL) [:book:](./citations/jang2026doall.txt)
+
+<a name="segmentation" />
 
 ### Semantic Segmentation
 + [D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., NeurIPS 2026) [:book:](./citations/zheng2026d3s2.txt)
 + [S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation](https://arxiv.org/abs/2610.35491) (Haoyu Wang et al., NeurIPS 2026) [:globe_with_meridians:](https://00why00.github.io/S2RL/) [:octocat:](https://github.com/00why00/S2RL) [:book:](./citations/wang2026s2rl.txt)
 
-<a name="tta" />
+<a name="motion" />
+
+### Human Motion
++ [Latent Dataset Distillation for Human Motion Prediction](https://arxiv.org/abs/2609.26430) (Ge Tian et al., 2026) [:book:](./citations/tian2026latent.txt)
++ [ProMoDD: Dataset Distillation for 3D Human Motion via Prototype-Conditioned Diffusion Models](https://arxiv.org/abs/2610.16134) (Yijin Wei et al., 2026) [:book:](./citations/wei2026promodd.txt)
 
 ## Media Coverage
 + [Beginning of Awesome Dataset Distillation](https://twitter.com/TongzhouWang/status/1560043815204970497?cxt=HHwWgoCz9bPlsaYrAAAA)
