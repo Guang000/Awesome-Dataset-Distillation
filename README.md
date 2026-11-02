@@ -422,7 +422,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Multi-modal Vision Pre-training for Medical Image Analysis](https://arxiv.org/abs/2410.10604) (Shaohao Rui & Lingzhi Chen et al., CVPR 2025) [:octocat:](https://github.com/openmedlab/BrainMVP) [:book:](./citations/rui2025brain.txt)
 + [FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation](https://arxiv.org/abs/2506.15365) (Haolong Jin et al., MICCAI 2025) [:octocat:](https://github.com/f1oNae/FedWSIDD) [:book:](./citations/jin2025fedwsidd.txt)
 + [High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation](https://arxiv.org/abs/2509.24177) (Le Dong et al., MICCAI 2025) [:octocat:](https://github.com/Bian-jh/HoP-TM) [:book:](./citations/dong2025hop.txt)
-+ [Low-Level Dataset Distillation for Medical Image Enhancemen](https://arxiv.org/abs/2511.13106) (Fengzhi Xu et al., 2025) [:book:](./citations/xu2025low.txt)
++ [Low-Level Dataset Distillation for Medical Image Enhancemen](https://arxiv.org/abs/2511.13106) (Fengzhi Xu et al., ECCV 2026) [:book:](./citations/xu2026low.txt)
 + [Towards Data Quality-Aware Dataset Distillation in Bioimaging](https://www.scitepress.org/publishedPapers/2026/143417) (Bárbara Capelo et al., Bioimaging 2026) [:book:](./citations/capelo2026bioimaging.txt)
 
 <a name="fed" />
