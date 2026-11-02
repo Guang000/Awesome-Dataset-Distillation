@@ -1,0 +1,6 @@
+@article{wei2026promodd,
+  title={{ProMoDD}: Dataset Distillation for {3D} Human Motion via Prototype-Conditioned Diffusion Models},
+  author={Wei, Yijin and Zou, Yawen and Cai, Wenqi and Li, Guang and Ge, Hangli and Hotta, Katsuya and Gu, Chunzhi and Zhang, Chao},
+  journal={arXiv preprint arXiv:2610.16134},
+  year={2026}
+}
