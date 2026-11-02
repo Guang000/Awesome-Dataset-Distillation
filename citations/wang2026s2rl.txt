@@ -1,0 +1,6 @@
+@inproceedings{wang2026s2rl,
+  title={{S2-RL}: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation},
+  author={Wang, Haoyu and Zhou, Fei and Qiu, Qingqing and Zhang, Lei and Wei, Wei and Ding, Chen},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2026}
+}
