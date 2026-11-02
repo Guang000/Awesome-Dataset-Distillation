@@ -1,0 +1,6 @@
+@inproceedings{fang2026fragmented,
+  title={Fragmented Text is Insufficient for Image Representation: Fine-Grained Correspondence in Multimodal Dataset Distillation},
+  author={Fang, Jingwei and Hou, Yaxin and Han, Bo and Zhang, Xu and Liu, Hui and Hou, Junhui and Jia, Yuheng},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
