@@ -1,0 +1,7 @@
+@inproceedings{jebraeeli2024koopcon,
+  title={Koopcon: A new approach towards smarter and less complex learning},
+  author={Jebraeeli, Vahid and Jiang, Bo and Cansever, Derya and Krim, Hamid},
+  booktitle={IEEE International Conference on Image Processing (ICIP)},
+  pages={880--886},
+  year={2024}
+}
