@@ -1,0 +1,6 @@
+@article{ren2026efficient,
+  title={Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending},
+  author={Ren, Chongle and Li, Guang and Huang, Wenbo and Saito, Naoki and Ogawa, Takahiro and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2608.03269},
+  year={2026}
+}
