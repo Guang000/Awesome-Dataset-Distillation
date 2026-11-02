@@ -1,0 +1,6 @@
+@inproceedings{zhong2026towards,
+  title={Towards Consistent and Efficient Dataset Distillation via Diffusion-Driven Selection},
+  author={Zhong, Xinhao and Sun, Shuoyang and Xu, Zhaoyang and Gu, Xulin and Chen, Bin and Zhang, Min and Wang, Yaowei},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
