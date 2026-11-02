@@ -1,0 +1,6 @@
+@article{tian2026latent,
+  title={Latent Dataset Distillation for Human Motion Prediction},
+  author={Tian, Ge and Li, Guang and Ogawa, Takahiro and Haseyama, Miki},
+  journal={arXiv preprint arXiv:2609.26430},
+  year={2026}
+}
