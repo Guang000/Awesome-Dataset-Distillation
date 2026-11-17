@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-370-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-371-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -206,6 +206,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](https://arxiv.org/abs/2605.12649) (Qianxin Xia et al., ICML 2026) [:octocat:](https://github.com/einsteinxia/DIVER) [:book:](./citations/xia2026diver.txt)
 + [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://openreview.net/forum?id=onosLtwoiK) (Ziang Gan et al., ICML 2026) [:octocat:](https://github.com/tade1s/SCG) [:book:](./citations/gan2026scg.txt)
 + [Towards Consistent and Efficient Dataset Distillation via Diffusion-Driven Selection](https://arxiv.org/abs/2412.09959) (Xinhao Zhong et al., ECCV 2026) [:book:](./citations/zhong2026towards.txt)
++ [Disentangled Embedding Optimization for Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2611.16224) (Hongcheng Li et al., MM 2026) [:book:](./citations/li2026deo.txt)
 
 #### VAR
 + [HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](https://arxiv.org/abs/2603.06932) (Lin Zhao & Xinru Jiang et al., CVPR 2026) [:octocat:](https://github.com/Oshikaka/HIERAMP) [:book:](./citations/zhao2026hieramp.txt)

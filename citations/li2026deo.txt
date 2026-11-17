@@ -1,0 +1,11 @@
+@inproceedings{li2026deo,
+  title = {Disentangled Embedding Optimization for Diffusion-Based Dataset Distillation},
+  author = {Li, Hongcheng and Zhou, Yucan and Wang, Yibin and Gu, Xiaoyan and Li, Bo and Wang, Weiping},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+  series = {MM '26},
+  year = {2026},
+  publisher = {ACM},
+  pages = {4671--4680},
+  doi = {10.1145/3767308.3835115},
+  url = {https://doi.org/10.1145/3767308.3835115}
+}
