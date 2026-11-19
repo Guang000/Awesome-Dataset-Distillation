@@ -1,110 +1,60 @@
 {
-  "2026/07/08": [
+  "2026/11/02": [
     {
-      "title": "FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
-      "author": "Hongxu Ma & Guang Li et al., ECCV 2026",
+      "title": "S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+      "author": "Haoyu Wang et al., NeurIPS 2026",
+      "github": "https://github.com/00why00/S2RL ",
+      "url": "https://arxiv.org/abs/2610.35491",
+      "cite": "wang2026s2rl",
+      "website": "https://00why00.github.io/S2RL/ "
+    },
+    {
+      "title": "X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation",
+      "author": "Saumyaranjan Mohanty et al., NeurIPS 2026",
       "github": null,
-      "url": "https://arxiv.org/abs/2603.25144",
-      "cite": "ma2026fd2",
+      "url": "https://arxiv.org/abs/2610.13687",
+      "cite": "mohanty2026xavdd",
       "website": null
     },
     {
-      "title": "Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation",
-      "author": "Arthème Gauthier-Villars & Guodong Ding et al., ECCV 2026",
+      "title": "Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?",
+      "author": "Trisha Mittal & Akshay Mehra et al., NeurIPS 2026",
       "github": null,
-      "url": "https://arxiv.org/abs/2607.09081",
-      "cite": "gauthier2026adaptive",
+      "url": "https://arxiv.org/abs/2606.18209",
+      "cite": "mittal2026rethinking",
       "website": null
     },
     {
-      "title": "Condensing Large-Scale Datasets Directly with Minimal Information Loss",
-      "author": "Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026",
-      "github": "https://github.com/LINs-lab/CIM ",
-      "url": "https://arxiv.org/abs/2607.00916",
-      "cite": "shang2026cim",
-      "website": null
-    },
-    {
-      "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
-      "author": "Jongoh Jeong et al., ECCV 2026",
-      "github": "https://github.com/andyj1/raha ",
-      "url": "https://arxiv.org/abs/2606.29464",
-      "cite": "jeong2026raha",
-      "website": "https://andyj1.github.io/raha/ "
-    },
-    {
-      "title": "GeoDM: Geometry-aware Distribution Matching for Dataset Distillation",
-      "author": "Xuhui Li et al., ICML 2026",
+      "title": "D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation",
+      "author": "Wenjie Zheng et al., NeurIPS 2026",
       "github": null,
-      "url": "https://arxiv.org/abs/2512.08317",
-      "cite": "li2026geodm",
+      "url": "https://arxiv.org/abs/2605.25022",
+      "cite": "zheng2026d3s2",
       "website": null
     },
     {
-      "title": "Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
-      "author": "Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026",
-      "github": "https://github.com/blue-531/DOALL ",
-      "url": "https://arxiv.org/abs/2606.20196",
-      "cite": "jang2026doall",
-      "website": null
-    }
-  ],
-  "2026/07/07": [
+      "title": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+      "author": "Bincheng Peng & Guang Li et al., NeurIPS 2026",
+      "github": "https://github.com/Guang000/CLP-DD ",
+      "url": "https://arxiv.org/abs/2605.07194",
+      "cite": "peng2026clpdd",
+      "website": "https://guang000.github.io/CLP-DD-Webpage/ "
+    },
     {
-      "title": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
-      "author": "Jiacheng Cui et al., ICML 2026",
-      "github": "https://github.com/Jiacheng8/HALD ",
-      "url": "https://arxiv.org/abs/2512.15647",
-      "cite": "cui2026hard",
+      "title": "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching",
+      "author": "Qianxin Xia et al., NeurIPS 2026",
+      "github": "https://github.com/einsteinxia/SFM ",
+      "url": "https://arxiv.org/abs/2602.05391",
+      "cite": "xia2026efficient",
       "website": null
     },
     {
-      "title": "One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
-      "author": "Wei Shao et al., ICML 2026",
-      "github": "https://github.com/ZJU-DAILY/UniTSC ",
-      "url": "https://openreview.net/forum?id=i8FO7f2OYJ",
-      "cite": "shao2026unitsc",
-      "website": null
-    },
-    {
-      "title": "ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling",
-      "author": "Mingyu Wang et al., ICML 2026",
-      "github": null,
-      "url": "https://openreview.net/forum?id=5YvTHX0QS9",
-      "cite": "protovar2026",
-      "website": null
-    },
-    {
-      "title": "Utility Boundary of Dataset Distillation: Scaling and Configuration-Coverage Laws",
-      "author": "Zhengquan Luo et al., ICML 2026",
-      "github": null,
-      "url": "https://openreview.net/forum?id=wbXPNPw5jW",
-      "cite": "luo2026utility",
-      "website": null
-    },
-    {
-      "title": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
-      "author": "Deyu Bo et al., ICML 2026",
-      "github": "https://github.com/bdy9527/MMDD ",
-      "url": "https://openreview.net/forum?id=Yh4dMR5mJ0",
-      "cite": "bo2026apm",
-      "website": null
-    },
-    {
-      "title": "Attention Hijacking: Backdooring Text Dataset Distillation via Semantic Anchors",
-      "author": "Hang Ren et al., ICML 2026",
-      "github": null,
-      "url": "https://openreview.net/forum?id=g4BWfkULIo",
-      "cite": "ren2026attention",
-      "website": null
-    },
-    {
-      "title": "Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
-      "author": "Ziang Gan et al., ICML 2026",
-      "github": "https://github.com/tade1s/SCG ",
-      "url": "https://openreview.net/forum?id=onosLtwoiK",
-      "cite": "gan2026scg",
-      "website": null
+      "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+      "author": "Zekai Li & Xinhao Zhong et al., NeurIPS 2026",
+      "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking ",
+      "url": "https://arxiv.org/abs/2505.13300",
+      "cite": "li2026ranking",
+      "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/ "
     }
   ]
 }

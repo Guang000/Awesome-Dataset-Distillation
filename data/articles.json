@@ -216,6 +216,14 @@
         "website": null
       },
       {
+        "title": "Koopcon: A new approach towards smarter and less complex learning",
+        "author": "Vahid Jebraeeli et al., ICIP 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2405.13866",
+        "cite": "jebraeeli2024koopcon",
+        "website": null
+      },
+      {
         "title": "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective",
         "author": "Shaobo Wang et al., CVPR 2025",
         "github": "https://github.com/gszfwsb/NCFM",
@@ -729,6 +737,14 @@
         "url": "https://openreview.net/forum?id=onosLtwoiK",
         "cite": "gan2026scg",
         "website": null
+      },
+      {
+        "title": "Towards Consistent and Efficient Dataset Distillation via Diffusion-Driven Selection",
+        "author": "Xinhao Zhong et al., ECCV 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2412.09959",
+        "cite": "zhong2026towards",
+        "website": null
       }
     ],
     "_var": [
@@ -979,6 +995,14 @@
         "website": null
       },
       {
+        "title": "Deep Support Vectors",
+        "author": "Junhoo Lee et al., NeurIPS 2024",
+        "github": null,
+        "url": "https://arxiv.org/abs/2403.17329",
+        "cite": "lee2024deep",
+        "website": "https://junhoo.me/dsv "
+      },
+      {
         "title": "Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning",
         "author": "Vyacheslav Kungurtsev et al., 2024",
         "github": null,
@@ -1060,10 +1084,18 @@
       },
       {
         "title": "Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?",
-        "author": "Trisha Mittal & Akshay Mehra et al., 2026",
+        "author": "Trisha Mittal & Akshay Mehra et al., NeurIPS 2026",
         "github": null,
         "url": "https://arxiv.org/abs/2606.18209",
         "cite": "mittal2026rethinking",
+        "website": null
+      },
+      {
+        "title": "The Composition Gap in Dataset Distillation",
+        "author": "Guang Li et al., arXiv 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2609.34343",
+        "cite": "li2026composition",
         "website": null
       }
     ],
@@ -1337,6 +1369,14 @@
         "website": null
       },
       {
+        "title": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
+        "author": "Jiacheng Cui et al., ICML 2026",
+        "github": "https://github.com/Jiacheng8/HALD ",
+        "url": "https://arxiv.org/abs/2512.15647",
+        "cite": "cui2026hard",
+        "website": null
+      },
+      {
         "title": "Condensing Large-Scale Datasets Directly with Minimal Information Loss",
         "author": "Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026",
         "github": "https://github.com/LINs-lab/CIM ",
@@ -1345,11 +1385,19 @@
         "website": null
       },
       {
-        "title": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
-        "author": "Jiacheng Cui et al., ICML 2026",
-        "github": "https://github.com/Jiacheng8/HALD ",
-        "url": "https://arxiv.org/abs/2512.15647",
-        "cite": "cui2026hard",
+        "title": "Flash-DD: An Ultra Parameter-Efficient Approach to Dataset Distillation",
+        "author": "Ruonan Yu et al., ECCV 2026",
+        "github": null,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-37086-0_30",
+        "cite": "yu2026flashdd",
+        "website": null
+      },
+      {
+        "title": "PSM: Dataset Distillation Based on Precise Statistical Matching by Difficulty",
+        "author": "Hongxu Ma & Guang Li et al., arXiv 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2609.34299",
+        "cite": "ma2026psm",
         "website": null
       }
     ],
@@ -1466,6 +1514,22 @@
         "url": "https://arxiv.org/abs/2606.29464",
         "cite": "jeong2026raha",
         "website": "https://andyj1.github.io/raha/ "
+      },
+      {
+        "title": "Fragmented Text is Insufficient for Image Representation: Fine-Grained Correspondence in Multimodal Dataset Distillation",
+        "author": "Jingwei Fang et al., ECCV 2026",
+        "github": "https://github.com/yiqiqiandefanhua/P2DE ",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-37252-9_8",
+        "cite": "fang2026fragmented",
+        "website": null
+      },
+      {
+        "title": "X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation",
+        "author": "Saumyaranjan Mohanty et al., NeurIPS 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2610.13687",
+        "cite": "mohanty2026xavdd",
+        "website": null
       }
     ],
     "self": [
@@ -1518,13 +1582,30 @@
         "website": "https://linear-gradient-matching.github.io/ "
       },
       {
+        "title": "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching",
+        "author": "Qianxin Xia et al., NeurIPS 2026",
+        "github": "https://github.com/einsteinxia/SFM ",
+        "url": "https://arxiv.org/abs/2602.05391",
+        "cite": "xia2026efficient",
+        "website": null
+      },
+      {
         "title": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
-        "author": "Bincheng Peng & Guang Li et al., 2026",
-        "github": null,
+        "author": "Bincheng Peng & Guang Li et al., NeurIPS 2026",
+        "github": "https://github.com/Guang000/CLP-DD ",
         "url": "https://arxiv.org/abs/2605.07194",
         "cite": "peng2026clpdd",
+        "website": "https://guang000.github.io/CLP-DD-Webpage/ "
+      },
+      {
+        "title": "Self-Supervised Representation-Guided Generative Dataset Distillation",
+        "author": "Mingzhuo Li & Guang Li et al., arXiv 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2608.03218",
+        "cite": "li2026selfsupervised",
         "website": null
       }
+
     ],
     "benchmark": [
       {
@@ -1559,14 +1640,7 @@
         "cite": "wu2025robust",
         "website": null
       },
-      {
-        "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
-        "author": "Zekai Li & Xinhao Zhong et al., 2025",
-        "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking",
-        "url": "https://arxiv.org/abs/2505.13300",
-        "cite": "li2025ranking",
-        "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/"
-      },
+
       {
         "title": "Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation",
         "author": "Xinhao Zhong et al., ICLR 2026",
@@ -1574,6 +1648,14 @@
         "url": "https://arxiv.org/abs/2509.19743",
         "cite": "zhong2026rd3",
         "website": null
+      },
+      {
+        "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+        "author": "Zekai Li & Xinhao Zhong et al., NeurIPS 2026",
+        "github": "https://github.com/NUS-HPC-AI-Lab/DD-Ranking ",
+        "url": "https://arxiv.org/abs/2505.13300",
+        "cite": "li2026ranking",
+        "website": "https://nus-hpc-ai-lab.github.io/DD-Ranking/ "
       }
 
     ],
@@ -1955,10 +2037,10 @@
       },
       {
         "title": "Low-Level Dataset Distillation for Medical Image Enhancemen",
-        "author": "Fengzhi Xu et al., 2025",
+        "author": "Fengzhi Xu et al., ECCV 2026",
         "github": null,
         "url": "https://arxiv.org/abs/2511.13106",
-        "cite": "xu2025low",
+        "cite": "xu2026low",
         "website": null
       },
       {
@@ -2579,12 +2661,21 @@
         "cite": "choi2026prism",
         "website": null
       },
+
       {
         "title": "Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation",
         "author": "Arth\u00e8me Gauthier-Villars & Guodong Ding et al., ECCV 2026",
         "github": null,
         "url": "https://arxiv.org/abs/2607.09081",
         "cite": "gauthier2026adaptive",
+        "website": null
+      },
+      {
+        "title": "Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending",
+        "author": "Chongle Ren & Guang Li et al., arXiv 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2608.03269",
+        "cite": "ren2026efficient",
         "website": null
       }
     ],
@@ -2939,6 +3030,14 @@
         "url": "https://arxiv.org/abs/2603.25144",
         "cite": "ma2026fd2",
         "website": null
+      },
+      {
+        "title": "DeCO: Discriminative Evidence Composition for Fine-Grained Dataset Distillation",
+        "author": "Chuixuan Fan & Guang Li et al., NeurIPS 2026 Workshop",
+        "github": null,
+        "url": "https://arxiv.org/abs/2608.25480",
+        "cite": "fan2026deco",
+        "website": null
       }
     ],
     "tta":[
@@ -2954,10 +3053,36 @@
     "segmentation": [
       {
         "title": "D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation",
-        "author": "Wenjie Zheng et al., arXiv 2026",
+        "author": "Wenjie Zheng et al., NeurIPS 2026",
         "github": null,
         "url": "https://arxiv.org/abs/2605.25022",
         "cite": "zheng2026d3s2",
+        "website": null
+      },
+      {
+        "title": "S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+        "author": "Haoyu Wang et al., NeurIPS 2026",
+        "github": "https://github.com/00why00/S2RL ",
+        "url": "https://arxiv.org/abs/2610.35491",
+        "cite": "wang2026s2rl",
+        "website": "https://00why00.github.io/S2RL/ "
+      }
+    ],
+    "motion": [
+      {
+        "title": "Latent Dataset Distillation for Human Motion Prediction",
+        "author": "Ge Tian & Guang Li et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2609.26430",
+        "cite": "tian2026latent",
+        "website": null
+      },
+      {
+        "title": "ProMoDD: Dataset Distillation for 3D Human Motion via Prototype-Conditioned Diffusion Models",
+        "author": "Yijin Wei et al., 2026",
+        "github": null,
+        "url": "https://arxiv.org/abs/2610.16134",
+        "cite": "wei2026promodd",
         "website": null
       }
     ]

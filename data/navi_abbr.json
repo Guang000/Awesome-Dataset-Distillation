@@ -60,5 +60,6 @@
   "_var": "VAR",
   "fine": "Fine-grained",
   "tta": "Test-Time Adaptation",
-  "segmentation": "Semantic Segmentation"
+  "segmentation": "Semantic Segmentation",
+  "motion": "Human Motion"
 }
