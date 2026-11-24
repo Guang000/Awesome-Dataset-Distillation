@@ -1,7 +1,7 @@
 # Awesome Dataset Distillation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-369-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-370-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -331,6 +331,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 + [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al., ECCV 2026) [:globe_with_meridians:](https://andyj1.github.io/raha/) [:octocat:](https://github.com/andyj1/raha) [:book:](./citations/jeong2026raha.txt)
 + [Fragmented Text is Insufficient for Image Representation: Fine-Grained Correspondence in Multimodal Dataset Distillation](https://link.springer.com/chapter/10.1007/978-3-032-37252-9_8) (Jingwei Fang et al., ECCV 2026) [:octocat:](https://github.com/yiqiqiandefanhua/P2DE) [:book:](./citations/fang2026fragmented.txt)
 + [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](https://arxiv.org/abs/2610.13687) (Saumyaranjan Mohanty et al., NeurIPS 2026) [:book:](./citations/mohanty2026xavdd.txt)
++ [Model Distribution-Aware Multimodal Dataset Distillation](https://arxiv.org/abs/2611.16418) (Jiajun Shen & Yonglin Wu et al., NeurIPS 2026) [:octocat:](https://github.com/Jun-Shen04-Jia/MDA-DD) [:book:](./citations/shen2026mda.txt)
 
 <a name="self" />
 
