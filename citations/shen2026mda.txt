@@ -1,0 +1,6 @@
+@inproceedings{shen2026mda,
+  title     = {Model Distribution-Aware Multimodal Dataset Distillation},
+  author    = {Shen, Jiajun and Wu, Yonglin and Yu, Ruonan and Wang, Xinchao},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
